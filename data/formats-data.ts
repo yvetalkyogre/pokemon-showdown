@@ -1148,7 +1148,7 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 		tier: "Illegal",
 	},
 	articuno: {
-		tier: "ZU",
+		tier: "RU",
 		doublesTier: "(DUU)",
 		natDexTier: "RU",
 	},
@@ -1158,7 +1158,7 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 		natDexTier: "RU",
 	},
 	zapdos: {
-		tier: "OU",
+		tier: "Uber",
 		doublesTier: "(DUU)",
 		natDexTier: "OU",
 	},
@@ -1168,7 +1168,7 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 		natDexTier: "UUBL",
 	},
 	moltres: {
-		tier: "OU",
+		tier: "Uber",
 		doublesTier: "(DUU)",
 		natDexTier: "OU",
 	},
@@ -1194,19 +1194,19 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 		natDexTier: "Uber",
 	},
 	mewtwomegax: {
-		isNonstandard: "Past",
-		tier: "Illegal",
-		natDexTier: "Uber",
+		tier: "AG",
+		doublesTier: "DUber",
+		natDexTier: "AG",
 	},
 	mewtwomegay: {
-		isNonstandard: "Past",
-		tier: "Illegal",
-		natDexTier: "Uber",
+		tier: "AG",
+		doublesTier: "DUber",
+		natDexTier: "AG",
 	},
 	mew: {
-		tier: "UU",
-		doublesTier: "DUU",
-		natDexTier: "RUBL",
+		tier: "UUBL",
+		doublesTier: "DOU",
+		natDexTier: "UUBL",
 	},
 	chikorita: {
 		tier: "LC",
@@ -1636,19 +1636,19 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 		natDexTier: "RU",
 	},
 	raikou: {
-		tier: "NU",
+		tier: "UU",
 		doublesTier: "(DUU)",
-		natDexTier: "RU",
+		natDexTier: "RUBL",
 	},
 	entei: {
-		tier: "RU",
+		tier: "UUBL",
 		doublesTier: "(DUU)",
-		natDexTier: "RU",
+		natDexTier: "UU",
 	},
 	suicune: {
-		tier: "RU",
-		doublesTier: "(DUU)",
-		natDexTier: "RU",
+		tier: "OU",
+		doublesTier: "(DOU)",
+		natDexTier: "OU",
 	},
 	larvitar: {
 		tier: "LC",
@@ -1672,14 +1672,14 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 		natDexTier: "Uber",
 	},
 	hooh: {
-		tier: "Uber",
-		doublesTier: "DUber",
-		natDexTier: "Uber",
+		tier: "ZU",
+		doublesTier: "DUU",
+		natDexTier: "ZU",
 	},
 	celebi: {
-		isNonstandard: "Past",
-		tier: "Illegal",
-		natDexTier: "RU",
+		tier: "UU",
+		doublesTier: "DUU",
+		natDexTier: "RUBL",
 	},
 	treecko: {
 		tier: "LC",
@@ -2366,93 +2366,93 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 		natDexTier: "Uber",
 	},
 	regirock: {
-		tier: "ZU",
+		tier: "RUBL",
 		doublesTier: "(DUU)",
 		natDexTier: "RU",
 	},
 	regice: {
-		tier: "ZU",
+		tier: "RU",
 		doublesTier: "(DUU)",
 		natDexTier: "RU",
 	},
 	registeel: {
-		tier: "NU",
+		tier: "RUBL",
 		doublesTier: "(DUU)",
 		natDexTier: "RU",
 	},
 	latias: {
-		tier: "UUBL",
+		tier: "RU",
 		doublesTier: "(DUU)",
 		natDexTier: "RU",
 	},
 	latiasmega: {
-		isNonstandard: "Past",
-		tier: "Illegal",
-		natDexTier: "UU",
-	},
-	latios: {
-		tier: "UU",
-		doublesTier: "(DUU)",
-		natDexTier: "UUBL",
-	},
-	latiosmega: {
-		isNonstandard: "Past",
-		tier: "Illegal",
-		natDexTier: "UUBL",
-	},
-	kyogre: {
-		tier: "Uber",
-		doublesTier: "DUber",
-		natDexTier: "Uber",
-	},
-	kyogreprimal: {
-		isNonstandard: "Past",
-		tier: "Illegal",
-		natDexTier: "Uber",
-	},
-	groudon: {
-		tier: "Uber",
-		doublesTier: "DUber",
-		natDexTier: "Uber",
-	},
-	groudonprimal: {
-		isNonstandard: "Past",
-		tier: "Illegal",
-		natDexTier: "Uber",
-	},
-	rayquaza: {
-		tier: "Uber",
-		doublesTier: "DUber",
-		natDexTier: "Uber",
-	},
-	rayquazamega: {
-		isNonstandard: "Past",
-		tier: "Illegal",
-		natDexTier: "AG",
-	},
-	jirachi: {
-		tier: "RU",
+		tier: "RUBL",
 		doublesTier: "(DUU)",
 		natDexTier: "RUBL",
 	},
-	deoxys: {
+	latios: {
 		tier: "Uber",
-		doublesTier: "DUU",
+		doublesTier: "(DUber)",
 		natDexTier: "Uber",
 	},
-	deoxysattack: {
+	latiosmega: {
+		tier: "AG",
+		doublesTier: "(DUber)",
+		natDexTier: "AG",
+	},
+	kyogre: {
+		tier: "AG",
+		doublesTier: "DUber",
+		natDexTier: "AG",
+	},
+	kyogreprimal: {
+		tier: "AG",
+		doublesTier: "DUber",
+		natDexTier: "AG",
+	},
+	groudon: {
+		tier: "RU",
+		doublesTier: "DUU",
+		natDexTier: "RU",
+	},
+	groudonprimal: {
+		tier: "UUBL",
+		doublesTier: "DOU",
+		natDexTier: "UUBL",
+	},
+	rayquaza: {
+		tier: "RUBL",
+		doublesTier: "DUU",
+		natDexTier: "RU",
+	},
+	rayquazamega: {
+		tier: "Uber",
+		doublesTier: "DUber",
+		natDexTier: "Uber"
+	},
+	jirachi: {
 		tier: "Uber",
 		doublesTier: "DUber",
 		natDexTier: "Uber",
 	},
+	deoxys: {
+		tier: "Uber",
+		doublesTier: "DUber",
+		natDexTier: "Uber",
+	},
+	deoxysattack: {
+		tier: "AG",
+		doublesTier: "DUber",
+		natDexTier: "AG",
+	},
 	deoxysdefense: {
-		tier: "NUBL",
-		doublesTier: "(DUU)",
-		natDexTier: "RU",
+		tier: "AG",
+		doublesTier: "DUber",
+		natDexTier: "AG",
 	},
 	deoxysspeed: {
-		tier: "UU",
-		doublesTier: "(DUU)",
+		tier: "Uber",
+		doublesTier: "(DUber)",
 		natDexTier: "Uber",
 	},
 	turtwig: {
@@ -3715,13 +3715,19 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 		tier: "NFE",
 	},
 	greninja: {
-		tier: "UU",
-		doublesTier: "(DUU)",
-		natDexTier: "UUBL",
+		tier: "Uber",
+		doublesTier: "DUber",
+		natDexTier: "Uber",
+	},
+	greninjabond: {
+		tier: "Uber",
+		doublesTier: "DUber",
+		natDexTier: "Uber",
 	},
 	greninjaash: {
-		isNonstandard: "Past",
-		tier: "Illegal",
+		tier: "Uber",
+		doublesTier: "DUber",
+		natDexTier: "Uber",
 	},
 	bunnelby: {
 		isNonstandard: "Past",

@@ -568,22 +568,43 @@ export const Items: import('../sim/dex-items').ItemDataTable = {
 	blueorb: {
 		name: "Blue Orb",
 		spritenum: 41,
-		onSwitchIn(pokemon) {
-			if (pokemon.isActive && pokemon.baseSpecies.name === 'Kyogre') {
-				this.queue.insertChoice({choice: 'runPrimal', pokemon: pokemon});
-			}
-		},
-		onPrimal(pokemon) {
-			pokemon.formeChange('Kyogre-Primal', this.effect, true);
-		},
 		onTakeItem(item, source) {
 			if (source.baseSpecies.baseSpecies === 'Kyogre') return false;
 			return true;
 		},
+		onModifySpDPriority: 10,
+		onModifySpD(spd, pokemon) {
+			if (pokemon.baseSpecies.name === 'Kyogre' || pokemon.baseSpecies.name === 'Kyogre-Primal') {
+				return this.chainModify(10);
+			}
+		},
+		onModifyAtkPriority: 10,
+		onModifyAtk(atk, pokemon) {
+			if (pokemon.baseSpecies.name === 'Kyogre' || pokemon.baseSpecies.name === 'Kyogre-Primal') {
+				return this.chainModify(10);
+			}
+		},
+		onModifySpAPriority: 10,
+		onModifySpA(spa, pokemon) {
+			if (pokemon.baseSpecies.name === 'Kyogre' || pokemon.baseSpecies.name === 'Kyogre-Primal') {
+				return this.chainModify(10);
+			}
+		},
+		onModifySpePriority: 10,
+		onModifySpe(spe, pokemon) {
+			if (pokemon.baseSpecies.name === 'Kyogre' || pokemon.baseSpecies.name === 'Kyogre-Primal') {
+				return this.chainModify(10);
+			}
+		},
+		onModifyDefPriority: 10,
+		onModifyDef(def, pokemon) {
+			if (pokemon.baseSpecies.name === 'Kyogre' || pokemon.baseSpecies.name === 'Kyogre-Primal') {
+				return this.chainModify(10);
+			}
+		},
 		itemUser: ["Kyogre"],
 		num: 535,
 		gen: 6,
-		isNonstandard: "Past",
 	},
 	blukberry: {
 		name: "Bluk Berry",
@@ -3698,9 +3719,38 @@ export const Items: import('../sim/dex-items').ItemDataTable = {
 			if (item.megaEvolves === source.baseSpecies.baseSpecies) return false;
 			return true;
 		},
+		onModifyAtkPriority: 1,
+		onModifyAtk(atk, pokemon) {
+			if (pokemon.baseSpecies.name === 'Mewtwo-Mega-X') {
+				return this.chainModify(1.5);
+			}
+		},
+		onModifySpAPriority: 1,
+		onModifySpA(spa, pokemon) {
+			if (pokemon.baseSpecies.name === 'Mewtwo-Mega-X') {
+				return this.chainModify(1.5);
+			}
+		},
+		onModifyDefPriority: 1,		
+		onModifyDef(def, pokemon) {
+			if (pokemon.baseSpecies.name === 'Mewtwo-Mega-X') {
+				return this.chainModify(1.5);
+			}
+		},	
+		onModifySpePriority: 1,
+		onModifySpe(spe, pokemon) {
+			if (pokemon.baseSpecies.name === 'Mewtwo-Mega-X') {
+				return this.chainModify(1.5);
+			}
+		},
+		onModifySpDPriority: 1,		
+		onModifySpD(spd, pokemon) {
+			if (pokemon.baseSpecies.name === 'Mewtwo-Mega-X') {
+				return this.chainModify(1.5);
+			}
+		},		
 		num: 662,
 		gen: 6,
-		isNonstandard: "Past",
 	},
 	mewtwonitey: {
 		name: "Mewtwonite Y",
@@ -3712,9 +3762,38 @@ export const Items: import('../sim/dex-items').ItemDataTable = {
 			if (item.megaEvolves === source.baseSpecies.baseSpecies) return false;
 			return true;
 		},
+		onModifyAtkPriority: 1,
+		onModifyAtk(atk, pokemon) {
+			if (pokemon.baseSpecies.name === 'Mewtwo-Mega-Y') {
+				return this.chainModify(1.5);
+			}
+		},
+		onModifySpAPriority: 1,
+		onModifySpA(spa, pokemon) {
+			if (pokemon.baseSpecies.name === 'Mewtwo-Mega-Y') {
+				return this.chainModify(1.5);
+			}
+		},
+		onModifyDefPriority: 1,		
+		onModifyDef(def, pokemon) {
+			if (pokemon.baseSpecies.name === 'Mewtwo-Mega-Y') {
+				return this.chainModify(1.5);
+			}
+		},	
+		onModifySpePriority: 1,
+		onModifySpe(spe, pokemon) {
+			if (pokemon.baseSpecies.name === 'Mewtwo-Mega-Y') {
+				return this.chainModify(1.5);
+			}
+		},
+		onModifySpDPriority: 1,		
+		onModifySpD(spd, pokemon) {
+			if (pokemon.baseSpecies.name === 'Mewtwo-Mega-Y') {
+				return this.chainModify(1.5);
+			}
+		},		
 		num: 663,
 		gen: 6,
-		isNonstandard: "Past",
 	},
 	micleberry: {
 		name: "Micle Berry",
@@ -4752,6 +4831,18 @@ export const Items: import('../sim/dex-items').ItemDataTable = {
 				this.queue.insertChoice({choice: 'runPrimal', pokemon: pokemon});
 			}
 		},
+		onModifySpAPriority: 1.5,		
+		onModifySpA(spa, pokemon) {
+			if (pokemon.baseSpecies.name === 'Groudon-Primal') {
+				return this.chainModify(1.5);
+			}
+		},
+		onModifyAtkPriority: 1.5,		
+		onModifyAtk(atk, pokemon) {
+			if (pokemon.baseSpecies.name === 'Groudon-Primal') {
+				return this.chainModify(1.5);
+			}
+		},
 		onPrimal(pokemon) {
 			pokemon.formeChange('Groudon-Primal', this.effect, true);
 		},
@@ -4762,7 +4853,6 @@ export const Items: import('../sim/dex-items').ItemDataTable = {
 		itemUser: ["Groudon"],
 		num: 534,
 		gen: 6,
-		isNonstandard: "Past",
 	},
 	repeatball: {
 		name: "Repeat Ball",
