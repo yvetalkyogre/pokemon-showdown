@@ -526,7 +526,7 @@ export class TeamValidator {
 				tierSpecies = dex.species.get(item.megaStone);
 			} else if (item.id === 'redorb' && species.id === 'groudon') {
 				tierSpecies = dex.species.get('Groudon-Primal');
-			} else if (item.id === 'blueorb' && species.id === 'kyogre') {
+			} else if ((ability.id === 'beastboost' || ability.id === 'primordialsea') && species.id === 'kyogre') {
 				tierSpecies = dex.species.get('Kyogre-Primal');
 			} else if (canMegaEvo && species.id === 'rayquaza' && set.moves.map(toID).includes('dragonascent' as ID) &&
 					!ruleTable.has('megarayquazaclause')) {
@@ -1568,9 +1568,11 @@ export class TeamValidator {
 			set.species = 'Terapagos';
 			set.ability = 'Tera Shift';
 		} else if (species.battleOnly) {
-			if (species.requiredAbility && set.ability !== species.requiredAbility) {
-				// Darmanitan-Zen
-				problems.push(`${species.name} transforms in-battle with ${species.requiredAbility}, please fix its ability.`);
+			if (species.requiredAbility) {
+				if (!species.requiredAbility.includes(set.ability)) {
+					// Darmanitan-Zen
+					problems.push(`${species.name} transforms in-battle with ${species.requiredAbility}, please fix its ability.`);
+				}
 			}
 			if (species.requiredItems) {
 				if (!species.requiredItems.includes(item.name)) {
