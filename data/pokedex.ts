@@ -11639,7 +11639,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		num: 658,
 		name: "Greninja",
 		types: ["Water", "Dark"],
-		genderRatio: "M",
+		gender: "M",
 		baseStats: {hp: 140, atk: 225, def: 205, spa: 205, spd: 205, spe: 0},
 		abilities: {0: "Battle Bond"},
 		heightm: 2.0,
