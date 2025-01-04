@@ -148,13 +148,13 @@ export const AbilitiesText: {[id: IDEntry]: AbilityText} = {
 	},
 	battlebond: {
 		name: "Battle Bond",
-		desc: "If this Pokemon is a Greninja, its Attack, Special Attack, and Speed are raised by 1 stage if it attacks and knocks out another Pokemon. This effect can only happen once per battle.",
-		shortDesc: "After KOing a Pokemon: raises Attack, Sp. Atk, Speed by 1 stage. Once per battle.",
+		desc: "If the User is Greninja, He Transforms into Ash Greninja if he knocks out another opponent and his water shuriken hits 3 times always with base power of 20",
+		shortDesc: "After KOing a Pokemon: becomes Ash-Greninja, Water Shuriken: 20 power, hits 3x.",
 		gen8: {
-			desc: "If this Pokemon is a Greninja, it transforms into Ash-Greninja if it attacks and knocks out another Pokemon. If this Pokemon is an Ash-Greninja, its Water Shuriken has 20 power and always hits three times.",
+			desc: "If the User is Greninja, He Transforms into Ash Greninja if he knocks out another opponent and his water shuriken hits 3 times always with base power of 20",
 			shortDesc: "After KOing a Pokemon: becomes Ash-Greninja, Water Shuriken: 20 power, hits 3x.",
 		},
-		activate: "  [POKEMON] became fully charged due to its bond with its Trainer!",
+		activate: "  [POKEMON] became fully charged due to his supreme Genetics!",
 		transform: "[POKEMON] became Ash-Greninja!",
 	},
 	beadsofruin: {

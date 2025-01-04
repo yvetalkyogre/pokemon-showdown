@@ -167,7 +167,7 @@ export const ItemsText: {[id: IDEntry]: ItemText} = {
 	},
 	blueorb: {
 		name: "Blue Orb",
-		shortDesc: "If held by a Kyogre, this item triggers its Primal Reversion in battle.",
+		shortDesc: "If the Blue Orb is held by Kyogre, then all of Kyogre's stats is boosted 10 times getting X% closer to his true power (X is infinitely small)",
 	},
 	blukberry: {
 		name: "Bluk Berry",
@@ -1080,7 +1080,7 @@ export const ItemsText: {[id: IDEntry]: ItemText} = {
 	},
 	maliciousarmor: {
 		name: "Malicious Armor",
-		shortDesc: "Evolves Charcadet into Ceruledge when used.",
+		shortDesc: "If held by Yveltal, The God of Evil, His stats get boosted 10 times more, Making him 0% closer to his true Power but still will obliterate you all!",
 	},
 	manectite: {
 		name: "Manectite",
@@ -1158,11 +1158,11 @@ export const ItemsText: {[id: IDEntry]: ItemText} = {
 	},
 	mewtwonitex: {
 		name: "Mewtwonite X",
-		shortDesc: "If held by a Mewtwo, this item allows it to Mega Evolve in battle.",
+		shortDesc: "If held by Mewtwo, this item allows him to mega evolve in Battle and get all his (non-HP) stats boosted by 1.5.",
 	},
 	mewtwonitey: {
 		name: "Mewtwonite Y",
-		shortDesc: "If held by a Mewtwo, this item allows it to Mega Evolve in battle.",
+		shortDesc: "If held by Mewtwo, this item allows him to mega evolve in battle and get all his (non-HP) stats boosted by 1.5.",
 	},
 	micleberry: {
 		name: "Micle Berry",
@@ -1487,7 +1487,7 @@ export const ItemsText: {[id: IDEntry]: ItemText} = {
 	},
 	redorb: {
 		name: "Red Orb",
-		shortDesc: "If held by a Groudon, this item triggers its Primal Reversion in battle.",
+		shortDesc: "If held by Groudon, his enabled him to turn into Primal-Groudon with a 1.5 times boost in Atk and SpA.",
 	},
 	repeatball: {
 		name: "Repeat Ball",
@@ -2301,8 +2301,8 @@ export const ItemsText: {[id: IDEntry]: ItemText} = {
 	},
 	waterstone: {
 		name: "Water Stone",
-		desc: "Evolves Poliwhirl into Poliwrath, Shellder into Cloyster, Staryu into Starmie, Eevee into Vaporeon, Lombre into Ludicolo, and Panpour into Simipour when used.",
-		shortDesc: "Evolves certain species of Pokemon when used.",
+		desc: "A Stone if Held by Greninja, then he will turn into Ash-Greninja and get his Atk, Def, SpD, Spe boosted by 1.5!",
+		shortDesc: "A Stone if Held by Greninja, then he will turn into Ash-Greninja and get his Atk, Def, SpD, Spe boosted by 1.5!",
 	},
 	wateriumz: {
 		name: "Waterium Z",
