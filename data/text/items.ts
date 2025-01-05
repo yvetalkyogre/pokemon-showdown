@@ -386,7 +386,7 @@ export const ItemsText: {[id: IDEntry]: ItemText} = {
 	},
 	dracoplate: {
 		name: "Draco Plate",
-		shortDesc: "Holder's Dragon-type attacks have 1.2x power. Judgment is Dragon type.",
+		shortDesc: "Holder's Dragon-type attacks have 1.2x power. If Held by Arceus, his stats is boosted by 10 making him 0% closer to his true power but enough to OHKO you mortals in this game. Judgment is Dragon type.",
 	},
 	dragonfang: {
 		name: "Dragon Fang",
@@ -422,7 +422,7 @@ export const ItemsText: {[id: IDEntry]: ItemText} = {
 	},
 	dreadplate: {
 		name: "Dread Plate",
-		shortDesc: "Holder's Dark-type attacks have 1.2x power. Judgment is Dark type.",
+		shortDesc: "Holder's Dark-type attacks have 1.2x power. If Held by Arceus, his stats is boosted by 10 making him 0% closer to his true power but enough to OHKO you mortals in this game. Judgment is Dark type.",
 	},
 	dreamball: {
 		name: "Dream Ball",
@@ -450,7 +450,7 @@ export const ItemsText: {[id: IDEntry]: ItemText} = {
 	},
 	earthplate: {
 		name: "Earth Plate",
-		shortDesc: "Holder's Ground-type attacks have 1.2x power. Judgment is Ground type.",
+		shortDesc: "Holder's Ground-type attacks have 1.2x power. If Held by Arceus, his stats is boosted by 10 making him 0% closer to his true power but enough to OHKO you mortals in this game. Judgment is Ground type.",
 	},
 	eeviumz: {
 		name: "Eevium Z",
@@ -573,7 +573,7 @@ export const ItemsText: {[id: IDEntry]: ItemText} = {
 	},
 	fistplate: {
 		name: "Fist Plate",
-		shortDesc: "Holder's Fighting-type attacks have 1.2x power. Judgment is Fighting type.",
+		shortDesc: "Holder's Fighting-type attacks have 1.2x power. If Held by Arceus, his stats is boosted by 10 making him 0% closer to his true power but enough to OHKO you mortals in this game. Judgment is Fighting type.",
 	},
 	flameorb: {
 		name: "Flame Orb",
@@ -581,7 +581,7 @@ export const ItemsText: {[id: IDEntry]: ItemText} = {
 	},
 	flameplate: {
 		name: "Flame Plate",
-		shortDesc: "Holder's Fire-type attacks have 1.2x power. Judgment is Fire type.",
+		shortDesc: "Holder's Fire-type attacks have 1.2x power. If Held by Arceus, his stats is boosted by 10 making him 0% closer to his true power but enough to OHKO you mortals in this game. Judgment is Fire type.",
 	},
 	floatstone: {
 		name: "Float Stone",
@@ -838,7 +838,7 @@ export const ItemsText: {[id: IDEntry]: ItemText} = {
 	},
 	icicleplate: {
 		name: "Icicle Plate",
-		shortDesc: "Holder's Ice-type attacks have 1.2x power. Judgment is Ice type.",
+		shortDesc: "Holder's Ice-type attacks have 1.2x power. If Held by Arceus, his stats is boosted by 10 making him 0% closer to his true power but enough to OHKO you mortals in this game. Judgment is Ice type.",
 	},
 	iciumz: {
 		name: "Icium Z",
@@ -857,7 +857,7 @@ export const ItemsText: {[id: IDEntry]: ItemText} = {
 	},
 	insectplate: {
 		name: "Insect Plate",
-		shortDesc: "Holder's Bug-type attacks have 1.2x power. Judgment is Bug type.",
+		shortDesc: "Holder's Bug-type attacks have 1.2x power. If Held by Arceus, his stats is boosted by 10 making him 0% closer to his true power but enough to OHKO you mortals in this game. Judgment is Bug type.",
 	},
 	ironball: {
 		name: "Iron Ball",
@@ -868,7 +868,7 @@ export const ItemsText: {[id: IDEntry]: ItemText} = {
 	},
 	ironplate: {
 		name: "Iron Plate",
-		shortDesc: "Holder's Steel-type attacks have 1.2x power. Judgment is Steel type.",
+		shortDesc: "Holder's Steel-type attacks have 1.2x power. If Held by Arceus, his stats is boosted by 10 making him 0% closer to his true power but enough to OHKO you mortals in this game. Judgment is Steel type.",
 	},
 	jabocaberry: {
 		name: "Jaboca Berry",
@@ -1108,7 +1108,7 @@ export const ItemsText: {[id: IDEntry]: ItemText} = {
 	},
 	meadowplate: {
 		name: "Meadow Plate",
-		shortDesc: "Holder's Grass-type attacks have 1.2x power. Judgment is Grass type.",
+		shortDesc: "Holder's Grass-type attacks have 1.2x power. If Held by Arceus, his stats is boosted by 10 making him 0% closer to his true power but enough to OHKO you mortals in this game. Judgment is Grass type.",
 	},
 	medichamite: {
 		name: "Medichamite",
@@ -1174,7 +1174,7 @@ export const ItemsText: {[id: IDEntry]: ItemText} = {
 	},
 	mindplate: {
 		name: "Mind Plate",
-		shortDesc: "Holder's Psychic-type attacks have 1.2x power. Judgment is Psychic type.",
+		shortDesc: "Holder's Psychic-type attacks have 1.2x power. If Held by Arceus, his stats is boosted by 10 making him 0% closer to his true power but enough to OHKO you mortals in this game. Judgment is Psychic type.",
 	},
 	miracleseed: {
 		name: "Miracle Seed",
@@ -1317,7 +1317,7 @@ export const ItemsText: {[id: IDEntry]: ItemText} = {
 	},
 	pixieplate: {
 		name: "Pixie Plate",
-		shortDesc: "Holder's Fairy-type attacks have 1.2x power. Judgment is Fairy type.",
+		shortDesc: "Holder's Fairy-type attacks have 1.2x power. If Held by Arceus, his stats is boosted by 10 making him 0% closer to his true power but enough to OHKO you mortals in this game. Judgment is Fairy type.",
 	},
 	plumefossil: {
 		name: "Plume Fossil",
@@ -1668,7 +1668,7 @@ export const ItemsText: {[id: IDEntry]: ItemText} = {
 	},
 	skyplate: {
 		name: "Sky Plate",
-		shortDesc: "Holder's Flying-type attacks have 1.2x power. Judgment is Flying type.",
+		shortDesc: "Holder's Flying-type attacks have 1.2x power. If Held by Arceus, his stats is boosted by 10 making him 0% closer to his true power but enough to OHKO you mortals in this game. Judgment is Flying type.",
 	},
 	slowbronite: {
 		name: "Slowbronite",
@@ -1699,9 +1699,9 @@ export const ItemsText: {[id: IDEntry]: ItemText} = {
 	},
 	souldew: {
 		name: "Soul Dew",
-		shortDesc: "If held by a Latias/Latios, its Dragon- and Psychic-type moves have 1.2x power.",
+		shortDesc: "If held by Latios, his Dragon- and Water-type moves have 1.2x power.",
 		gen6: {
-			shortDesc: "If held by a Latias or a Latios, its Sp. Atk and Sp. Def are 1.5x.",
+			shortDesc: "If held by Latios, his Sp. Atk and Sp. Def are 1.5x.",
 		},
 	},
 	spelltag: {
@@ -1717,11 +1717,11 @@ export const ItemsText: {[id: IDEntry]: ItemText} = {
 	},
 	splashplate: {
 		name: "Splash Plate",
-		shortDesc: "Holder's Water-type attacks have 1.2x power. Judgment is Water type.",
+		shortDesc: "Holder's Water-type attacks have 1.2x power. If Held by Arceus, his stats is boosted by 10 making him 0% closer to his true power but enough to OHKO you mortals in this game. Judgment is Water type.",
 	},
 	spookyplate: {
 		name: "Spooky Plate",
-		shortDesc: "Holder's Ghost-type attacks have 1.2x power. Judgment is Ghost type.",
+		shortDesc: "Holder's Ghost-type attacks have 1.2x power. If Held by Arceus, his stats is boosted by 10 making him 0% closer to his true power but enough to OHKO you mortals in this game. Judgment is Ghost type.",
 	},
 	sportball: {
 		name: "Sport Ball",
@@ -1767,7 +1767,7 @@ export const ItemsText: {[id: IDEntry]: ItemText} = {
 	},
 	stoneplate: {
 		name: "Stone Plate",
-		shortDesc: "Holder's Rock-type attacks have 1.2x power. Judgment is Rock type.",
+		shortDesc: "Holder's Rock-type attacks have 1.2x power. If Held by Arceus, his stats is boosted by 10 making him 0% closer to his true power but enough to OHKO you mortals in this game. Judgment is Rock type.",
 	},
 	strangeball: {
 		name: "Strange Ball",
@@ -1840,7 +1840,7 @@ export const ItemsText: {[id: IDEntry]: ItemText} = {
 	},
 	toxicplate: {
 		name: "Toxic Plate",
-		shortDesc: "Holder's Poison-type attacks have 1.2x power. Judgment is Poison type.",
+		shortDesc: "Holder's Poison-type attacks have 1.2x power. If Held by Arceus, his stats is boosted by 10 making him 0% closer to his true power but enough to OHKO you mortals in this game. Judgment is Poison type.",
 	},
 	tr00: {
 		name: "TR00",
@@ -2362,7 +2362,7 @@ export const ItemsText: {[id: IDEntry]: ItemText} = {
 	},
 	zapplate: {
 		name: "Zap Plate",
-		shortDesc: "Holder's Electric-type attacks have 1.2x power. Judgment is Electric type.",
+		shortDesc: "Holder's Electric-type attacks have 1.2x power. If Held by Arceus, his stats is boosted by 10 making him 0% closer to his true power but enough to OHKO you mortals in this game. Judgment is Electric type.",
 	},
 	zoomlens: {
 		name: "Zoom Lens",
