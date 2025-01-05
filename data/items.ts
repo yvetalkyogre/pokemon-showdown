@@ -1395,6 +1395,36 @@ export const Items: import('../sim/dex-items').ItemDataTable = {
 			}
 			return true;
 		},
+		onModifySpDPriority: 10,
+		onModifySpD(spd, pokemon) {
+			if (pokemon.baseSpecies.num === 493) {
+				return this.chainModify(10);
+			}
+		},
+		onModifyAtkPriority: 10,
+		onModifyAtk(atk, pokemon) {
+			if (pokemon.baseSpecies.num === 493) {
+				return this.chainModify(10);
+			}
+		},
+		onModifySpAPriority: 10,
+		onModifySpA(spa, pokemon) {
+			if (pokemon.baseSpecies.num === 493) {
+				return this.chainModify(10);
+			}
+		},
+		onModifySpePriority: 10,
+		onModifySpe(spe, pokemon) {
+			if (pokemon.baseSpecies.num === 493) {
+				return this.chainModify(10);
+			}
+		},
+		onModifyDefPriority: 10,
+		onModifyDef(def, pokemon) {
+			if (pokemon.baseSpecies.num === 493) {
+				return this.chainModify(10);
+			}
+		},
 		forcedForme: "Arceus-Dragon",
 		num: 311,
 		gen: 4,
@@ -1481,6 +1511,36 @@ export const Items: import('../sim/dex-items').ItemDataTable = {
 			}
 			return true;
 		},
+		onModifySpDPriority: 10,
+		onModifySpD(spd, pokemon) {
+			if (pokemon.baseSpecies.num === 493) {
+				return this.chainModify(10);
+			}
+		},
+		onModifyAtkPriority: 10,
+		onModifyAtk(atk, pokemon) {
+			if (pokemon.baseSpecies.num === 493) {
+				return this.chainModify(10);
+			}
+		},
+		onModifySpAPriority: 10,
+		onModifySpA(spa, pokemon) {
+			if (pokemon.baseSpecies.num === 493) {
+				return this.chainModify(10);
+			}
+		},
+		onModifySpePriority: 10,
+		onModifySpe(spe, pokemon) {
+			if (pokemon.baseSpecies.num === 493) {
+				return this.chainModify(10);
+			}
+		},
+		onModifyDefPriority: 10,
+		onModifyDef(def, pokemon) {
+			if (pokemon.baseSpecies.num === 493) {
+				return this.chainModify(10);
+			}
+		},
 		forcedForme: "Arceus-Dark",
 		num: 312,
 		gen: 4,
@@ -1545,6 +1605,36 @@ export const Items: import('../sim/dex-items').ItemDataTable = {
 				return false;
 			}
 			return true;
+		},
+		onModifySpDPriority: 10,
+		onModifySpD(spd, pokemon) {
+			if (pokemon.baseSpecies.num === 493) {
+				return this.chainModify(10);
+			}
+		},
+		onModifyAtkPriority: 10,
+		onModifyAtk(atk, pokemon) {
+			if (pokemon.baseSpecies.num === 493) {
+				return this.chainModify(10);
+			}
+		},
+		onModifySpAPriority: 10,
+		onModifySpA(spa, pokemon) {
+			if (pokemon.baseSpecies.num === 493) {
+				return this.chainModify(10);
+			}
+		},
+		onModifySpePriority: 10,
+		onModifySpe(spe, pokemon) {
+			if (pokemon.baseSpecies.num === 493) {
+				return this.chainModify(10);
+			}
+		},
+		onModifyDefPriority: 10,
+		onModifyDef(def, pokemon) {
+			if (pokemon.baseSpecies.num === 493) {
+				return this.chainModify(10);
+			}
 		},
 		forcedForme: "Arceus-Ground",
 		num: 305,
@@ -1944,6 +2034,36 @@ export const Items: import('../sim/dex-items').ItemDataTable = {
 			}
 			return true;
 		},
+		onModifySpDPriority: 10,
+		onModifySpD(spd, pokemon) {
+			if (pokemon.baseSpecies.num === 493) {
+				return this.chainModify(10);
+			}
+		},
+		onModifyAtkPriority: 10,
+		onModifyAtk(atk, pokemon) {
+			if (pokemon.baseSpecies.num === 493) {
+				return this.chainModify(10);
+			}
+		},
+		onModifySpAPriority: 10,
+		onModifySpA(spa, pokemon) {
+			if (pokemon.baseSpecies.num === 493) {
+				return this.chainModify(10);
+			}
+		},
+		onModifySpePriority: 10,
+		onModifySpe(spe, pokemon) {
+			if (pokemon.baseSpecies.num === 493) {
+				return this.chainModify(10);
+			}
+		},
+		onModifyDefPriority: 10,
+		onModifyDef(def, pokemon) {
+			if (pokemon.baseSpecies.num === 493) {
+				return this.chainModify(10);
+			}
+		},
 		forcedForme: "Arceus-Fighting",
 		num: 303,
 		gen: 4,
@@ -1978,6 +2098,36 @@ export const Items: import('../sim/dex-items').ItemDataTable = {
 				return false;
 			}
 			return true;
+		},
+		onModifySpDPriority: 10,
+		onModifySpD(spd, pokemon) {
+			if (pokemon.baseSpecies.num === 493) {
+				return this.chainModify(10);
+			}
+		},
+		onModifyAtkPriority: 10,
+		onModifyAtk(atk, pokemon) {
+			if (pokemon.baseSpecies.num === 493) {
+				return this.chainModify(10);
+			}
+		},
+		onModifySpAPriority: 10,
+		onModifySpA(spa, pokemon) {
+			if (pokemon.baseSpecies.num === 493) {
+				return this.chainModify(10);
+			}
+		},
+		onModifySpePriority: 10,
+		onModifySpe(spe, pokemon) {
+			if (pokemon.baseSpecies.num === 493) {
+				return this.chainModify(10);
+			}
+		},
+		onModifyDefPriority: 10,
+		onModifyDef(def, pokemon) {
+			if (pokemon.baseSpecies.num === 493) {
+				return this.chainModify(10);
+			}
 		},
 		forcedForme: "Arceus-Fire",
 		num: 298,
@@ -2705,6 +2855,36 @@ export const Items: import('../sim/dex-items').ItemDataTable = {
 			}
 			return true;
 		},
+		onModifySpDPriority: 10,
+		onModifySpD(spd, pokemon) {
+			if (pokemon.baseSpecies.num === 493) {
+				return this.chainModify(10);
+			}
+		},
+		onModifyAtkPriority: 10,
+		onModifyAtk(atk, pokemon) {
+			if (pokemon.baseSpecies.num === 493) {
+				return this.chainModify(10);
+			}
+		},
+		onModifySpAPriority: 10,
+		onModifySpA(spa, pokemon) {
+			if (pokemon.baseSpecies.num === 493) {
+				return this.chainModify(10);
+			}
+		},
+		onModifySpePriority: 10,
+		onModifySpe(spe, pokemon) {
+			if (pokemon.baseSpecies.num === 493) {
+				return this.chainModify(10);
+			}
+		},
+		onModifyDefPriority: 10,
+		onModifyDef(def, pokemon) {
+			if (pokemon.baseSpecies.num === 493) {
+				return this.chainModify(10);
+			}
+		},
 		forcedForme: "Arceus-Ice",
 		num: 302,
 		gen: 4,
@@ -2757,6 +2937,36 @@ export const Items: import('../sim/dex-items').ItemDataTable = {
 			}
 			return true;
 		},
+		onModifySpDPriority: 10,
+		onModifySpD(spd, pokemon) {
+			if (pokemon.baseSpecies.num === 493) {
+				return this.chainModify(10);
+			}
+		},
+		onModifyAtkPriority: 10,
+		onModifyAtk(atk, pokemon) {
+			if (pokemon.baseSpecies.num === 493) {
+				return this.chainModify(10);
+			}
+		},
+		onModifySpAPriority: 10,
+		onModifySpA(spa, pokemon) {
+			if (pokemon.baseSpecies.num === 493) {
+				return this.chainModify(10);
+			}
+		},
+		onModifySpePriority: 10,
+		onModifySpe(spe, pokemon) {
+			if (pokemon.baseSpecies.num === 493) {
+				return this.chainModify(10);
+			}
+		},
+		onModifyDefPriority: 10,
+		onModifyDef(def, pokemon) {
+			if (pokemon.baseSpecies.num === 493) {
+				return this.chainModify(10);
+			}
+		},
 		forcedForme: "Arceus-Bug",
 		num: 308,
 		gen: 4,
@@ -2794,6 +3004,36 @@ export const Items: import('../sim/dex-items').ItemDataTable = {
 				return false;
 			}
 			return true;
+		},
+		onModifySpDPriority: 10,
+		onModifySpD(spd, pokemon) {
+			if (pokemon.baseSpecies.num === 493) {
+				return this.chainModify(10);
+			}
+		},
+		onModifyAtkPriority: 10,
+		onModifyAtk(atk, pokemon) {
+			if (pokemon.baseSpecies.num === 493) {
+				return this.chainModify(10);
+			}
+		},
+		onModifySpAPriority: 10,
+		onModifySpA(spa, pokemon) {
+			if (pokemon.baseSpecies.num === 493) {
+				return this.chainModify(10);
+			}
+		},
+		onModifySpePriority: 10,
+		onModifySpe(spe, pokemon) {
+			if (pokemon.baseSpecies.num === 493) {
+				return this.chainModify(10);
+			}
+		},
+		onModifyDefPriority: 10,
+		onModifyDef(def, pokemon) {
+			if (pokemon.baseSpecies.num === 493) {
+				return this.chainModify(10);
+			}
 		},
 		forcedForme: "Arceus-Steel",
 		num: 313,
@@ -3546,6 +3786,36 @@ export const Items: import('../sim/dex-items').ItemDataTable = {
 			}
 			return true;
 		},
+		onModifySpDPriority: 10,
+		onModifySpD(spd, pokemon) {
+			if (pokemon.baseSpecies.num === 493) {
+				return this.chainModify(10);
+			}
+		},
+		onModifyAtkPriority: 10,
+		onModifyAtk(atk, pokemon) {
+			if (pokemon.baseSpecies.num === 493) {
+				return this.chainModify(10);
+			}
+		},
+		onModifySpAPriority: 10,
+		onModifySpA(spa, pokemon) {
+			if (pokemon.baseSpecies.num === 493) {
+				return this.chainModify(10);
+			}
+		},
+		onModifySpePriority: 10,
+		onModifySpe(spe, pokemon) {
+			if (pokemon.baseSpecies.num === 493) {
+				return this.chainModify(10);
+			}
+		},
+		onModifyDefPriority: 10,
+		onModifyDef(def, pokemon) {
+			if (pokemon.baseSpecies.num === 493) {
+				return this.chainModify(10);
+			}
+		},
 		forcedForme: "Arceus-Grass",
 		num: 301,
 		gen: 4,
@@ -3853,6 +4123,36 @@ export const Items: import('../sim/dex-items').ItemDataTable = {
 				return false;
 			}
 			return true;
+		},
+		onModifySpDPriority: 10,
+		onModifySpD(spd, pokemon) {
+			if (pokemon.baseSpecies.num === 493) {
+				return this.chainModify(10);
+			}
+		},
+		onModifyAtkPriority: 10,
+		onModifyAtk(atk, pokemon) {
+			if (pokemon.baseSpecies.num === 493) {
+				return this.chainModify(10);
+			}
+		},
+		onModifySpAPriority: 10,
+		onModifySpA(spa, pokemon) {
+			if (pokemon.baseSpecies.num === 493) {
+				return this.chainModify(10);
+			}
+		},
+		onModifySpePriority: 10,
+		onModifySpe(spe, pokemon) {
+			if (pokemon.baseSpecies.num === 493) {
+				return this.chainModify(10);
+			}
+		},
+		onModifyDefPriority: 10,
+		onModifyDef(def, pokemon) {
+			if (pokemon.baseSpecies.num === 493) {
+				return this.chainModify(10);
+			}
 		},
 		forcedForme: "Arceus-Psychic",
 		num: 307,
@@ -4332,6 +4632,36 @@ export const Items: import('../sim/dex-items').ItemDataTable = {
 				return false;
 			}
 			return true;
+		},
+		onModifySpDPriority: 10,
+		onModifySpD(spd, pokemon) {
+			if (pokemon.baseSpecies.num === 493) {
+				return this.chainModify(10);
+			}
+		},
+		onModifyAtkPriority: 10,
+		onModifyAtk(atk, pokemon) {
+			if (pokemon.baseSpecies.num === 493) {
+				return this.chainModify(10);
+			}
+		},
+		onModifySpAPriority: 10,
+		onModifySpA(spa, pokemon) {
+			if (pokemon.baseSpecies.num === 493) {
+				return this.chainModify(10);
+			}
+		},
+		onModifySpePriority: 10,
+		onModifySpe(spe, pokemon) {
+			if (pokemon.baseSpecies.num === 493) {
+				return this.chainModify(10);
+			}
+		},
+		onModifyDefPriority: 10,
+		onModifyDef(def, pokemon) {
+			if (pokemon.baseSpecies.num === 493) {
+				return this.chainModify(10);
+			}
 		},
 		forcedForme: "Arceus-Fairy",
 		num: 644,
@@ -5428,6 +5758,36 @@ export const Items: import('../sim/dex-items').ItemDataTable = {
 			}
 			return true;
 		},
+		onModifySpDPriority: 10,
+		onModifySpD(spd, pokemon) {
+			if (pokemon.baseSpecies.num === 493) {
+				return this.chainModify(10);
+			}
+		},
+		onModifyAtkPriority: 10,
+		onModifyAtk(atk, pokemon) {
+			if (pokemon.baseSpecies.num === 493) {
+				return this.chainModify(10);
+			}
+		},
+		onModifySpAPriority: 10,
+		onModifySpA(spa, pokemon) {
+			if (pokemon.baseSpecies.num === 493) {
+				return this.chainModify(10);
+			}
+		},
+		onModifySpePriority: 10,
+		onModifySpe(spe, pokemon) {
+			if (pokemon.baseSpecies.num === 493) {
+				return this.chainModify(10);
+			}
+		},
+		onModifyDefPriority: 10,
+		onModifyDef(def, pokemon) {
+			if (pokemon.baseSpecies.num === 493) {
+				return this.chainModify(10);
+			}
+		},
 		forcedForme: "Arceus-Flying",
 		num: 306,
 		gen: 4,
@@ -5518,13 +5878,13 @@ export const Items: import('../sim/dex-items').ItemDataTable = {
 		onBasePowerPriority: 15,
 		onBasePower(basePower, user, target, move) {
 			if (
-				move && (user.baseSpecies.num === 380 || user.baseSpecies.num === 381) &&
-				(move.type === 'Psychic' || move.type === 'Dragon')
+				move && ( user.baseSpecies.num === 381) &&
+				(move.type === 'Water' || move.type === 'Dragon')
 			) {
 				return this.chainModify([4915, 4096]);
 			}
 		},
-		itemUser: ["Latios", "Latias"],
+		itemUser: ["Latios"],
 		num: 225,
 		gen: 3,
 	},
@@ -5572,6 +5932,36 @@ export const Items: import('../sim/dex-items').ItemDataTable = {
 			}
 			return true;
 		},
+		onModifySpDPriority: 10,
+		onModifySpD(spd, pokemon) {
+			if (pokemon.baseSpecies.num === 493) {
+				return this.chainModify(10);
+			}
+		},
+		onModifyAtkPriority: 10,
+		onModifyAtk(atk, pokemon) {
+			if (pokemon.baseSpecies.num === 493) {
+				return this.chainModify(10);
+			}
+		},
+		onModifySpAPriority: 10,
+		onModifySpA(spa, pokemon) {
+			if (pokemon.baseSpecies.num === 493) {
+				return this.chainModify(10);
+			}
+		},
+		onModifySpePriority: 10,
+		onModifySpe(spe, pokemon) {
+			if (pokemon.baseSpecies.num === 493) {
+				return this.chainModify(10);
+			}
+		},
+		onModifyDefPriority: 10,
+		onModifyDef(def, pokemon) {
+			if (pokemon.baseSpecies.num === 493) {
+				return this.chainModify(10);
+			}
+		},
 		forcedForme: "Arceus-Water",
 		num: 299,
 		gen: 4,
@@ -5591,6 +5981,36 @@ export const Items: import('../sim/dex-items').ItemDataTable = {
 				return false;
 			}
 			return true;
+		},
+		onModifySpDPriority: 10,
+		onModifySpD(spd, pokemon) {
+			if (pokemon.baseSpecies.num === 493) {
+				return this.chainModify(10);
+			}
+		},
+		onModifyAtkPriority: 10,
+		onModifyAtk(atk, pokemon) {
+			if (pokemon.baseSpecies.num === 493) {
+				return this.chainModify(10);
+			}
+		},
+		onModifySpAPriority: 10,
+		onModifySpA(spa, pokemon) {
+			if (pokemon.baseSpecies.num === 493) {
+				return this.chainModify(10);
+			}
+		},
+		onModifySpePriority: 10,
+		onModifySpe(spe, pokemon) {
+			if (pokemon.baseSpecies.num === 493) {
+				return this.chainModify(10);
+			}
+		},
+		onModifyDefPriority: 10,
+		onModifyDef(def, pokemon) {
+			if (pokemon.baseSpecies.num === 493) {
+				return this.chainModify(10);
+			}
 		},
 		forcedForme: "Arceus-Ghost",
 		num: 310,
@@ -5753,6 +6173,36 @@ export const Items: import('../sim/dex-items').ItemDataTable = {
 				return false;
 			}
 			return true;
+		},
+		onModifySpDPriority: 10,
+		onModifySpD(spd, pokemon) {
+			if (pokemon.baseSpecies.num === 493) {
+				return this.chainModify(10);
+			}
+		},
+		onModifyAtkPriority: 10,
+		onModifyAtk(atk, pokemon) {
+			if (pokemon.baseSpecies.num === 493) {
+				return this.chainModify(10);
+			}
+		},
+		onModifySpAPriority: 10,
+		onModifySpA(spa, pokemon) {
+			if (pokemon.baseSpecies.num === 493) {
+				return this.chainModify(10);
+			}
+		},
+		onModifySpePriority: 10,
+		onModifySpe(spe, pokemon) {
+			if (pokemon.baseSpecies.num === 493) {
+				return this.chainModify(10);
+			}
+		},
+		onModifyDefPriority: 10,
+		onModifyDef(def, pokemon) {
+			if (pokemon.baseSpecies.num === 493) {
+				return this.chainModify(10);
+			}
 		},
 		forcedForme: "Arceus-Rock",
 		num: 309,
@@ -5961,6 +6411,36 @@ export const Items: import('../sim/dex-items').ItemDataTable = {
 				return false;
 			}
 			return true;
+		},
+		onModifySpDPriority: 10,
+		onModifySpD(spd, pokemon) {
+			if (pokemon.baseSpecies.num === 493) {
+				return this.chainModify(10);
+			}
+		},
+		onModifyAtkPriority: 10,
+		onModifyAtk(atk, pokemon) {
+			if (pokemon.baseSpecies.num === 493) {
+				return this.chainModify(10);
+			}
+		},
+		onModifySpAPriority: 10,
+		onModifySpA(spa, pokemon) {
+			if (pokemon.baseSpecies.num === 493) {
+				return this.chainModify(10);
+			}
+		},
+		onModifySpePriority: 10,
+		onModifySpe(spe, pokemon) {
+			if (pokemon.baseSpecies.num === 493) {
+				return this.chainModify(10);
+			}
+		},
+		onModifyDefPriority: 10,
+		onModifyDef(def, pokemon) {
+			if (pokemon.baseSpecies.num === 493) {
+				return this.chainModify(10);
+			}
 		},
 		forcedForme: "Arceus-Poison",
 		num: 304,
@@ -7373,6 +7853,36 @@ export const Items: import('../sim/dex-items').ItemDataTable = {
 				return false;
 			}
 			return true;
+		},
+		onModifySpDPriority: 10,
+		onModifySpD(spd, pokemon) {
+			if (pokemon.baseSpecies.num === 493) {
+				return this.chainModify(10);
+			}
+		},
+		onModifyAtkPriority: 10,
+		onModifyAtk(atk, pokemon) {
+			if (pokemon.baseSpecies.num === 493) {
+				return this.chainModify(10);
+			}
+		},
+		onModifySpAPriority: 10,
+		onModifySpA(spa, pokemon) {
+			if (pokemon.baseSpecies.num === 493) {
+				return this.chainModify(10);
+			}
+		},
+		onModifySpePriority: 10,
+		onModifySpe(spe, pokemon) {
+			if (pokemon.baseSpecies.num === 493) {
+				return this.chainModify(10);
+			}
+		},
+		onModifyDefPriority: 10,
+		onModifyDef(def, pokemon) {
+			if (pokemon.baseSpecies.num === 493) {
+				return this.chainModify(10);
+			}
 		},
 		forcedForme: "Arceus-Electric",
 		num: 300,

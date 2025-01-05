@@ -2783,24 +2783,24 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 		natDexTier: "RU",
 	},
 	uxie: {
-		tier: "PU",
+		tier: "NU",
 		doublesTier: "(DUU)",
 		natDexTier: "RU",
 	},
 	mesprit: {
-		tier: "ZU",
-		doublesTier: "(DUU)",
-		natDexTier: "RU",
-	},
-	azelf: {
 		tier: "RU",
 		doublesTier: "(DUU)",
 		natDexTier: "RU",
 	},
+	azelf: {
+		tier: "UU",
+		doublesTier: "(DUU)",
+		natDexTier: "RUBL",
+	},
 	dialga: {
-		tier: "Uber",
-		doublesTier: "DUber",
-		natDexTier: "Uber",
+		tier: "RUBL",
+		doublesTier: "DUU",
+		natDexTier: "RU",
 	},
 	dialgaorigin: {
 		tier: "Uber",
@@ -2818,14 +2818,14 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 		natDexTier: "Uber",
 	},
 	heatran: {
-		tier: "UU",
-		doublesTier: "DUU",
-		natDexTier: "OU",
+		tier: "Uber",
+		doublesTier: "DOU",
+		natDexTier: "Uber",
 	},
 	regigigas: {
-		tier: "ZU",
+		tier: "UUBL",
 		doublesTier: "(DUU)",
-		natDexTier: "RU",
+		natDexTier: "UUBL",
 	},
 	giratina: {
 		tier: "Uber",
@@ -2834,11 +2834,11 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	giratinaorigin: {
 		tier: "Uber",
-		doublesTier: "DUber",
-		natDexTier: "Uber",
+		doublesTier: "DOU",
+		natDexTier: "OU",
 	},
 	cresselia: {
-		tier: "NUBL",
+		tier: "RUBL",
 		doublesTier: "DOU",
 		natDexTier: "RU",
 	},
@@ -2848,17 +2848,17 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 		natDexTier: "RU",
 	},
 	manaphy: {
-		tier: "RUBL",
-		doublesTier: "(DUU)",
-		natDexTier: "UUBL",
-	},
-	darkrai: {
-		tier: "OU",
-		doublesTier: "DUber",
+		tier: "Uber",
+		doublesTier: "(DUber)",
 		natDexTier: "Uber",
 	},
+	darkrai: {
+		tier: "AG",
+		doublesTier: "DUber",
+		natDexTier: "AG",
+	},
 	shaymin: {
-		tier: "ZU",
+		tier: "NU",
 		doublesTier: "(DUU)",
 		natDexTier: "RU",
 	},
@@ -2868,14 +2868,14 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 		natDexTier: "Uber",
 	},
 	arceus: {
+		tier: "AG",
+		doublesTier: "DUber",
+		natDexTier: "AG",
+	},
+	victini: {
 		tier: "Uber",
 		doublesTier: "DUber",
 		natDexTier: "Uber",
-	},
-	victini: {
-		isNonstandard: "Past",
-		tier: "Illegal",
-		natDexTier: "UU",
 	},
 	snivy: {
 		tier: "NFE",
