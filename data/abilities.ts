@@ -2169,8 +2169,6 @@ export const Abilities: import('../sim/dex-abilities').AbilityDataTable = {
 	},
 	intrepidsword: {
 		onStart(pokemon) {
-			if (pokemon.swordBoost) return;
-			pokemon.swordBoost = true;
 			this.boost({atk: 1}, pokemon);
 		},
 		flags: {},
