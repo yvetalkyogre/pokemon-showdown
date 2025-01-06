@@ -198,7 +198,7 @@ export class Battle {
 		this.gen = this.dex.gen;
 		this.ruleTable = this.dex.formats.getRuleTable(format);
 
-		this.trunc = this.dex.trunc;
+		this.trunc = Math.trunc;
 		this.clampIntRange = Utils.clampIntRange;
 		// Object.assign(this, this.dex.data.Scripts);
 		for (const i in this.dex.data.Scripts) {
