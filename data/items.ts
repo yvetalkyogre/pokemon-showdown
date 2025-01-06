@@ -7690,7 +7690,7 @@ export const Items: import('../sim/dex-items').ItemDataTable = {
 		},
 		onSwitchIn(pokemon) {
 			if (pokemon.isActive && (pokemon.baseSpecies.name === 'Greninja' || pokemon.baseSpecies.name === 'Greninja-Bond')) {
-				this.add('-activate', source, 'ability: Battle Bond');
+				this.add('-activate', pokemon, 'ability: Battle Bond');
 				pokemon.formeChange('Greninja-Ash', this.effect, true);
 			}
 		},
