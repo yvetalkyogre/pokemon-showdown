@@ -16170,7 +16170,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		name: "Eternatus",
 		types: ["Poison", "Dragon"],
 		gender: "M",
-		baseStats: {hp: 100, atk: 145, def: 85, spa: 150, spd: 110, spe: 125}
+		baseStats: {hp: 100, atk: 145, def: 85, spa: 150, spd: 110, spe: 125},
 		abilities: {0: "Speed Boost"},
 		heightm: 20,
 		weightkg: 600,
