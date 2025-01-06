@@ -437,27 +437,27 @@ export const AbilitiesText: {[id: IDEntry]: AbilityText} = {
 	},
 	embodyaspectcornerstone: {
 		name: "Embody Aspect (Cornerstone)",
-		shortDesc: "On switch-in, this Pokemon's Defense is raised by 1 stage.",
+		shortDesc: "On switch-in, this Pokemon's Defense is raised by 1 stage and has the Sturdy properties!",
 
-		boost: "  The Cornerstone Mask worn by [POKEMON] shone brilliantly, and [POKEMON]'s Defense rose!",
+		boost: "[POKEMON]'s defence has Risen by a stage!]",
 	},
 	embodyaspecthearthflame: {
 		name: "Embody Aspect (Hearthflame)",
-		shortDesc: "On switch-in, this Pokemon's Attack is raised by 1 stage.",
+		shortDesc: "On switch-in, this Pokemon's Attack is raised by 1 stage and has the Mold breaker properties!",
 
-		boost: "  The Hearthflame Mask worn by [POKEMON] shone brilliantly, and [POKEMON]'s Attack rose!",
+		boost: "[POKEMON]'s attack has Risen by a stage!]",
 	},
 	embodyaspectteal: {
 		name: "Embody Aspect (Teal)",
 		shortDesc: "On switch-in, this Pokemon's Speed is raised by 1 stage.",
 
-		boost: "  The Teal Mask worn by [POKEMON] shone brilliantly, and [POKEMON]'s Speed rose!",
+		boost: "[POKEMON]'s speed has Risen by a stage!",
 	},
 	embodyaspectwellspring: {
 		name: "Embody Aspect (Wellspring)",
-		shortDesc: "On switch-in, this Pokemon's Special Defense is raised by 1 stage.",
+		shortDesc: "On switch-in, this Pokemon's Special Defense is raised by 1 stage and has the Water absorb properties!",
 
-		boost: "  The Wellspring Mask worn by [POKEMON] shone brilliantly, and [POKEMON]'s Sp. Def rose!",
+		boost: "[POKEMON]'s special defence has Risen by a stage!",
 	},
 	emergencyexit: {
 		name: "Emergency Exit",
@@ -801,7 +801,7 @@ export const AbilitiesText: {[id: IDEntry]: AbilityText} = {
 	},
 	intrepidsword: {
 		name: "Intrepid Sword",
-		shortDesc: "On switch-in, this Pokemon's Attack is raised by 1 stage. Once per battle.",
+		shortDesc: "On switch-in, this Pokemon's Attack is raised by 1 stage.",
 		gen8: {
 			shortDesc: "On switch-in, this Pokemon's Attack is raised by 1 stage.",
 		},
@@ -1953,14 +1953,14 @@ export const AbilitiesText: {[id: IDEntry]: AbilityText} = {
 	},
 	teraformzero: {
 		name: "Teraform Zero",
-		shortDesc: "Terapagos: Terastallizing ends the effects of weather and terrain. Once per battle.",
+		shortDesc: "Terapagos: Terastallizing ends the effects of weather and terrain, also changes type of the move he gonna use to attack.",
 	},
 	terashell: {
 		name: "Tera Shell",
-		desc: "If this Pokemon is a Terapagos at full HP, the effectiveness of attacks against it is changed to 0.5 unless this Pokemon is immune to the move. Multi-hit moves retain the same effectiveness throughout the attack.",
-		shortDesc: "Terapagos: If full HP, attacks taken have 0.5x effectiveness unless naturally immune.",
+		desc: "The user changes to the type of the move he is gonna use to attack.",
+		shortDesc: "The user changes to the type of the move he is gonna use to attack.",
 
-		activate: "  [POKEMON] made its shell gleam! It's distorting type matchups!",
+		activate: "  [POKEMON] made his shell gleam! He is changing types!",
 	},
 	terashift: {
 		name: "Tera Shift",
