@@ -7692,6 +7692,7 @@ export const Items: import('../sim/dex-items').ItemDataTable = {
 			}
 		},
 		num: 84,
+		itemUser: ['Greninja'],
 		gen: 1,
 	},
 	wateriumz: {

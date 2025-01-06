@@ -1166,13 +1166,20 @@ export const Abilities: import('../sim/dex-abilities').AbilityDataTable = {
 	},
 	embodyaspectcornerstone: {
 		onStart(pokemon) {
-			if (pokemon.baseSpecies.name === 'Ogerpon-Cornerstone-Tera' && !this.effectState.embodied) {
-				this.effectState.embodied = true;
-				this.boost({def: 1}, pokemon);
+			this.boost({def: 1}, pokemon);
+		},
+		onTryHit(pokemon, target, move) {
+			if (move.ohko) {
+				this.add('-immune', pokemon, '[from] ability: Sturdy');
+				return null;
 			}
 		},
-		onSwitchIn() {
-			delete this.effectState.embodied;
+		onDamagePriority: -30,
+		onDamage(damage, target, source, effect) {
+			if (target.hp === target.maxhp && damage >= target.hp && effect && effect.effectType === 'Move') {
+				this.add('-ability', target, 'Sturdy');
+				return target.hp - 1;
+			}
 		},
 		flags: {failroleplay: 1, noreceiver: 1, noentrain: 1, notrace: 1, failskillswap: 1, notransform: 1},
 		name: "Embody Aspect (Cornerstone)",
@@ -1181,13 +1188,11 @@ export const Abilities: import('../sim/dex-abilities').AbilityDataTable = {
 	},
 	embodyaspecthearthflame: {
 		onStart(pokemon) {
-			if (pokemon.baseSpecies.name === 'Ogerpon-Hearthflame-Tera' && !this.effectState.embodied) {
-				this.effectState.embodied = true;
-				this.boost({atk: 1}, pokemon);
-			}
+			this.boost({atk: 1}, pokemon);
+			this.add('-ability', pokemon, 'Mold Breaker');
 		},
-		onSwitchIn() {
-			delete this.effectState.embodied;
+		onModifyMove(move) {
+			move.ignoreAbility = true;
 		},
 		flags: {failroleplay: 1, noreceiver: 1, noentrain: 1, notrace: 1, failskillswap: 1, notransform: 1},
 		name: "Embody Aspect (Hearthflame)",
@@ -1196,13 +1201,7 @@ export const Abilities: import('../sim/dex-abilities').AbilityDataTable = {
 	},
 	embodyaspectteal: {
 		onStart(pokemon) {
-			if (pokemon.baseSpecies.name === 'Ogerpon-Teal-Tera' && !this.effectState.embodied) {
-				this.effectState.embodied = true;
-				this.boost({spe: 1}, pokemon);
-			}
-		},
-		onSwitchIn() {
-			delete this.effectState.embodied;
+			this.boost({spe: 1}, pokemon);
 		},
 		flags: {failroleplay: 1, noreceiver: 1, noentrain: 1, notrace: 1, failskillswap: 1, notransform: 1},
 		name: "Embody Aspect (Teal)",
@@ -1211,13 +1210,15 @@ export const Abilities: import('../sim/dex-abilities').AbilityDataTable = {
 	},
 	embodyaspectwellspring: {
 		onStart(pokemon) {
-			if (pokemon.baseSpecies.name === 'Ogerpon-Wellspring-Tera' && !this.effectState.embodied) {
-				this.effectState.embodied = true;
-				this.boost({spd: 1}, pokemon);
-			}
+			this.boost({spd: 1}, pokemon);
 		},
-		onSwitchIn() {
-			delete this.effectState.embodied;
+		onTryHit(target, source, move) {
+			if (target !== source && move.type === 'Water') {
+				if (!this.heal(target.baseMaxhp / 4)) {
+					this.add('-immune', target, '[from] ability: Water Absorb');
+				}
+				return null;
+			}
 		},
 		flags: {failroleplay: 1, noreceiver: 1, noentrain: 1, notrace: 1, failskillswap: 1, notransform: 1},
 		name: "Embody Aspect (Wellspring)",
@@ -4850,12 +4851,20 @@ export const Abilities: import('../sim/dex-abilities').AbilityDataTable = {
 		num: 140,
 	},
 	teraformzero: {
-		onAfterTerastallization(pokemon) {
+		onStart(pokemon) {
 			if (pokemon.baseSpecies.name !== 'Terapagos-Stellar') return;
 			if (this.field.weather || this.field.terrain) {
 				this.add('-ability', pokemon, 'Teraform Zero');
 				this.field.clearWeather();
 				this.field.clearTerrain();
+			}
+		},
+		onPrepareHit(source, target, move) {
+			if (move.hasBounced || move.flags['futuremove'] || move.sourceEffect === 'snatch' || move.callsMove) return;
+			const type = move.type;
+			if (type && type !== '???' && source.getTypes().join() !== type) {
+				if (!source.setType(type)) return;
+				this.add('-start', source, 'typechange', type, '[from] ability: Teraform Zero');
 			}
 		},
 		flags: {failroleplay: 1, noreceiver: 1, noentrain: 1, notrace: 1, failskillswap: 1},
@@ -4864,19 +4873,13 @@ export const Abilities: import('../sim/dex-abilities').AbilityDataTable = {
 		num: 309,
 	},
 	terashell: {
-		onEffectiveness(typeMod, target, type, move) {
-			if (!target || target.species.name !== 'Terapagos-Terastal') return;
-			if (this.effectState.resisted) return -1; // all hits of multi-hit move should be not very effective
-			if (move.category === 'Status' || move.id === 'struggle') return;
-			if (!target.runImmunity(move.type)) return; // immunity has priority
-			if (target.hp < target.maxhp) return;
-
-			this.add('-activate', target, 'ability: Tera Shell');
-			this.effectState.resisted = true;
-			return -1;
-		},
-		onAnyAfterMove() {
-			this.effectState.resisted = false;
+		onPrepareHit(source, target, move) {
+			if (move.hasBounced || move.flags['futuremove'] || move.sourceEffect === 'snatch' || move.callsMove) return;
+			const type = move.type;
+			if (type && type !== '???' && source.getTypes().join() !== type) {
+				if (!source.setType(type)) return;
+				this.add('-start', source, 'typechange', type, '[from] ability: Tera Shell');
+			}
 		},
 		flags: {failroleplay: 1, noreceiver: 1, noentrain: 1, notrace: 1, failskillswap: 1, breakable: 1},
 		name: "Tera Shell",

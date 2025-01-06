@@ -5594,39 +5594,39 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 		natDexTier: "RU",
 	},
 	okidogi: {
-		tier: "UUBL",
-		doublesTier: "(DUU)",
-		natDexTier: "RU",
-	},
-	munkidori: {
-		tier: "NU",
-		doublesTier: "(DUU)",
-		natDexTier: "RU",
-	},
-	fezandipiti: {
-		tier: "RU",
-		doublesTier: "(DUU)",
-		natDexTier: "RU",
-	},
-	ogerpon: {
-		tier: "UU",
-		doublesTier: "(DUU)",
-		natDexTier: "RU",
-	},
-	ogerponwellspring: {
-		tier: "OU",
-		doublesTier: "DOU",
-		natDexTier: "OU",
-	},
-	ogerponhearthflame: {
 		tier: "Uber",
 		doublesTier: "DOU",
 		natDexTier: "Uber",
 	},
-	ogerponcornerstone: {
+	munkidori: {
 		tier: "UU",
 		doublesTier: "DUU",
-		natDexTier: "UUBL",
+		natDexTier: "UU",
+	},
+	fezandipiti: {
+		tier: "UUBL",
+		doublesTier: "DUU",
+		natDexTier: "UU",
+	},
+	ogerpon: {
+		tier: "OU",
+		doublesTier: "DOU",
+		natDexTier: "OU",
+	},
+	ogerponwellspring: {
+		tier: "Uber",
+		doublesTier: "DUber",
+		natDexTier: "Uber",
+	},
+	ogerponhearthflame: {
+		tier: "Uber",
+		doublesTier: "DUber",
+		natDexTier: "Uber",
+	},
+	ogerponcornerstone: {
+		tier: "Uber",
+		doublesTier: "DUber",
+		natDexTier: "Uber",
 	},
 	archaludon: {
 		tier: "Uber",
@@ -5661,17 +5661,17 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	terapagos: {
 		tier: "Uber",
 		doublesTier: "DUber",
-		natDexTier: "OU",
-	},
-	terapagosstellar: {
-		tier: "Uber",
-		doublesTier: "DUber",
 		natDexTier: "Uber",
 	},
+	terapagosstellar: {
+		tier: "AG",
+		doublesTier: "DUber",
+		natDexTier: "AG",
+	},
 	pecharunt: {
-		tier: "OU",
-		doublesTier: "(DUU)",
-		natDexTier: "RUBL",
+		tier: "Uber",
+		doublesTier: "DOU",
+		natDexTier: "OU",
 	},
 	missingno: {
 		isNonstandard: "Custom",
