@@ -209,7 +209,7 @@ export const ItemsText: {[id: IDEntry]: ItemText} = {
 	},
 	burndrive: {
 		name: "Burn Drive",
-		shortDesc: "Holder's Techno Blast is Fire type.",
+		shortDesc: "Holder's Techno Blast is Fire type and Genesect gains 1.5 times stronger fire moves.",
 	},
 	cameruptite: {
 		name: "Cameruptite",
@@ -256,7 +256,7 @@ export const ItemsText: {[id: IDEntry]: ItemText} = {
 	},
 	chilldrive: {
 		name: "Chill Drive",
-		shortDesc: "Holder's Techno Blast is Ice type.",
+		shortDesc: "Holder's Techno Blast is Ice type and Genesect gains 1.5 times stronger fire moves.",
 	},
 	chippedpot: {
 		name: "Chipped Pot",
@@ -382,7 +382,7 @@ export const ItemsText: {[id: IDEntry]: ItemText} = {
 	},
 	dousedrive: {
 		name: "Douse Drive",
-		shortDesc: "Holder's Techno Blast is Water type.",
+		shortDesc: "Holder's Techno Blast is Water type and Genesect gains 1.5 times stronger fire moves.",
 	},
 	dracoplate: {
 		name: "Draco Plate",
@@ -1635,7 +1635,7 @@ export const ItemsText: {[id: IDEntry]: ItemText} = {
 	},
 	shockdrive: {
 		name: "Shock Drive",
-		shortDesc: "Holder's Techno Blast is Electric type.",
+		shortDesc: "Holder's Techno Blast is Electric type and Genesect gains 1.5 times stronger fire moves.",
 	},
 	shucaberry: {
 		name: "Shuca Berry",
@@ -2301,8 +2301,8 @@ export const ItemsText: {[id: IDEntry]: ItemText} = {
 	},
 	waterstone: {
 		name: "Water Stone",
-		desc: "A Stone if Held by Greninja, then he will turn into Ash-Greninja and get his Atk, Def, SpD, Spe boosted by 1.5!",
-		shortDesc: "A Stone if Held by Greninja, then he will turn into Ash-Greninja and get his Atk, Def, SpD, Spe boosted by 1.5!",
+		desc: "A Stone if Held by Greninja, then he will turn into Ash-Greninja and get his Atk, Def, SpD, SpA boosted by 1.5!",
+		shortDesc: "A Stone if Held by Greninja, then he will turn into Ash-Greninja and get his Atk, Def, SpD, SpA boosted by 1.5!",
 	},
 	wateriumz: {
 		name: "Waterium Z",
