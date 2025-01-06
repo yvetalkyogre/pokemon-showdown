@@ -731,12 +731,16 @@ export const Items: import('../sim/dex-items').ItemDataTable = {
 			}
 			return true;
 		},
+		onBasePower(basePower, user, target, move) {
+			if (user.baseSpecies.num === 649 && (move.type === 'Fire')) {
+				return this.chainModify([6144, 4096]);
+			}
+		},
 		onDrive: 'Fire',
 		forcedForme: "Genesect-Burn",
 		itemUser: ["Genesect-Burn"],
 		num: 118,
 		gen: 5,
-		isNonstandard: "Past",
 	},
 	cameruptite: {
 		name: "Cameruptite",
@@ -918,6 +922,11 @@ export const Items: import('../sim/dex-items').ItemDataTable = {
 				return false;
 			}
 			return true;
+		},
+		onBasePower(basePower, user, target, move) {
+			if (user.baseSpecies.num === 649 && (move.type === 'Ice')) {
+				return this.chainModify([6144, 4096]);
+			}
 		},
 		onDrive: 'Ice',
 		forcedForme: "Genesect-Chill",
@@ -1371,6 +1380,11 @@ export const Items: import('../sim/dex-items').ItemDataTable = {
 				return false;
 			}
 			return true;
+		},
+		onBasePower(basePower, user, target, move) {
+			if (user.baseSpecies.num === 649 && (move.type === 'Water')) {
+				return this.chainModify([6144, 4096]);
+			}
 		},
 		onDrive: 'Water',
 		forcedForme: "Genesect-Douse",
@@ -3690,9 +3704,41 @@ export const Items: import('../sim/dex-items').ItemDataTable = {
 	maliciousarmor: {
 		name: "Malicious Armor",
 		spritenum: 744,
-		fling: {
-			basePower: 30,
+		onTakeItem(item, source) {
+			if (source.baseSpecies.baseSpecies === 'Yveltal') return false;
+			return true;
 		},
+		onModifySpDPriority: 10,
+		onModifySpD(spd, pokemon) {
+			if (pokemon.baseSpecies.name === 'Yveltal' || pokemon.baseSpecies.name === 'Yveltal-Primal') {
+				return this.chainModify(10);
+			}
+		},
+		onModifyAtkPriority: 10,
+		onModifyAtk(atk, pokemon) {
+			if (pokemon.baseSpecies.name === 'Yveltal' || pokemon.baseSpecies.name === 'Yveltal-Primal') {
+				return this.chainModify(10);
+			}
+		},
+		onModifySpAPriority: 10,
+		onModifySpA(spa, pokemon) {
+			if (pokemon.baseSpecies.name === 'Yveltal' || pokemon.baseSpecies.name === 'Yveltal-Primal') {
+				return this.chainModify(10);
+			}
+		},
+		onModifySpePriority: 10,
+		onModifySpe(spe, pokemon) {
+			if (pokemon.baseSpecies.name === 'Yveltal' || pokemon.baseSpecies.name === 'Yveltal-Primal') {
+				return this.chainModify(10);
+			}
+		},
+		onModifyDefPriority: 10,
+		onModifyDef(def, pokemon) {
+			if (pokemon.baseSpecies.name === 'Yveltal' || pokemon.baseSpecies.name === 'Yveltal-Primal') {
+				return this.chainModify(10);
+			}
+		},
+		itemUser: ["Yveltal"],
 		num: 1861,
 		gen: 9,
 	},
@@ -5650,6 +5696,11 @@ export const Items: import('../sim/dex-items').ItemDataTable = {
 			return true;
 		},
 		onDrive: 'Electric',
+		onBasePower(basePower, user, target, move) {
+			if (user.baseSpecies.num === 649 && (move.type === 'Electric')) {
+				return this.chainModify([6144, 4096]);
+			}
+		},
 		forcedForme: "Genesect-Shock",
 		itemUser: ["Genesect-Shock"],
 		num: 117,
@@ -7612,6 +7663,36 @@ export const Items: import('../sim/dex-items').ItemDataTable = {
 		spritenum: 529,
 		fling: {
 			basePower: 30,
+		},
+		onModifyAtkPriority: 1,
+		onModifyAtk(atk, pokemon) {
+			if (pokemon.baseSpecies.name === 'Greninja-Ash') {
+				return this.chainModify(1.5);
+			}
+		},
+		onModifySpAPriority: 1,
+		onModifySpA(spa, pokemon) {
+			if (pokemon.baseSpecies.name === 'Greninja-Ash') {
+				return this.chainModify(1.5);
+			}
+		},
+		onModifyDefPriority: 1,		
+		onModifyDef(def, pokemon) {
+			if (pokemon.baseSpecies.name === 'Greninja-Ash') {
+				return this.chainModify(1.5);
+			}
+		},	
+		onModifySpDPriority: 1,		
+		onModifySpD(spd, pokemon) {
+			if (pokemon.baseSpecies.name === 'Greninja-Ash') {
+				return this.chainModify(1.5);
+			}
+		},
+		onSwitchIn(pokemon) {
+			if (pokemon.isActive && (pokemon.baseSpecies.name === 'Greninja' || pokemon.baseSpecies.name === 'Greninja-Bond')) {
+				this.add('-activate', source, 'ability: Battle Bond');
+				source.formeChange('Greninja-Ash', this.effect, true);
+			}
 		},
 		num: 84,
 		gen: 1,
