@@ -11661,7 +11661,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		weightkg: 315,
 		color: "Blue",
 		eggGroups: ["Undiscovered"],
-		requiredItem: "Water Stone",
+		requiredAbility: "Battle Bond",
 		battleOnly: "Greninja",
 		gen: 7,
 	},
