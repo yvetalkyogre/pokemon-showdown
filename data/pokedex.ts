@@ -1685,7 +1685,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 	tentacruel: {
 		num: 73,
 		name: "Tentacruel",
-		gender: "M"
+		gender: "M",
 		types: ["Water", "Poison"],
 		baseStats: {hp: 83, atk: 100, def: 66, spa: 109, spd: 90, spe: 98},
 		abilities: {0: "Clear Body", 1: "Liquid Ooze", H: "Rain Dish"},
