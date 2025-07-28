@@ -3964,37 +3964,21 @@ export const Abilities: import('../sim/dex-abilities').AbilityDataTable = {
 		num: 157,
 	},
 	schooling: {
-		onStart(pokemon) {
-			if (pokemon.baseSpecies.baseSpecies !== 'Wishiwashi' || pokemon.level < 20 || pokemon.transformed) return;
-			if (pokemon.hp > pokemon.maxhp / 4) {
-				if (pokemon.species.id === 'wishiwashi') {
-					pokemon.formeChange('Wishiwashi-School');
-				}
-			} else {
-				if (pokemon.species.id === 'wishiwashischool') {
-					pokemon.formeChange('Wishiwashi');
-				}
+		onModifyAtkPriority: 1,
+		onModifyAtk(atk, pokemon) {
+			if (pokemon.hp <= pokemon.maxhp / 10) {
+				return this.chainModify(0.1);
 			}
 		},
-		onResidualOrder: 29,
-		onResidual(pokemon) {
-			if (
-				pokemon.baseSpecies.baseSpecies !== 'Wishiwashi' || pokemon.level < 20 ||
-				pokemon.transformed || !pokemon.hp
-			) return;
-			if (pokemon.hp > pokemon.maxhp / 4) {
-				if (pokemon.species.id === 'wishiwashi') {
-					pokemon.formeChange('Wishiwashi-School');
-				}
-			} else {
-				if (pokemon.species.id === 'wishiwashischool') {
-					pokemon.formeChange('Wishiwashi');
-				}
+		onModifySpAPriority: 1,
+		onModifySpA(atk, pokemon) {
+			if (pokemon.hp <= pokemon.maxhp / 10) {
+				return this.chainModify(0.1);
 			}
 		},
-		flags: {failroleplay: 1, noreceiver: 1, noentrain: 1, notrace: 1, failskillswap: 1, cantsuppress: 1},
+		flags: {},
 		name: "Schooling",
-		rating: 3,
+		rating: -1,
 		num: 208,
 	},
 	scrappy: {
