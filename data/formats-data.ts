@@ -3780,11 +3780,14 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 		tier: "LC",
 	},
 	floette: {
-		tier: "NFE",
+		tier: "PU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	floetteeternal: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "AG",
 	},
 	florges: {
 		tier: "PU",
