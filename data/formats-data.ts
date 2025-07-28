@@ -4223,6 +4223,8 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	wishiwashischool: {
 		isNonstandard: "Past",
+		tier: "Illegal",
+		natDexTier: "Uber",
 	},
 	mareanie: {
 		tier: "LC",
