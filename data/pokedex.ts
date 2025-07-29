@@ -12823,7 +12823,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		forme: "Small",
 		types: ["Ghost", "Grass"],
 		gender: "M",
-		baseStats: {hp: 65, atk: 53, def: 85, spa: 70, spd: 92, spe: 72}
+		baseStats: {hp: 65, atk: 53, def: 85, spa: 70, spd: 92, spe: 72},
 		abilities: {0: "Pickup", 1: "Frisk", H: "Insomnia"},
 		heightm: 0.7,
 		weightkg: 9.5,
@@ -12839,7 +12839,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		forme: "Large",
 		types: ["Ghost", "Grass"],
 		gender: "M",
-		baseStats: {hp: 65, atk: 58, def: 95, spa: 75, spd: 102, spe: 42}
+		baseStats: {hp: 65, atk: 58, def: 95, spa: 75, spd: 102, spe: 42},
 		abilities: {0: "Pickup", 1: "Frisk", H: "Insomnia"},
 		heightm: 1.1,
 		weightkg: 14,
@@ -12855,7 +12855,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		forme: "Super",
 		types: ["Ghost", "Grass"],
 		gender: "M",
-		baseStats: {hp: 65, atk: 58, def: 100, spa: 75, spd: 107, spe: 32}
+		baseStats: {hp: 65, atk: 58, def: 100, spa: 75, spd: 107, spe: 32},
 		abilities: {0: "Pickup", 1: "Frisk", H: "Insomnia"},
 		heightm: 1.7,
 		weightkg: 39,
