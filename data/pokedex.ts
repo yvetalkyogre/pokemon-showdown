@@ -3019,7 +3019,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		name: "Vaporeon",
 		types: ["Water"],
 		gender: "M",
-		baseStats: {hp: 176, atk: 86, def: 58, spa: 120, spd: 110, spe: 64},
+		baseStats: {hp: 76, atk: 86, def: 58, spa: 120, spd: 110, spe: 64},
 		abilities: {0: "Water Absorb", H: "Hydration"},
 		heightm: 1,
 		weightkg: 29,
