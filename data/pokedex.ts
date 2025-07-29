@@ -13415,7 +13415,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		forme: "Sensu",
 		types: ["Ghost", "Flying"],
 		gender: "M",
-		baseStats: {hp: 70, atk: 65, def: 65, spa: 98, spd: 70, spe: 95},,
+		baseStats: {hp: 70, atk: 65, def: 65, spa: 98, spd: 70, spe: 95},
 		abilities: {0: "Dancer"},
 		heightm: 0.6,
 		weightkg: 3.4,
