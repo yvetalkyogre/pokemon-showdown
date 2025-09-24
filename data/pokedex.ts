@@ -12973,7 +12973,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		name: "Yveltal",
 		types: ["Dark", "Flying"],
 		gender: "M",
-		baseStats: {hp: 250, atk: 400, def: 310, spa: 135, spd: 310 spe: 105},
+		baseStats: {hp: 250, atk: 400, def: 310, spa: 135, spd: 310, spe: 105},
 		abilities: {0: "Beast Boost", H: "Tough Claws"},
 		heightm: 7.0,
 		weightkg: 2300,
