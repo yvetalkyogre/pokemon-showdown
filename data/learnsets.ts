@@ -46086,6 +46086,7 @@ export const Learnsets: import('../sim/dex-species').LearnsetDataTable = {
 			darkpulse: ["9M"],
 			honeclaws: ["9M"],
 			knockoff: ["9M"],
+			hex: ["9M"],
 			lashout: ["9M"],
 			nastyplot: ["9M"],
 			partingshot: ["9M"],
