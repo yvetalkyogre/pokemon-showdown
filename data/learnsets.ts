@@ -46122,6 +46122,7 @@ export const Learnsets: import('../sim/dex-species').LearnsetDataTable = {
 			aurasphere: ["9M"],
 			bodypress: ["9M"],
 			bulkup: ["9M"],
+			extrasensory: ["9M"],
 			counter: ["9M"],
 			crosschop: ["9M"],
 			detect: ["9M"],
