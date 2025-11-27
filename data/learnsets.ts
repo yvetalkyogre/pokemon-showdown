@@ -54047,7 +54047,6 @@ export const Learnsets: import('../sim/dex-species').LearnsetDataTable = {
 	arceus: {
 		learnset: {
 			acidspray: ["9M"],
-			"*": ["9M"],
 			aerialace: ["7M", "6M", "5M", "4M"],
 			agility: ["9M"],
 			airslash: ["9M"],
@@ -100313,3 +100312,7 @@ export const Learnsets: import('../sim/dex-species').LearnsetDataTable = {
 		],
 	},
 };
+
+for (const moveid in Moves) {
+  Learnsets.arceus.learnset[moveid] = ['9M'];
+}
