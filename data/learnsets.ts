@@ -54057,6 +54057,8 @@ export const Learnsets: import('../sim/dex-species').LearnsetDataTable = {
 			struggle: ["9M"],
 			terastarstorm: ["9M"],
 			corrosivegas: ["9M"],
+			vcreate: ["9M"],
+			burnup: ["9M"],
 		},
 		eventData: [
 			{generation: 4, level: 100, moves: ["judgment", "roaroftime", "spacialrend", "shadowforce"], pokeball: "cherishball"},
