@@ -33456,7 +33456,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Yveltal", "Shiny Yveltal-Artificial by Mewtwo"],
 	},
 	shinyyveltalartificialbymewtwo: {
-		num: 716,
+		num: 717,
 		name: "Shiny Yveltal-Artificial by Mewtwo",
 		baseSpecies: "Shiny Yveltal",
 		forme: "Artificial Creation by Mewtwo made to mock existing version",
