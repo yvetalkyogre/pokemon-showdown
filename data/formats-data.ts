@@ -8286,7 +8286,7 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinyrayquazamega: {
 		tier: "Illegal",
-		natDexTier: "Illegal"
+		natDexTier: "Illegal",
 	},
 	shinyjirachi: {
 		tier: "Illegal",
