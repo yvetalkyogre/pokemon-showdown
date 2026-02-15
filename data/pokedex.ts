@@ -33458,7 +33458,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 	shinyyveltalartificialcreationbymewtwomadetomockexistingversion: {
 		num: 716,
 		name: "Shiny Yveltal-Artificial Creation by Mewtwo made to mock existing version",
-		baseSpecies: "Shiny Yvetal",
+		baseSpecies: "Shiny Yveltal",
 		forme: "Artificial Creation by Mewtwo made to mock existing version",
 		types: ["Dark", "Flying"],
 		gender: "F",
