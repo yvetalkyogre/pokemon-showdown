@@ -6054,56 +6054,67 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 		isNonstandard: "Custom",
 		tier: "Illegal",
 	},
+
 	shinybulbasaur: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinyivysaur: {
-		tier: "Illegal",
+		tier: "NFE",
 	},
 	shinyvenusaur: {
-		tier: "Illegal",
+		tier: "ZU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinyvenusaurmega: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "UU",
 	},
 	shinyvenusaurgmax: {
 		isNonstandard: "Past",
 		tier: "Illegal",
 	},
 	shinycharmander: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinycharmeleon: {
-		tier: "Illegal",
+		tier: "NFE",
 	},
 	shinycharizard: {
-		tier: "Illegal",
+		tier: "ZU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinycharizardmegax: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "UUBL",
 	},
 	shinycharizardmegay: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "OU",
 	},
 	shinycharizardgmax: {
 		isNonstandard: "Past",
 		tier: "Illegal",
 	},
 	shinysquirtle: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinywartortle: {
-		tier: "Illegal",
+		tier: "NFE",
 	},
 	shinyblastoise: {
-		tier: "Illegal",
+		tier: "RUBL",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinyblastoisemega: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "Uber",
 	},
 	shinyblastoisegmax: {
 		isNonstandard: "Past",
@@ -6112,14 +6123,17 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	shinycaterpie: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "LC",
 	},
 	shinymetapod: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "NFE",
 	},
 	shinybutterfree: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "RU",
 	},
 	shinybutterfreegmax: {
 		isNonstandard: "Past",
@@ -6128,50 +6142,62 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	shinyweedle: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "LC",
 	},
 	shinykakuna: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "NFE",
 	},
 	shinybeedrill: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "RU",
 	},
 	shinybeedrillmega: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "UU",
 	},
 	shinypidgey: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "LC",
 	},
 	shinypidgeotto: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "NFE",
 	},
 	shinypidgeot: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "RU",
 	},
 	shinypidgeotmega: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "RU",
 	},
 	shinyrattata: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "LC",
 	},
 	shinyrattataalola: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "LC",
 	},
 	shinyraticate: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "RU",
 	},
 	shinyraticatealola: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "RU",
 	},
 	shinyraticatealolatotem: {
 		isNonstandard: "Past",
@@ -6180,26 +6206,32 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	shinyspearow: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "LC",
 	},
 	shinyfearow: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "RU",
 	},
 	shinyekans: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinyarbok: {
-		tier: "Illegal",
+		tier: "ZU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinypichu: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinypichuspikyeared: {
 		isNonstandard: "Past",
 		tier: "Illegal",
 	},
 	shinypikachu: {
-		tier: "Illegal",
+		tier: "ZU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinypikachucosplay: {
 		isNonstandard: "Past",
@@ -6226,25 +6258,39 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 		tier: "Illegal",
 	},
 	shinypikachuoriginal: {
-		tier: "Illegal",
+		tier: "ZU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinypikachuhoenn: {
-		tier: "Illegal",
+		tier: "ZU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinypikachusinnoh: {
-		tier: "Illegal",
+		tier: "ZU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinypikachuunova: {
-		tier: "Illegal",
+		tier: "ZU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinypikachukalos: {
-		tier: "Illegal",
+		tier: "ZU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinypikachualola: {
-		tier: "Illegal",
+		tier: "ZU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinypikachupartner: {
-		tier: "Illegal",
+		tier: "ZU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinypikachustarter: {
 		isNonstandard: "LGPE",
@@ -6255,357 +6301,479 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 		tier: "Illegal",
 	},
 	shinypikachuworld: {
-		tier: "Illegal",
+		tier: "ZU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinyraichu: {
-		tier: "Illegal",
+		tier: "ZU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinyraichualola: {
+		tier: "ZU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
+	},
+	shinyraichumegax: {
+		isNonstandard: "Future",
+		tier: "Illegal",
+	},
+	shinyraichumegay: {
+		isNonstandard: "Future",
 		tier: "Illegal",
 	},
 	shinysandshrew: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinysandshrewalola: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinysandslash: {
-		tier: "Illegal",
+		tier: "ZU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinysandslashalola: {
-		tier: "Illegal",
+		tier: "PU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinynidoranf: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "LC",
 	},
 	shinynidorina: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "NFE",
 	},
 	shinynidoqueen: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "RU",
 	},
 	shinynidoranm: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "LC",
 	},
 	shinynidorino: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "NFE",
 	},
 	shinynidoking: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "RU",
 	},
 	shinycleffa: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinyclefairy: {
-		tier: "Illegal",
+		tier: "NFE",
+		doublesTier: "DUU",
+		natDexTier: "NFE",
 	},
 	shinyclefable: {
+		tier: "OU",
+		doublesTier: "(DUU)",
+		natDexTier: "UU",
+	},
+	shinyclefablemega: {
+		isNonstandard: "Future",
 		tier: "Illegal",
 	},
 	shinyvulpix: {
-		tier: "Illegal",
+		tier: "NFE",
 		doublesTier: "NFE",
+		natDexTier: "LC",
 	},
 	shinyvulpixalola: {
-		tier: "Illegal",
+		tier: "NFE",
 	},
 	shinyninetales: {
-		tier: "Illegal",
+		tier: "ZU",
+		doublesTier: "DUU",
+		natDexTier: "RU",
 	},
 	shinyninetalesalola: {
-		tier: "Illegal",
+		tier: "PU",
+		doublesTier: "DOU",
+		natDexTier: "RU",
 	},
 	shinyigglybuff: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinyjigglypuff: {
-		tier: "Illegal",
+		tier: "NFE",
 	},
 	shinywigglytuff: {
-		tier: "Illegal",
+		tier: "ZU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinyzubat: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "LC",
 	},
 	shinygolbat: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "NFE",
 	},
 	shinycrobat: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "RU",
 	},
 	shinyoddish: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinygloom: {
-		tier: "Illegal",
+		tier: "NFE",
 	},
 	shinyvileplume: {
-		tier: "Illegal",
+		tier: "NU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinybellossom: {
-		tier: "Illegal",
+		tier: "ZUBL",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinyparas: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "LC",
 	},
 	shinyparasect: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "RU",
 	},
 	shinyvenonat: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinyvenomoth: {
-		tier: "Illegal",
+		tier: "ZUBL",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinydiglett: {
-		tier: "Illegal",
+		tier: "NFE",
 	},
 	shinydiglettalola: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinydugtrio: {
-		tier: "Illegal",
+		tier: "ZU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinydugtrioalola: {
-		tier: "Illegal",
+		tier: "ZU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinymeowth: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinymeowthalola: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinymeowthgalar: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinymeowthgmax: {
 		isNonstandard: "Past",
 		tier: "Illegal",
 	},
 	shinypersian: {
-		tier: "Illegal",
+		tier: "ZU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinypersianalola: {
-		tier: "Illegal",
+		tier: "ZU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinyperrserker: {
-		tier: "Illegal",
+		tier: "ZU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinypsyduck: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinygolduck: {
-		tier: "Illegal",
+		tier: "ZU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinymankey: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinyprimeape: {
-		tier: "Illegal",
+		tier: "ZU",
 		doublesTier: "NFE",
+		natDexTier: "NFE",
 	},
 	shinygrowlithe: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinygrowlithehisui: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinyarcanine: {
-		tier: "Illegal",
+		tier: "PU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinyarcaninehisui: {
-		tier: "Illegal",
+		tier: "UU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinypoliwag: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinypoliwhirl: {
-		tier: "Illegal",
+		tier: "NFE",
 	},
 	shinypoliwrath: {
-		tier: "Illegal",
+		tier: "ZU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinypolitoed: {
-		tier: "Illegal",
+		tier: "RU",
+		doublesTier: "DUU",
+		natDexTier: "RU",
 	},
 	shinyabra: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "LC",
 	},
 	shinykadabra: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "NFE",
 	},
 	shinyalakazam: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "RUBL",
 	},
 	shinyalakazammega: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "Uber",
 	},
 	shinymachop: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "LC",
 	},
 	shinymachoke: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "NFE",
 	},
 	shinymachamp: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "RU",
 	},
 	shinymachampgmax: {
 		isNonstandard: "Past",
 		tier: "Illegal",
 	},
 	shinybellsprout: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinyweepinbell: {
-		tier: "Illegal",
+		tier: "NFE",
 	},
 	shinyvictreebel: {
+		tier: "ZU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
+	},
+	shinyvictreebelmega: {
+		isNonstandard: "Future",
 		tier: "Illegal",
 	},
 	shinytentacool: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinytentacruel: {
-		tier: "Illegal",
+		tier: "NU",
+		doublesTier: "(DUU)",
+		natDexTier: "UU",
 	},
 	shinygeodude: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinygeodudealola: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinygraveler: {
-		tier: "Illegal",
+		tier: "NFE",
 	},
 	shinygraveleralola: {
-		tier: "Illegal",
+		tier: "NFE",
 	},
 	shinygolem: {
-		tier: "Illegal",
+		tier: "ZU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinygolemalola: {
-		tier: "Illegal",
+		tier: "ZU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinyponyta: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "LC",
 	},
 	shinyponytagalar: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "LC",
 	},
 	shinyrapidash: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "RU",
 	},
 	shinyrapidashgalar: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "RU",
 	},
 	shinyslowpoke: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinyslowpokegalar: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinyslowbro: {
-		tier: "Illegal",
+		tier: "RU",
+		doublesTier: "(DUU)",
+		natDexTier: "UU",
 	},
 	shinyslowbromega: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "RUBL",
 	},
 	shinyslowbrogalar: {
-		tier: "Illegal",
+		tier: "NU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinyslowking: {
-		tier: "Illegal",
+		tier: "UU",
+		doublesTier: "(DUU)",
+		natDexTier: "UU",
 	},
 	shinyslowkinggalar: {
-		tier: "Illegal",
+		tier: "OU",
+		doublesTier: "(DUU)",
+		natDexTier: "OU",
 	},
 	shinymagnemite: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinymagneton: {
-		tier: "Illegal",
+		tier: "ZU",
 		doublesTier: "NFE",
+		natDexTier: "NFE",
 	},
 	shinymagnezone: {
-		tier: "Illegal",
+		tier: "RU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinyfarfetchd: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "RU",
 	},
 	shinyfarfetchdgalar: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "LC",
 	},
 	shinysirfetchd: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "RU",
 	},
 	shinydoduo: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinydodrio: {
-		tier: "Illegal",
+		tier: "ZU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinyseel: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinydewgong: {
-		tier: "Illegal",
+		tier: "ZU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinygrimer: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinygrimeralola: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinymuk: {
-		tier: "Illegal",
+		tier: "ZU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinymukalola: {
-		tier: "Illegal",
+		tier: "RU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinyshellder: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinycloyster: {
-		tier: "Illegal",
+		tier: "NUBL",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinygastly: {
-		tier: "Illegal",
+		tier: "NFE",
 	},
 	shinyhaunter: {
-		tier: "Illegal",
+		tier: "NFE",
 	},
 	shinygengar: {
-		tier: "Illegal",
+		tier: "RU",
+		doublesTier: "(DUU)",
+		natDexTier: "RUBL",
 	},
 	shinygengarmega: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "AG",
 	},
 	shinygengargmax: {
 		isNonstandard: "Past",
@@ -6614,258 +6782,343 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	shinyonix: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "LC",
 	},
 	shinysteelix: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "RU",
 	},
 	shinysteelixmega: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "RU",
 	},
 	shinydrowzee: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinyhypno: {
-		tier: "Illegal",
+		tier: "ZU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinykrabby: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "LC",
 	},
 	shinykingler: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "RU",
 	},
 	shinykinglergmax: {
 		isNonstandard: "Past",
 		tier: "Illegal",
 	},
 	shinyvoltorb: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinyvoltorbhisui: {
-		tier: "Illegal",
+		tier: "NFE",
+		doublesTier: "LC",
+		natDexTier: "LC",
 	},
 	shinyelectrode: {
-		tier: "Illegal",
+		tier: "ZU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinyelectrodehisui: {
-		tier: "Illegal",
+		tier: "ZUBL",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinyexeggcute: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinyexeggutor: {
-		tier: "Illegal",
+		tier: "ZU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinyexeggutoralola: {
-		tier: "Illegal",
+		tier: "ZU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinycubone: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "LC",
 	},
 	shinymarowak: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "RU",
 	},
 	shinymarowakalola: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "RU",
 	},
 	shinymarowakalolatotem: {
 		isNonstandard: "Past",
 		tier: "Illegal",
 	},
 	shinytyrogue: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinyhitmonlee: {
-		tier: "Illegal",
+		tier: "PU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinyhitmonchan: {
-		tier: "Illegal",
+		tier: "ZU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinyhitmontop: {
-		tier: "Illegal",
+		tier: "ZU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinylickitung: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "LC",
 	},
 	shinylickilicky: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "RU",
 	},
 	shinykoffing: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinyweezing: {
-		tier: "Illegal",
+		tier: "ZU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinyweezinggalar: {
-		tier: "Illegal",
+		tier: "OU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinyrhyhorn: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinyrhydon: {
-		tier: "Illegal",
+		tier: "PU",
 		doublesTier: "NFE",
+		natDexTier: "NFE",
 	},
 	shinyrhyperior: {
-		tier: "Illegal",
+		tier: "NU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinyhappiny: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinychansey: {
-		tier: "Illegal",
+		tier: "NU",
 		doublesTier: "NFE",
+		natDexTier: "UU",
 	},
 	shinyblissey: {
-		tier: "Illegal",
+		tier: "RU",
+		doublesTier: "(DUU)",
+		natDexTier: "UU",
 	},
 	shinytangela: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "NFE",
 	},
 	shinytangrowth: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "RU",
 	},
 	shinykangaskhan: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "RU",
 	},
 	shinykangaskhanmega: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "Uber",
 	},
 	shinyhorsea: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinyseadra: {
-		tier: "Illegal",
+		tier: "NFE",
 	},
 	shinykingdra: {
-		tier: "Illegal",
+		tier: "ZUBL",
+		doublesTier: "DUU",
+		natDexTier: "RU",
 	},
 	shinygoldeen: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "LC",
 	},
 	shinyseaking: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "RU",
 	},
 	shinystaryu: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "LC",
 	},
 	shinystarmie: {
 		isNonstandard: "Past",
+		tier: "Illegal",
+		natDexTier: "RU",
+	},
+	shinystarmiemega: {
+		isNonstandard: "Future",
 		tier: "Illegal",
 	},
 	shinymimejr: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "LC",
 	},
 	shinymrmime: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "RU",
 	},
 	shinymrmimegalar: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "NFE",
 	},
 	shinymrrime: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "RU",
 	},
 	shinyscyther: {
-		tier: "Illegal",
+		tier: "NU",
 		doublesTier: "NFE",
+		natDexTier: "NFE",
 	},
 	shinyscizor: {
-		tier: "Illegal",
+		tier: "UU",
+		doublesTier: "(DUU)",
+		natDexTier: "UU",
 	},
 	shinyscizormega: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "OU",
 	},
 	shinykleavor: {
-		tier: "Illegal",
+		tier: "RU",
+		doublesTier: "DUU",
+		natDexTier: "RU",
 	},
 	shinysmoochum: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "LC",
 	},
 	shinyjynx: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "RU",
 	},
 	shinyelekid: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinyelectabuzz: {
-		tier: "Illegal",
+		tier: "NFE",
 	},
 	shinyelectivire: {
-		tier: "Illegal",
+		tier: "ZU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinymagby: {
-		tier: "Illegal",
+		tier: "NFE",
 	},
 	shinymagmar: {
-		tier: "Illegal",
+		tier: "NFE",
 	},
 	shinymagmortar: {
-		tier: "Illegal",
+		tier: "ZU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinypinsir: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "RU",
 	},
 	shinypinsirmega: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "UUBL",
 	},
 	shinytauros: {
-		tier: "Illegal",
+		tier: "ZU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinytaurospaldeacombat: {
-		tier: "Illegal",
+		tier: "ZU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinytaurospaldeablaze: {
-		tier: "Illegal",
+		tier: "PU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinytaurospaldeaaqua: {
-		tier: "Illegal",
+		tier: "NU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinymagikarp: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinygyarados: {
-		tier: "Illegal",
+		tier: "RUBL",
+		doublesTier: "(DUU)",
+		natDexTier: "UUBL",
 	},
 	shinygyaradosmega: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "UUBL",
 	},
 	shinylapras: {
-		tier: "Illegal",
+		tier: "ZU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinylaprasgmax: {
 		isNonstandard: "Past",
 		tier: "Illegal",
 	},
 	shinyditto: {
-		tier: "Illegal",
+		tier: "ZU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinyeevee: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinyeeveestarter: {
 		isNonstandard: "LGPE",
@@ -6876,879 +7129,1182 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 		tier: "Illegal",
 	},
 	shinyvaporeon: {
-		tier: "Illegal",
+		tier: "NU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinyjolteon: {
-		tier: "Illegal",
+		tier: "ZU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinyflareon: {
-		tier: "Illegal",
+		tier: "ZU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinyespeon: {
-		tier: "Illegal",
+		tier: "NU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinyumbreon: {
-		tier: "Illegal",
+		tier: "RU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinyleafeon: {
-		tier: "Illegal",
+		tier: "ZU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinyglaceon: {
-		tier: "Illegal",
+		tier: "ZU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinysylveon: {
-		tier: "Illegal",
+		tier: "NU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinyporygon: {
-		tier: "Illegal",
+		tier: "NFE",
 	},
 	shinyporygon2: {
-		tier: "Illegal",
+		tier: "ZUBL",
+		doublesTier: "DUU",
+		natDexTier: "NFE",
 	},
 	shinyporygonz: {
-		tier: "Illegal",
+		tier: "RU",
+		doublesTier: "(DUU)",
+		natDexTier: "UU",
 	},
 	shinyomanyte: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "LC",
 	},
 	shinyomastar: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "RU",
 	},
 	shinykabuto: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "LC",
 	},
 	shinykabutops: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "RU",
 	},
 	shinyaerodactyl: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "RU",
 	},
 	shinyaerodactylmega: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "UU",
 	},
 	shinymunchlax: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinysnorlax: {
-		tier: "Illegal",
+		tier: "ZU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinysnorlaxgmax: {
 		isNonstandard: "Past",
 		tier: "Illegal",
 	},
 	shinyarticuno: {
-		tier: "Illegal",
+		tier: "ZU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinyarticunogalar: {
-		tier: "Illegal",
+		tier: "NU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinyzapdos: {
-		tier: "Illegal",
+		tier: "OU",
+		doublesTier: "(DUU)",
+		natDexTier: "OU",
 	},
 	shinyzapdosgalar: {
-		tier: "Illegal",
+		tier: "UU",
+		doublesTier: "(DUU)",
+		natDexTier: "UUBL",
 	},
 	shinymoltres: {
-		tier: "Illegal",
+		tier: "OU",
+		doublesTier: "(DUU)",
+		natDexTier: "OU",
 	},
 	shinymoltresgalar: {
-		tier: "Illegal",
+		tier: "UUBL",
+		doublesTier: "DUU",
+		natDexTier: "RUBL",
 	},
 	shinydratini: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinydragonair: {
-		tier: "Illegal",
+		tier: "NFE",
 	},
 	shinydragonite: {
+		tier: "OU",
+		doublesTier: "DOU",
+		natDexTier: "OU",
+	},
+	shinydragonitemega: {
+		isNonstandard: "Future",
 		tier: "Illegal",
 	},
 	shinymewtwo: {
-		tier: "Illegal",
+		tier: "Uber",
+		doublesTier: "DUber",
+		natDexTier: "Uber",
 	},
 	shinymewtwomegax: {
+		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "Uber",
 	},
 	shinymewtwomegay: {
+		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "Uber",
 	},
 	shinymew: {
-		tier: "Illegal",
+		tier: "RU",
+		doublesTier: "DUU",
+		natDexTier: "UU",
 	},
 	shinychikorita: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinybayleef: {
-		tier: "Illegal",
+		tier: "NFE",
 	},
 	shinymeganium: {
+		tier: "ZU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
+	},
+	shinymeganiummega: {
+		isNonstandard: "Future",
 		tier: "Illegal",
 	},
 	shinycyndaquil: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinyquilava: {
-		tier: "Illegal",
+		tier: "NFE",
 	},
 	shinytyphlosion: {
-		tier: "Illegal",
+		tier: "ZU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinytyphlosionhisui: {
-		tier: "Illegal",
+		tier: "PU",
+		doublesTier: "DUU",
+		natDexTier: "RU",
 	},
 	shinytotodile: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinycroconaw: {
-		tier: "Illegal",
+		tier: "NFE",
 	},
 	shinyferaligatr: {
+		tier: "NUBL",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
+	},
+	shinyferaligatrmega: {
+		isNonstandard: "Future",
 		tier: "Illegal",
 	},
 	shinysentret: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinyfurret: {
-		tier: "Illegal",
+		tier: "ZU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinyhoothoot: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinynoctowl: {
-		tier: "Illegal",
+		tier: "ZU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinyledyba: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "LC",
 	},
 	shinyledian: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "RU",
 	},
 	shinyspinarak: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinyariados: {
-		tier: "Illegal",
+		tier: "ZU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinychinchou: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinylanturn: {
-		tier: "Illegal",
+		tier: "ZU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinytogepi: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "LC",
 	},
 	shinytogetic: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "NFE",
 	},
 	shinytogekiss: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "RU",
 	},
 	shinynatu: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "LC",
 	},
 	shinyxatu: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "RU",
 	},
 	shinymareep: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinyflaaffy: {
-		tier: "Illegal",
+		tier: "NFE",
 	},
 	shinyampharos: {
-		tier: "Illegal",
+		tier: "ZU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinyampharosmega: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "RU",
 	},
 	shinyazurill: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinymarill: {
-		tier: "Illegal",
+		tier: "NFE",
 	},
 	shinyazumarill: {
-		tier: "Illegal",
+		tier: "UU",
+		doublesTier: "(DUU)",
+		natDexTier: "RUBL",
 	},
 	shinybonsly: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinysudowoodo: {
-		tier: "Illegal",
+		tier: "ZU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinyhoppip: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinyskiploom: {
-		tier: "Illegal",
+		tier: "NFE",
 	},
 	shinyjumpluff: {
-		tier: "Illegal",
+		tier: "ZU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinyaipom: {
-		tier: "Illegal",
+		tier: "NFE",
 	},
 	shinyambipom: {
-		tier: "Illegal",
+		tier: "PU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinysunkern: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinysunflora: {
-		tier: "Illegal",
+		tier: "ZU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinyyanma: {
-		tier: "Illegal",
+		tier: "NFE",
 	},
 	shinyyanmega: {
-		tier: "Illegal",
+		tier: "RUBL",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinywooper: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinywooperpaldea: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinyquagsire: {
-		tier: "Illegal",
+		tier: "RU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinymurkrow: {
-		tier: "Illegal",
+		tier: "NFE",
+		doublesTier: "DUU",
 	},
 	shinyhonchkrow: {
-		tier: "Illegal",
+		tier: "ZU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinymisdreavus: {
-		tier: "Illegal",
+		tier: "NFE",
 	},
 	shinymismagius: {
-		tier: "Illegal",
+		tier: "PU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinyunown: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "RU",
 	},
 	shinywynaut: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "LC",
 	},
 	shinywobbuffet: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "RU",
 	},
 	shinygirafarig: {
-		tier: "Illegal",
+		tier: "NFE",
 	},
 	shinyfarigiraf: {
-		tier: "Illegal",
+		tier: "ZU",
+		doublesTier: "DOU",
+		natDexTier: "RU",
 	},
 	shinypineco: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinyforretress: {
-		tier: "Illegal",
+		tier: "RU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinydunsparce: {
-		tier: "Illegal",
+		tier: "NFE",
 	},
 	shinydudunsparce: {
-		tier: "Illegal",
+		tier: "NU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinygligar: {
-		tier: "Illegal",
+		tier: "NU",
 		doublesTier: "NFE",
+		natDexTier: "NFE",
 	},
 	shinygliscor: {
-		tier: "Illegal",
+		tier: "OU",
+		doublesTier: "(DUU)",
+		natDexTier: "OU",
 	},
 	shinysnubbull: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinygranbull: {
-		tier: "Illegal",
+		tier: "ZU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinyqwilfish: {
-		tier: "Illegal",
+		tier: "PU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinyqwilfishhisui: {
-		tier: "Illegal",
+		tier: "PU",
 		doublesTier: "NFE",
+		natDexTier: "NFE",
 	},
 	shinyoverqwil: {
-		tier: "Illegal",
+		tier: "NU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinyshuckle: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "RU",
 	},
 	shinyheracross: {
-		tier: "Illegal",
+		tier: "PUBL",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinyheracrossmega: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "UU",
 	},
 	shinysneasel: {
-		tier: "Illegal",
-		doublesTier: "NFE",
+		tier: "NFE",
 	},
 	shinysneaselhisui: {
-		tier: "Illegal",
+		tier: "ZU",
+		doublesTier: "NFE",
+		natDexTier: "NFE",
 	},
 	shinyweavile: {
-		tier: "Illegal",
+		tier: "UU",
+		doublesTier: "(DUU)",
+		natDexTier: "UUBL",
 	},
 	shinysneasler: {
-		tier: "Illegal",
+		tier: "Uber",
+		doublesTier: "DOU",
+		natDexTier: "Uber",
 	},
 	shinyteddiursa: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinyursaring: {
-		tier: "Illegal",
+		tier: "NFE",
 	},
 	shinyursaluna: {
-		tier: "Illegal",
+		tier: "UUBL",
+		doublesTier: "DOU",
+		natDexTier: "UU",
 	},
 	shinyursalunabloodmoon: {
-		tier: "Illegal",
+		tier: "Uber",
+		doublesTier: "DOU",
+		natDexTier: "Uber",
 	},
 	shinyslugma: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinymagcargo: {
-		tier: "Illegal",
+		tier: "ZU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinyswinub: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinypiloswine: {
-		tier: "Illegal",
+		tier: "NFE",
 	},
 	shinymamoswine: {
-		tier: "Illegal",
+		tier: "RUBL",
+		doublesTier: "(DUU)",
+		natDexTier: "RUBL",
 	},
 	shinycorsola: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "RU",
 	},
 	shinycorsolagalar: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "NFE",
 	},
 	shinycursola: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "RU",
 	},
 	shinyremoraid: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "LC",
 	},
 	shinyoctillery: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "RU",
 	},
 	shinydelibird: {
-		tier: "Illegal",
+		tier: "ZU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinymantyke: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "LC",
 	},
 	shinymantine: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "RU",
 	},
 	shinyskarmory: {
+		tier: "UU",
+		doublesTier: "(DUU)",
+		natDexTier: "UU",
+	},
+	shinyskarmorymega: {
+		isNonstandard: "Future",
 		tier: "Illegal",
 	},
 	shinyhoundour: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinyhoundoom: {
-		tier: "Illegal",
+		tier: "ZU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinyhoundoommega: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "RU",
 	},
 	shinyphanpy: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinydonphan: {
-		tier: "Illegal",
+		tier: "UU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinystantler: {
-		tier: "Illegal",
+		tier: "NFE",
 	},
 	shinywyrdeer: {
-		tier: "Illegal",
+		tier: "ZU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinysmeargle: {
-		tier: "Illegal",
+		tier: "ZU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinymiltank: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "RU",
 	},
 	shinyraikou: {
-		tier: "Illegal",
+		tier: "NU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinyentei: {
-		tier: "Illegal",
+		tier: "RU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinysuicune: {
-		tier: "Illegal",
+		tier: "RU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinylarvitar: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinypupitar: {
-		tier: "Illegal",
+		tier: "NFE",
 	},
 	shinytyranitar: {
-		tier: "Illegal",
+		tier: "OU",
+		doublesTier: "DOU",
+		natDexTier: "UU",
 	},
 	shinytyranitarmega: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "UUBL",
 	},
 	shinylugia: {
-		tier: "Illegal",
+		tier: "Uber",
+		doublesTier: "DUber",
+		natDexTier: "Uber",
 	},
 	shinyhooh: {
-		tier: "Illegal",
+		tier: "Uber",
+		doublesTier: "DUber",
+		natDexTier: "Uber",
 	},
 	shinycelebi: {
+		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "RU",
 	},
 	shinytreecko: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinygrovyle: {
-		tier: "Illegal",
+		tier: "NFE",
 	},
 	shinysceptile: {
-		tier: "Illegal",
+		tier: "ZU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinysceptilemega: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "RU",
 	},
 	shinytorchic: {
-		tier: "Illegal",
+		tier: "NFE",
 	},
 	shinycombusken: {
-		tier: "Illegal",
+		tier: "NFE",
 	},
 	shinyblaziken: {
-		tier: "Illegal",
+		tier: "UUBL",
+		doublesTier: "(DUU)",
+		natDexTier: "UUBL",
 	},
 	shinyblazikenmega: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "Uber",
 	},
 	shinymudkip: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinymarshtomp: {
-		tier: "Illegal",
+		tier: "NFE",
 	},
 	shinyswampert: {
-		tier: "Illegal",
+		tier: "NU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinyswampertmega: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "UU",
 	},
 	shinypoochyena: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinymightyena: {
-		tier: "Illegal",
+		tier: "ZU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinyzigzagoon: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "NFE",
 	},
 	shinyzigzagoongalar: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "LC",
 	},
 	shinylinoone: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "RU",
 	},
 	shinylinoonegalar: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "NFE",
 	},
 	shinyobstagoon: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "RU",
 	},
 	shinywurmple: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "LC",
 	},
 	shinysilcoon: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "NFE",
 	},
 	shinybeautifly: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "RU",
 	},
 	shinycascoon: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "NFE",
 	},
 	shinydustox: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "RU",
 	},
 	shinylotad: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinylombre: {
-		tier: "Illegal",
+		tier: "NFE",
 	},
 	shinyludicolo: {
-		tier: "Illegal",
+		tier: "ZU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinyseedot: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinynuzleaf: {
-		tier: "Illegal",
+		tier: "NFE",
 	},
 	shinyshiftry: {
-		tier: "Illegal",
+		tier: "ZU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinytaillow: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "LC",
 	},
 	shinyswellow: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "RU",
 	},
 	shinywingull: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinypelipper: {
-		tier: "Illegal",
+		tier: "UUBL",
+		doublesTier: "DOU",
+		natDexTier: "RU",
 	},
 	shinyralts: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinykirlia: {
-		tier: "Illegal",
+		tier: "NFE",
 	},
 	shinygardevoir: {
-		tier: "Illegal",
+		tier: "RU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinygardevoirmega: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "RUBL",
 	},
 	shinygallade: {
-		tier: "Illegal",
+		tier: "RU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinygallademega: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "UUBL",
 	},
 	shinysurskit: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinymasquerain: {
-		tier: "Illegal",
+		tier: "ZU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinyshroomish: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinybreloom: {
-		tier: "Illegal",
+		tier: "RU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinyslakoth: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinyvigoroth: {
-		tier: "Illegal",
+		tier: "NFE",
 	},
 	shinyslaking: {
-		tier: "Illegal",
+		tier: "ZU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinynincada: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "LC",
 	},
 	shinyninjask: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "RU",
 	},
 	shinyshedinja: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "RU",
 	},
 	shinywhismur: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "LC",
 	},
 	shinyloudred: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "NFE",
 	},
 	shinyexploud: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "RU",
 	},
 	shinymakuhita: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinyhariyama: {
-		tier: "Illegal",
+		tier: "PU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinynosepass: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinyprobopass: {
-		tier: "Illegal",
+		tier: "ZU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinyskitty: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "LC",
 	},
 	shinydelcatty: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "RU",
 	},
 	shinysableye: {
-		tier: "Illegal",
+		tier: "ZU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinysableyemega: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "RUBL",
 	},
 	shinymawile: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "RU",
 	},
 	shinymawilemega: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "UUBL",
 	},
 	shinyaron: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "LC",
 	},
 	shinylairon: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "NFE",
 	},
 	shinyaggron: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "RU",
 	},
 	shinyaggronmega: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "RU",
 	},
 	shinymeditite: {
-		tier: "Illegal",
+		tier: "NFE",
 	},
 	shinymedicham: {
-		tier: "Illegal",
+		tier: "ZU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinymedichammega: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "UUBL",
 	},
 	shinyelectrike: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "LC",
 	},
 	shinymanectric: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "RU",
 	},
 	shinymanectricmega: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "RU",
 	},
 	shinyplusle: {
-		tier: "Illegal",
+		tier: "ZU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinyminun: {
-		tier: "Illegal",
+		tier: "ZU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinyvolbeat: {
-		tier: "Illegal",
+		tier: "ZU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinyillumise: {
-		tier: "Illegal",
+		tier: "ZU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinybudew: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "LC",
 	},
 	shinyroselia: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "NFE",
 	},
 	shinyroserade: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "RU",
 	},
 	shinygulpin: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinyswalot: {
-		tier: "Illegal",
+		tier: "ZU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinycarvanha: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "LC",
 	},
 	shinysharpedo: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "RU",
 	},
 	shinysharpedomega: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "RUBL",
 	},
 	shinywailmer: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "LC",
 	},
 	shinywailord: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "RU",
 	},
 	shinynumel: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinycamerupt: {
-		tier: "Illegal",
+		tier: "ZU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinycameruptmega: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "RU",
 	},
 	shinytorkoal: {
-		tier: "Illegal",
+		tier: "ZU",
+		doublesTier: "DOU",
+		natDexTier: "RU",
 	},
 	shinyspoink: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinygrumpig: {
-		tier: "Illegal",
+		tier: "ZU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinyspinda: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "RU",
 	},
 	shinytrapinch: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinyvibrava: {
-		tier: "Illegal",
+		tier: "NFE",
 	},
 	shinyflygon: {
-		tier: "Illegal",
+		tier: "NU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinycacnea: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinycacturne: {
-		tier: "Illegal",
+		tier: "ZU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinyswablu: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinyaltaria: {
-		tier: "Illegal",
+		tier: "NU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinyaltariamega: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "RUBL",
 	},
 	shinyzangoose: {
-		tier: "Illegal",
+		tier: "ZU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinyseviper: {
-		tier: "Illegal",
+		tier: "ZU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinylunatone: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "RU",
 	},
 	shinysolrock: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "RU",
 	},
 	shinybarboach: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinywhiscash: {
-		tier: "Illegal",
+		tier: "ZU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinycorphish: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinycrawdaunt: {
-		tier: "Illegal",
+		tier: "RU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinybaltoy: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "LC",
 	},
 	shinyclaydol: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "RU",
 	},
 	shinylileep: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "LC",
 	},
 	shinycradily: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "RU",
 	},
 	shinyanorith: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "LC",
 	},
 	shinyarmaldo: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "RU",
 	},
 	shinyfeebas: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinymilotic: {
-		tier: "Illegal",
+		tier: "PU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinycastform: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "RU",
 	},
 	shinycastformsunny: {
 		isNonstandard: "Past",
@@ -7762,709 +8318,1003 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	shinykecleon: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "RU",
 	},
 	shinyshuppet: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinybanette: {
-		tier: "Illegal",
+		tier: "ZU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinybanettemega: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "RU",
 	},
 	shinyduskull: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinydusclops: {
-		tier: "Illegal",
+		tier: "NFE",
 	},
 	shinydusknoir: {
-		tier: "Illegal",
+		tier: "ZU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinytropius: {
-		tier: "Illegal",
+		tier: "ZU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinychingling: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinychimecho: {
+		tier: "ZU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
+	},
+	shinychimechomega: {
+		isNonstandard: "Future",
 		tier: "Illegal",
 	},
 	shinyabsol: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "RU",
 	},
 	shinyabsolmega: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "RU",
+	},
+	shinyabsolmegaz: {
+		isNonstandard: "Future",
+		tier: "Illegal",
 	},
 	shinysnorunt: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinyglalie: {
-		tier: "Illegal",
+		tier: "ZU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinyglaliemega: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "RU",
 	},
 	shinyfroslass: {
+		tier: "ZU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
+	},
+	shinyfroslassmega: {
+		isNonstandard: "Future",
 		tier: "Illegal",
 	},
 	shinyspheal: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "LC",
 	},
 	shinysealeo: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "NFE",
 	},
 	shinywalrein: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "RU",
 	},
 	shinyclamperl: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "NFE",
 	},
 	shinyhuntail: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "RU",
 	},
 	shinygorebyss: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "RU",
 	},
 	shinyrelicanth: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "RU",
 	},
 	shinyluvdisc: {
-		tier: "Illegal",
+		tier: "ZU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinybagon: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinyshelgon: {
-		tier: "Illegal",
+		tier: "NFE",
 	},
 	shinysalamence: {
-		tier: "Illegal",
+		tier: "RUBL",
+		doublesTier: "(DUU)",
+		natDexTier: "RUBL",
 	},
 	shinysalamencemega: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "Uber",
 	},
 	shinybeldum: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinymetang: {
-		tier: "Illegal",
+		tier: "NFE",
 	},
 	shinymetagross: {
-		tier: "Illegal",
+		tier: "UU",
+		doublesTier: "DUU",
+		natDexTier: "RU",
 	},
 	shinymetagrossmega: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "Uber",
 	},
 	shinyregirock: {
-		tier: "Illegal",
+		tier: "ZU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinyregice: {
-		tier: "Illegal",
+		tier: "ZU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinyregisteel: {
-		tier: "Illegal",
+		tier: "RU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinylatias: {
-		tier: "Illegal",
+		tier: "UUBL",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinylatiasmega: {
+		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "RUBL",
 	},
 	shinylatios: {
-		tier: "Illegal",
+		tier: "UU",
+		doublesTier: "(DUU)",
+		natDexTier: "UUBL",
 	},
 	shinylatiosmega: {
+		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "OU",
 	},
 	shinykyogre: {
-		tier: "Illegal",
+		tier: "Uber",
+		doublesTier: "DUber",
+		natDexTier: "Uber",
 	},
 	shinykyogreprimal: {
+		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "Uber",
 	},
 	shinygroudon: {
-		tier: "Illegal",
+		tier: "Uber",
+		doublesTier: "DUber",
+		natDexTier: "Uber",
 	},
 	shinygroudonprimal: {
+		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "Uber",
 	},
 	shinyrayquaza: {
-		tier: "Illegal",
+		tier: "Uber",
+		doublesTier: "DUber",
+		natDexTier: "Uber",
 	},
 	shinyrayquazamega: {
+		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "AG",
 	},
 	shinyjirachi: {
-		tier: "Illegal",
+		tier: "RU",
+		doublesTier: "(DUU)",
+		natDexTier: "RUBL",
 	},
 	shinydeoxys: {
-		tier: "Illegal",
+		tier: "Uber",
+		doublesTier: "(DUU)",
+		natDexTier: "Uber",
 	},
 	shinydeoxysattack: {
-		tier: "Illegal",
+		tier: "Uber",
+		doublesTier: "DUber",
+		natDexTier: "Uber",
 	},
 	shinydeoxysdefense: {
-		tier: "Illegal",
+		tier: "NUBL",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinydeoxysspeed: {
-		tier: "Illegal",
+		tier: "OU",
+		doublesTier: "(DUU)",
+		natDexTier: "Uber",
 	},
 	shinyturtwig: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinygrotle: {
-		tier: "Illegal",
+		tier: "NFE",
 	},
 	shinytorterra: {
-		tier: "Illegal",
+		tier: "RU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinychimchar: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinymonferno: {
-		tier: "Illegal",
+		tier: "NFE",
 	},
 	shinyinfernape: {
-		tier: "Illegal",
+		tier: "NU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinypiplup: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinyprinplup: {
-		tier: "Illegal",
+		tier: "NFE",
 	},
 	shinyempoleon: {
-		tier: "Illegal",
+		tier: "RU",
+		doublesTier: "(DUU)",
+		natDexTier: "UU",
 	},
 	shinystarly: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinystaravia: {
-		tier: "Illegal",
+		tier: "NFE",
 	},
 	shinystaraptor: {
+		tier: "NU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
+	},
+	shinystaraptormega: {
+		isNonstandard: "Future",
 		tier: "Illegal",
 	},
 	shinybidoof: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "LC",
 	},
 	shinybibarel: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "RU",
 	},
 	shinykricketot: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinykricketune: {
-		tier: "Illegal",
+		tier: "ZU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinyshinx: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinyluxio: {
-		tier: "Illegal",
+		tier: "NFE",
 	},
 	shinyluxray: {
-		tier: "Illegal",
+		tier: "ZU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinycranidos: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinyrampardos: {
-		tier: "Illegal",
+		tier: "ZU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinyshieldon: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinybastiodon: {
-		tier: "Illegal",
+		tier: "ZU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinyburmy: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "LC",
 	},
 	shinywormadam: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "RU",
 	},
 	shinywormadamsandy: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "RU",
 	},
 	shinywormadamtrash: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "RU",
 	},
 	shinymothim: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "RU",
 	},
 	shinycombee: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinyvespiquen: {
-		tier: "Illegal",
+		tier: "ZU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinypachirisu: {
-		tier: "Illegal",
+		tier: "ZU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinybuizel: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinyfloatzel: {
-		tier: "Illegal",
+		tier: "PU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinycherubi: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "LC",
 	},
 	shinycherrim: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "RU",
 	},
 	shinycherrimsunshine: {
 		isNonstandard: "Past",
 	},
 	shinyshellos: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinygastrodon: {
-		tier: "Illegal",
+		tier: "RU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinydrifloon: {
-		tier: "Illegal",
+		tier: "LC",
+		natDexTier: "NFE",
 	},
 	shinydrifblim: {
-		tier: "Illegal",
+		tier: "ZU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinybuneary: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "LC",
 	},
 	shinylopunny: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "RU",
 	},
 	shinylopunnymega: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "OU",
 	},
 	shinyglameow: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "LC",
 	},
 	shinypurugly: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "RU",
 	},
 	shinystunky: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinyskuntank: {
-		tier: "Illegal",
+		tier: "PU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinybronzor: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinybronzong: {
-		tier: "Illegal",
+		tier: "NU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinychatot: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "RU",
 	},
 	shinyspiritomb: {
-		tier: "Illegal",
+		tier: "ZU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinygible: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinygabite: {
-		tier: "Illegal",
+		tier: "NFE",
 	},
 	shinygarchomp: {
-		tier: "Illegal",
+		tier: "UUBL",
+		doublesTier: "DUU",
+		natDexTier: "OU",
 	},
 	shinygarchompmega: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "(OU)",
+	},
+	shinygarchompmegaz: {
+		isNonstandard: "Future",
+		tier: "Illegal",
 	},
 	shinyriolu: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinylucario: {
-		tier: "Illegal",
+		tier: "NUBL",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinylucariomega: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "Uber",
+	},
+	shinylucariomegaz: {
+		isNonstandard: "Future",
+		tier: "Illegal",
 	},
 	shinyhippopotas: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinyhippowdon: {
-		tier: "Illegal",
+		tier: "UU",
+		doublesTier: "DUU",
+		natDexTier: "UU",
 	},
 	shinyskorupi: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "LC",
 	},
 	shinydrapion: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "RU",
 	},
 	shinycroagunk: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinytoxicroak: {
-		tier: "Illegal",
+		tier: "ZU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinycarnivine: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "RU",
 	},
 	shinyfinneon: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinylumineon: {
-		tier: "Illegal",
+		tier: "ZU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinysnover: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinyabomasnow: {
-		tier: "Illegal",
+		tier: "ZU",
+		doublesTier: "DUU",
+		natDexTier: "RU",
 	},
 	shinyabomasnowmega: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "RU",
 	},
 	shinyrotom: {
-		tier: "Illegal",
+		tier: "ZU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinyrotomheat: {
-		tier: "Illegal",
+		tier: "PU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinyrotomwash: {
-		tier: "Illegal",
+		tier: "UU",
+		doublesTier: "(DUU)",
+		natDexTier: "UU",
 	},
 	shinyrotomfrost: {
-		tier: "Illegal",
+		tier: "ZU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinyrotomfan: {
-		tier: "Illegal",
+		tier: "ZU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinyrotommow: {
-		tier: "Illegal",
+		tier: "ZU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinyuxie: {
-		tier: "Illegal",
+		tier: "PU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinymesprit: {
-		tier: "Illegal",
+		tier: "ZU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinyazelf: {
-		tier: "Illegal",
+		tier: "NUBL",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinydialga: {
-		tier: "Illegal",
+		tier: "Uber",
+		doublesTier: "DUber",
+		natDexTier: "Uber",
 	},
 	shinydialgaorigin: {
-		tier: "Illegal",
+		tier: "Uber",
+		doublesTier: "DUber",
+		natDexTier: "Uber",
 	},
 	shinypalkia: {
-		tier: "Illegal",
+		tier: "Uber",
+		doublesTier: "DUber",
+		natDexTier: "Uber",
 	},
 	shinypalkiaorigin: {
-		tier: "Illegal",
+		tier: "Uber",
+		doublesTier: "DUber",
+		natDexTier: "Uber",
 	},
 	shinyheatran: {
+		tier: "OU",
+		doublesTier: "DUU",
+		natDexTier: "OU",
+	},
+	shinyheatranmega: {
+		isNonstandard: "Future",
 		tier: "Illegal",
 	},
 	shinyregigigas: {
-		tier: "Illegal",
+		tier: "ZU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinygiratina: {
-		tier: "Illegal",
+		tier: "Uber",
+		doublesTier: "DUber",
+		natDexTier: "Uber",
 	},
 	shinygiratinaorigin: {
-		tier: "Illegal",
+		tier: "Uber",
+		doublesTier: "DUber",
+		natDexTier: "Uber",
 	},
 	shinycresselia: {
-		tier: "Illegal",
+		tier: "NUBL",
+		doublesTier: "DOU",
+		natDexTier: "RU",
 	},
 	shinyphione: {
-		tier: "Illegal",
+		tier: "ZU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinymanaphy: {
-		tier: "Illegal",
+		tier: "UU",
+		doublesTier: "(DUU)",
+		natDexTier: "UUBL",
 	},
 	shinydarkrai: {
+		tier: "OU",
+		doublesTier: "DUber",
+		natDexTier: "Uber",
+	},
+	shinydarkraimega: {
+		isNonstandard: "Future",
 		tier: "Illegal",
 	},
 	shinyshaymin: {
-		tier: "Illegal",
+		tier: "ZU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinyshayminsky: {
-		tier: "Illegal",
+		tier: "Uber",
+		doublesTier: "(DUU)",
+		natDexTier: "Uber",
 	},
 	shinyarceus: {
-		tier: "Illegal",
+		tier: "Uber",
+		doublesTier: "DUber",
+		natDexTier: "Uber",
 	},
 	shinyvictini: {
+		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "UU",
 	},
 	shinysnivy: {
-		tier: "Illegal",
+		tier: "NFE",
 	},
 	shinyservine: {
-		tier: "Illegal",
+		tier: "NFE",
 	},
 	shinyserperior: {
-		tier: "Illegal",
+		tier: "RUBL",
+		doublesTier: "(DUU)",
+		natDexTier: "UU",
 	},
 	shinytepig: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinypignite: {
-		tier: "Illegal",
+		tier: "NFE",
 	},
 	shinyemboar: {
+		tier: "ZUBL",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
+	},
+	shinyemboarmega: {
+		isNonstandard: "Future",
 		tier: "Illegal",
 	},
 	shinyoshawott: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinydewott: {
-		tier: "Illegal",
+		tier: "NFE",
 	},
 	shinysamurott: {
-		tier: "Illegal",
+		tier: "ZU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinysamurotthisui: {
-		tier: "Illegal",
+		tier: "OU",
+		doublesTier: "(DUU)",
+		natDexTier: "OU",
 	},
 	shinypatrat: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "LC",
 	},
 	shinywatchog: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "RU",
 	},
 	shinylillipup: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "LC",
 	},
 	shinyherdier: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "NFE",
 	},
 	shinystoutland: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "RU",
 	},
 	shinypurrloin: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "LC",
 	},
 	shinyliepard: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "RU",
 	},
 	shinypansage: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "LC",
 	},
 	shinysimisage: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "RU",
 	},
 	shinypansear: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "LC",
 	},
 	shinysimisear: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "RU",
 	},
 	shinypanpour: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "LC",
 	},
 	shinysimipour: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "RU",
 	},
 	shinymunna: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "LC",
 	},
 	shinymusharna: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "RU",
 	},
 	shinypidove: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "LC",
 	},
 	shinytranquill: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "NFE",
 	},
 	shinyunfezant: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "RU",
 	},
 	shinyblitzle: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinyzebstrika: {
-		tier: "Illegal",
+		tier: "ZU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinyroggenrola: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "LC",
 	},
 	shinyboldore: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "NFE",
 	},
 	shinygigalith: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "RU",
 	},
 	shinywoobat: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "NFE",
 	},
 	shinyswoobat: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "RU",
 	},
 	shinydrilbur: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinyexcadrill: {
+		tier: "UU",
+		doublesTier: "(DUU)",
+		natDexTier: "UU",
+	},
+	shinyexcadrillmega: {
+		isNonstandard: "Future",
 		tier: "Illegal",
 	},
 	shinyaudino: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "RU",
 	},
 	shinyaudinomega: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "RU",
 	},
 	shinytimburr: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinygurdurr: {
-		tier: "Illegal",
+		tier: "NFE",
 	},
 	shinyconkeldurr: {
-		tier: "Illegal",
+		tier: "UU",
+		doublesTier: "(DUU)",
+		natDexTier: "RUBL",
 	},
 	shinytympole: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "LC",
 	},
 	shinypalpitoad: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "NFE",
 	},
 	shinyseismitoad: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "RU",
 	},
 	shinythroh: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "RU",
 	},
 	shinysawk: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "RU",
 	},
 	shinysewaddle: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinyswadloon: {
-		tier: "Illegal",
+		tier: "NFE",
 	},
 	shinyleavanny: {
-		tier: "Illegal",
+		tier: "ZU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinyvenipede: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "LC",
 	},
 	shinywhirlipede: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "NFE",
 	},
 	shinyscolipede: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "RUBL",
+	},
+	shinyscolipedemega: {
+		isNonstandard: "Future",
+		tier: "Illegal",
 	},
 	shinycottonee: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinywhimsicott: {
-		tier: "Illegal",
+		tier: "ZU",
+		doublesTier: "DOU",
+		natDexTier: "RU",
 	},
 	shinypetilil: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinylilligant: {
-		tier: "Illegal",
+		tier: "ZU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinylilliganthisui: {
-		tier: "Illegal",
+		tier: "RUBL",
+		doublesTier: "(DUU)",
+		natDexTier: "RUBL",
 	},
 	shinybasculin: {
-		tier: "Illegal",
+		tier: "ZU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinybasculegion: {
-		tier: "Illegal",
+		tier: "NU",
+		doublesTier: "DUber",
+		natDexTier: "RU",
 	},
 	shinybasculegionf: {
-		tier: "Illegal",
+		tier: "RU",
+		doublesTier: "DUU",
+		natDexTier: "RU",
 	},
 	shinysandile: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinykrokorok: {
-		tier: "Illegal",
+		tier: "NFE",
 	},
 	shinykrookodile: {
-		tier: "Illegal",
+		tier: "RU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinydarumaka: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "LC",
 	},
 	shinydarumakagalar: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "LC",
 	},
 	shinydarmanitan: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "RU",
 	},
 	shinydarmanitanzen: {
 		isNonstandard: "Past",
@@ -8472,6 +9322,7 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	shinydarmanitangalar: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "Uber",
 	},
 	shinydarmanitangalarzen: {
 		isNonstandard: "Past",
@@ -8479,488 +9330,679 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	shinymaractus: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "RU",
 	},
 	shinydwebble: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "LC",
 	},
 	shinycrustle: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "RU",
 	},
 	shinyscraggy: {
-		tier: "Illegal",
+		tier: "NFE",
 	},
 	shinyscrafty: {
+		tier: "NU",
+		doublesTier: "DUU",
+		natDexTier: "RU",
+	},
+	shinyscraftymega: {
+		isNonstandard: "Future",
 		tier: "Illegal",
 	},
 	shinysigilyph: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "RU",
 	},
 	shinyyamask: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "LC",
 	},
 	shinyyamaskgalar: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "LC",
 	},
 	shinycofagrigus: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "RU",
 	},
 	shinyrunerigus: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "RU",
 	},
 	shinytirtouga: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "LC",
 	},
 	shinycarracosta: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "RU",
 	},
 	shinyarchen: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "LC",
 	},
 	shinyarcheops: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "RU",
 	},
 	shinytrubbish: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "LC",
 	},
 	shinygarbodor: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "RU",
 	},
 	shinygarbodorgmax: {
 		isNonstandard: "Past",
 		tier: "Illegal",
 	},
 	shinyzorua: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinyzoruahisui: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinyzoroark: {
-		tier: "Illegal",
+		tier: "PU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinyzoroarkhisui: {
-		tier: "Illegal",
+		tier: "RUBL",
+		doublesTier: "(DUU)",
+		natDexTier: "RUBL",
 	},
 	shinyminccino: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinycinccino: {
-		tier: "Illegal",
+		tier: "NU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinygothita: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinygothorita: {
-		tier: "Illegal",
+		tier: "NFE",
 	},
 	shinygothitelle: {
-		tier: "Illegal",
+		tier: "ZU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinysolosis: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinyduosion: {
-		tier: "Illegal",
+		tier: "NFE",
 	},
 	shinyreuniclus: {
-		tier: "Illegal",
+		tier: "NU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinyducklett: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinyswanna: {
-		tier: "Illegal",
+		tier: "ZU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinyvanillite: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "LC",
 	},
 	shinyvanillish: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "NFE",
 	},
 	shinyvanilluxe: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "RU",
 	},
 	shinydeerling: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinysawsbuck: {
-		tier: "Illegal",
+		tier: "ZU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinyemolga: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "RU",
 	},
 	shinykarrablast: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "LC",
 	},
 	shinyescavalier: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "RU",
 	},
 	shinyfoongus: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinyamoonguss: {
-		tier: "Illegal",
+		tier: "PU",
+		doublesTier: "DOU",
+		natDexTier: "UU",
 	},
 	shinyfrillish: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "LC",
 	},
 	shinyjellicent: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "RU",
 	},
 	shinyalomomola: {
-		tier: "Illegal",
+		tier: "OU",
+		doublesTier: "(DUU)",
+		natDexTier: "OU",
 	},
 	shinyjoltik: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinygalvantula: {
-		tier: "Illegal",
+		tier: "PU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinyferroseed: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "LC",
 	},
 	shinyferrothorn: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "OU",
 	},
 	shinyklink: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "LC",
 	},
 	shinyklang: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "NFE",
 	},
 	shinyklinklang: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "RU",
 	},
 	shinytynamo: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinyeelektrik: {
-		tier: "Illegal",
+		tier: "NFE",
 	},
 	shinyeelektross: {
+		tier: "ZU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
+	},
+	shinyeelektrossmega: {
+		isNonstandard: "Future",
 		tier: "Illegal",
 	},
 	shinyelgyem: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "LC",
 	},
 	shinybeheeyem: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "RU",
 	},
 	shinylitwick: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinylampent: {
-		tier: "Illegal",
+		tier: "NFE",
 	},
 	shinychandelure: {
+		tier: "NU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
+	},
+	shinychandeluremega: {
+		isNonstandard: "Future",
 		tier: "Illegal",
 	},
 	shinyaxew: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinyfraxure: {
-		tier: "Illegal",
+		tier: "NFE",
 	},
 	shinyhaxorus: {
-		tier: "Illegal",
+		tier: "RUBL",
+		doublesTier: "(DUU)",
+		natDexTier: "RUBL",
 	},
 	shinycubchoo: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinybeartic: {
-		tier: "Illegal",
+		tier: "ZU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinycryogonal: {
-		tier: "Illegal",
+		tier: "ZU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinyshelmet: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "LC",
 	},
 	shinyaccelgor: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "RU",
 	},
 	shinystunfisk: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "RU",
 	},
 	shinystunfiskgalar: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "RU",
 	},
 	shinymienfoo: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinymienshao: {
-		tier: "Illegal",
+		tier: "RU",
+		doublesTier: "(DUU)",
+		natDexTier: "RUBL",
 	},
 	shinydruddigon: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "RU",
 	},
 	shinygolett: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinygolurk: {
+		tier: "PU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
+	},
+	shinygolurkmega: {
+		isNonstandard: "Future",
 		tier: "Illegal",
 	},
 	shinypawniard: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinybisharp: {
-		tier: "Illegal",
+		tier: "RU",
 		doublesTier: "NFE",
+		natDexTier: "UU",
 	},
 	shinybouffalant: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "RU",
 	},
 	shinyrufflet: {
-		tier: "Illegal",
+		tier: "NFE",
 	},
 	shinybraviary: {
-		tier: "Illegal",
+		tier: "NU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinybraviaryhisui: {
-		tier: "Illegal",
+		tier: "PU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinyvullaby: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinymandibuzz: {
-		tier: "Illegal",
+		tier: "UU",
+		doublesTier: "(DUU)",
+		natDexTier: "UU",
 	},
 	shinyheatmor: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "RU",
 	},
 	shinydurant: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "RU",
 	},
 	shinydeino: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinyzweilous: {
-		tier: "Illegal",
+		tier: "NFE",
 	},
 	shinyhydreigon: {
-		tier: "Illegal",
+		tier: "RUBL",
+		doublesTier: "(DUU)",
+		natDexTier: "UU",
 	},
 	shinylarvesta: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinyvolcarona: {
-		tier: "Illegal",
+		tier: "Uber",
+		doublesTier: "(DUU)",
+		natDexTier: "OU",
 	},
 	shinycobalion: {
-		tier: "Illegal",
+		tier: "UU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinyterrakion: {
-		tier: "Illegal",
+		tier: "NUBL",
+		doublesTier: "(DUU)",
+		natDexTier: "RUBL",
 	},
 	shinyvirizion: {
-		tier: "Illegal",
+		tier: "ZU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinytornadus: {
-		tier: "Illegal",
+		tier: "NU",
+		doublesTier: "DOU",
+		natDexTier: "RU",
 	},
 	shinytornadustherian: {
-		tier: "Illegal",
+		tier: "OU",
+		doublesTier: "(DUU)",
+		natDexTier: "OU",
 	},
 	shinythundurus: {
-		tier: "Illegal",
+		tier: "RUBL",
+		doublesTier: "DUU",
+		natDexTier: "UU",
 	},
 	shinythundurustherian: {
-		tier: "Illegal",
+		tier: "UU",
+		doublesTier: "(DUU)",
+		natDexTier: "UUBL",
 	},
 	shinyreshiram: {
-		tier: "Illegal",
+		tier: "Uber",
+		doublesTier: "DUber",
+		natDexTier: "Uber",
 	},
 	shinyzekrom: {
-		tier: "Illegal",
+		tier: "Uber",
+		doublesTier: "DUber",
+		natDexTier: "Uber",
 	},
 	shinylandorus: {
-		tier: "Illegal",
+		tier: "Uber",
+		doublesTier: "DOU",
+		natDexTier: "Uber",
 	},
 	shinylandorustherian: {
-		tier: "Illegal",
+		tier: "OU",
+		doublesTier: "DOU",
+		natDexTier: "OU",
 	},
 	shinykyurem: {
-		tier: "Illegal",
+		tier: "OU",
+		doublesTier: "DOU",
+		natDexTier: "OU",
 	},
 	shinykyuremblack: {
-		tier: "Illegal",
+		tier: "Uber",
+		doublesTier: "DUber",
+		natDexTier: "Uber",
 	},
 	shinykyuremwhite: {
-		tier: "Illegal",
+		tier: "Uber",
+		doublesTier: "DUber",
+		natDexTier: "Uber",
 	},
 	shinykeldeo: {
-		tier: "Illegal",
+		tier: "UU",
+		doublesTier: "(DUU)",
+		natDexTier: "UU",
 	},
 	shinymeloetta: {
-		tier: "Illegal",
-	},
-	shinymeloettapiroulette: {
-		tier: "Illegal",
+		tier: "NU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinygenesect: {
+		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "Uber",
 	},
 	shinygenesectburn: {
+		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "Uber",
 	},
 	shinygenesectchill: {
+		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "Uber",
 	},
 	shinygenesectdouse: {
+		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "Uber",
 	},
 	shinygenesectshock: {
+		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "Uber",
 	},
 	shinychespin: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinyquilladin: {
-		tier: "Illegal",
+		tier: "NFE",
 	},
 	shinychesnaught: {
+		tier: "RU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
+	},
+	shinychesnaughtmega: {
+		isNonstandard: "Future",
 		tier: "Illegal",
 	},
 	shinyfennekin: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinybraixen: {
-		tier: "Illegal",
+		tier: "NFE",
 	},
 	shinydelphox: {
+		tier: "PU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
+	},
+	shinydelphoxmega: {
+		isNonstandard: "Future",
 		tier: "Illegal",
 	},
 	shinyfroakie: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinyfrogadier: {
-		tier: "Illegal",
+		tier: "NFE",
 	},
 	shinygreninja: {
-		tier: "Illegal",
-	},
-	shinygreninjabond: {
-		tier: "Illegal",
+		tier: "UU",
+		doublesTier: "(DUU)",
+		natDexTier: "UUBL",
 	},
 	shinygreninjaash: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	shinygreninjamega: {
+		isNonstandard: "Future",
 		tier: "Illegal",
 	},
 	shinybunnelby: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "LC",
 	},
 	shinydiggersby: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "RU",
 	},
 	shinyfletchling: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinyfletchinder: {
-		tier: "Illegal",
+		tier: "NFE",
 	},
 	shinytalonflame: {
-		tier: "Illegal",
+		tier: "RU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinyscatterbug: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinyspewpa: {
-		tier: "Illegal",
+		tier: "NFE",
 	},
 	shinyvivillon: {
-		tier: "Illegal",
+		tier: "ZU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinylitleo: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinypyroar: {
+		tier: "ZU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
+	},
+	shinypyroarmega: {
+		isNonstandard: "Future",
 		tier: "Illegal",
 	},
 	shinyflabebe: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinyfloette: {
-		tier: "Illegal",
+		tier: "NFE",
 	},
 	shinyfloetteeternal: {
 		isNonstandard: "Past",
 		tier: "Illegal",
 	},
-	shinyflorges: {
+	shinyfloettemega: {
+		isNonstandard: "Future",
 		tier: "Illegal",
+	},
+	shinyflorges: {
+		tier: "PU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinyskiddo: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinygogoat: {
-		tier: "Illegal",
+		tier: "ZU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinypancham: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "LC",
 	},
 	shinypangoro: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "RU",
 	},
 	shinyfurfrou: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "RU",
 	},
 	shinyespurr: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinymeowstic: {
+		tier: "ZU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
+	},
+	shinymeowsticmmega: {
+		isNonstandard: "Future",
+		tier: "Illegal",
+	},
+	shinymeowsticfmega: {
+		isNonstandard: "Future",
 		tier: "Illegal",
 	},
 	shinyhonedge: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "LC",
 	},
 	shinydoublade: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "NFE",
 	},
 	shinyaegislash: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "UU",
 	},
 	shinyaegislashblade: {
 		isNonstandard: "Past",
@@ -8968,105 +10010,154 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	shinyspritzee: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "LC",
 	},
 	shinyaromatisse: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "RU",
 	},
 	shinyswirlix: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "NFE",
 	},
 	shinyslurpuff: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "RU",
 	},
 	shinyinkay: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinymalamar: {
+		tier: "ZU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
+	},
+	shinymalamarmega: {
+		isNonstandard: "Future",
 		tier: "Illegal",
 	},
 	shinybinacle: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "LC",
 	},
 	shinybarbaracle: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "RU",
 	},
-	shinyskrelp: {
+	shinybarbaraclemega: {
+		isNonstandard: "Future",
 		tier: "Illegal",
 	},
+	shinyskrelp: {
+		tier: "LC",
+	},
 	shinydragalge: {
+		tier: "PUBL",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
+	},
+	shinydragalgemega: {
+		isNonstandard: "Future",
 		tier: "Illegal",
 	},
 	shinyclauncher: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinyclawitzer: {
-		tier: "Illegal",
+		tier: "ZU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinyhelioptile: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "LC",
 	},
 	shinyheliolisk: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "RU",
 	},
 	shinytyrunt: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "LC",
 	},
 	shinytyrantrum: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "RU",
 	},
 	shinyamaura: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "LC",
 	},
 	shinyaurorus: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "RU",
 	},
 	shinyhawlucha: {
+		tier: "RUBL",
+		doublesTier: "(DUU)",
+		natDexTier: "UUBL",
+	},
+	shinyhawluchamega: {
+		isNonstandard: "Future",
 		tier: "Illegal",
 	},
 	shinydedenne: {
-		tier: "Illegal",
+		tier: "ZU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinycarbink: {
-		tier: "Illegal",
+		tier: "ZU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinygoomy: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinysliggoo: {
-		tier: "Illegal",
+		tier: "NFE",
 	},
 	shinysliggoohisui: {
-		tier: "Illegal",
+		tier: "NFE",
 	},
 	shinygoodra: {
-		tier: "Illegal",
+		tier: "NU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinygoodrahisui: {
-		tier: "Illegal",
+		tier: "RU",
+		doublesTier: "(DUU)",
+		natDexTier: "UU",
 	},
 	shinyklefki: {
-		tier: "Illegal",
+		tier: "NU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinyphantump: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinytrevenant: {
-		tier: "Illegal",
+		tier: "ZU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinypumpkaboo: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "LC",
 	},
 	shinypumpkaboosmall: {
 		isNonstandard: "Past",
@@ -9080,6 +10171,7 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	shinygourgeist: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "RU",
 	},
 	shinygourgeistsmall: {
 		isNonstandard: "Past",
@@ -9091,198 +10183,268 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 		isNonstandard: "Past",
 	},
 	shinybergmite: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinyavalugg: {
-		tier: "Illegal",
+		tier: "NU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinyavalugghisui: {
-		tier: "Illegal",
+		tier: "PU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinynoibat: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinynoivern: {
-		tier: "Illegal",
+		tier: "RU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinyxerneas: {
+		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "AG",
 	},
 	shinyxerneasneutral: {
 		isNonstandard: "Custom", // can't be used in battle
 		tier: "Illegal",
 	},
 	shinyyveltal: {
+		isNonstandard: "Past",
 		tier: "Illegal",
-	},
-	shinyyveltalprimal: {
-		tier: "Illegal",
+		natDexTier: "Uber",
 	},
 	shinyzygarde: {
+		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "Uber",
 	},
 	shinyzygarde10: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "UU",
 	},
 	shinyzygardecomplete: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+		natDexTier: "Uber",
+	},
+	shinyzygardemega: {
+		isNonstandard: "Future",
 		tier: "Illegal",
 	},
 	shinydiancie: {
-		tier: "Illegal",
+		tier: "RU",
+		doublesTier: "DOU",
+		natDexTier: "RU",
 	},
 	shinydianciemega: {
+		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "OU",
 	},
 	shinyhoopa: {
-		tier: "Illegal",
+		tier: "PU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinyhoopaunbound: {
-		tier: "Illegal",
+		tier: "UUBL",
+		doublesTier: "(DUU)",
+		natDexTier: "UUBL",
 	},
 	shinyvolcanion: {
-		tier: "Illegal",
+		tier: "RUBL",
+		doublesTier: "DUU",
+		natDexTier: "RU",
 	},
 	shinyrowlet: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinydartrix: {
-		tier: "Illegal",
+		tier: "NFE",
 	},
 	shinydecidueye: {
-		tier: "Illegal",
+		tier: "NU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinydecidueyehisui: {
-		tier: "Illegal",
+		tier: "PU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinylitten: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinytorracat: {
-		tier: "Illegal",
+		tier: "NFE",
 	},
 	shinyincineroar: {
-		tier: "Illegal",
+		tier: "NU",
+		doublesTier: "DOU",
+		natDexTier: "RU",
 	},
 	shinypopplio: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinybrionne: {
-		tier: "Illegal",
+		tier: "NFE",
 	},
 	shinyprimarina: {
-		tier: "Illegal",
+		tier: "OU",
+		doublesTier: "DOU",
+		natDexTier: "UU",
 	},
 	shinypikipek: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinytrumbeak: {
-		tier: "Illegal",
+		tier: "NFE",
 	},
 	shinytoucannon: {
-		tier: "Illegal",
+		tier: "ZU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinyyungoos: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinygumshoos: {
-		tier: "Illegal",
+		tier: "ZU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinygumshoostotem: {
 		isNonstandard: "Past",
 		tier: "Illegal",
 	},
 	shinygrubbin: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinycharjabug: {
-		tier: "Illegal",
+		tier: "NFE",
 	},
 	shinyvikavolt: {
-		tier: "Illegal",
+		tier: "ZU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinyvikavolttotem: {
 		isNonstandard: "Past",
 		tier: "Illegal",
 	},
 	shinycrabrawler: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinycrabominable: {
+		tier: "ZU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
+	},
+	shinycrabominablemega: {
+		isNonstandard: "Future",
 		tier: "Illegal",
 	},
 	shinyoricorio: {
-		tier: "Illegal",
+		tier: "ZU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinyoricoriopompom: {
-		tier: "Illegal",
+		tier: "RUBL",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinyoricoriopau: {
-		tier: "Illegal",
+		tier: "ZU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinyoricoriosensu: {
-		tier: "Illegal",
+		tier: "NUBL",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinycutiefly: {
-		tier: "Illegal",
+		tier: "NFE",
 	},
 	shinyribombee: {
-		tier: "Illegal",
+		tier: "RU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinyribombeetotem: {
 		isNonstandard: "Past",
 		tier: "Illegal",
 	},
 	shinyrockruff: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinyrockruffdusk: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinylycanroc: {
-		tier: "Illegal",
+		tier: "ZU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinylycanrocmidnight: {
-		tier: "Illegal",
+		tier: "ZU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinylycanrocdusk: {
-		tier: "Illegal",
+		tier: "RU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinywishiwashi: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "RU",
 	},
 	shinywishiwashischool: {
 		isNonstandard: "Past",
-		tier: "Illegal",
 	},
 	shinymareanie: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinytoxapex: {
-		tier: "Illegal",
+		tier: "UU",
+		doublesTier: "(DUU)",
+		natDexTier: "OU",
 	},
 	shinymudbray: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinymudsdale: {
-		tier: "Illegal",
+		tier: "PU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinydewpider: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinyaraquanid: {
-		tier: "Illegal",
+		tier: "NU",
+		doublesTier: "DUU",
+		natDexTier: "RU",
 	},
 	shinyaraquanidtotem: {
 		isNonstandard: "Past",
 		tier: "Illegal",
 	},
 	shinyfomantis: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinylurantis: {
-		tier: "Illegal",
+		tier: "ZU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinylurantistotem: {
 		isNonstandard: "Past",
@@ -9291,16 +10453,20 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	shinymorelull: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "LC",
 	},
 	shinyshiinotic: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "RU",
 	},
 	shinysalandit: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinysalazzle: {
-		tier: "Illegal",
+		tier: "PU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinysalazzletotem: {
 		isNonstandard: "Past",
@@ -9309,125 +10475,189 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	shinystufful: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "LC",
 	},
 	shinybewear: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "RU",
 	},
 	shinybounsweet: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinysteenee: {
-		tier: "Illegal",
+		tier: "NFE",
 	},
 	shinytsareena: {
-		tier: "Illegal",
+		tier: "NU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinycomfey: {
-		tier: "Illegal",
+		tier: "RUBL",
+		doublesTier: "DUU",
+		natDexTier: "RU",
 	},
 	shinyoranguru: {
-		tier: "Illegal",
+		tier: "ZU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinypassimian: {
-		tier: "Illegal",
+		tier: "ZU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinywimpod: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "LC",
 	},
 	shinygolisopod: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "UU",
+	},
+	shinygolisopodmega: {
+		isNonstandard: "Future",
+		tier: "Illegal",
 	},
 	shinysandygast: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinypalossand: {
-		tier: "Illegal",
+		tier: "PU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinypyukumuku: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "RU",
 	},
 	shinytypenull: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "NFE",
 	},
 	shinysilvally: {
+		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "RU",
 	},
 	shinysilvallybug: {
+		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "RU",
 	},
 	shinysilvallydark: {
+		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "RU",
 	},
 	shinysilvallydragon: {
+		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "RU",
 	},
 	shinysilvallyelectric: {
+		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "RU",
 	},
 	shinysilvallyfairy: {
+		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "RU",
 	},
 	shinysilvallyfighting: {
+		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "RU",
 	},
 	shinysilvallyfire: {
+		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "RU",
 	},
 	shinysilvallyflying: {
+		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "RU",
 	},
 	shinysilvallyghost: {
+		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "RU",
 	},
 	shinysilvallygrass: {
+		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "RU",
 	},
 	shinysilvallyground: {
+		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "RU",
 	},
 	shinysilvallyice: {
+		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "RU",
 	},
 	shinysilvallypoison: {
+		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "RU",
 	},
 	shinysilvallypsychic: {
+		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "RU",
 	},
 	shinysilvallyrock: {
+		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "RU",
 	},
 	shinysilvallysteel: {
+		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "RU",
 	},
 	shinysilvallywater: {
+		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "RU",
 	},
 	shinyminior: {
-		tier: "Illegal",
+		tier: "ZU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinykomala: {
-		tier: "Illegal",
+		tier: "ZU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinyturtonator: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "RU",
 	},
 	shinytogedemaru: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "RU",
 	},
 	shinytogedemarutotem: {
 		isNonstandard: "Past",
 		tier: "Illegal",
 	},
 	shinymimikyu: {
-		tier: "Illegal",
+		tier: "RU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinymimikyutotem: {
 		isNonstandard: "Past",
@@ -9438,173 +10668,256 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 		tier: "Illegal",
 	},
 	shinybruxish: {
-		tier: "Illegal",
+		tier: "PU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinydrampa: {
 		isNonstandard: "Past",
+		tier: "Illegal",
+		natDexTier: "RU",
+	},
+	shinydrampamega: {
+		isNonstandard: "Future",
 		tier: "Illegal",
 	},
 	shinydhelmise: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "RU",
 	},
 	shinyjangmoo: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinyhakamoo: {
-		tier: "Illegal",
+		tier: "NFE",
 	},
 	shinykommoo: {
-		tier: "Illegal",
+		tier: "UUBL",
+		doublesTier: "(DUU)",
+		natDexTier: "UUBL",
 	},
 	shinykommoototem: {
 		isNonstandard: "Past",
 		tier: "Illegal",
 	},
 	shinytapukoko: {
+		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "OU",
 	},
 	shinytapulele: {
+		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "OU",
 	},
 	shinytapubulu: {
+		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "RU",
 	},
 	shinytapufini: {
+		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "UU",
 	},
 	shinycosmog: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinycosmoem: {
-		tier: "Illegal",
+		tier: "NFE",
 	},
 	shinysolgaleo: {
-		tier: "Illegal",
+		tier: "Uber",
+		doublesTier: "DUber",
+		natDexTier: "Uber",
 	},
 	shinylunala: {
-		tier: "Illegal",
+		tier: "Uber",
+		doublesTier: "DUber",
+		natDexTier: "Uber",
 	},
 	shinynihilego: {
+		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "RU",
 	},
 	shinybuzzwole: {
+		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "UU",
 	},
 	shinypheromosa: {
+		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "Uber",
 	},
 	shinyxurkitree: {
+		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "UUBL",
 	},
 	shinycelesteela: {
+		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "UU",
 	},
 	shinykartana: {
+		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "UUBL",
 	},
 	shinyguzzlord: {
+		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "RU",
 	},
 	shinynecrozma: {
-		tier: "Illegal",
+		tier: "NUBL",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinynecrozmaduskmane: {
-		tier: "Illegal",
+		tier: "Uber",
+		doublesTier: "DUber",
+		natDexTier: "Uber",
 	},
 	shinynecrozmadawnwings: {
-		tier: "Illegal",
+		tier: "Uber",
+		doublesTier: "DUber",
+		natDexTier: "Uber",
 	},
 	shinynecrozmaultra: {
+		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "Uber",
 	},
 	shinymagearna: {
+		tier: "Uber",
+		doublesTier: "DUber",
+		natDexTier: "Uber",
+	},
+	shinymagearnamega: {
+		isNonstandard: "Future",
+		tier: "Illegal",
+	},
+	shinymagearnaoriginalmega: {
+		isNonstandard: "Future",
 		tier: "Illegal",
 	},
 	shinymarshadow: {
+		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "Uber",
 	},
 	shinypoipole: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "NFE",
 	},
 	shinynaganadel: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "Uber",
 	},
 	shinystakataka: {
+		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "RU",
 	},
 	shinyblacephalon: {
+		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "UU",
 	},
 	shinyzeraora: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+		natDexTier: "RU",
+	},
+	shinyzeraoramega: {
+		isNonstandard: "Future",
 		tier: "Illegal",
 	},
 	shinymeltan: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "RU",
 	},
 	shinymelmetal: {
+		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "OU",
 	},
 	shinymelmetalgmax: {
 		isNonstandard: "Past",
 		tier: "Illegal",
 	},
 	shinygrookey: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinythwackey: {
-		tier: "Illegal",
+		tier: "NU",
+		doublesTier: "NFE",
+		natDexTier: "NFE",
 	},
 	shinyrillaboom: {
-		tier: "Illegal",
+		tier: "OU",
+		doublesTier: "DOU",
+		natDexTier: "UU",
 	},
 	shinyrillaboomgmax: {
 		isNonstandard: "Past",
 		tier: "Illegal",
 	},
 	shinyscorbunny: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinyraboot: {
-		tier: "Illegal",
+		tier: "NFE",
 	},
 	shinycinderace: {
-		tier: "Illegal",
+		tier: "OU",
+		doublesTier: "(DUU)",
+		natDexTier: "OU",
 	},
 	shinycinderacegmax: {
 		isNonstandard: "Past",
 		tier: "Illegal",
 	},
 	shinysobble: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinydrizzile: {
-		tier: "Illegal",
+		tier: "NFE",
 	},
 	shinyinteleon: {
-		tier: "Illegal",
+		tier: "PUBL",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinyinteleongmax: {
 		isNonstandard: "Past",
 		tier: "Illegal",
 	},
 	shinyskwovet: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinygreedent: {
-		tier: "Illegal",
+		tier: "ZU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinyrookidee: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinycorvisquire: {
-		tier: "Illegal",
+		tier: "NFE",
 	},
 	shinycorviknight: {
-		tier: "Illegal",
+		tier: "OU",
+		doublesTier: "(DUU)",
+		natDexTier: "OU",
 	},
 	shinycorviknightgmax: {
 		isNonstandard: "Past",
@@ -9613,14 +10926,17 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	shinyblipbug: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "LC",
 	},
 	shinydottler: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "NFE",
 	},
 	shinyorbeetle: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "RU",
 	},
 	shinyorbeetlegmax: {
 		isNonstandard: "Past",
@@ -9629,32 +10945,40 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	shinynickit: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "LC",
 	},
 	shinythievul: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "RU",
 	},
 	shinygossifleur: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "LC",
 	},
 	shinyeldegoss: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "RU",
 	},
 	shinywooloo: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "LC",
 	},
 	shinydubwool: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "RU",
 	},
 	shinychewtle: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinydrednaw: {
-		tier: "Illegal",
+		tier: "PUBL",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinydrednawgmax: {
 		isNonstandard: "Past",
@@ -9663,68 +10987,84 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	shinyyamper: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "LC",
 	},
 	shinyboltund: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "RU",
 	},
 	shinyrolycoly: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinycarkol: {
-		tier: "Illegal",
+		tier: "NFE",
 	},
 	shinycoalossal: {
-		tier: "Illegal",
+		tier: "PU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinycoalossalgmax: {
 		isNonstandard: "Past",
 		tier: "Illegal",
 	},
 	shinyapplin: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinyflapple: {
-		tier: "Illegal",
+		tier: "ZU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinyflapplegmax: {
 		isNonstandard: "Past",
 		tier: "Illegal",
 	},
 	shinyappletun: {
-		tier: "Illegal",
+		tier: "ZU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinyappletungmax: {
 		isNonstandard: "Past",
 		tier: "Illegal",
 	},
 	shinydipplin: {
-		tier: "Illegal",
+		tier: "NFE",
 	},
 	shinysilicobra: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinysandaconda: {
-		tier: "Illegal",
+		tier: "ZU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinysandacondagmax: {
 		isNonstandard: "Past",
 		tier: "Illegal",
 	},
 	shinycramorant: {
-		tier: "Illegal",
+		tier: "PU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinyarrokuda: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinybarraskewda: {
-		tier: "Illegal",
+		tier: "NU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinytoxel: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinytoxtricity: {
-		tier: "Illegal",
+		tier: "NU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinytoxtricitygmax: {
 		isNonstandard: "Past",
@@ -9737,10 +11077,12 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	shinysizzlipede: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "LC",
 	},
 	shinycentiskorch: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "RU",
 	},
 	shinycentiskorchgmax: {
 		isNonstandard: "Past",
@@ -9749,85 +11091,117 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	shinyclobbopus: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "LC",
 	},
 	shinygrapploct: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "RU",
 	},
 	shinysinistea: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinypolteageist: {
-		tier: "Illegal",
+		tier: "UUBL",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinyhatenna: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinyhattrem: {
-		tier: "Illegal",
+		tier: "NFE",
 	},
 	shinyhatterene: {
-		tier: "Illegal",
+		tier: "OU",
+		doublesTier: "DOU",
+		natDexTier: "OU",
 	},
 	shinyhatterenegmax: {
 		isNonstandard: "Past",
 		tier: "Illegal",
 	},
 	shinyimpidimp: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinymorgrem: {
-		tier: "Illegal",
+		tier: "NFE",
 	},
 	shinygrimmsnarl: {
-		tier: "Illegal",
+		tier: "PU",
+		doublesTier: "DOU",
+		natDexTier: "RU",
 	},
 	shinygrimmsnarlgmax: {
 		isNonstandard: "Past",
 		tier: "Illegal",
 	},
 	shinymilcery: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinyalcremie: {
-		tier: "Illegal",
+		tier: "ZUBL",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinyalcremiegmax: {
 		isNonstandard: "Past",
 		tier: "Illegal",
 	},
 	shinyfalinks: {
+		tier: "ZU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
+	},
+	shinyfalinksmega: {
+		isNonstandard: "Future",
 		tier: "Illegal",
 	},
 	shinypincurchin: {
-		tier: "Illegal",
+		tier: "ZU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinysnom: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinyfrosmoth: {
-		tier: "Illegal",
+		tier: "PUBL",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinystonjourner: {
-		tier: "Illegal",
+		tier: "ZU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinyeiscue: {
-		tier: "Illegal",
+		tier: "ZU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinyindeedee: {
-		tier: "Illegal",
+		tier: "PUBL",
+		doublesTier: "DUU",
+		natDexTier: "RU",
 	},
 	shinyindeedeef: {
-		tier: "Illegal",
+		tier: "ZU",
+		doublesTier: "DOU",
+		natDexTier: "RU",
 	},
 	shinymorpeko: {
-		tier: "Illegal",
+		tier: "ZU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinycufant: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinycopperajah: {
-		tier: "Illegal",
+		tier: "NU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinycopperajahgmax: {
 		isNonstandard: "Past",
@@ -9836,62 +11210,84 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	shinydracozolt: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "UU",
 	},
 	shinyarctozolt: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "RU",
 	},
 	shinydracovish: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "Uber",
 	},
 	shinyarctovish: {
 		isNonstandard: "Past",
 		tier: "Illegal",
+		natDexTier: "RU",
 	},
 	shinyduraludon: {
-		tier: "Illegal",
+		tier: "NU",
 		doublesTier: "NFE",
+		natDexTier: "RU",
 	},
 	shinyduraludongmax: {
 		isNonstandard: "Past",
 		tier: "Illegal",
 	},
 	shinydreepy: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinydrakloak: {
-		tier: "Illegal",
+		tier: "NFE",
 	},
 	shinydragapult: {
-		tier: "Illegal",
+		tier: "OU",
+		doublesTier: "DUU",
+		natDexTier: "Uber",
 	},
 	shinyzacian: {
-		tier: "Illegal",
+		tier: "Uber",
+		doublesTier: "DUber",
+		natDexTier: "Uber",
 	},
 	shinyzaciancrowned: {
-		tier: "Illegal",
+		tier: "Uber",
+		doublesTier: "DUber",
+		natDexTier: "Uber",
 	},
 	shinyzamazenta: {
-		tier: "Illegal",
+		tier: "OU",
+		doublesTier: "DUber",
+		natDexTier: "OU",
 	},
 	shinyzamazentacrowned: {
-		tier: "Illegal",
+		tier: "Uber",
+		doublesTier: "DUber",
+		natDexTier: "Uber",
 	},
 	shinyeternatus: {
-		tier: "Illegal",
+		tier: "Uber",
+		doublesTier: "DUber",
+		natDexTier: "Uber",
 	},
 	shinyeternatuseternamax: {
+		isNonstandard: "Past",
 		tier: "Illegal",
 	},
 	shinykubfu: {
-		tier: "Illegal",
+		tier: "NFE",
 	},
 	shinyurshifu: {
-		tier: "Illegal",
+		tier: "Uber",
+		doublesTier: "DUber",
+		natDexTier: "Uber",
 	},
 	shinyurshifurapidstrike: {
-		tier: "Illegal",
+		tier: "Uber",
+		doublesTier: "DUber",
+		natDexTier: "OU",
 	},
 	shinyurshifugmax: {
 		isNonstandard: "Past",
@@ -9902,402 +11298,612 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 		tier: "Illegal",
 	},
 	shinyzarude: {
-		tier: "Illegal",
+		tier: "UUBL",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinyregieleki: {
-		tier: "Illegal",
+		tier: "Uber",
+		doublesTier: "DUU",
+		natDexTier: "RU",
 	},
 	shinyregidrago: {
-		tier: "Illegal",
+		tier: "NUBL",
+		doublesTier: "DOU",
+		natDexTier: "RU",
 	},
 	shinyglastrier: {
-		tier: "Illegal",
+		tier: "ZU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinyspectrier: {
-		tier: "Illegal",
+		tier: "Uber",
+		doublesTier: "(DUU)",
+		natDexTier: "Uber",
 	},
 	shinycalyrex: {
-		tier: "Illegal",
+		tier: "ZU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinycalyrexice: {
-		tier: "Illegal",
+		tier: "Uber",
+		doublesTier: "DUber",
+		natDexTier: "Uber",
 	},
 	shinycalyrexshadow: {
-		tier: "Illegal",
+		tier: "AG",
+		doublesTier: "DUber",
+		natDexTier: "AG",
 	},
 	shinyenamorus: {
-		tier: "Illegal",
+		tier: "OU",
+		doublesTier: "DUU",
+		natDexTier: "RUBL",
 	},
 	shinyenamorustherian: {
-		tier: "Illegal",
+		tier: "RUBL",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinysprigatito: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinyfloragato: {
-		tier: "Illegal",
+		tier: "NFE",
 	},
 	shinymeowscarada: {
-		tier: "Illegal",
+		tier: "UUBL",
+		doublesTier: "DUU",
+		natDexTier: "UUBL",
 	},
 	shinyfuecoco: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinycrocalor: {
-		tier: "Illegal",
+		tier: "NFE",
 	},
 	shinyskeledirge: {
-		tier: "Illegal",
+		tier: "UU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinyquaxly: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinyquaxwell: {
-		tier: "Illegal",
+		tier: "NFE",
 	},
 	shinyquaquaval: {
-		tier: "Illegal",
+		tier: "UUBL",
+		doublesTier: "(DUU)",
+		natDexTier: "UU",
 	},
 	shinylechonk: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinyoinkologne: {
-		tier: "Illegal",
+		tier: "ZU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinyoinkolognef: {
-		tier: "Illegal",
+		tier: "ZU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinytarountula: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinyspidops: {
-		tier: "Illegal",
+		tier: "ZU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinynymble: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinylokix: {
-		tier: "Illegal",
+		tier: "UU",
+		doublesTier: "(DUU)",
+		natDexTier: "UU",
 	},
 	shinyrellor: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinyrabsca: {
-		tier: "Illegal",
+		tier: "ZU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinygreavard: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinyhoundstone: {
-		tier: "Illegal",
+		tier: "NU",
+		doublesTier: "DUU",
+		natDexTier: "RU",
 	},
 	shinyflittle: {
-		tier: "Illegal",
+		tier: "NFE",
 	},
 	shinyespathra: {
-		tier: "Illegal",
+		tier: "Uber",
+		doublesTier: "(DUU)",
+		natDexTier: "Uber",
 	},
 	shinywiglett: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinywugtrio: {
-		tier: "Illegal",
+		tier: "ZU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinydondozo: {
-		tier: "Illegal",
+		tier: "OU",
+		doublesTier: "(DUU)",
+		natDexTier: "UUBL",
 	},
 	shinyveluza: {
-		tier: "Illegal",
+		tier: "ZU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinyfinizen: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinypalafin: {
-		tier: "Illegal",
+		tier: "Uber",
+		doublesTier: "(DUU)",
+		natDexTier: "Uber",
 	},
 	shinysmoliv: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinydolliv: {
-		tier: "Illegal",
+		tier: "NFE",
 	},
 	shinyarboliva: {
-		tier: "Illegal",
+		tier: "ZU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinycapsakid: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinyscovillain: {
+		tier: "ZU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
+	},
+	shinyscovillainmega: {
+		isNonstandard: "Future",
 		tier: "Illegal",
 	},
 	shinytadbulb: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinybellibolt: {
-		tier: "Illegal",
+		tier: "NU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinyvaroom: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinyrevavroom: {
-		tier: "Illegal",
+		tier: "UU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinyorthworm: {
-		tier: "Illegal",
+		tier: "ZU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinytandemaus: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinymaushold: {
-		tier: "Illegal",
+		tier: "RU",
+		doublesTier: "DUU",
+		natDexTier: "RU",
 	},
 	shinycetoddle: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinycetitan: {
-		tier: "Illegal",
+		tier: "NUBL",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinyfrigibax: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinyarctibax: {
-		tier: "Illegal",
+		tier: "NFE",
 	},
 	shinybaxcalibur: {
+		tier: "Uber",
+		doublesTier: "DUU",
+		natDexTier: "Uber",
+	},
+	shinybaxcaliburmega: {
+		isNonstandard: "Future",
 		tier: "Illegal",
 	},
 	shinytatsugiri: {
+		tier: "PU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
+	},
+	shinytatsugiricurlymega: {
+		isNonstandard: "Future",
+		tier: "Illegal",
+	},
+	shinytatsugiridroopymega: {
+		isNonstandard: "Future",
+		tier: "Illegal",
+	},
+	shinytatsugiristretchymega: {
+		isNonstandard: "Future",
 		tier: "Illegal",
 	},
 	shinycyclizar: {
-		tier: "Illegal",
+		tier: "RU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinypawmi: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinypawmo: {
-		tier: "Illegal",
+		tier: "NFE",
 	},
 	shinypawmot: {
-		tier: "Illegal",
+		tier: "PU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinywattrel: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinykilowattrel: {
-		tier: "Illegal",
+		tier: "NU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinybombirdier: {
-		tier: "Illegal",
+		tier: "PU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinysquawkabilly: {
-		tier: "Illegal",
+		tier: "ZU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinyflamigo: {
-		tier: "Illegal",
+		tier: "NU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinyklawf: {
-		tier: "Illegal",
+		tier: "ZU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinynacli: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinynaclstack: {
-		tier: "Illegal",
+		tier: "NFE",
 	},
 	shinygarganacl: {
-		tier: "Illegal",
+		tier: "OU",
+		doublesTier: "DUU",
+		natDexTier: "UU",
 	},
 	shinyglimmet: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinyglimmora: {
+		tier: "OU",
+		doublesTier: "DOU",
+		natDexTier: "RU",
+	},
+	shinyglimmoramega: {
+		isNonstandard: "Future",
 		tier: "Illegal",
 	},
 	shinyshroodle: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinygrafaiai: {
-		tier: "Illegal",
+		tier: "NU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinyfidough: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinydachsbun: {
-		tier: "Illegal",
+		tier: "ZU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinymaschiff: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinymabosstiff: {
-		tier: "Illegal",
+		tier: "ZU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinybramblin: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinybrambleghast: {
-		tier: "Illegal",
+		tier: "NU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinygimmighoul: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinygimmighoulroaming: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinygholdengo: {
-		tier: "Illegal",
+		tier: "OU",
+		doublesTier: "DOU",
+		natDexTier: "OU",
 	},
 	shinygreattusk: {
-		tier: "Illegal",
+		tier: "OU",
+		doublesTier: "(DUU)",
+		natDexTier: "OU",
 	},
 	shinybrutebonnet: {
-		tier: "Illegal",
+		tier: "ZU",
+		doublesTier: "DUU",
+		natDexTier: "RU",
 	},
 	shinysandyshocks: {
-		tier: "Illegal",
+		tier: "UU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinyscreamtail: {
-		tier: "Illegal",
+		tier: "NU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinyfluttermane: {
-		tier: "Illegal",
+		tier: "Uber",
+		doublesTier: "DUber",
+		natDexTier: "Uber",
 	},
 	shinyslitherwing: {
-		tier: "Illegal",
+		tier: "UU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinyroaringmoon: {
-		tier: "Illegal",
+		tier: "Uber",
+		doublesTier: "DOU",
+		natDexTier: "Uber",
 	},
 	shinyirontreads: {
-		tier: "Illegal",
+		tier: "OU",
+		doublesTier: "(DUU)",
+		natDexTier: "OU",
 	},
 	shinyironmoth: {
-		tier: "Illegal",
+		tier: "OU",
+		doublesTier: "(DUU)",
+		natDexTier: "UUBL",
 	},
 	shinyironhands: {
-		tier: "Illegal",
+		tier: "UUBL",
+		doublesTier: "DOU",
+		natDexTier: "UUBL",
 	},
 	shinyironjugulis: {
-		tier: "Illegal",
+		tier: "UU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinyironthorns: {
-		tier: "Illegal",
+		tier: "NUBL",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinyironbundle: {
-		tier: "Illegal",
+		tier: "Uber",
+		doublesTier: "DUU",
+		natDexTier: "Uber",
 	},
 	shinyironvaliant: {
-		tier: "Illegal",
+		tier: "OU",
+		doublesTier: "(DUU)",
+		natDexTier: "OU",
 	},
 	shinytinglu: {
-		tier: "Illegal",
+		tier: "OU",
+		doublesTier: "DOU",
+		natDexTier: "OU",
 	},
 	shinychienpao: {
-		tier: "Illegal",
+		tier: "Uber",
+		doublesTier: "DOU",
+		natDexTier: "Uber",
 	},
 	shinywochien: {
-		tier: "Illegal",
+		tier: "NU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinychiyu: {
-		tier: "Illegal",
+		tier: "Uber",
+		doublesTier: "DOU",
+		natDexTier: "Uber",
 	},
 	shinykoraidon: {
-		tier: "Illegal",
+		tier: "Uber",
+		doublesTier: "DUber",
+		natDexTier: "AG",
 	},
 	shinymiraidon: {
-		tier: "Illegal",
+		tier: "AG",
+		doublesTier: "DUber",
+		natDexTier: "AG",
 	},
 	shinytinkatink: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinytinkatuff: {
-		tier: "Illegal",
+		tier: "NFE",
 	},
 	shinytinkaton: {
-		tier: "Illegal",
+		tier: "UU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinycharcadet: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinyarmarouge: {
-		tier: "Illegal",
+		tier: "RU",
+		doublesTier: "DUU",
+		natDexTier: "RU",
 	},
 	shinyceruledge: {
-		tier: "Illegal",
+		tier: "OU",
+		doublesTier: "(DUU)",
+		natDexTier: "UUBL",
 	},
 	shinytoedscool: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinytoedscruel: {
-		tier: "Illegal",
+		tier: "ZU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinykingambit: {
-		tier: "Illegal",
+		tier: "OU",
+		doublesTier: "DOU",
+		natDexTier: "OU",
 	},
 	shinyclodsire: {
-		tier: "Illegal",
+		tier: "UU",
+		doublesTier: "(DUU)",
+		natDexTier: "OU",
 	},
 	shinyannihilape: {
-		tier: "Illegal",
+		tier: "Uber",
+		doublesTier: "DUber",
+		natDexTier: "Uber",
 	},
 	shinywalkingwake: {
-		tier: "Illegal",
+		tier: "OU",
+		doublesTier: "DOU",
+		natDexTier: "Uber",
 	},
 	shinyironleaves: {
-		tier: "Illegal",
+		tier: "RUBL",
+		doublesTier: "(DUU)",
+		natDexTier: "RUBL",
 	},
 	shinypoltchageist: {
-		tier: "Illegal",
+		tier: "LC",
 	},
 	shinysinistcha: {
-		tier: "Illegal",
+		tier: "UU",
+		doublesTier: "DOU",
+		natDexTier: "RU",
 	},
 	shinyokidogi: {
-		tier: "Illegal",
+		tier: "UUBL",
+		doublesTier: "(DUU)",
+		natDexTier: "RUBL",
 	},
 	shinymunkidori: {
-		tier: "Illegal",
+		tier: "NU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinyfezandipiti: {
-		tier: "Illegal",
+		tier: "UU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinyogerpon: {
-		tier: "Illegal",
+		tier: "UU",
+		doublesTier: "(DUU)",
+		natDexTier: "RU",
 	},
 	shinyogerponwellspring: {
-		tier: "Illegal",
+		tier: "OU",
+		doublesTier: "DOU",
+		natDexTier: "OU",
 	},
 	shinyogerponhearthflame: {
-		tier: "Illegal",
+		tier: "Uber",
+		doublesTier: "DOU",
+		natDexTier: "Uber",
 	},
 	shinyogerponcornerstone: {
-		tier: "Illegal",
+		tier: "UUBL",
+		doublesTier: "DUU",
+		natDexTier: "UUBL",
 	},
 	shinyarchaludon: {
-		tier: "Illegal",
+		tier: "Uber",
+		doublesTier: "DUber",
+		natDexTier: "RUBL",
 	},
 	shinyhydrapple: {
-		tier: "Illegal",
+		tier: "UU",
+		doublesTier: "(DUU)",
+		natDexTier: "UU",
 	},
 	shinygougingfire: {
-		tier: "Illegal",
+		tier: "Uber",
+		doublesTier: "DOU",
+		natDexTier: "Uber",
 	},
 	shinyragingbolt: {
-		tier: "Illegal",
+		tier: "OU",
+		doublesTier: "DOU",
+		natDexTier: "OU",
 	},
 	shinyironboulder: {
-		tier: "Illegal",
+		tier: "UUBL",
+		doublesTier: "(DUU)",
+		natDexTier: "UU",
 	},
 	shinyironcrown: {
-		tier: "Illegal",
+		tier: "OU",
+		doublesTier: "DUU",
+		natDexTier: "UUBL",
 	},
 	shinyterapagos: {
-		tier: "Illegal",
+		tier: "Uber",
+		doublesTier: "DUber",
+		natDexTier: "OU",
 	},
 	shinyterapagosstellar: {
-		tier: "Illegal",
+		tier: "Uber",
+		doublesTier: "DUber",
+		natDexTier: "Uber",
 	},
 	shinypecharunt: {
-		tier: "Illegal",
+		tier: "OU",
+		doublesTier: "(DUU)",
+		natDexTier: "UU",
 	},
 };
