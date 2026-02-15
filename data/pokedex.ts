@@ -33452,12 +33452,12 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		color: "Red",
 		tags: ["Restricted Legendary"],
 		eggGroups: ["Undiscovered"],
-		otherFormes: ["Shiny Yveltal-Artificial Creation by Mewtwo made to mock existing version"],
-		formeOrder: ["Shiny Yveltal", "Shiny Yveltal-Artificial Creation by Mewtwo made to mock existing version"],
+		otherFormes: ["Shiny Yveltal-Artificial by Mewtwo"],
+		formeOrder: ["Shiny Yveltal", "Shiny Yveltal-Artificial by Mewtwo"],
 	},
-	shinyyveltalartificialcreationbymewtwomadetomockexistingversion: {
+	shinyyveltalartificialbymewtwo: {
 		num: 716,
-		name: "Shiny Yveltal-Artificial Creation by Mewtwo made to mock existing version",
+		name: "Shiny Yveltal-Artificial by Mewtwo",
 		baseSpecies: "Shiny Yveltal",
 		forme: "Artificial Creation by Mewtwo made to mock existing version",
 		types: ["Dark", "Flying"],

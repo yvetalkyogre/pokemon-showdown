@@ -10216,7 +10216,7 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 		tier: "Illegal",
 		natDexTier: "Uber",
 	},
-	shinyyveltalartificialcreationbymewtwomadetomockexistingversion: {
+	shinyyveltalartificialbymewtwo: {
 		isNonstandard: "Past",
 		tier: "Illegal",
 		natDexTier: "Uber",
