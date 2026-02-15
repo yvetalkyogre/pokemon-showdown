@@ -6505,7 +6505,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		color: "Red",
 		eggGroups: ["Fairy", "Amorphous"],
 		requiredAbility: "Forecast",
-		battleOnly: "Shiny Castform",
+		battleOnly: "Castform",
 	},
 	castformrainy: {
 		num: 351,
@@ -6521,7 +6521,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		color: "Blue",
 		eggGroups: ["Fairy", "Amorphous"],
 		requiredAbility: "Forecast",
-		battleOnly: "Shiny Castform",
+		battleOnly: "Castform",
 	},
 	castformsnowy: {
 		num: 351,
@@ -6537,7 +6537,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		color: "White",
 		eggGroups: ["Fairy", "Amorphous"],
 		requiredAbility: "Forecast",
-		battleOnly: "Shiny Castform",
+		battleOnly: "Castform",
 	},
 	kecleon: {
 		num: 352,
@@ -7078,7 +7078,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		weightkg: 3700.0,
 		color: "Blue",
 		eggGroups: ["Undiscovered"],
-		battleOnly: "Shiny Kyogre",
+		battleOnly: "Kyogre",
 		requiredAbility: ["Beast Boost", "Primordial Sea"], 
 	},
 	groudon: {
@@ -7740,7 +7740,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		color: "Pink",
 		eggGroups: ["Fairy", "Grass"],
 		requiredAbility: "Flower Gift",
-		battleOnly: "Shiny Cherrim",
+		battleOnly: "Cherrim",
 	},
 	shellos: {
 		num: 422,
@@ -10177,7 +10177,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		color: "Blue",
 		eggGroups: ["Field"],
 		requiredAbility: "Zen Mode",
-		battleOnly: "Shiny Darmanitan",
+		battleOnly: "Darmanitan",
 	},
 	darmanitangalar: {
 		num: 555,
@@ -10208,7 +10208,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		color: "White",
 		eggGroups: ["Field"],
 		requiredAbility: "Zen Mode",
-		battleOnly: "Shiny Darmanitan-Galar",
+		battleOnly: "Darmanitan-Galar",
 	},
 	maractus: {
 		num: 556,
@@ -11661,7 +11661,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		weightkg: 42.5,
 		color: "White",
 		eggGroups: ["Undiscovered"],
-		battleOnly: "Shiny Meloetta",
+		battleOnly: "Meloetta",
 	},
 	genesect: {
 		num: 649,
@@ -11897,7 +11897,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		color: "Blue",
 		eggGroups: ["Undiscovered"],
 		requiredAbility: "Battle Bond",
-		battleOnly: "Shiny Greninja",
+		battleOnly: "Greninja",
 		gen: 7,
 	},
 	bunnelby: {
@@ -12336,7 +12336,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		color: "Brown",
 		eggGroups: ["Mineral"],
 		requiredAbility: "Stance Change",
-		battleOnly: "Shiny Aegislash",
+		battleOnly: "Aegislash",
 	},
 	spritzee: {
 		num: 682,
@@ -12996,7 +12996,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		weightkg: 4000.0,
 		color: "Black",
 		eggGroups: ["Undiscovered"],
-		battleOnly: "Shiny Yveltal",
+		battleOnly: "Yveltal",
 		requiredAbility: ["Beast Boost", "Tough Claws"], 
 	},
 	zygarde: {
@@ -14338,7 +14338,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		color: "Brown",
 		eggGroups: ["Mineral"],
 		requiredAbility: "Shields Down",
-		battleOnly: "Shiny Minior",
+		battleOnly: "Minior",
 	},
 	komala: {
 		num: 775,
@@ -14420,7 +14420,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		color: "Yellow",
 		eggGroups: ["Amorphous"],
 		requiredAbility: "Disguise",
-		battleOnly: "Shiny Mimikyu",
+		battleOnly: "Mimikyu",
 	},
 	mimikyutotem: {
 		num: 778,
@@ -14450,7 +14450,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		color: "Yellow",
 		eggGroups: ["Amorphous"],
 		requiredAbility: "Disguise",
-		battleOnly: "Shiny Mimikyu-Totem",
+		battleOnly: "Mimikyu-Totem",
 	},
 	bruxish: {
 		num: 779,
@@ -15607,7 +15607,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		color: "Blue",
 		eggGroups: ["Water 1", "Flying"],
 		requiredAbility: "Gulp Missile",
-		battleOnly: "Shiny Cramorant",
+		battleOnly: "Cramorant",
 	},
 	cramorantgorging: {
 		num: 845,
@@ -15622,7 +15622,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		color: "Blue",
 		eggGroups: ["Water 1", "Flying"],
 		requiredAbility: "Gulp Missile",
-		battleOnly: "Shiny Cramorant",
+		battleOnly: "Cramorant",
 	},
 	arrokuda: {
 		num: 846,
@@ -15724,7 +15724,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		weightkg: 0,
 		color: "Purple",
 		eggGroups: ["Human-Like"],
-		battleOnly: "Shiny Toxtricity-Low-Key",
+		battleOnly: "Toxtricity-Low-Key",
 		changesFrom: "Toxtricity-Low-Key",
 	},
 	sizzlipede: {
@@ -16202,7 +16202,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		color: "Blue",
 		eggGroups: ["Water 1", "Field"],
 		requiredAbility: "Ice Face",
-		battleOnly: "Shiny Eiscue",
+		battleOnly: "Eiscue",
 	},
 	indeedee: {
 		num: 876,
@@ -16262,7 +16262,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		color: "Purple",
 		eggGroups: ["Field", "Fairy"],
 		requiredAbility: "Hunger Switch",
-		battleOnly: "Shiny Morpeko",
+		battleOnly: "Morpeko",
 	},
 	cufant: {
 		num: 878,
@@ -16453,7 +16453,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		color: "Blue",
 		eggGroups: ["Undiscovered"],
 		requiredItem: "Rusted Sword",
-		battleOnly: "Shiny Zacian",
+		battleOnly: "Zacian",
 		cannotDynamax: true,
 	},
 	zamazenta: {
@@ -16487,7 +16487,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		color: "Red",
 		eggGroups: ["Undiscovered"],
 		requiredItem: "Rusted Shield",
-		battleOnly: "Shiny Zamazenta",
+		battleOnly: "Zamazenta",
 		cannotDynamax: true,
 	},
 	eternatus: {
@@ -16594,7 +16594,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		weightkg: 0,
 		color: "Gray",
 		eggGroups: ["Undiscovered"],
-		battleOnly: "Shiny Urshifu-Rapid-Strike",
+		battleOnly: "Urshifu-Rapid-Strike",
 		changesFrom: "Urshifu-Rapid-Strike",
 	},
 	zarude: {
@@ -18612,7 +18612,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		weightkg: 41.8,
 		color: "Green",
 		eggGroups: ["Undiscovered"],
-		battleOnly: "Shiny Ogerpon",
+		battleOnly: "Ogerpon",
 		forceTeraType: "Grass",
 	},
 	ogerponwellspringtera: {
@@ -18629,7 +18629,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		color: "Blue",
 		eggGroups: ["Undiscovered"],
 		requiredItem: "Wellspring Mask",
-		battleOnly: "Shiny Ogerpon-Wellspring",
+		battleOnly: "Ogerpon-Wellspring",
 		forceTeraType: "Water",
 	},
 	ogerponhearthflametera: {
@@ -18646,7 +18646,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		color: "Red",
 		eggGroups: ["Undiscovered"],
 		requiredItem: "Hearthflame Mask",
-		battleOnly: "Shiny Ogerpon-Hearthflame",
+		battleOnly: "Ogerpon-Hearthflame",
 		forceTeraType: "Fire",
 	},
 	ogerponcornerstonetera: {
@@ -18663,7 +18663,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		color: "Gray",
 		eggGroups: ["Undiscovered"],
 		requiredItem: "Cornerstone Mask",
-		battleOnly: "Shiny Ogerpon-Cornerstone",
+		battleOnly: "Ogerpon-Cornerstone",
 		forceTeraType: "Rock",
 	},
 	archaludon: {
@@ -18787,7 +18787,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		weightkg: 308,
 		color: "Blue",
 		eggGroups: ["Undiscovered"],
-		battleOnly: "Shiny Terapagos",
+		battleOnly: "Terapagos",
 		forceTeraType: "Stellar",
 	},
 	pecharunt: {
@@ -20125,6 +20125,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.7,
 		weightkg: 6.9,
 		color: "Green",
+		evos: ["Shiny Ivysaur"],
 		eggGroups: ["Monster", "Grass"],
 	},
 	shinyivysaur: {
@@ -20137,6 +20138,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1,
 		weightkg: 13,
 		color: "Green",
+		prevo: "Shiny Bulbasaur",
+		evoLevel: 16,
+		evos: ["Shiny Venusaur"],
 		eggGroups: ["Monster", "Grass"],
 	},
 	shinyvenusaur: {
@@ -20149,6 +20153,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 2,
 		weightkg: 100,
 		color: "Green",
+		prevo: "Shiny Ivysaur",
+		evoLevel: 32,
 		eggGroups: ["Monster", "Grass"],
 		otherFormes: ["Shiny Venusaur-Mega"],
 		formeOrder: ["Shiny Venusaur", "Shiny Venusaur-Mega"],
@@ -20182,7 +20188,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		weightkg: 0,
 		color: "Green",
 		eggGroups: ["Monster", "Grass"],
-		changesFrom: "Venusaur",
+		changesFrom: "Shiny Venusaur",
 	},
 	shinycharmander: {
 		num: 4,
@@ -20194,6 +20200,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.6,
 		weightkg: 8.5,
 		color: "Red",
+		evos: ["Shiny Charmeleon"],
 		eggGroups: ["Monster", "Dragon"],
 	},
 	shinycharmeleon: {
@@ -20206,6 +20213,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.1,
 		weightkg: 19,
 		color: "Red",
+		prevo: "Shiny Charmander",
+		evoLevel: 16,
+		evos: ["Shiny Charizard"],
 		eggGroups: ["Monster", "Dragon"],
 	},
 	shinycharizard: {
@@ -20218,8 +20228,10 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.7,
 		weightkg: 90.5,
 		color: "Red",
+		prevo: "Shiny Charmeleon",
+		evoLevel: 36,
 		eggGroups: ["Monster", "Dragon"],
-		otherFormes: ["Shiny Charizard-Mega-X", "Charizard-Mega-Y"],
+		otherFormes: ["Shiny Charizard-Mega-X", "Shiny Charizard-Mega-Y"],
 		formeOrder: ["Shiny Charizard", "Shiny Charizard-Mega-X", "Shiny Charizard-Mega-Y"],
 		canGigantamax: "G-Max Wildfire",
 	},
@@ -20266,7 +20278,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		weightkg: 0,
 		color: "Red",
 		eggGroups: ["Monster", "Dragon"],
-		changesFrom: "Charizard",
+		changesFrom: "Shiny Charizard",
 	},
 	shinysquirtle: {
 		num: 7,
@@ -20278,6 +20290,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.5,
 		weightkg: 9,
 		color: "Blue",
+		evos: ["Shiny Wartortle"],
 		eggGroups: ["Monster", "Water 1"],
 	},
 	shinywartortle: {
@@ -20290,6 +20303,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1,
 		weightkg: 22.5,
 		color: "Blue",
+		prevo: "Shiny Squirtle",
+		evoLevel: 16,
+		evos: ["Shiny Blastoise"],
 		eggGroups: ["Monster", "Water 1"],
 	},
 	shinyblastoise: {
@@ -20302,6 +20318,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.6,
 		weightkg: 85.5,
 		color: "Blue",
+		prevo: "Shiny Wartortle",
+		evoLevel: 36,
 		eggGroups: ["Monster", "Water 1"],
 		otherFormes: ["Shiny Blastoise-Mega"],
 		formeOrder: ["Shiny Blastoise", "Shiny Blastoise-Mega"],
@@ -20335,7 +20353,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		weightkg: 0,
 		color: "Blue",
 		eggGroups: ["Monster", "Water 1"],
-		changesFrom: "Blastoise",
+		changesFrom: "Shiny Blastoise",
 	},
 	shinycaterpie: {
 		num: 10,
@@ -20346,6 +20364,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.3,
 		weightkg: 2.9,
 		color: "Green",
+		evos: ["Shiny Metapod"],
 		eggGroups: ["Bug"],
 	},
 	shinymetapod: {
@@ -20357,6 +20376,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.7,
 		weightkg: 9.9,
 		color: "Green",
+		prevo: "Shiny Caterpie",
+		evoLevel: 7,
+		evos: ["Shiny Butterfree"],
 		eggGroups: ["Bug"],
 	},
 	shinybutterfree: {
@@ -20368,6 +20390,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.1,
 		weightkg: 32,
 		color: "White",
+		prevo: "Shiny Metapod",
+		evoLevel: 10,
 		eggGroups: ["Bug"],
 		canGigantamax: "G-Max Befuddle",
 	},
@@ -20383,7 +20407,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		weightkg: 0,
 		color: "White",
 		eggGroups: ["Bug"],
-		changesFrom: "Butterfree",
+		changesFrom: "Shiny Butterfree",
 	},
 	shinyweedle: {
 		num: 13,
@@ -20394,6 +20418,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.3,
 		weightkg: 3.2,
 		color: "Brown",
+		evos: ["Shiny Kakuna"],
 		eggGroups: ["Bug"],
 	},
 	shinykakuna: {
@@ -20405,6 +20430,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.6,
 		weightkg: 10,
 		color: "Yellow",
+		prevo: "Shiny Weedle",
+		evoLevel: 7,
+		evos: ["Shiny Beedrill"],
 		eggGroups: ["Bug"],
 	},
 	shinybeedrill: {
@@ -20416,6 +20444,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1,
 		weightkg: 29.5,
 		color: "Yellow",
+		prevo: "Shiny Kakuna",
+		evoLevel: 10,
 		eggGroups: ["Bug"],
 		otherFormes: ["Shiny Beedrill-Mega"],
 		formeOrder: ["Shiny Beedrill", "Shiny Beedrill-Mega"],
@@ -20443,6 +20473,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.3,
 		weightkg: 1.8,
 		color: "Brown",
+		evos: ["Shiny Pidgeotto"],
 		eggGroups: ["Flying"],
 	},
 	shinypidgeotto: {
@@ -20454,6 +20485,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.1,
 		weightkg: 30,
 		color: "Brown",
+		prevo: "Shiny Pidgey",
+		evoLevel: 18,
+		evos: ["Shiny Pidgeot"],
 		eggGroups: ["Flying"],
 	},
 	shinypidgeot: {
@@ -20465,6 +20499,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.5,
 		weightkg: 39.5,
 		color: "Brown",
+		prevo: "Shiny Pidgeotto",
+		evoLevel: 36,
 		eggGroups: ["Flying"],
 		otherFormes: ["Shiny Pidgeot-Mega"],
 		formeOrder: ["Shiny Pidgeot", "Shiny Pidgeot-Mega"],
@@ -20492,6 +20528,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.3,
 		weightkg: 3.5,
 		color: "Purple",
+		evos: ["Shiny Raticate"],
 		eggGroups: ["Field"],
 		otherFormes: ["Shiny Rattata-Alola"],
 		formeOrder: ["Shiny Rattata", "Shiny Rattata-Alola"],
@@ -20507,6 +20544,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.3,
 		weightkg: 3.8,
 		color: "Black",
+		evos: ["Shiny Raticate-Alola"],
 		eggGroups: ["Field"],
 	},
 	shinyraticate: {
@@ -20518,8 +20556,10 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.7,
 		weightkg: 18.5,
 		color: "Brown",
+		prevo: "Shiny Rattata",
+		evoLevel: 20,
 		eggGroups: ["Field"],
-		otherFormes: ["Shiny Raticate-Alola", "Raticate-Alola-Totem"],
+		otherFormes: ["Shiny Raticate-Alola", "Shiny Raticate-Alola-Totem"],
 		formeOrder: ["Shiny Raticate", "Shiny Raticate-Alola", "Shiny Raticate-Alola-Totem"],
 	},
 	shinyraticatealola: {
@@ -20533,6 +20573,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.7,
 		weightkg: 25.5,
 		color: "Black",
+		prevo: "Shiny Rattata-Alola",
+		evoLevel: 20,
+		evoCondition: "at night",
 		eggGroups: ["Field"],
 	},
 	shinyraticatealolatotem: {
@@ -20557,6 +20600,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.3,
 		weightkg: 2,
 		color: "Brown",
+		evos: ["Shiny Fearow"],
 		eggGroups: ["Flying"],
 	},
 	shinyfearow: {
@@ -20568,6 +20612,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.2,
 		weightkg: 38,
 		color: "Brown",
+		prevo: "Shiny Spearow",
+		evoLevel: 20,
 		eggGroups: ["Flying"],
 	},
 	shinyekans: {
@@ -20579,6 +20625,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 2,
 		weightkg: 6.9,
 		color: "Purple",
+		evos: ["Shiny Arbok"],
 		eggGroups: ["Field", "Dragon"],
 	},
 	shinyarbok: {
@@ -20590,6 +20637,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 3.5,
 		weightkg: 65,
 		color: "Purple",
+		prevo: "Shiny Ekans",
+		evoLevel: 22,
 		eggGroups: ["Field", "Dragon"],
 	},
 	shinypikachu: {
@@ -20601,8 +20650,11 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.4,
 		weightkg: 6,
 		color: "Yellow",
+		prevo: "Shiny Pichu",
+		evoType: "levelFriendship",
+		evos: ["Shiny Raichu", "Shiny Raichu-Alola"],
 		eggGroups: ["Field", "Fairy"],
-		otherFormes: ["Shiny Pikachu-Cosplay", "Pikachu-Rock-Star", "Pikachu-Belle", "Pikachu-Pop-Star", "Pikachu-PhD", "Pikachu-Libre", "Pikachu-Original", "Pikachu-Hoenn", "Pikachu-Sinnoh", "Pikachu-Unova", "Pikachu-Kalos", "Pikachu-Alola", "Pikachu-Partner", "Pikachu-Starter", "Pikachu-World"],
+		otherFormes: ["Shiny Pikachu-Cosplay", "Shiny Pikachu-Rock-Star", "Shiny Pikachu-Belle", "Shiny Pikachu-Pop-Star", "Shiny Pikachu-PhD", "Shiny Pikachu-Libre", "Shiny Pikachu-Original", "Shiny Pikachu-Hoenn", "Shiny Pikachu-Sinnoh", "Shiny Pikachu-Unova", "Shiny Pikachu-Kalos", "Shiny Pikachu-Alola", "Shiny Pikachu-Partner", "Shiny Pikachu-Starter", "Shiny Pikachu-World"],
 		formeOrder: [
 			"Shiny Pikachu",
 			"Shiny Pikachu-Original", "Shiny Pikachu-Hoenn", "Shiny Pikachu-Sinnoh", "Shiny Pikachu-Unova", "Shiny Pikachu-Kalos", "Shiny Pikachu-Alola", "Shiny Pikachu-Partner", // Gen 7 formes
@@ -20640,7 +20692,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		weightkg: 6,
 		color: "Yellow",
 		eggGroups: ["Undiscovered"],
-		changesFrom: "Pikachu-Cosplay",
+		changesFrom: "Shiny Pikachu-Cosplay",
 		gen: 6,
 	},
 	shinypikachubelle: {
@@ -20656,7 +20708,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		weightkg: 6,
 		color: "Yellow",
 		eggGroups: ["Undiscovered"],
-		changesFrom: "Pikachu-Cosplay",
+		changesFrom: "Shiny Pikachu-Cosplay",
 		gen: 6,
 	},
 	shinypikachupopstar: {
@@ -20672,7 +20724,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		weightkg: 6,
 		color: "Yellow",
 		eggGroups: ["Undiscovered"],
-		changesFrom: "Pikachu-Cosplay",
+		changesFrom: "Shiny Pikachu-Cosplay",
 		gen: 6,
 	},
 	shinypikachuphd: {
@@ -20688,7 +20740,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		weightkg: 6,
 		color: "Yellow",
 		eggGroups: ["Undiscovered"],
-		changesFrom: "Pikachu-Cosplay",
+		changesFrom: "Shiny Pikachu-Cosplay",
 		gen: 6,
 	},
 	shinypikachulibre: {
@@ -20704,7 +20756,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		weightkg: 6,
 		color: "Yellow",
 		eggGroups: ["Undiscovered"],
-		changesFrom: "Pikachu-Cosplay",
+		changesFrom: "Shiny Pikachu-Cosplay",
 		gen: 6,
 	},
 	shinypikachuoriginal: {
@@ -20837,7 +20889,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		weightkg: 0,
 		color: "Yellow",
 		eggGroups: ["Field", "Fairy"],
-		changesFrom: "Pikachu",
+		changesFrom: "Shiny Pikachu",
 	},
 	shinypikachuworld: {
 		num: 25,
@@ -20863,8 +20915,11 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.8,
 		weightkg: 30,
 		color: "Yellow",
+		prevo: "Shiny Pikachu",
+		evoType: "useItem",
+		evoItem: "Thunder Stone",
 		eggGroups: ["Field", "Fairy"],
-		otherFormes: ["Shiny Raichu-Alola", "Raichu-Mega-X", "Raichu-Mega-Y"],
+		otherFormes: ["Shiny Raichu-Alola", "Shiny Raichu-Mega-X", "Shiny Raichu-Mega-Y"],
 		formeOrder: ["Shiny Raichu", "Shiny Raichu-Alola", "Shiny Raichu-Mega-X", "Shiny Raichu-Mega-Y"],
 	},
 	shinyraichualola: {
@@ -20878,6 +20933,10 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.7,
 		weightkg: 21,
 		color: "Brown",
+		prevo: "Shiny Pikachu",
+		evoType: "useItem",
+		evoItem: "Thunder Stone",
+		evoRegion: "Alola",
 		eggGroups: ["Field", "Fairy"],
 	},
 	shinyraichumegax: {
@@ -20919,6 +20978,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.6,
 		weightkg: 12,
 		color: "Yellow",
+		evos: ["Shiny Sandslash"],
 		eggGroups: ["Field"],
 		otherFormes: ["Shiny Sandshrew-Alola"],
 		formeOrder: ["Shiny Sandshrew", "Shiny Sandshrew-Alola"],
@@ -20934,6 +20994,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.7,
 		weightkg: 40,
 		color: "White",
+		evos: ["Shiny Sandslash-Alola"],
 		eggGroups: ["Field"],
 	},
 	shinysandslash: {
@@ -20945,6 +21006,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1,
 		weightkg: 29.5,
 		color: "Yellow",
+		prevo: "Shiny Sandshrew",
+		evoLevel: 22,
 		eggGroups: ["Field"],
 		otherFormes: ["Shiny Sandslash-Alola"],
 		formeOrder: ["Shiny Sandslash", "Shiny Sandslash-Alola"],
@@ -20960,6 +21023,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.2,
 		weightkg: 55,
 		color: "Blue",
+		prevo: "Shiny Sandshrew-Alola",
+		evoType: "useItem",
+		evoItem: "Ice Stone",
 		eggGroups: ["Field"],
 	},
 	shinynidoranf: {
@@ -20972,6 +21038,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.4,
 		weightkg: 7,
 		color: "Blue",
+		evos: ["Shiny Nidorina"],
 		eggGroups: ["Monster", "Field"],
 	},
 	shinynidorina: {
@@ -20984,6 +21051,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.8,
 		weightkg: 20,
 		color: "Blue",
+		prevo: "Shiny Nidoran-F",
+		evoLevel: 16,
+		evos: ["Shiny Nidoqueen"],
 		eggGroups: ["Undiscovered"],
 	},
 	shinynidoqueen: {
@@ -20996,6 +21066,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.3,
 		weightkg: 60,
 		color: "Blue",
+		prevo: "Shiny Nidorina",
+		evoType: "useItem",
+		evoItem: "Moon Stone",
 		eggGroups: ["Undiscovered"],
 	},
 	shinynidoranm: {
@@ -21008,6 +21081,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.5,
 		weightkg: 9,
 		color: "Purple",
+		evos: ["Shiny Nidorino"],
 		eggGroups: ["Monster", "Field"],
 		mother: 'nidoranf',
 	},
@@ -21021,6 +21095,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.9,
 		weightkg: 19.5,
 		color: "Purple",
+		prevo: "Shiny Nidoran-M",
+		evoLevel: 16,
+		evos: ["Shiny Nidoking"],
 		eggGroups: ["Monster", "Field"],
 	},
 	shinynidoking: {
@@ -21033,6 +21110,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.4,
 		weightkg: 62,
 		color: "Purple",
+		prevo: "Shiny Nidorino",
+		evoType: "useItem",
+		evoItem: "Moon Stone",
 		eggGroups: ["Monster", "Field"],
 	},
 	shinyclefairy: {
@@ -21045,6 +21125,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.6,
 		weightkg: 7.5,
 		color: "Pink",
+		prevo: "Shiny Cleffa",
+		evoType: "levelFriendship",
+		evos: ["Shiny Clefable"],
 		eggGroups: ["Fairy"],
 	},
 	shinyclefable: {
@@ -21057,6 +21140,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.3,
 		weightkg: 40,
 		color: "Pink",
+		prevo: "Shiny Clefairy",
+		evoType: "useItem",
+		evoItem: "Moon Stone",
 		eggGroups: ["Fairy"],
 		otherFormes: ["Shiny Clefable-Mega"],
 		formeOrder: ["Shiny Clefable", "Shiny Clefable-Mega"],
@@ -21087,6 +21173,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.6,
 		weightkg: 9.9,
 		color: "Brown",
+		evos: ["Shiny Ninetales"],
 		eggGroups: ["Field"],
 		otherFormes: ["Shiny Vulpix-Alola"],
 		formeOrder: ["Shiny Vulpix", "Shiny Vulpix-Alola"],
@@ -21103,6 +21190,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.6,
 		weightkg: 9.9,
 		color: "White",
+		evos: ["Shiny Ninetales-Alola"],
 		eggGroups: ["Field"],
 	},
 	shinyninetales: {
@@ -21115,6 +21203,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.1,
 		weightkg: 19.9,
 		color: "Yellow",
+		prevo: "Shiny Vulpix",
+		evoType: "useItem",
+		evoItem: "Fire Stone",
 		eggGroups: ["Field"],
 		otherFormes: ["Shiny Ninetales-Alola"],
 		formeOrder: ["Shiny Ninetales", "Shiny Ninetales-Alola"],
@@ -21131,6 +21222,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.1,
 		weightkg: 19.9,
 		color: "Blue",
+		prevo: "Shiny Vulpix-Alola",
+		evoType: "useItem",
+		evoItem: "Ice Stone",
 		eggGroups: ["Field"],
 	},
 	shinyjigglypuff: {
@@ -21143,6 +21237,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.5,
 		weightkg: 5.5,
 		color: "Pink",
+		prevo: "Shiny Igglybuff",
+		evoType: "levelFriendship",
+		evos: ["Shiny Wigglytuff"],
 		eggGroups: ["Fairy"],
 	},
 	shinywigglytuff: {
@@ -21155,6 +21252,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1,
 		weightkg: 12,
 		color: "Pink",
+		prevo: "Shiny Jigglypuff",
+		evoType: "useItem",
+		evoItem: "Moon Stone",
 		eggGroups: ["Fairy"],
 	},
 	shinyzubat: {
@@ -21166,6 +21266,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.8,
 		weightkg: 7.5,
 		color: "Purple",
+		evos: ["Shiny Golbat"],
 		eggGroups: ["Flying"],
 	},
 	shinygolbat: {
@@ -21177,6 +21278,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.6,
 		weightkg: 55,
 		color: "Purple",
+		prevo: "Shiny Zubat",
+		evoLevel: 22,
+		evos: ["Shiny Crobat"],
 		eggGroups: ["Flying"],
 	},
 	shinyoddish: {
@@ -21188,6 +21292,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.5,
 		weightkg: 5.4,
 		color: "Blue",
+		evos: ["Shiny Gloom"],
 		eggGroups: ["Grass"],
 	},
 	shinygloom: {
@@ -21199,6 +21304,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.8,
 		weightkg: 8.6,
 		color: "Blue",
+		prevo: "Shiny Oddish",
+		evoLevel: 21,
+		evos: ["Shiny Vileplume", "Shiny Bellossom"],
 		eggGroups: ["Grass"],
 	},
 	shinyvileplume: {
@@ -21210,6 +21318,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.2,
 		weightkg: 18.6,
 		color: "Red",
+		prevo: "Shiny Gloom",
+		evoType: "useItem",
+		evoItem: "Leaf Stone",
 		eggGroups: ["Grass"],
 	},
 	shinyparas: {
@@ -21221,6 +21332,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.3,
 		weightkg: 5.4,
 		color: "Red",
+		evos: ["Shiny Parasect"],
 		eggGroups: ["Bug", "Grass"],
 	},
 	shinyparasect: {
@@ -21232,6 +21344,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1,
 		weightkg: 29.5,
 		color: "Red",
+		prevo: "Shiny Paras",
+		evoLevel: 24,
 		eggGroups: ["Bug", "Grass"],
 	},
 	shinyvenonat: {
@@ -21243,6 +21357,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1,
 		weightkg: 30,
 		color: "Purple",
+		evos: ["Shiny Venomoth"],
 		eggGroups: ["Bug"],
 	},
 	shinyvenomoth: {
@@ -21254,6 +21369,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.5,
 		weightkg: 12.5,
 		color: "Purple",
+		prevo: "Shiny Venonat",
+		evoLevel: 31,
 		eggGroups: ["Bug"],
 	},
 	shinydiglett: {
@@ -21265,6 +21382,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.2,
 		weightkg: 0.8,
 		color: "Brown",
+		evos: ["Shiny Dugtrio"],
 		eggGroups: ["Field"],
 		otherFormes: ["Shiny Diglett-Alola"],
 		formeOrder: ["Shiny Diglett", "Shiny Diglett-Alola"],
@@ -21280,6 +21398,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.2,
 		weightkg: 1,
 		color: "Brown",
+		evos: ["Shiny Dugtrio-Alola"],
 		eggGroups: ["Field"],
 	},
 	shinydugtrio: {
@@ -21291,6 +21410,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.7,
 		weightkg: 33.3,
 		color: "Brown",
+		prevo: "Shiny Diglett",
+		evoLevel: 26,
 		eggGroups: ["Field"],
 		otherFormes: ["Shiny Dugtrio-Alola"],
 		formeOrder: ["Shiny Dugtrio", "Shiny Dugtrio-Alola"],
@@ -21306,6 +21427,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.7,
 		weightkg: 66.6,
 		color: "Brown",
+		prevo: "Shiny Diglett-Alola",
+		evoLevel: 26,
 		eggGroups: ["Field"],
 	},
 	shinymeowth: {
@@ -21317,8 +21440,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.4,
 		weightkg: 4.2,
 		color: "Yellow",
+		evos: ["Shiny Persian"],
 		eggGroups: ["Field"],
-		otherFormes: ["Shiny Meowth-Alola", "Meowth-Galar"],
+		otherFormes: ["Shiny Meowth-Alola", "Shiny Meowth-Galar"],
 		formeOrder: ["Shiny Meowth", "Shiny Meowth-Alola", "Shiny Meowth-Galar"],
 		canGigantamax: "G-Max Gold Rush",
 	},
@@ -21333,6 +21457,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.4,
 		weightkg: 4.2,
 		color: "Blue",
+		evos: ["Shiny Persian-Alola"],
 		eggGroups: ["Field"],
 	},
 	shinymeowthgalar: {
@@ -21346,6 +21471,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.4,
 		weightkg: 7.5,
 		color: "Brown",
+		evos: ["Shiny Perrserker"],
 		eggGroups: ["Field"],
 	},
 	shinymeowthgmax: {
@@ -21360,7 +21486,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		weightkg: 0,
 		color: "Yellow",
 		eggGroups: ["Field"],
-		changesFrom: "Meowth",
+		changesFrom: "Shiny Meowth",
 	},
 	shinypersian: {
 		num: 53,
@@ -21371,6 +21497,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1,
 		weightkg: 32,
 		color: "Yellow",
+		prevo: "Shiny Meowth",
+		evoLevel: 28,
 		eggGroups: ["Field"],
 		otherFormes: ["Shiny Persian-Alola"],
 		formeOrder: ["Shiny Persian", "Shiny Persian-Alola"],
@@ -21386,6 +21514,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.1,
 		weightkg: 33,
 		color: "Blue",
+		prevo: "Shiny Meowth-Alola",
+		evoType: "levelFriendship",
 		eggGroups: ["Field"],
 	},
 	shinypsyduck: {
@@ -21397,6 +21527,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.8,
 		weightkg: 19.6,
 		color: "Yellow",
+		evos: ["Shiny Golduck"],
 		eggGroups: ["Water 1", "Field"],
 	},
 	shinygolduck: {
@@ -21408,6 +21539,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.7,
 		weightkg: 76.6,
 		color: "Blue",
+		prevo: "Shiny Psyduck",
+		evoLevel: 33,
 		eggGroups: ["Water 1", "Field"],
 	},
 	shinymankey: {
@@ -21419,6 +21552,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.5,
 		weightkg: 28,
 		color: "Brown",
+		evos: ["Shiny Primeape"],
 		eggGroups: ["Field"],
 	},
 	shinyprimeape: {
@@ -21430,6 +21564,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1,
 		weightkg: 32,
 		color: "Brown",
+		prevo: "Shiny Mankey",
+		evoLevel: 28,
+		evos: ["Shiny Annihilape"],
 		eggGroups: ["Field"],
 	},
 	shinygrowlithe: {
@@ -21442,6 +21579,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.7,
 		weightkg: 19,
 		color: "Brown",
+		evos: ["Shiny Arcanine"],
 		eggGroups: ["Field"],
 		otherFormes: ["Shiny Growlithe-Hisui"],
 		formeOrder: ["Shiny Growlithe", "Shiny Growlithe-Hisui"],
@@ -21458,6 +21596,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.8,
 		weightkg: 22.7,
 		color: "Brown",
+		evos: ["Shiny Arcanine-Hisui"],
 		eggGroups: ["Field"],
 	},
 	shinyarcanine: {
@@ -21470,6 +21609,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.9,
 		weightkg: 155,
 		color: "Brown",
+		prevo: "Shiny Growlithe",
+		evoType: "useItem",
+		evoItem: "Fire Stone",
 		eggGroups: ["Field"],
 		otherFormes: ["Shiny Arcanine-Hisui"],
 		formeOrder: ["Shiny Arcanine", "Shiny Arcanine-Hisui"],
@@ -21486,6 +21628,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 2,
 		weightkg: 168,
 		color: "Brown",
+		prevo: "Shiny Growlithe-Hisui",
+		evoType: "useItem",
+		evoItem: "Fire Stone",
 		eggGroups: ["Field"],
 	},
 	shinypoliwag: {
@@ -21497,6 +21642,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.6,
 		weightkg: 12.4,
 		color: "Blue",
+		evos: ["Shiny Poliwhirl"],
 		eggGroups: ["Water 1"],
 	},
 	shinypoliwhirl: {
@@ -21508,6 +21654,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1,
 		weightkg: 20,
 		color: "Blue",
+		prevo: "Shiny Poliwag",
+		evoLevel: 25,
+		evos: ["Shiny Poliwrath", "Shiny Politoed"],
 		eggGroups: ["Water 1"],
 	},
 	shinypoliwrath: {
@@ -21519,6 +21668,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.3,
 		weightkg: 54,
 		color: "Blue",
+		prevo: "Shiny Poliwhirl",
+		evoType: "useItem",
+		evoItem: "Water Stone",
 		eggGroups: ["Water 1"],
 	},
 	shinyabra: {
@@ -21531,6 +21683,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.9,
 		weightkg: 19.5,
 		color: "Brown",
+		evos: ["Shiny Kadabra"],
 		eggGroups: ["Human-Like"],
 	},
 	shinykadabra: {
@@ -21543,6 +21696,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.3,
 		weightkg: 56.5,
 		color: "Brown",
+		prevo: "Shiny Abra",
+		evoLevel: 16,
+		evos: ["Shiny Alakazam"],
 		eggGroups: ["Human-Like"],
 	},
 	shinyalakazam: {
@@ -21555,6 +21711,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.5,
 		weightkg: 48,
 		color: "Brown",
+		prevo: "Shiny Kadabra",
+		evoType: "trade",
 		eggGroups: ["Human-Like"],
 		otherFormes: ["Shiny Alakazam-Mega"],
 		formeOrder: ["Shiny Alakazam", "Shiny Alakazam-Mega"],
@@ -21584,6 +21742,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.8,
 		weightkg: 19.5,
 		color: "Gray",
+		evos: ["Shiny Machoke"],
 		eggGroups: ["Human-Like"],
 	},
 	shinymachoke: {
@@ -21596,6 +21755,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.5,
 		weightkg: 70.5,
 		color: "Gray",
+		prevo: "Shiny Machop",
+		evoLevel: 28,
+		evos: ["Shiny Machamp"],
 		eggGroups: ["Human-Like"],
 	},
 	shinymachamp: {
@@ -21608,6 +21770,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.6,
 		weightkg: 130,
 		color: "Gray",
+		prevo: "Shiny Machoke",
+		evoType: "trade",
 		eggGroups: ["Human-Like"],
 		canGigantamax: "G-Max Chi Strike",
 	},
@@ -21624,7 +21788,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		weightkg: 0,
 		color: "Gray",
 		eggGroups: ["Human-Like"],
-		changesFrom: "Machamp",
+		changesFrom: "Shiny Machamp",
 	},
 	shinybellsprout: {
 		num: 69,
@@ -21635,6 +21799,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.7,
 		weightkg: 4,
 		color: "Green",
+		evos: ["Shiny Weepinbell"],
 		eggGroups: ["Grass"],
 	},
 	shinyweepinbell: {
@@ -21646,6 +21811,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1,
 		weightkg: 6.4,
 		color: "Green",
+		prevo: "Shiny Bellsprout",
+		evoLevel: 21,
+		evos: ["Shiny Victreebel"],
 		eggGroups: ["Grass"],
 	},
 	shinyvictreebel: {
@@ -21657,6 +21825,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.7,
 		weightkg: 15.5,
 		color: "Green",
+		prevo: "Shiny Weepinbell",
+		evoType: "useItem",
+		evoItem: "Leaf Stone",
 		eggGroups: ["Grass"],
 		otherFormes: ["Shiny Victreebel-Mega"],
 		formeOrder: ["Shiny Victreebel", "Shiny Victreebel-Mega"],
@@ -21685,6 +21856,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.9,
 		weightkg: 45.5,
 		color: "Blue",
+		evos: ["Shiny Tentacruel"],
 		eggGroups: ["Water 3"],
 	},
 	shinytentacruel: {
@@ -21696,6 +21868,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.6,
 		weightkg: 55,
 		color: "Blue",
+		prevo: "Shiny Tentacool",
+		evoLevel: 30,
 		eggGroups: ["Water 3"],
 	},
 	shinygeodude: {
@@ -21707,6 +21881,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.4,
 		weightkg: 20,
 		color: "Brown",
+		evos: ["Shiny Graveler"],
 		eggGroups: ["Mineral"],
 		otherFormes: ["Shiny Geodude-Alola"],
 		formeOrder: ["Shiny Geodude", "Shiny Geodude-Alola"],
@@ -21722,6 +21897,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.4,
 		weightkg: 20.3,
 		color: "Gray",
+		evos: ["Shiny Graveler-Alola"],
 		eggGroups: ["Mineral"],
 	},
 	shinygraveler: {
@@ -21733,6 +21909,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1,
 		weightkg: 105,
 		color: "Brown",
+		prevo: "Shiny Geodude",
+		evoLevel: 25,
+		evos: ["Shiny Golem"],
 		eggGroups: ["Mineral"],
 		otherFormes: ["Shiny Graveler-Alola"],
 		formeOrder: ["Shiny Graveler", "Shiny Graveler-Alola"],
@@ -21748,6 +21927,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1,
 		weightkg: 110,
 		color: "Gray",
+		prevo: "Shiny Geodude-Alola",
+		evoLevel: 25,
+		evos: ["Shiny Golem-Alola"],
 		eggGroups: ["Mineral"],
 	},
 	shinygolem: {
@@ -21759,6 +21941,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.4,
 		weightkg: 300,
 		color: "Brown",
+		prevo: "Shiny Graveler",
+		evoType: "trade",
 		eggGroups: ["Mineral"],
 		otherFormes: ["Shiny Golem-Alola"],
 		formeOrder: ["Shiny Golem", "Shiny Golem-Alola"],
@@ -21774,6 +21958,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.7,
 		weightkg: 316,
 		color: "Gray",
+		prevo: "Shiny Graveler-Alola",
+		evoType: "trade",
 		eggGroups: ["Mineral"],
 	},
 	shinyponyta: {
@@ -21785,6 +21971,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1,
 		weightkg: 30,
 		color: "Yellow",
+		evos: ["Shiny Rapidash"],
 		eggGroups: ["Field"],
 		otherFormes: ["Shiny Ponyta-Galar"],
 		formeOrder: ["Shiny Ponyta", "Shiny Ponyta-Galar"],
@@ -21800,6 +21987,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.8,
 		weightkg: 24,
 		color: "White",
+		evos: ["Shiny Rapidash-Galar"],
 		eggGroups: ["Field"],
 	},
 	shinyrapidash: {
@@ -21811,6 +21999,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.7,
 		weightkg: 95,
 		color: "Yellow",
+		prevo: "Shiny Ponyta",
+		evoLevel: 40,
 		eggGroups: ["Field"],
 		otherFormes: ["Shiny Rapidash-Galar"],
 		formeOrder: ["Shiny Rapidash", "Shiny Rapidash-Galar"],
@@ -21826,6 +22016,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.7,
 		weightkg: 80,
 		color: "White",
+		prevo: "Shiny Ponyta-Galar",
+		evoLevel: 40,
 		eggGroups: ["Field"],
 	},
 	shinyslowpoke: {
@@ -21837,6 +22029,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.2,
 		weightkg: 36,
 		color: "Pink",
+		evos: ["Shiny Slowbro", "Shiny Slowking"],
 		eggGroups: ["Monster", "Water 1"],
 		otherFormes: ["Shiny Slowpoke-Galar"],
 		formeOrder: ["Shiny Slowpoke", "Shiny Slowpoke-Galar"],
@@ -21852,6 +22045,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.2,
 		weightkg: 36,
 		color: "Pink",
+		evos: ["Shiny Slowbro-Galar", "Shiny Slowking-Galar"],
 		eggGroups: ["Monster", "Water 1"],
 	},
 	shinyslowbro: {
@@ -21863,8 +22057,10 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.6,
 		weightkg: 78.5,
 		color: "Pink",
+		prevo: "Shiny Slowpoke",
+		evoLevel: 37,
 		eggGroups: ["Monster", "Water 1"],
-		otherFormes: ["Shiny Slowbro-Mega", "Slowbro-Galar"],
+		otherFormes: ["Shiny Slowbro-Mega", "Shiny Slowbro-Galar"],
 		formeOrder: ["Shiny Slowbro", "Shiny Slowbro-Mega", "Shiny Slowbro-Galar"],
 	},
 	shinyslowbromega: {
@@ -21892,6 +22088,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.6,
 		weightkg: 70.5,
 		color: "Pink",
+		prevo: "Shiny Slowpoke-Galar",
+		evoType: "useItem",
+		evoItem: "Galarica Cuff",
 		eggGroups: ["Monster", "Water 1"],
 	},
 	shinymagnemite: {
@@ -21904,6 +22103,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.3,
 		weightkg: 6,
 		color: "Gray",
+		evos: ["Shiny Magneton"],
 		eggGroups: ["Mineral"],
 	},
 	shinymagneton: {
@@ -21916,6 +22116,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1,
 		weightkg: 60,
 		color: "Gray",
+		prevo: "Shiny Magnemite",
+		evoLevel: 30,
+		evos: ["Shiny Magnezone"],
 		eggGroups: ["Mineral"],
 	},
 	shinyfarfetchd: {
@@ -21942,6 +22145,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.8,
 		weightkg: 42,
 		color: "Brown",
+		evos: ["Shiny Sirfetch\u2019d"],
 		eggGroups: ["Flying", "Field"],
 	},
 	shinydoduo: {
@@ -21953,6 +22157,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.4,
 		weightkg: 39.2,
 		color: "Brown",
+		evos: ["Shiny Dodrio"],
 		eggGroups: ["Flying"],
 	},
 	shinydodrio: {
@@ -21964,6 +22169,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.8,
 		weightkg: 85.2,
 		color: "Brown",
+		prevo: "Shiny Doduo",
+		evoLevel: 31,
 		eggGroups: ["Flying"],
 	},
 	shinyseel: {
@@ -21975,6 +22182,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.1,
 		weightkg: 90,
 		color: "White",
+		evos: ["Shiny Dewgong"],
 		eggGroups: ["Water 1", "Field"],
 	},
 	shinydewgong: {
@@ -21986,6 +22194,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.7,
 		weightkg: 120,
 		color: "White",
+		prevo: "Shiny Seel",
+		evoLevel: 34,
 		eggGroups: ["Water 1", "Field"],
 	},
 	shinygrimer: {
@@ -21997,6 +22207,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.9,
 		weightkg: 30,
 		color: "Purple",
+		evos: ["Shiny Muk"],
 		eggGroups: ["Amorphous"],
 		otherFormes: ["Shiny Grimer-Alola"],
 		formeOrder: ["Shiny Grimer", "Shiny Grimer-Alola"],
@@ -22012,6 +22223,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.7,
 		weightkg: 42,
 		color: "Green",
+		evos: ["Shiny Muk-Alola"],
 		eggGroups: ["Amorphous"],
 	},
 	shinymuk: {
@@ -22023,6 +22235,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.2,
 		weightkg: 30,
 		color: "Purple",
+		prevo: "Shiny Grimer",
+		evoLevel: 38,
 		eggGroups: ["Amorphous"],
 		otherFormes: ["Shiny Muk-Alola"],
 		formeOrder: ["Shiny Muk", "Shiny Muk-Alola"],
@@ -22038,6 +22252,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1,
 		weightkg: 52,
 		color: "Green",
+		prevo: "Shiny Grimer-Alola",
+		evoLevel: 38,
 		eggGroups: ["Amorphous"],
 	},
 	shinyshellder: {
@@ -22049,6 +22265,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.3,
 		weightkg: 4,
 		color: "Purple",
+		evos: ["Shiny Cloyster"],
 		eggGroups: ["Water 3"],
 	},
 	shinycloyster: {
@@ -22060,6 +22277,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.5,
 		weightkg: 132.5,
 		color: "Purple",
+		prevo: "Shiny Shellder",
+		evoType: "useItem",
+		evoItem: "Water Stone",
 		eggGroups: ["Water 3"],
 	},
 	shinygastly: {
@@ -22071,6 +22291,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.3,
 		weightkg: 0.1,
 		color: "Purple",
+		evos: ["Shiny Haunter"],
 		eggGroups: ["Amorphous"],
 	},
 	shinyhaunter: {
@@ -22082,6 +22303,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.6,
 		weightkg: 0.1,
 		color: "Purple",
+		prevo: "Shiny Gastly",
+		evoLevel: 25,
+		evos: ["Shiny Gengar"],
 		eggGroups: ["Amorphous"],
 	},
 	shinygengar: {
@@ -22093,6 +22317,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.5,
 		weightkg: 40.5,
 		color: "Purple",
+		prevo: "Shiny Haunter",
+		evoType: "trade",
 		eggGroups: ["Amorphous"],
 		otherFormes: ["Shiny Gengar-Mega"],
 		formeOrder: ["Shiny Gengar", "Shiny Gengar-Mega"],
@@ -22124,7 +22350,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		weightkg: 0,
 		color: "Purple",
 		eggGroups: ["Amorphous"],
-		changesFrom: "Gengar",
+		changesFrom: "Shiny Gengar",
 	},
 	shinyonix: {
 		num: 95,
@@ -22135,6 +22361,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 8.8,
 		weightkg: 210,
 		color: "Gray",
+		evos: ["Shiny Steelix"],
 		eggGroups: ["Mineral"],
 	},
 	shinydrowzee: {
@@ -22146,6 +22373,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1,
 		weightkg: 32.4,
 		color: "Yellow",
+		evos: ["Shiny Hypno"],
 		eggGroups: ["Human-Like"],
 	},
 	shinyhypno: {
@@ -22157,6 +22385,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.6,
 		weightkg: 75.6,
 		color: "Yellow",
+		prevo: "Shiny Drowzee",
+		evoLevel: 26,
 		eggGroups: ["Human-Like"],
 	},
 	shinykrabby: {
@@ -22168,6 +22398,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.4,
 		weightkg: 6.5,
 		color: "Red",
+		evos: ["Shiny Kingler"],
 		eggGroups: ["Water 3"],
 	},
 	shinykingler: {
@@ -22179,6 +22410,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.3,
 		weightkg: 60,
 		color: "Red",
+		prevo: "Shiny Krabby",
+		evoLevel: 28,
 		eggGroups: ["Water 3"],
 		canGigantamax: "G-Max Foam Burst",
 	},
@@ -22194,7 +22427,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		weightkg: 0,
 		color: "Red",
 		eggGroups: ["Water 3"],
-		changesFrom: "Kingler",
+		changesFrom: "Shiny Kingler",
 	},
 	shinyvoltorb: {
 		num: 100,
@@ -22206,6 +22439,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.5,
 		weightkg: 10.4,
 		color: "Red",
+		evos: ["Shiny Electrode"],
 		eggGroups: ["Mineral"],
 		otherFormes: ["Shiny Voltorb-Hisui"],
 		formeOrder: ["Shiny Voltorb", "Shiny Voltorb-Hisui"],
@@ -22222,6 +22456,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.5,
 		weightkg: 13,
 		color: "Red",
+		evos: ["Shiny Electrode-Hisui"],
 		eggGroups: ["Mineral"],
 	},
 	shinyelectrode: {
@@ -22234,6 +22469,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.2,
 		weightkg: 66.6,
 		color: "Red",
+		prevo: "Shiny Voltorb",
+		evoLevel: 30,
 		eggGroups: ["Mineral"],
 		otherFormes: ["Shiny Electrode-Hisui"],
 		formeOrder: ["Shiny Electrode", "Shiny Electrode-Hisui"],
@@ -22250,6 +22487,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.2,
 		weightkg: 71,
 		color: "Red",
+		prevo: "Shiny Voltorb-Hisui",
+		evoType: "useItem",
+		evoItem: "Leaf Stone",
 		eggGroups: ["Mineral"],
 	},
 	shinyexeggcute: {
@@ -22261,6 +22501,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.4,
 		weightkg: 2.5,
 		color: "Pink",
+		evos: ["Shiny Exeggutor", "Shiny Exeggutor-Alola"],
 		eggGroups: ["Grass"],
 	},
 	shinyexeggutor: {
@@ -22272,6 +22513,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 2,
 		weightkg: 120,
 		color: "Yellow",
+		prevo: "Shiny Exeggcute",
+		evoType: "useItem",
+		evoItem: "Leaf Stone",
 		eggGroups: ["Grass"],
 		otherFormes: ["Shiny Exeggutor-Alola"],
 		formeOrder: ["Shiny Exeggutor", "Shiny Exeggutor-Alola"],
@@ -22287,6 +22531,10 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 10.9,
 		weightkg: 415.6,
 		color: "Yellow",
+		prevo: "Shiny Exeggcute",
+		evoType: "useItem",
+		evoItem: "Leaf Stone",
+		evoRegion: "Alola",
 		eggGroups: ["Grass"],
 	},
 	shinycubone: {
@@ -22298,6 +22546,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.4,
 		weightkg: 6.5,
 		color: "Brown",
+		evos: ["Shiny Marowak", "Shiny Marowak-Alola"],
 		eggGroups: ["Monster"],
 	},
 	shinymarowak: {
@@ -22309,8 +22558,10 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1,
 		weightkg: 45,
 		color: "Brown",
+		prevo: "Shiny Cubone",
+		evoLevel: 28,
 		eggGroups: ["Monster"],
-		otherFormes: ["Shiny Marowak-Alola", "Marowak-Alola-Totem"],
+		otherFormes: ["Shiny Marowak-Alola", "Shiny Marowak-Alola-Totem"],
 		formeOrder: ["Shiny Marowak", "Shiny Marowak-Alola", "Shiny Marowak-Alola-Totem"],
 	},
 	shinymarowakalola: {
@@ -22324,6 +22575,10 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1,
 		weightkg: 34,
 		color: "Purple",
+		prevo: "Shiny Cubone",
+		evoLevel: 28,
+		evoCondition: "at night",
+		evoRegion: "Alola",
 		eggGroups: ["Monster"],
 	},
 	shinymarowakalolatotem: {
@@ -22349,6 +22604,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.5,
 		weightkg: 49.8,
 		color: "Brown",
+		prevo: "Shiny Tyrogue",
+		evoLevel: 20,
+		evoCondition: "with an Atk stat > its Def stat",
 		eggGroups: ["Human-Like"],
 	},
 	shinyhitmonchan: {
@@ -22361,6 +22619,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.4,
 		weightkg: 50.2,
 		color: "Brown",
+		prevo: "Shiny Tyrogue",
+		evoLevel: 20,
+		evoCondition: "with an Atk stat < its Def stat",
 		eggGroups: ["Human-Like"],
 	},
 	shinylickitung: {
@@ -22372,6 +22633,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.2,
 		weightkg: 65.5,
 		color: "Pink",
+		evos: ["Shiny Lickilicky"],
 		eggGroups: ["Monster"],
 	},
 	shinykoffing: {
@@ -22383,6 +22645,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.6,
 		weightkg: 1,
 		color: "Purple",
+		evos: ["Shiny Weezing", "Shiny Weezing-Galar"],
 		eggGroups: ["Amorphous"],
 	},
 	shinyweezing: {
@@ -22394,6 +22657,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.2,
 		weightkg: 9.5,
 		color: "Purple",
+		prevo: "Shiny Koffing",
+		evoLevel: 35,
 		eggGroups: ["Amorphous"],
 		otherFormes: ["Shiny Weezing-Galar"],
 		formeOrder: ["Shiny Weezing", "Shiny Weezing-Galar"],
@@ -22409,6 +22674,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 3,
 		weightkg: 16,
 		color: "Gray",
+		prevo: "Shiny Koffing",
+		evoLevel: 35,
+		evoRegion: "Galar",
 		eggGroups: ["Amorphous"],
 	},
 	shinyrhyhorn: {
@@ -22420,6 +22688,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1,
 		weightkg: 115,
 		color: "Gray",
+		evos: ["Shiny Rhydon"],
 		eggGroups: ["Monster", "Field"],
 	},
 	shinyrhydon: {
@@ -22431,6 +22700,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.9,
 		weightkg: 120,
 		color: "Gray",
+		prevo: "Shiny Rhyhorn",
+		evoLevel: 42,
+		evos: ["Shiny Rhyperior"],
 		eggGroups: ["Monster", "Field"],
 	},
 	shinychansey: {
@@ -22443,6 +22715,11 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.1,
 		weightkg: 34.6,
 		color: "Pink",
+		prevo: "Shiny Happiny",
+		evoType: "levelHold",
+		evoItem: "Oval Stone",
+		evoCondition: "during the day",
+		evos: ["Shiny Blissey"],
 		eggGroups: ["Fairy"],
 		canHatch: true,
 	},
@@ -22455,6 +22732,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1,
 		weightkg: 35,
 		color: "Blue",
+		evos: ["Shiny Tangrowth"],
 		eggGroups: ["Grass"],
 	},
 	shinykangaskhan: {
@@ -22495,6 +22773,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.4,
 		weightkg: 8,
 		color: "Blue",
+		evos: ["Shiny Seadra"],
 		eggGroups: ["Water 1", "Dragon"],
 	},
 	shinyseadra: {
@@ -22506,6 +22785,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.2,
 		weightkg: 25,
 		color: "Blue",
+		prevo: "Shiny Horsea",
+		evoLevel: 32,
+		evos: ["Shiny Kingdra"],
 		eggGroups: ["Water 1", "Dragon"],
 	},
 	shinygoldeen: {
@@ -22517,6 +22799,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.6,
 		weightkg: 15,
 		color: "Red",
+		evos: ["Shiny Seaking"],
 		eggGroups: ["Water 2"],
 	},
 	shinyseaking: {
@@ -22528,6 +22811,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.3,
 		weightkg: 39,
 		color: "Red",
+		prevo: "Shiny Goldeen",
+		evoLevel: 33,
 		eggGroups: ["Water 2"],
 	},
 	shinystaryu: {
@@ -22540,6 +22825,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.8,
 		weightkg: 34.5,
 		color: "Brown",
+		evos: ["Shiny Starmie"],
 		eggGroups: ["Water 3"],
 	},
 	shinystarmie: {
@@ -22552,6 +22838,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.1,
 		weightkg: 80,
 		color: "Purple",
+		prevo: "Shiny Staryu",
+		evoType: "useItem",
+		evoItem: "Water Stone",
 		eggGroups: ["Water 3"],
 		otherFormes: ["Shiny Starmie-Mega"],
 		formeOrder: ["Shiny Starmie", "Shiny Starmie-Mega"],
@@ -22582,6 +22871,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.3,
 		weightkg: 54.5,
 		color: "Pink",
+		prevo: "Shiny Mime Jr.",
+		evoType: "levelMove",
+		evoMove: "Mimic",
 		eggGroups: ["Human-Like"],
 		canHatch: true,
 		otherFormes: ["Shiny Mr. Mime-Galar"],
@@ -22598,6 +22890,11 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.4,
 		weightkg: 56.8,
 		color: "White",
+		prevo: "Shiny Mime Jr.",
+		evoType: "levelMove",
+		evoMove: "Mimic",
+		evoRegion: "Galar",
+		evos: ["Shiny Mr. Rime"],
 		eggGroups: ["Human-Like"],
 		canHatch: true,
 	},
@@ -22610,6 +22907,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.5,
 		weightkg: 56,
 		color: "Green",
+		evos: ["Shiny Scizor", "Shiny Kleavor"],
 		eggGroups: ["Bug"],
 	},
 	shinyjynx: {
@@ -22622,6 +22920,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.4,
 		weightkg: 40.6,
 		color: "Red",
+		prevo: "Shiny Smoochum",
+		evoLevel: 30,
 		eggGroups: ["Human-Like"],
 	},
 	shinyelectabuzz: {
@@ -22634,6 +22934,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.1,
 		weightkg: 30,
 		color: "Yellow",
+		prevo: "Shiny Elekid",
+		evoLevel: 30,
+		evos: ["Shiny Electivire"],
 		eggGroups: ["Human-Like"],
 	},
 	shinymagmar: {
@@ -22646,6 +22949,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.3,
 		weightkg: 44.5,
 		color: "Red",
+		prevo: "Shiny Magby",
+		evoLevel: 30,
+		evos: ["Shiny Magmortar"],
 		eggGroups: ["Human-Like"],
 	},
 	shinypinsir: {
@@ -22685,7 +22991,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.4,
 		weightkg: 88.4,
 		color: "Brown",
-		otherFormes: ["Shiny Tauros-Paldea-Combat", "Tauros-Paldea-Blaze", "Tauros-Paldea-Aqua"],
+		otherFormes: ["Shiny Tauros-Paldea-Combat", "Shiny Tauros-Paldea-Blaze", "Shiny Tauros-Paldea-Aqua"],
 		formeOrder: ["Shiny Tauros", "Shiny Tauros-Paldea-Combat", "Shiny Tauros-Paldea-Blaze", "Shiny Tauros-Paldea-Aqua"],
 		eggGroups: ["Field"],
 	},
@@ -22740,6 +23046,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.9,
 		weightkg: 10,
 		color: "Red",
+		evos: ["Shiny Gyarados"],
 		eggGroups: ["Water 2", "Dragon"],
 	},
 	shinygyarados: {
@@ -22751,6 +23058,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 6.5,
 		weightkg: 235,
 		color: "Blue",
+		prevo: "Shiny Magikarp",
+		evoLevel: 20,
 		eggGroups: ["Water 2", "Dragon"],
 		otherFormes: ["Shiny Gyarados-Mega"],
 		formeOrder: ["Shiny Gyarados", "Shiny Gyarados-Mega"],
@@ -22793,7 +23102,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		weightkg: 0,
 		color: "Blue",
 		eggGroups: ["Monster", "Water 1"],
-		changesFrom: "Lapras",
+		changesFrom: "Shiny Lapras",
 	},
 	shinyditto: {
 		num: 132,
@@ -22817,6 +23126,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.3,
 		weightkg: 6.5,
 		color: "Brown",
+		evos: ["Shiny Vaporeon", "Shiny Jolteon", "Shiny Flareon", "Shiny Espeon", "Shiny Umbreon", "Shiny Leafeon", "Shiny Glaceon", "Shiny Sylveon"],
 		eggGroups: ["Field"],
 		otherFormes: ["Shiny Eevee-Starter"],
 		formeOrder: ["Shiny Eevee", "Shiny Eevee-Starter"],
@@ -22849,7 +23159,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		weightkg: 0,
 		color: "Brown",
 		eggGroups: ["Field"],
-		changesFrom: "Eevee",
+		changesFrom: "Shiny Eevee",
 	},
 	shinyvaporeon: {
 		num: 134,
@@ -22861,6 +23171,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1,
 		weightkg: 29,
 		color: "Blue",
+		prevo: "Shiny Eevee",
+		evoType: "useItem",
+		evoItem: "Water Stone",
 		eggGroups: ["Field"],
 	},
 	shinyjolteon: {
@@ -22873,6 +23186,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.8,
 		weightkg: 24.5,
 		color: "Yellow",
+		prevo: "Shiny Eevee",
+		evoType: "useItem",
+		evoItem: "Thunder Stone",
 		eggGroups: ["Field"],
 	},
 	shinyflareon: {
@@ -22885,6 +23201,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.9,
 		weightkg: 25,
 		color: "Red",
+		prevo: "Shiny Eevee",
+		evoType: "useItem",
+		evoItem: "Fire Stone",
 		eggGroups: ["Field"],
 	},
 	shinyporygon: {
@@ -22897,6 +23216,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.8,
 		weightkg: 36.5,
 		color: "Pink",
+		evos: ["Shiny Porygon2"],
 		eggGroups: ["Mineral"],
 	},
 	shinyomanyte: {
@@ -22909,6 +23229,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.4,
 		weightkg: 7.5,
 		color: "Blue",
+		evos: ["Shiny Omastar"],
 		eggGroups: ["Water 1", "Water 3"],
 	},
 	shinyomastar: {
@@ -22921,6 +23242,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1,
 		weightkg: 35,
 		color: "Blue",
+		prevo: "Shiny Omanyte",
+		evoLevel: 40,
 		eggGroups: ["Water 1", "Water 3"],
 	},
 	shinykabuto: {
@@ -22933,6 +23256,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.5,
 		weightkg: 11.5,
 		color: "Brown",
+		evos: ["Shiny Kabutops"],
 		eggGroups: ["Water 1", "Water 3"],
 	},
 	shinykabutops: {
@@ -22945,6 +23269,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.3,
 		weightkg: 40.5,
 		color: "Brown",
+		prevo: "Shiny Kabuto",
+		evoLevel: 40,
 		eggGroups: ["Water 1", "Water 3"],
 	},
 	shinyaerodactyl: {
@@ -22986,6 +23312,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 2.1,
 		weightkg: 460,
 		color: "Black",
+		prevo: "Shiny Munchlax",
+		evoType: "levelFriendship",
 		eggGroups: ["Monster"],
 		canHatch: true,
 		canGigantamax: "G-Max Replenish",
@@ -23003,7 +23331,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		weightkg: 0,
 		color: "Black",
 		eggGroups: ["Monster"],
-		changesFrom: "Snorlax",
+		changesFrom: "Shiny Snorlax",
 	},
 	shinyarticuno: {
 		num: 144,
@@ -23101,6 +23429,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.8,
 		weightkg: 3.3,
 		color: "Blue",
+		evos: ["Shiny Dragonair"],
 		eggGroups: ["Water 1", "Dragon"],
 	},
 	shinydragonair: {
@@ -23112,6 +23441,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 4,
 		weightkg: 16.5,
 		color: "Blue",
+		prevo: "Shiny Dratini",
+		evoLevel: 30,
+		evos: ["Shiny Dragonite"],
 		eggGroups: ["Water 1", "Dragon"],
 	},
 	shinydragonite: {
@@ -23123,6 +23455,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 2.2,
 		weightkg: 210,
 		color: "Brown",
+		prevo: "Shiny Dragonair",
+		evoLevel: 55,
 		eggGroups: ["Water 1", "Dragon"],
 		otherFormes: ["Shiny Dragonite-Mega"],
 		formeOrder: ["Shiny Dragonite", "Shiny Dragonite-Mega"],
@@ -23154,7 +23488,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		color: "Purple",
 		eggGroups: ["Undiscovered"],
 		tags: ["Restricted Legendary"],
-		otherFormes: ["Shiny Mewtwo-Mega-X", "Mewtwo-Mega-Y"],
+		otherFormes: ["Shiny Mewtwo-Mega-X", "Shiny Mewtwo-Mega-Y"],
 		formeOrder: ["Shiny Mewtwo", "Shiny Mewtwo-Mega-X", "Shiny Mewtwo-Mega-Y"],
 	},
 	shinymewtwomegax: {
@@ -23210,6 +23544,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.9,
 		weightkg: 6.4,
 		color: "Green",
+		evos: ["Shiny Bayleef"],
 		eggGroups: ["Monster", "Grass"],
 	},
 	shinybayleef: {
@@ -23222,6 +23557,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.2,
 		weightkg: 15.8,
 		color: "Green",
+		prevo: "Shiny Chikorita",
+		evoLevel: 16,
+		evos: ["Shiny Meganium"],
 		eggGroups: ["Monster", "Grass"],
 	},
 	shinymeganium: {
@@ -23234,6 +23572,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.8,
 		weightkg: 100.5,
 		color: "Green",
+		prevo: "Shiny Bayleef",
+		evoLevel: 32,
 		eggGroups: ["Monster", "Grass"],
 		otherFormes: ["Shiny Meganium-Mega"],
 		formeOrder: ["Shiny Meganium", "Shiny Meganium-Mega"],
@@ -23264,6 +23604,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.5,
 		weightkg: 7.9,
 		color: "Yellow",
+		evos: ["Shiny Quilava"],
 		eggGroups: ["Field"],
 	},
 	shinyquilava: {
@@ -23276,6 +23617,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.9,
 		weightkg: 19,
 		color: "Yellow",
+		prevo: "Shiny Cyndaquil",
+		evoLevel: 14,
+		evos: ["Shiny Typhlosion", "Shiny Typhlosion-Hisui"],
 		eggGroups: ["Field"],
 	},
 	shinytyphlosion: {
@@ -23288,6 +23632,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.7,
 		weightkg: 79.5,
 		color: "Yellow",
+		prevo: "Shiny Quilava",
+		evoLevel: 36,
 		eggGroups: ["Field"],
 		otherFormes: ["Shiny Typhlosion-Hisui"],
 		formeOrder: ["Shiny Typhlosion", "Shiny Typhlosion-Hisui"],
@@ -23304,6 +23650,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.6,
 		weightkg: 69.8,
 		color: "Yellow",
+		prevo: "Shiny Quilava",
+		evoLevel: 36,
 		eggGroups: ["Field"],
 	},
 	shinytotodile: {
@@ -23316,6 +23664,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.6,
 		weightkg: 9.5,
 		color: "Blue",
+		evos: ["Shiny Croconaw"],
 		eggGroups: ["Monster", "Water 1"],
 	},
 	shinycroconaw: {
@@ -23328,6 +23677,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.1,
 		weightkg: 25,
 		color: "Blue",
+		prevo: "Shiny Totodile",
+		evoLevel: 18,
+		evos: ["Shiny Feraligatr"],
 		eggGroups: ["Monster", "Water 1"],
 	},
 	shinyferaligatr: {
@@ -23340,6 +23692,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 2.3,
 		weightkg: 88.8,
 		color: "Blue",
+		prevo: "Shiny Croconaw",
+		evoLevel: 30,
 		eggGroups: ["Monster", "Water 1"],
 		otherFormes: ["Shiny Feraligatr-Mega"],
 		formeOrder: ["Shiny Feraligatr", "Shiny Feraligatr-Mega"],
@@ -23369,6 +23723,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.8,
 		weightkg: 6,
 		color: "Brown",
+		evos: ["Shiny Furret"],
 		eggGroups: ["Field"],
 	},
 	shinyfurret: {
@@ -23380,6 +23735,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.8,
 		weightkg: 32.5,
 		color: "Brown",
+		prevo: "Shiny Sentret",
+		evoLevel: 15,
 		eggGroups: ["Field"],
 	},
 	shinyhoothoot: {
@@ -23391,6 +23748,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.7,
 		weightkg: 21.2,
 		color: "Brown",
+		evos: ["Shiny Noctowl"],
 		eggGroups: ["Flying"],
 	},
 	shinynoctowl: {
@@ -23402,6 +23760,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.6,
 		weightkg: 40.8,
 		color: "Brown",
+		prevo: "Shiny Hoothoot",
+		evoLevel: 20,
 		eggGroups: ["Flying"],
 	},
 	shinyledyba: {
@@ -23413,6 +23773,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1,
 		weightkg: 10.8,
 		color: "Red",
+		evos: ["Shiny Ledian"],
 		eggGroups: ["Bug"],
 	},
 	shinyledian: {
@@ -23424,6 +23785,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.4,
 		weightkg: 35.6,
 		color: "Red",
+		prevo: "Shiny Ledyba",
+		evoLevel: 18,
 		eggGroups: ["Bug"],
 	},
 	shinyspinarak: {
@@ -23435,6 +23798,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.5,
 		weightkg: 8.5,
 		color: "Green",
+		evos: ["Shiny Ariados"],
 		eggGroups: ["Bug"],
 	},
 	shinyariados: {
@@ -23446,6 +23810,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.1,
 		weightkg: 33.5,
 		color: "Red",
+		prevo: "Shiny Spinarak",
+		evoLevel: 22,
 		eggGroups: ["Bug"],
 	},
 	shinycrobat: {
@@ -23457,6 +23823,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.8,
 		weightkg: 75,
 		color: "Purple",
+		prevo: "Shiny Golbat",
+		evoType: "levelFriendship",
 		eggGroups: ["Flying"],
 	},
 	shinychinchou: {
@@ -23468,6 +23836,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.5,
 		weightkg: 12,
 		color: "Blue",
+		evos: ["Shiny Lanturn"],
 		eggGroups: ["Water 2"],
 	},
 	shinylanturn: {
@@ -23479,6 +23848,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.2,
 		weightkg: 22.5,
 		color: "Blue",
+		prevo: "Shiny Chinchou",
+		evoLevel: 27,
 		eggGroups: ["Water 2"],
 	},
 	shinypichu: {
@@ -23490,6 +23861,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.3,
 		weightkg: 2,
 		color: "Yellow",
+		evos: ["Shiny Pikachu"],
 		eggGroups: ["Undiscovered"],
 		canHatch: true,
 		otherFormes: ["Shiny Pichu-Spiky-eared"],
@@ -23519,6 +23891,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.3,
 		weightkg: 3,
 		color: "Pink",
+		evos: ["Shiny Clefairy"],
 		eggGroups: ["Undiscovered"],
 		canHatch: true,
 	},
@@ -23532,6 +23905,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.3,
 		weightkg: 1,
 		color: "Pink",
+		evos: ["Shiny Jigglypuff"],
 		eggGroups: ["Undiscovered"],
 		canHatch: true,
 	},
@@ -23545,6 +23919,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.3,
 		weightkg: 1.5,
 		color: "White",
+		evos: ["Shiny Togetic"],
 		eggGroups: ["Undiscovered"],
 		canHatch: true,
 	},
@@ -23558,6 +23933,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.6,
 		weightkg: 3.2,
 		color: "White",
+		prevo: "Shiny Togepi",
+		evoType: "levelFriendship",
+		evos: ["Shiny Togekiss"],
 		eggGroups: ["Flying", "Fairy"],
 	},
 	shinynatu: {
@@ -23569,6 +23947,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.2,
 		weightkg: 2,
 		color: "Green",
+		evos: ["Shiny Xatu"],
 		eggGroups: ["Flying"],
 	},
 	shinyxatu: {
@@ -23580,6 +23959,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.5,
 		weightkg: 15,
 		color: "Green",
+		prevo: "Shiny Natu",
+		evoLevel: 25,
 		eggGroups: ["Flying"],
 	},
 	shinymareep: {
@@ -23591,6 +23972,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.6,
 		weightkg: 7.8,
 		color: "White",
+		evos: ["Shiny Flaaffy"],
 		eggGroups: ["Monster", "Field"],
 	},
 	shinyflaaffy: {
@@ -23602,6 +23984,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.8,
 		weightkg: 13.3,
 		color: "Pink",
+		prevo: "Shiny Mareep",
+		evoLevel: 15,
+		evos: ["Shiny Ampharos"],
 		eggGroups: ["Monster", "Field"],
 	},
 	shinyampharos: {
@@ -23613,6 +23998,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.4,
 		weightkg: 61.5,
 		color: "Yellow",
+		prevo: "Shiny Flaaffy",
+		evoLevel: 30,
 		eggGroups: ["Monster", "Field"],
 		otherFormes: ["Shiny Ampharos-Mega"],
 		formeOrder: ["Shiny Ampharos", "Shiny Ampharos-Mega"],
@@ -23640,6 +24027,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.4,
 		weightkg: 5.8,
 		color: "Green",
+		prevo: "Shiny Gloom",
+		evoType: "useItem",
+		evoItem: "Sun Stone",
 		eggGroups: ["Grass"],
 	},
 	shinymarill: {
@@ -23651,6 +24041,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.4,
 		weightkg: 8.5,
 		color: "Blue",
+		prevo: "Shiny Azurill",
+		evoType: "levelFriendship",
+		evos: ["Shiny Azumarill"],
 		eggGroups: ["Water 1", "Fairy"],
 		canHatch: true,
 	},
@@ -23663,6 +24056,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.8,
 		weightkg: 28.5,
 		color: "Blue",
+		prevo: "Shiny Marill",
+		evoLevel: 18,
 		eggGroups: ["Water 1", "Fairy"],
 	},
 	shinysudowoodo: {
@@ -23674,6 +24069,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.2,
 		weightkg: 38,
 		color: "Brown",
+		prevo: "Shiny Bonsly",
+		evoType: "levelMove",
+		evoMove: "Mimic",
 		eggGroups: ["Mineral"],
 		canHatch: true,
 	},
@@ -23686,6 +24084,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.1,
 		weightkg: 33.9,
 		color: "Green",
+		prevo: "Shiny Poliwhirl",
+		evoType: "trade",
+		evoItem: "King's Rock",
 		eggGroups: ["Water 1"],
 	},
 	shinyhoppip: {
@@ -23697,6 +24098,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.4,
 		weightkg: 0.5,
 		color: "Pink",
+		evos: ["Shiny Skiploom"],
 		eggGroups: ["Fairy", "Grass"],
 	},
 	shinyskiploom: {
@@ -23708,6 +24110,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.6,
 		weightkg: 1,
 		color: "Green",
+		prevo: "Shiny Hoppip",
+		evoLevel: 18,
+		evos: ["Shiny Jumpluff"],
 		eggGroups: ["Fairy", "Grass"],
 	},
 	shinyjumpluff: {
@@ -23719,6 +24124,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.8,
 		weightkg: 3,
 		color: "Blue",
+		prevo: "Shiny Skiploom",
+		evoLevel: 27,
 		eggGroups: ["Fairy", "Grass"],
 	},
 	shinyaipom: {
@@ -23730,6 +24137,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.8,
 		weightkg: 11.5,
 		color: "Purple",
+		evos: ["Shiny Ambipom"],
 		eggGroups: ["Field"],
 	},
 	shinysunkern: {
@@ -23741,6 +24149,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.3,
 		weightkg: 1.8,
 		color: "Yellow",
+		evos: ["Shiny Sunflora"],
 		eggGroups: ["Grass"],
 	},
 	shinysunflora: {
@@ -23752,6 +24161,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.8,
 		weightkg: 8.5,
 		color: "Yellow",
+		prevo: "Shiny Sunkern",
+		evoType: "useItem",
+		evoItem: "Sun Stone",
 		eggGroups: ["Grass"],
 	},
 	shinyyanma: {
@@ -23763,6 +24175,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.2,
 		weightkg: 38,
 		color: "Red",
+		evos: ["Shiny Yanmega"],
 		eggGroups: ["Bug"],
 	},
 	shinywooper: {
@@ -23774,6 +24187,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.4,
 		weightkg: 8.5,
 		color: "Blue",
+		evos: ["Shiny Quagsire"],
 		eggGroups: ["Water 1", "Field"],
 		otherFormes: ["Shiny Wooper-Paldea"],
 		formeOrder: ["Shiny Wooper", "Shiny Wooper-Paldea"],
@@ -23789,6 +24203,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.4,
 		weightkg: 11,
 		color: "Brown",
+		evos: ["Shiny Clodsire"],
 		eggGroups: ["Water 1", "Field"],
 	},
 	shinyquagsire: {
@@ -23800,6 +24215,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.4,
 		weightkg: 75,
 		color: "Blue",
+		prevo: "Shiny Wooper",
+		evoLevel: 20,
 		eggGroups: ["Water 1", "Field"],
 	},
 	shinyespeon: {
@@ -23812,6 +24229,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.9,
 		weightkg: 26.5,
 		color: "Purple",
+		prevo: "Shiny Eevee",
+		evoType: "levelFriendship",
+		evoCondition: "during the day",
 		eggGroups: ["Field"],
 	},
 	shinyumbreon: {
@@ -23824,6 +24244,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1,
 		weightkg: 27,
 		color: "Black",
+		prevo: "Shiny Eevee",
+		evoType: "levelFriendship",
+		evoCondition: "at night",
 		eggGroups: ["Field"],
 	},
 	shinymurkrow: {
@@ -23835,6 +24258,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.5,
 		weightkg: 2.1,
 		color: "Black",
+		evos: ["Shiny Honchkrow"],
 		eggGroups: ["Flying"],
 	},
 	shinyslowking: {
@@ -23846,6 +24270,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 2,
 		weightkg: 79.5,
 		color: "Pink",
+		prevo: "Shiny Slowpoke",
+		evoType: "trade",
+		evoItem: "King's Rock",
 		eggGroups: ["Monster", "Water 1"],
 		otherFormes: ["Shiny Slowking-Galar"],
 		formeOrder: ["Shiny Slowking", "Shiny Slowking-Galar"],
@@ -23861,6 +24288,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.8,
 		weightkg: 79.5,
 		color: "Pink",
+		prevo: "Shiny Slowpoke-Galar",
+		evoType: "useItem",
+		evoItem: "Galarica Wreath",
 		eggGroups: ["Monster", "Water 1"],
 	},
 	shinymisdreavus: {
@@ -23872,6 +24302,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.7,
 		weightkg: 1,
 		color: "Gray",
+		evos: ["Shiny Mismagius"],
 		eggGroups: ["Amorphous"],
 	},
 	shinyunown: {
@@ -23898,6 +24329,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.3,
 		weightkg: 28.5,
 		color: "Blue",
+		prevo: "Shiny Wynaut",
+		evoLevel: 15,
 		eggGroups: ["Amorphous"],
 		canHatch: true,
 	},
@@ -23910,6 +24343,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.5,
 		weightkg: 41.5,
 		color: "Yellow",
+		evos: ["Shiny Farigiraf"],
 		eggGroups: ["Field"],
 	},
 	shinypineco: {
@@ -23921,6 +24355,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.6,
 		weightkg: 7.2,
 		color: "Gray",
+		evos: ["Shiny Forretress"],
 		eggGroups: ["Bug"],
 	},
 	shinyforretress: {
@@ -23932,6 +24367,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.2,
 		weightkg: 125.8,
 		color: "Purple",
+		prevo: "Shiny Pineco",
+		evoLevel: 31,
 		eggGroups: ["Bug"],
 	},
 	shinydunsparce: {
@@ -23943,6 +24380,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.5,
 		weightkg: 14,
 		color: "Yellow",
+		evos: ["Shiny Dudunsparce", "Shiny Dudunsparce-Three-Segment"],
 		eggGroups: ["Field"],
 	},
 	shinygligar: {
@@ -23954,6 +24392,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.1,
 		weightkg: 64.8,
 		color: "Purple",
+		evos: ["Shiny Gliscor"],
 		eggGroups: ["Bug"],
 	},
 	shinysteelix: {
@@ -23965,6 +24404,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 9.2,
 		weightkg: 400,
 		color: "Gray",
+		prevo: "Shiny Onix",
+		evoType: "trade",
+		evoItem: "Metal Coat",
 		eggGroups: ["Mineral"],
 		otherFormes: ["Shiny Steelix-Mega"],
 		formeOrder: ["Shiny Steelix", "Shiny Steelix-Mega"],
@@ -23993,6 +24435,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.6,
 		weightkg: 7.8,
 		color: "Pink",
+		evos: ["Shiny Granbull"],
 		eggGroups: ["Field", "Fairy"],
 	},
 	shinygranbull: {
@@ -24005,6 +24448,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.4,
 		weightkg: 48.7,
 		color: "Purple",
+		prevo: "Shiny Snubbull",
+		evoLevel: 23,
 		eggGroups: ["Field", "Fairy"],
 	},
 	shinyqwilfish: {
@@ -24031,6 +24476,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.5,
 		weightkg: 3.9,
 		color: "Black",
+		evos: ["Shiny Overqwil"],
 		eggGroups: ["Water 2"],
 	},
 	shinyscizor: {
@@ -24042,6 +24488,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.8,
 		weightkg: 118,
 		color: "Red",
+		prevo: "Shiny Scyther",
+		evoType: "trade",
+		evoItem: "Metal Coat",
 		eggGroups: ["Bug"],
 		otherFormes: ["Shiny Scizor-Mega"],
 		formeOrder: ["Shiny Scizor", "Shiny Scizor-Mega"],
@@ -24107,6 +24556,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.9,
 		weightkg: 28,
 		color: "Black",
+		evos: ["Shiny Weavile"],
 		eggGroups: ["Field"],
 		otherFormes: ["Shiny Sneasel-Hisui"],
 		formeOrder: ["Shiny Sneasel", "Shiny Sneasel-Hisui"],
@@ -24122,6 +24572,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.9,
 		weightkg: 27,
 		color: "Gray",
+		evos: ["Shiny Sneasler"],
 		eggGroups: ["Field"],
 	},
 	shinyteddiursa: {
@@ -24133,6 +24584,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.6,
 		weightkg: 8.8,
 		color: "Brown",
+		evos: ["Shiny Ursaring"],
 		eggGroups: ["Field"],
 	},
 	shinyursaring: {
@@ -24144,6 +24596,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.8,
 		weightkg: 125.8,
 		color: "Brown",
+		prevo: "Shiny Teddiursa",
+		evoLevel: 30,
+		evos: ["Shiny Ursaluna"],
 		eggGroups: ["Field"],
 	},
 	shinyslugma: {
@@ -24155,6 +24610,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.7,
 		weightkg: 35,
 		color: "Red",
+		evos: ["Shiny Magcargo"],
 		eggGroups: ["Amorphous"],
 	},
 	shinymagcargo: {
@@ -24166,6 +24622,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.8,
 		weightkg: 55,
 		color: "Red",
+		prevo: "Shiny Slugma",
+		evoLevel: 38,
 		eggGroups: ["Amorphous"],
 	},
 	shinyswinub: {
@@ -24177,6 +24635,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.4,
 		weightkg: 6.5,
 		color: "Brown",
+		evos: ["Shiny Piloswine"],
 		eggGroups: ["Field"],
 	},
 	shinypiloswine: {
@@ -24188,6 +24647,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.1,
 		weightkg: 55.8,
 		color: "Brown",
+		prevo: "Shiny Swinub",
+		evoLevel: 33,
+		evos: ["Shiny Mamoswine"],
 		eggGroups: ["Field"],
 	},
 	shinycorsola: {
@@ -24216,6 +24678,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.6,
 		weightkg: 0.5,
 		color: "White",
+		evos: ["Shiny Cursola"],
 		eggGroups: ["Water 1", "Water 3"],
 	},
 	shinyremoraid: {
@@ -24227,6 +24690,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.6,
 		weightkg: 12,
 		color: "Gray",
+		evos: ["Shiny Octillery"],
 		eggGroups: ["Water 1", "Water 2"],
 	},
 	shinyoctillery: {
@@ -24238,6 +24702,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.9,
 		weightkg: 28.5,
 		color: "Red",
+		prevo: "Shiny Remoraid",
+		evoLevel: 25,
 		eggGroups: ["Water 1", "Water 2"],
 	},
 	shinydelibird: {
@@ -24260,6 +24726,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 2.1,
 		weightkg: 220,
 		color: "Purple",
+		prevo: "Shiny Mantyke",
+		evoType: "levelExtra",
+		evoCondition: "with a Remoraid in party",
 		eggGroups: ["Water 1"],
 		canHatch: true,
 	},
@@ -24300,6 +24769,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.6,
 		weightkg: 10.8,
 		color: "Black",
+		evos: ["Shiny Houndoom"],
 		eggGroups: ["Field"],
 	},
 	shinyhoundoom: {
@@ -24311,6 +24781,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.4,
 		weightkg: 35,
 		color: "Black",
+		prevo: "Shiny Houndour",
+		evoLevel: 24,
 		eggGroups: ["Field"],
 		otherFormes: ["Shiny Houndoom-Mega"],
 		formeOrder: ["Shiny Houndoom", "Shiny Houndoom-Mega"],
@@ -24338,6 +24810,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.8,
 		weightkg: 152,
 		color: "Blue",
+		prevo: "Shiny Seadra",
+		evoType: "trade",
+		evoItem: "Dragon Scale",
 		eggGroups: ["Water 1", "Dragon"],
 	},
 	shinyphanpy: {
@@ -24349,6 +24824,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.5,
 		weightkg: 33.5,
 		color: "Blue",
+		evos: ["Shiny Donphan"],
 		eggGroups: ["Field"],
 	},
 	shinydonphan: {
@@ -24360,6 +24836,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.1,
 		weightkg: 120,
 		color: "Gray",
+		prevo: "Shiny Phanpy",
+		evoLevel: 25,
 		eggGroups: ["Field"],
 	},
 	shinyporygon2: {
@@ -24372,6 +24850,10 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.6,
 		weightkg: 32.5,
 		color: "Red",
+		prevo: "Shiny Porygon",
+		evoType: "trade",
+		evoItem: "Up-Grade",
+		evos: ["Shiny Porygon-Z"],
 		eggGroups: ["Mineral"],
 	},
 	shinystantler: {
@@ -24383,6 +24865,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.4,
 		weightkg: 71.2,
 		color: "Brown",
+		evos: ["Shiny Wyrdeer"],
 		eggGroups: ["Field"],
 	},
 	shinysmeargle: {
@@ -24406,6 +24889,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.7,
 		weightkg: 21,
 		color: "Purple",
+		evos: ["Shiny Hitmonlee", "Shiny Hitmonchan", "Shiny Hitmontop"],
 		eggGroups: ["Undiscovered"],
 		canHatch: true,
 	},
@@ -24419,6 +24903,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.4,
 		weightkg: 48,
 		color: "Brown",
+		prevo: "Shiny Tyrogue",
+		evoLevel: 20,
+		evoCondition: "with an Atk stat equal to its Def stat",
 		eggGroups: ["Human-Like"],
 	},
 	shinysmoochum: {
@@ -24431,6 +24918,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.4,
 		weightkg: 6,
 		color: "Pink",
+		evos: ["Shiny Jynx"],
 		eggGroups: ["Undiscovered"],
 		canHatch: true,
 	},
@@ -24444,6 +24932,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.6,
 		weightkg: 23.5,
 		color: "Yellow",
+		evos: ["Shiny Electabuzz"],
 		eggGroups: ["Undiscovered"],
 		canHatch: true,
 	},
@@ -24457,6 +24946,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.7,
 		weightkg: 21.4,
 		color: "Red",
+		evos: ["Shiny Magmar"],
 		eggGroups: ["Undiscovered"],
 		canHatch: true,
 	},
@@ -24482,6 +24972,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.5,
 		weightkg: 46.8,
 		color: "Pink",
+		prevo: "Shiny Chansey",
+		evoType: "levelFriendship",
 		eggGroups: ["Fairy"],
 	},
 	shinyraikou: {
@@ -24532,6 +25024,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.6,
 		weightkg: 72,
 		color: "Green",
+		evos: ["Shiny Pupitar"],
 		eggGroups: ["Monster"],
 	},
 	shinypupitar: {
@@ -24543,6 +25036,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.2,
 		weightkg: 152,
 		color: "Gray",
+		prevo: "Shiny Larvitar",
+		evoLevel: 30,
+		evos: ["Shiny Tyranitar"],
 		eggGroups: ["Monster"],
 	},
 	shinytyranitar: {
@@ -24554,6 +25050,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 2,
 		weightkg: 202,
 		color: "Green",
+		prevo: "Shiny Pupitar",
+		evoLevel: 55,
 		eggGroups: ["Monster"],
 		otherFormes: ["Shiny Tyranitar-Mega"],
 		formeOrder: ["Shiny Tyranitar", "Shiny Tyranitar-Mega"],
@@ -24621,6 +25119,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.5,
 		weightkg: 5,
 		color: "Green",
+		evos: ["Shiny Grovyle"],
 		eggGroups: ["Monster", "Dragon"],
 	},
 	shinygrovyle: {
@@ -24633,6 +25132,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.9,
 		weightkg: 21.6,
 		color: "Green",
+		prevo: "Shiny Treecko",
+		evoLevel: 16,
+		evos: ["Shiny Sceptile"],
 		eggGroups: ["Monster", "Dragon"],
 	},
 	shinysceptile: {
@@ -24645,6 +25147,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.7,
 		weightkg: 52.2,
 		color: "Green",
+		prevo: "Shiny Grovyle",
+		evoLevel: 36,
 		eggGroups: ["Monster", "Dragon"],
 		otherFormes: ["Shiny Sceptile-Mega"],
 		formeOrder: ["Shiny Sceptile", "Shiny Sceptile-Mega"],
@@ -24674,6 +25178,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.4,
 		weightkg: 2.5,
 		color: "Red",
+		evos: ["Shiny Combusken"],
 		eggGroups: ["Field"],
 	},
 	shinycombusken: {
@@ -24686,6 +25191,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.9,
 		weightkg: 19.5,
 		color: "Red",
+		prevo: "Shiny Torchic",
+		evoLevel: 16,
+		evos: ["Shiny Blaziken"],
 		eggGroups: ["Field"],
 	},
 	shinyblaziken: {
@@ -24698,6 +25206,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.9,
 		weightkg: 52,
 		color: "Red",
+		prevo: "Shiny Combusken",
+		evoLevel: 36,
 		eggGroups: ["Field"],
 		otherFormes: ["Shiny Blaziken-Mega"],
 		formeOrder: ["Shiny Blaziken", "Shiny Blaziken-Mega"],
@@ -24727,6 +25237,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.4,
 		weightkg: 7.6,
 		color: "Blue",
+		evos: ["Shiny Marshtomp"],
 		eggGroups: ["Monster", "Water 1"],
 	},
 	shinymarshtomp: {
@@ -24739,6 +25250,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.7,
 		weightkg: 28,
 		color: "Blue",
+		prevo: "Shiny Mudkip",
+		evoLevel: 16,
+		evos: ["Shiny Swampert"],
 		eggGroups: ["Monster", "Water 1"],
 	},
 	shinyswampert: {
@@ -24751,6 +25265,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.5,
 		weightkg: 81.9,
 		color: "Blue",
+		prevo: "Shiny Marshtomp",
+		evoLevel: 36,
 		eggGroups: ["Monster", "Water 1"],
 		otherFormes: ["Shiny Swampert-Mega"],
 		formeOrder: ["Shiny Swampert", "Shiny Swampert-Mega"],
@@ -24779,6 +25295,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.5,
 		weightkg: 13.6,
 		color: "Gray",
+		evos: ["Shiny Mightyena"],
 		eggGroups: ["Field"],
 	},
 	shinymightyena: {
@@ -24790,6 +25307,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1,
 		weightkg: 37,
 		color: "Gray",
+		prevo: "Shiny Poochyena",
+		evoLevel: 18,
 		eggGroups: ["Field"],
 	},
 	shinyzigzagoon: {
@@ -24801,6 +25320,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.4,
 		weightkg: 17.5,
 		color: "Brown",
+		evos: ["Shiny Linoone"],
 		eggGroups: ["Field"],
 		otherFormes: ["Shiny Zigzagoon-Galar"],
 		formeOrder: ["Shiny Zigzagoon", "Shiny Zigzagoon-Galar"],
@@ -24816,6 +25336,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.4,
 		weightkg: 17.5,
 		color: "White",
+		evos: ["Shiny Linoone-Galar"],
 		eggGroups: ["Field"],
 	},
 	shinylinoone: {
@@ -24827,6 +25348,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.5,
 		weightkg: 32.5,
 		color: "White",
+		prevo: "Shiny Zigzagoon",
+		evoLevel: 20,
 		eggGroups: ["Field"],
 		otherFormes: ["Shiny Linoone-Galar"],
 		formeOrder: ["Shiny Linoone", "Shiny Linoone-Galar"],
@@ -24842,6 +25365,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.5,
 		weightkg: 32.5,
 		color: "White",
+		prevo: "Shiny Zigzagoon-Galar",
+		evoLevel: 20,
+		evos: ["Shiny Obstagoon"],
 		eggGroups: ["Field"],
 	},
 	shinywurmple: {
@@ -24853,6 +25379,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.3,
 		weightkg: 3.6,
 		color: "Red",
+		evos: ["Shiny Silcoon", "Shiny Cascoon"],
 		eggGroups: ["Bug"],
 	},
 	shinysilcoon: {
@@ -24864,6 +25391,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.6,
 		weightkg: 10,
 		color: "White",
+		prevo: "Shiny Wurmple",
+		evoLevel: 7,
+		evos: ["Shiny Beautifly"],
 		eggGroups: ["Bug"],
 	},
 	shinybeautifly: {
@@ -24875,6 +25405,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1,
 		weightkg: 28.4,
 		color: "Yellow",
+		prevo: "Shiny Silcoon",
+		evoLevel: 10,
 		eggGroups: ["Bug"],
 	},
 	shinycascoon: {
@@ -24886,6 +25418,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.7,
 		weightkg: 11.5,
 		color: "Purple",
+		prevo: "Shiny Wurmple",
+		evoLevel: 7,
+		evos: ["Shiny Dustox"],
 		eggGroups: ["Bug"],
 	},
 	shinydustox: {
@@ -24897,6 +25432,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.2,
 		weightkg: 31.6,
 		color: "Green",
+		prevo: "Shiny Cascoon",
+		evoLevel: 10,
 		eggGroups: ["Bug"],
 	},
 	shinylotad: {
@@ -24908,6 +25445,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.5,
 		weightkg: 2.6,
 		color: "Green",
+		evos: ["Shiny Lombre"],
 		eggGroups: ["Water 1", "Grass"],
 	},
 	shinylombre: {
@@ -24919,6 +25457,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.2,
 		weightkg: 32.5,
 		color: "Green",
+		prevo: "Shiny Lotad",
+		evoLevel: 14,
+		evos: ["Shiny Ludicolo"],
 		eggGroups: ["Water 1", "Grass"],
 	},
 	shinyludicolo: {
@@ -24930,6 +25471,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.5,
 		weightkg: 55,
 		color: "Green",
+		prevo: "Shiny Lombre",
+		evoType: "useItem",
+		evoItem: "Water Stone",
 		eggGroups: ["Water 1", "Grass"],
 	},
 	shinyseedot: {
@@ -24941,6 +25485,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.5,
 		weightkg: 4,
 		color: "Brown",
+		evos: ["Shiny Nuzleaf"],
 		eggGroups: ["Field", "Grass"],
 	},
 	shinynuzleaf: {
@@ -24952,6 +25497,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1,
 		weightkg: 28,
 		color: "Brown",
+		prevo: "Shiny Seedot",
+		evoLevel: 14,
+		evos: ["Shiny Shiftry"],
 		eggGroups: ["Field", "Grass"],
 	},
 	shinyshiftry: {
@@ -24963,6 +25511,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.3,
 		weightkg: 59.6,
 		color: "Brown",
+		prevo: "Shiny Nuzleaf",
+		evoType: "useItem",
+		evoItem: "Leaf Stone",
 		eggGroups: ["Field", "Grass"],
 	},
 	shinytaillow: {
@@ -24974,6 +25525,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.3,
 		weightkg: 2.3,
 		color: "Blue",
+		evos: ["Shiny Swellow"],
 		eggGroups: ["Flying"],
 	},
 	shinyswellow: {
@@ -24985,6 +25537,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.7,
 		weightkg: 19.8,
 		color: "Blue",
+		prevo: "Shiny Taillow",
+		evoLevel: 22,
 		eggGroups: ["Flying"],
 	},
 	shinywingull: {
@@ -24996,6 +25550,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.6,
 		weightkg: 9.5,
 		color: "White",
+		evos: ["Shiny Pelipper"],
 		eggGroups: ["Water 1", "Flying"],
 	},
 	shinypelipper: {
@@ -25007,6 +25562,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.2,
 		weightkg: 28,
 		color: "Yellow",
+		prevo: "Shiny Wingull",
+		evoLevel: 25,
 		eggGroups: ["Water 1", "Flying"],
 	},
 	shinyralts: {
@@ -25018,6 +25575,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.4,
 		weightkg: 6.6,
 		color: "White",
+		evos: ["Shiny Kirlia"],
 		eggGroups: ["Human-Like", "Amorphous"],
 	},
 	shinykirlia: {
@@ -25029,6 +25587,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.8,
 		weightkg: 20.2,
 		color: "White",
+		prevo: "Shiny Ralts",
+		evoLevel: 20,
+		evos: ["Shiny Gardevoir", "Shiny Gallade"],
 		eggGroups: ["Human-Like", "Amorphous"],
 	},
 	shinygardevoir: {
@@ -25040,6 +25601,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.6,
 		weightkg: 48.4,
 		color: "White",
+		prevo: "Shiny Kirlia",
+		evoLevel: 30,
 		eggGroups: ["Human-Like", "Amorphous"],
 		otherFormes: ["Shiny Gardevoir-Mega"],
 		formeOrder: ["Shiny Gardevoir", "Shiny Gardevoir-Mega"],
@@ -25067,6 +25630,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.5,
 		weightkg: 1.7,
 		color: "Blue",
+		evos: ["Shiny Masquerain"],
 		eggGroups: ["Water 1", "Bug"],
 	},
 	shinymasquerain: {
@@ -25078,6 +25642,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.8,
 		weightkg: 3.6,
 		color: "Blue",
+		prevo: "Shiny Surskit",
+		evoLevel: 22,
 		eggGroups: ["Water 1", "Bug"],
 	},
 	shinyshroomish: {
@@ -25089,6 +25655,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.4,
 		weightkg: 4.5,
 		color: "Brown",
+		evos: ["Shiny Breloom"],
 		eggGroups: ["Fairy", "Grass"],
 	},
 	shinybreloom: {
@@ -25100,6 +25667,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.2,
 		weightkg: 39.2,
 		color: "Green",
+		prevo: "Shiny Shroomish",
+		evoLevel: 23,
 		eggGroups: ["Fairy", "Grass"],
 	},
 	shinyslakoth: {
@@ -25111,6 +25680,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.8,
 		weightkg: 24,
 		color: "Brown",
+		evos: ["Shiny Vigoroth"],
 		eggGroups: ["Field"],
 	},
 	shinyvigoroth: {
@@ -25122,6 +25692,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.4,
 		weightkg: 46.5,
 		color: "White",
+		prevo: "Shiny Slakoth",
+		evoLevel: 18,
+		evos: ["Shiny Slaking"],
 		eggGroups: ["Field"],
 	},
 	shinyslaking: {
@@ -25133,6 +25706,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 2,
 		weightkg: 130.5,
 		color: "Brown",
+		prevo: "Shiny Vigoroth",
+		evoLevel: 36,
 		eggGroups: ["Field"],
 	},
 	shinynincada: {
@@ -25144,6 +25719,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.5,
 		weightkg: 5.5,
 		color: "Gray",
+		evos: ["Shiny Ninjask", "Shiny Shedinja"],
 		eggGroups: ["Bug"],
 	},
 	shinyninjask: {
@@ -25155,6 +25731,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.8,
 		weightkg: 12,
 		color: "Yellow",
+		prevo: "Shiny Nincada",
+		evoLevel: 20,
 		eggGroups: ["Bug"],
 	},
 	shinyshedinja: {
@@ -25168,6 +25746,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.8,
 		weightkg: 1.2,
 		color: "Brown",
+		prevo: "Shiny Nincada",
+		evoLevel: 20,
 		eggGroups: ["Mineral"],
 	},
 	shinywhismur: {
@@ -25179,6 +25759,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.6,
 		weightkg: 16.3,
 		color: "Pink",
+		evos: ["Shiny Loudred"],
 		eggGroups: ["Monster", "Field"],
 	},
 	shinyloudred: {
@@ -25190,6 +25771,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1,
 		weightkg: 40.5,
 		color: "Blue",
+		prevo: "Shiny Whismur",
+		evoLevel: 20,
+		evos: ["Shiny Exploud"],
 		eggGroups: ["Monster", "Field"],
 	},
 	shinyexploud: {
@@ -25201,6 +25785,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.5,
 		weightkg: 84,
 		color: "Blue",
+		prevo: "Shiny Loudred",
+		evoLevel: 40,
 		eggGroups: ["Monster", "Field"],
 	},
 	shinymakuhita: {
@@ -25213,6 +25799,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1,
 		weightkg: 86.4,
 		color: "Yellow",
+		evos: ["Shiny Hariyama"],
 		eggGroups: ["Human-Like"],
 	},
 	shinyhariyama: {
@@ -25225,6 +25812,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 2.3,
 		weightkg: 253.8,
 		color: "Brown",
+		prevo: "Shiny Makuhita",
+		evoLevel: 24,
 		eggGroups: ["Human-Like"],
 	},
 	shinyazurill: {
@@ -25237,6 +25826,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.2,
 		weightkg: 2,
 		color: "Blue",
+		evos: ["Shiny Marill"],
 		eggGroups: ["Undiscovered"],
 		canHatch: true,
 	},
@@ -25249,6 +25839,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1,
 		weightkg: 97,
 		color: "Gray",
+		evos: ["Shiny Probopass"],
 		eggGroups: ["Mineral"],
 	},
 	shinyskitty: {
@@ -25261,6 +25852,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.6,
 		weightkg: 11,
 		color: "Pink",
+		evos: ["Shiny Delcatty"],
 		eggGroups: ["Field", "Fairy"],
 	},
 	shinydelcatty: {
@@ -25273,6 +25865,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.1,
 		weightkg: 32.6,
 		color: "Purple",
+		prevo: "Shiny Skitty",
+		evoType: "useItem",
+		evoItem: "Moon Stone",
 		eggGroups: ["Field", "Fairy"],
 	},
 	shinysableye: {
@@ -25338,6 +25933,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.4,
 		weightkg: 60,
 		color: "Gray",
+		evos: ["Shiny Lairon"],
 		eggGroups: ["Monster"],
 	},
 	shinylairon: {
@@ -25349,6 +25945,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.9,
 		weightkg: 120,
 		color: "Gray",
+		prevo: "Shiny Aron",
+		evoLevel: 32,
+		evos: ["Shiny Aggron"],
 		eggGroups: ["Monster"],
 	},
 	shinyaggron: {
@@ -25360,6 +25959,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 2.1,
 		weightkg: 360,
 		color: "Gray",
+		prevo: "Shiny Lairon",
+		evoLevel: 42,
 		eggGroups: ["Monster"],
 		otherFormes: ["Shiny Aggron-Mega"],
 		formeOrder: ["Shiny Aggron", "Shiny Aggron-Mega"],
@@ -25387,6 +25988,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.6,
 		weightkg: 11.2,
 		color: "Blue",
+		evos: ["Shiny Medicham"],
 		eggGroups: ["Human-Like"],
 	},
 	shinymedicham: {
@@ -25398,6 +26000,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.3,
 		weightkg: 31.5,
 		color: "Red",
+		prevo: "Shiny Meditite",
+		evoLevel: 37,
 		eggGroups: ["Human-Like"],
 		otherFormes: ["Shiny Medicham-Mega"],
 		formeOrder: ["Shiny Medicham", "Shiny Medicham-Mega"],
@@ -25425,6 +26029,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.6,
 		weightkg: 15.2,
 		color: "Green",
+		evos: ["Shiny Manectric"],
 		eggGroups: ["Field"],
 	},
 	shinymanectric: {
@@ -25436,6 +26041,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.5,
 		weightkg: 40.2,
 		color: "Yellow",
+		prevo: "Shiny Electrike",
+		evoLevel: 26,
 		eggGroups: ["Field"],
 		otherFormes: ["Shiny Manectric-Mega"],
 		formeOrder: ["Shiny Manectric", "Shiny Manectric-Mega"],
@@ -25510,6 +26117,10 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.3,
 		weightkg: 2,
 		color: "Green",
+		prevo: "Shiny Budew",
+		evoType: "levelFriendship",
+		evoCondition: "during the day",
+		evos: ["Shiny Roserade"],
 		eggGroups: ["Fairy", "Grass"],
 		canHatch: true,
 	},
@@ -25522,6 +26133,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.4,
 		weightkg: 10.3,
 		color: "Green",
+		evos: ["Shiny Swalot"],
 		eggGroups: ["Amorphous"],
 	},
 	shinyswalot: {
@@ -25533,6 +26145,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.7,
 		weightkg: 80,
 		color: "Purple",
+		prevo: "Shiny Gulpin",
+		evoLevel: 26,
 		eggGroups: ["Amorphous"],
 	},
 	shinycarvanha: {
@@ -25544,6 +26158,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.8,
 		weightkg: 20.8,
 		color: "Red",
+		evos: ["Shiny Sharpedo"],
 		eggGroups: ["Water 2"],
 	},
 	shinysharpedo: {
@@ -25555,6 +26170,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.8,
 		weightkg: 88.8,
 		color: "Blue",
+		prevo: "Shiny Carvanha",
+		evoLevel: 30,
 		eggGroups: ["Water 2"],
 		otherFormes: ["Shiny Sharpedo-Mega"],
 		formeOrder: ["Shiny Sharpedo", "Shiny Sharpedo-Mega"],
@@ -25582,6 +26199,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 2,
 		weightkg: 130,
 		color: "Blue",
+		evos: ["Shiny Wailord"],
 		eggGroups: ["Field", "Water 2"],
 	},
 	shinywailord: {
@@ -25593,6 +26211,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 14.5,
 		weightkg: 398,
 		color: "Blue",
+		prevo: "Shiny Wailmer",
+		evoLevel: 40,
 		eggGroups: ["Field", "Water 2"],
 	},
 	shinynumel: {
@@ -25604,6 +26224,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.7,
 		weightkg: 24,
 		color: "Yellow",
+		evos: ["Shiny Camerupt"],
 		eggGroups: ["Field"],
 	},
 	shinycamerupt: {
@@ -25615,6 +26236,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.9,
 		weightkg: 220,
 		color: "Red",
+		prevo: "Shiny Numel",
+		evoLevel: 33,
 		eggGroups: ["Field"],
 		otherFormes: ["Shiny Camerupt-Mega"],
 		formeOrder: ["Shiny Camerupt", "Shiny Camerupt-Mega"],
@@ -25653,6 +26276,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.7,
 		weightkg: 30.6,
 		color: "Black",
+		evos: ["Shiny Grumpig"],
 		eggGroups: ["Field"],
 	},
 	shinygrumpig: {
@@ -25664,6 +26288,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.9,
 		weightkg: 71.5,
 		color: "Purple",
+		prevo: "Shiny Spoink",
+		evoLevel: 32,
 		eggGroups: ["Field"],
 	},
 	shinyspinda: {
@@ -25686,6 +26312,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.7,
 		weightkg: 15,
 		color: "Brown",
+		evos: ["Shiny Vibrava"],
 		eggGroups: ["Bug", "Dragon"],
 	},
 	shinyvibrava: {
@@ -25697,6 +26324,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.1,
 		weightkg: 15.3,
 		color: "Green",
+		prevo: "Shiny Trapinch",
+		evoLevel: 35,
+		evos: ["Shiny Flygon"],
 		eggGroups: ["Bug", "Dragon"],
 	},
 	shinyflygon: {
@@ -25708,6 +26338,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 2,
 		weightkg: 82,
 		color: "Green",
+		prevo: "Shiny Vibrava",
+		evoLevel: 45,
 		eggGroups: ["Bug", "Dragon"],
 	},
 	shinycacnea: {
@@ -25719,6 +26351,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.4,
 		weightkg: 51.3,
 		color: "Green",
+		evos: ["Shiny Cacturne"],
 		eggGroups: ["Grass", "Human-Like"],
 	},
 	shinycacturne: {
@@ -25730,6 +26363,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.3,
 		weightkg: 77.4,
 		color: "Green",
+		prevo: "Shiny Cacnea",
+		evoLevel: 32,
 		eggGroups: ["Grass", "Human-Like"],
 	},
 	shinyswablu: {
@@ -25741,6 +26376,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.4,
 		weightkg: 1.2,
 		color: "Blue",
+		evos: ["Shiny Altaria"],
 		eggGroups: ["Flying", "Dragon"],
 	},
 	shinyaltaria: {
@@ -25752,6 +26388,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.1,
 		weightkg: 20.6,
 		color: "Blue",
+		prevo: "Shiny Swablu",
+		evoLevel: 35,
 		eggGroups: ["Flying", "Dragon"],
 		otherFormes: ["Shiny Altaria-Mega"],
 		formeOrder: ["Shiny Altaria", "Shiny Altaria-Mega"],
@@ -25825,6 +26463,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.4,
 		weightkg: 1.9,
 		color: "Gray",
+		evos: ["Shiny Whiscash"],
 		eggGroups: ["Water 2"],
 	},
 	shinywhiscash: {
@@ -25836,6 +26475,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.9,
 		weightkg: 23.6,
 		color: "Blue",
+		prevo: "Shiny Barboach",
+		evoLevel: 30,
 		eggGroups: ["Water 2"],
 	},
 	shinycorphish: {
@@ -25847,6 +26488,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.6,
 		weightkg: 11.5,
 		color: "Red",
+		evos: ["Shiny Crawdaunt"],
 		eggGroups: ["Water 1", "Water 3"],
 	},
 	shinycrawdaunt: {
@@ -25858,6 +26500,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.1,
 		weightkg: 32.8,
 		color: "Red",
+		prevo: "Shiny Corphish",
+		evoLevel: 30,
 		eggGroups: ["Water 1", "Water 3"],
 	},
 	shinybaltoy: {
@@ -25870,6 +26514,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.5,
 		weightkg: 21.5,
 		color: "Brown",
+		evos: ["Shiny Claydol"],
 		eggGroups: ["Mineral"],
 	},
 	shinyclaydol: {
@@ -25882,6 +26527,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.5,
 		weightkg: 108,
 		color: "Black",
+		prevo: "Shiny Baltoy",
+		evoLevel: 36,
 		eggGroups: ["Mineral"],
 	},
 	shinylileep: {
@@ -25894,6 +26541,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1,
 		weightkg: 23.8,
 		color: "Purple",
+		evos: ["Shiny Cradily"],
 		eggGroups: ["Water 3"],
 	},
 	shinycradily: {
@@ -25906,6 +26554,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.5,
 		weightkg: 60.4,
 		color: "Green",
+		prevo: "Shiny Lileep",
+		evoLevel: 40,
 		eggGroups: ["Water 3"],
 	},
 	shinyanorith: {
@@ -25918,6 +26568,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.7,
 		weightkg: 12.5,
 		color: "Gray",
+		evos: ["Shiny Armaldo"],
 		eggGroups: ["Water 3"],
 	},
 	shinyarmaldo: {
@@ -25930,6 +26581,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.5,
 		weightkg: 68.2,
 		color: "Gray",
+		prevo: "Shiny Anorith",
+		evoLevel: 40,
 		eggGroups: ["Water 3"],
 	},
 	shinyfeebas: {
@@ -25941,6 +26594,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.6,
 		weightkg: 7.4,
 		color: "Brown",
+		evos: ["Shiny Milotic"],
 		eggGroups: ["Water 1", "Dragon"],
 	},
 	shinymilotic: {
@@ -25952,6 +26606,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 6.2,
 		weightkg: 162,
 		color: "Pink",
+		prevo: "Shiny Feebas",
+		evoType: "trade",
+		evoItem: "Prism Scale",
 		eggGroups: ["Water 1", "Dragon"],
 	},
 	shinycastform: {
@@ -25964,7 +26621,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		weightkg: 0.8,
 		color: "Gray",
 		eggGroups: ["Fairy", "Amorphous"],
-		otherFormes: ["Shiny Castform-Sunny", "Castform-Rainy", "Castform-Snowy"],
+		otherFormes: ["Shiny Castform-Sunny", "Shiny Castform-Rainy", "Shiny Castform-Snowy"],
 		formeOrder: ["Shiny Castform", "Shiny Castform-Sunny", "Shiny Castform-Rainy", "Shiny Castform-Snowy"],
 	},
 	shinycastformsunny: {
@@ -26032,6 +26689,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.6,
 		weightkg: 2.3,
 		color: "Black",
+		evos: ["Shiny Banette"],
 		eggGroups: ["Amorphous"],
 	},
 	shinybanette: {
@@ -26043,6 +26701,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.1,
 		weightkg: 12.5,
 		color: "Black",
+		prevo: "Shiny Shuppet",
+		evoLevel: 37,
 		eggGroups: ["Amorphous"],
 		otherFormes: ["Shiny Banette-Mega"],
 		formeOrder: ["Shiny Banette", "Shiny Banette-Mega"],
@@ -26070,6 +26730,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.8,
 		weightkg: 15,
 		color: "Black",
+		evos: ["Shiny Dusclops"],
 		eggGroups: ["Amorphous"],
 	},
 	shinydusclops: {
@@ -26081,6 +26742,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.6,
 		weightkg: 30.6,
 		color: "Black",
+		prevo: "Shiny Duskull",
+		evoLevel: 37,
+		evos: ["Shiny Dusknoir"],
 		eggGroups: ["Amorphous"],
 	},
 	shinytropius: {
@@ -26103,6 +26767,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.6,
 		weightkg: 1,
 		color: "Blue",
+		prevo: "Shiny Chingling",
+		evoType: "levelFriendship",
+		evoCondition: "at night",
 		eggGroups: ["Amorphous"],
 		canHatch: true,
 		otherFormes: ["Shiny Chimecho-Mega"],
@@ -26133,7 +26800,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		weightkg: 47,
 		color: "White",
 		eggGroups: ["Field"],
-		otherFormes: ["Shiny Absol-Mega", "Absol-Mega-Z"],
+		otherFormes: ["Shiny Absol-Mega", "Shiny Absol-Mega-Z"],
 		formeOrder: ["Shiny Absol", "Shiny Absol-Mega", "Shiny Absol-Mega-Z"],
 	},
 	shinyabsolmega: {
@@ -26174,6 +26841,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.6,
 		weightkg: 14,
 		color: "Blue",
+		evos: ["Shiny Wobbuffet"],
 		eggGroups: ["Undiscovered"],
 		canHatch: true,
 	},
@@ -26186,6 +26854,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.7,
 		weightkg: 16.8,
 		color: "Gray",
+		evos: ["Shiny Glalie", "Shiny Froslass"],
 		eggGroups: ["Fairy", "Mineral"],
 	},
 	shinyglalie: {
@@ -26197,6 +26866,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.5,
 		weightkg: 256.5,
 		color: "Gray",
+		prevo: "Shiny Snorunt",
+		evoLevel: 42,
 		eggGroups: ["Fairy", "Mineral"],
 		otherFormes: ["Shiny Glalie-Mega"],
 		formeOrder: ["Shiny Glalie", "Shiny Glalie-Mega"],
@@ -26224,6 +26895,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.8,
 		weightkg: 39.5,
 		color: "Blue",
+		evos: ["Shiny Sealeo"],
 		eggGroups: ["Water 1", "Field"],
 	},
 	shinysealeo: {
@@ -26235,6 +26907,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.1,
 		weightkg: 87.6,
 		color: "Blue",
+		prevo: "Shiny Spheal",
+		evoLevel: 32,
+		evos: ["Shiny Walrein"],
 		eggGroups: ["Water 1", "Field"],
 	},
 	shinywalrein: {
@@ -26246,6 +26921,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.4,
 		weightkg: 150.6,
 		color: "Blue",
+		prevo: "Shiny Sealeo",
+		evoLevel: 44,
 		eggGroups: ["Water 1", "Field"],
 	},
 	shinyclamperl: {
@@ -26257,6 +26934,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.4,
 		weightkg: 52.5,
 		color: "Blue",
+		evos: ["Shiny Huntail", "Shiny Gorebyss"],
 		eggGroups: ["Water 1"],
 	},
 	shinyhuntail: {
@@ -26268,6 +26946,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.7,
 		weightkg: 27,
 		color: "Blue",
+		prevo: "Shiny Clamperl",
+		evoType: "trade",
+		evoItem: "Deep Sea Tooth",
 		eggGroups: ["Water 1"],
 	},
 	shinygorebyss: {
@@ -26279,6 +26960,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.8,
 		weightkg: 22.6,
 		color: "Pink",
+		prevo: "Shiny Clamperl",
+		evoType: "trade",
+		evoItem: "Deep Sea Scale",
 		eggGroups: ["Water 1"],
 	},
 	shinyrelicanth: {
@@ -26314,6 +26998,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.6,
 		weightkg: 42.1,
 		color: "Blue",
+		evos: ["Shiny Shelgon"],
 		eggGroups: ["Dragon"],
 	},
 	shinyshelgon: {
@@ -26325,6 +27010,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.1,
 		weightkg: 110.5,
 		color: "White",
+		prevo: "Shiny Bagon",
+		evoLevel: 30,
+		evos: ["Shiny Salamence"],
 		eggGroups: ["Dragon"],
 	},
 	shinysalamence: {
@@ -26336,6 +27024,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.5,
 		weightkg: 102.6,
 		color: "Blue",
+		prevo: "Shiny Shelgon",
+		evoLevel: 50,
 		eggGroups: ["Dragon"],
 		otherFormes: ["Shiny Salamence-Mega"],
 		formeOrder: ["Shiny Salamence", "Shiny Salamence-Mega"],
@@ -26364,6 +27054,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.6,
 		weightkg: 95.2,
 		color: "Blue",
+		evos: ["Shiny Metang"],
 		eggGroups: ["Mineral"],
 	},
 	shinymetang: {
@@ -26376,6 +27067,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.2,
 		weightkg: 202.5,
 		color: "Blue",
+		prevo: "Shiny Beldum",
+		evoLevel: 20,
+		evos: ["Shiny Metagross"],
 		eggGroups: ["Mineral"],
 	},
 	shinymetagross: {
@@ -26388,6 +27082,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.6,
 		weightkg: 550,
 		color: "Blue",
+		prevo: "Shiny Metang",
+		evoLevel: 45,
 		eggGroups: ["Mineral"],
 		otherFormes: ["Shiny Metagross-Mega"],
 		formeOrder: ["Shiny Metagross", "Shiny Metagross-Mega"],
@@ -26622,7 +27318,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		color: "Red",
 		eggGroups: ["Undiscovered"],
 		tags: ["Mythical"],
-		otherFormes: ["Shiny Deoxys-Attack", "Deoxys-Defense", "Deoxys-Speed"],
+		otherFormes: ["Shiny Deoxys-Attack", "Shiny Deoxys-Defense", "Shiny Deoxys-Speed"],
 		formeOrder: ["Shiny Deoxys", "Shiny Deoxys-Attack", "Shiny Deoxys-Defense", "Shiny Deoxys-Speed"],
 	},
 	shinydeoxysattack: {
@@ -26638,7 +27334,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		weightkg: 60.8,
 		color: "Red",
 		eggGroups: ["Undiscovered"],
-		changesFrom: "Deoxys",
+		changesFrom: "Shiny Deoxys",
 	},
 	shinydeoxysdefense: {
 		num: 386,
@@ -26653,7 +27349,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		weightkg: 60.8,
 		color: "Red",
 		eggGroups: ["Undiscovered"],
-		changesFrom: "Deoxys",
+		changesFrom: "Shiny Deoxys",
 	},
 	shinydeoxysspeed: {
 		num: 386,
@@ -26668,7 +27364,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		weightkg: 60.8,
 		color: "Red",
 		eggGroups: ["Undiscovered"],
-		changesFrom: "Deoxys",
+		changesFrom: "Shiny Deoxys",
 	},
 	shinyturtwig: {
 		num: 387,
@@ -26680,6 +27376,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.4,
 		weightkg: 10.2,
 		color: "Green",
+		evos: ["Shiny Grotle"],
 		eggGroups: ["Monster", "Grass"],
 	},
 	shinygrotle: {
@@ -26692,6 +27389,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.1,
 		weightkg: 97,
 		color: "Green",
+		prevo: "Shiny Turtwig",
+		evoLevel: 18,
+		evos: ["Shiny Torterra"],
 		eggGroups: ["Monster", "Grass"],
 	},
 	shinytorterra: {
@@ -26704,6 +27404,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 2.2,
 		weightkg: 310,
 		color: "Green",
+		prevo: "Shiny Grotle",
+		evoLevel: 32,
 		eggGroups: ["Monster", "Grass"],
 	},
 	shinychimchar: {
@@ -26716,6 +27418,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.5,
 		weightkg: 6.2,
 		color: "Brown",
+		evos: ["Shiny Monferno"],
 		eggGroups: ["Field", "Human-Like"],
 	},
 	shinymonferno: {
@@ -26728,6 +27431,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.9,
 		weightkg: 22,
 		color: "Brown",
+		prevo: "Shiny Chimchar",
+		evoLevel: 14,
+		evos: ["Shiny Infernape"],
 		eggGroups: ["Field", "Human-Like"],
 	},
 	shinyinfernape: {
@@ -26740,6 +27446,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.2,
 		weightkg: 55,
 		color: "Brown",
+		prevo: "Shiny Monferno",
+		evoLevel: 36,
 		eggGroups: ["Field", "Human-Like"],
 	},
 	shinypiplup: {
@@ -26752,6 +27460,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.4,
 		weightkg: 5.2,
 		color: "Blue",
+		evos: ["Shiny Prinplup"],
 		eggGroups: ["Water 1", "Field"],
 	},
 	shinyprinplup: {
@@ -26764,6 +27473,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.8,
 		weightkg: 23,
 		color: "Blue",
+		prevo: "Shiny Piplup",
+		evoLevel: 16,
+		evos: ["Shiny Empoleon"],
 		eggGroups: ["Water 1", "Field"],
 	},
 	shinyempoleon: {
@@ -26776,6 +27488,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.7,
 		weightkg: 84.5,
 		color: "Blue",
+		prevo: "Shiny Prinplup",
+		evoLevel: 36,
 		eggGroups: ["Water 1", "Field"],
 	},
 	shinystarly: {
@@ -26787,6 +27501,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.3,
 		weightkg: 2,
 		color: "Brown",
+		evos: ["Shiny Staravia"],
 		eggGroups: ["Flying"],
 	},
 	shinystaravia: {
@@ -26798,6 +27513,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.6,
 		weightkg: 15.5,
 		color: "Brown",
+		prevo: "Shiny Starly",
+		evoLevel: 14,
+		evos: ["Shiny Staraptor"],
 		eggGroups: ["Flying"],
 	},
 	shinystaraptor: {
@@ -26809,6 +27527,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.2,
 		weightkg: 24.9,
 		color: "Brown",
+		prevo: "Shiny Staravia",
+		evoLevel: 34,
 		eggGroups: ["Flying"],
 		otherFormes: ["Shiny Staraptor-Mega"],
 		formeOrder: ["Shiny Staraptor", "Shiny Staraptor-Mega"],
@@ -26837,6 +27557,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.5,
 		weightkg: 20,
 		color: "Brown",
+		evos: ["Shiny Bibarel"],
 		eggGroups: ["Water 1", "Field"],
 	},
 	shinybibarel: {
@@ -26848,6 +27569,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1,
 		weightkg: 31.5,
 		color: "Brown",
+		prevo: "Shiny Bidoof",
+		evoLevel: 15,
 		eggGroups: ["Water 1", "Field"],
 	},
 	shinykricketot: {
@@ -26859,6 +27582,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.3,
 		weightkg: 2.2,
 		color: "Red",
+		evos: ["Shiny Kricketune"],
 		eggGroups: ["Bug"],
 	},
 	shinykricketune: {
@@ -26870,6 +27594,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1,
 		weightkg: 25.5,
 		color: "Red",
+		prevo: "Shiny Kricketot",
+		evoLevel: 10,
 		eggGroups: ["Bug"],
 	},
 	shinyshinx: {
@@ -26881,6 +27607,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.5,
 		weightkg: 9.5,
 		color: "Blue",
+		evos: ["Shiny Luxio"],
 		eggGroups: ["Field"],
 	},
 	shinyluxio: {
@@ -26892,6 +27619,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.9,
 		weightkg: 30.5,
 		color: "Blue",
+		prevo: "Shiny Shinx",
+		evoLevel: 15,
+		evos: ["Shiny Luxray"],
 		eggGroups: ["Field"],
 	},
 	shinyluxray: {
@@ -26903,6 +27633,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.4,
 		weightkg: 42,
 		color: "Blue",
+		prevo: "Shiny Luxio",
+		evoLevel: 30,
 		eggGroups: ["Field"],
 	},
 	shinybudew: {
@@ -26914,6 +27646,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.2,
 		weightkg: 1.2,
 		color: "Green",
+		evos: ["Shiny Roselia"],
 		eggGroups: ["Undiscovered"],
 		canHatch: true,
 	},
@@ -26926,6 +27659,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.9,
 		weightkg: 14.5,
 		color: "Green",
+		prevo: "Shiny Roselia",
+		evoType: "useItem",
+		evoItem: "Shiny Stone",
 		eggGroups: ["Fairy", "Grass"],
 	},
 	shinycranidos: {
@@ -26938,6 +27674,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.9,
 		weightkg: 31.5,
 		color: "Blue",
+		evos: ["Shiny Rampardos"],
 		eggGroups: ["Monster"],
 	},
 	shinyrampardos: {
@@ -26950,6 +27687,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.6,
 		weightkg: 102.5,
 		color: "Blue",
+		prevo: "Shiny Cranidos",
+		evoLevel: 30,
 		eggGroups: ["Monster"],
 	},
 	shinyshieldon: {
@@ -26962,6 +27701,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.5,
 		weightkg: 57,
 		color: "Gray",
+		evos: ["Shiny Bastiodon"],
 		eggGroups: ["Monster"],
 	},
 	shinybastiodon: {
@@ -26974,6 +27714,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.3,
 		weightkg: 149.5,
 		color: "Gray",
+		prevo: "Shiny Shieldon",
+		evoLevel: 30,
 		eggGroups: ["Monster"],
 	},
 	shinyburmy: {
@@ -26986,6 +27728,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.2,
 		weightkg: 3.4,
 		color: "Green",
+		evos: ["Shiny Wormadam", "Shiny Wormadam-Sandy", "Shiny Wormadam-Trash", "Shiny Mothim"],
 		eggGroups: ["Bug"],
 		cosmeticFormes: ["Shiny Burmy-Sandy", "Shiny Burmy-Trash"],
 		formeOrder: ["Shiny Burmy", "Shiny Burmy-Sandy", "Shiny Burmy-Trash"],
@@ -27015,8 +27758,10 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.5,
 		weightkg: 6.5,
 		color: "Green",
+		prevo: "Shiny Burmy",
+		evoLevel: 20,
 		eggGroups: ["Bug"],
-		otherFormes: ["Shiny Wormadam-Sandy", "Wormadam-Trash"],
+		otherFormes: ["Shiny Wormadam-Sandy", "Shiny Wormadam-Trash"],
 		formeOrder: ["Shiny Wormadam", "Shiny Wormadam-Sandy", "Shiny Wormadam-Trash"],
 	},
 	shinywormadamsandy: {
@@ -27031,6 +27776,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.5,
 		weightkg: 6.5,
 		color: "Brown",
+		prevo: "Shiny Burmy",
+		evoLevel: 20,
 		eggGroups: ["Bug"],
 	},
 	shinywormadamtrash: {
@@ -27045,6 +27792,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.5,
 		weightkg: 6.5,
 		color: "Red",
+		prevo: "Shiny Burmy",
+		evoLevel: 20,
 		eggGroups: ["Bug"],
 	},
 	shinymothim: {
@@ -27057,6 +27806,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.9,
 		weightkg: 23.3,
 		color: "Yellow",
+		prevo: "Shiny Burmy",
+		evoLevel: 20,
 		eggGroups: ["Bug"],
 	},
 	shinycombee: {
@@ -27069,6 +27820,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.3,
 		weightkg: 5.5,
 		color: "Yellow",
+		evos: ["Shiny Vespiquen"],
 		eggGroups: ["Bug"],
 	},
 	shinyvespiquen: {
@@ -27081,6 +27833,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.2,
 		weightkg: 38.5,
 		color: "Yellow",
+		prevo: "Shiny Combee",
+		evoLevel: 21,
 		eggGroups: ["Bug"],
 	},
 	shinypachirisu: {
@@ -27103,6 +27857,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.7,
 		weightkg: 29.5,
 		color: "Brown",
+		evos: ["Shiny Floatzel"],
 		eggGroups: ["Water 1", "Field"],
 	},
 	shinyfloatzel: {
@@ -27114,6 +27869,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.1,
 		weightkg: 33.5,
 		color: "Brown",
+		prevo: "Shiny Buizel",
+		evoLevel: 26,
 		eggGroups: ["Water 1", "Field"],
 	},
 	shinycherubi: {
@@ -27125,6 +27882,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.4,
 		weightkg: 3.3,
 		color: "Pink",
+		evos: ["Shiny Cherrim"],
 		eggGroups: ["Fairy", "Grass"],
 	},
 	shinycherrim: {
@@ -27137,6 +27895,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.5,
 		weightkg: 9.3,
 		color: "Purple",
+		prevo: "Shiny Cherubi",
+		evoLevel: 25,
 		eggGroups: ["Fairy", "Grass"],
 		otherFormes: ["Shiny Cherrim-Sunshine"],
 		formeOrder: ["Shiny Cherrim", "Shiny Cherrim-Sunshine"],
@@ -27166,9 +27926,10 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.3,
 		weightkg: 6.3,
 		color: "Purple",
+		evos: ["Shiny Gastrodon"],
 		eggGroups: ["Water 1", "Amorphous"],
 		cosmeticFormes: ["Shiny Shellos-East"],
-		formeOrder: ["Shiny Shiny Shellos", "Shiny Shellos-East"],
+		formeOrder: ["Shiny Shellos", "Shiny Shellos-East"],
 	},
 	shinyshelloseast: {
 		isCosmeticForme: true,
@@ -27187,6 +27948,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.9,
 		weightkg: 29.9,
 		color: "Purple",
+		prevo: "Shiny Shellos",
+		evoLevel: 30,
 		eggGroups: ["Water 1", "Amorphous"],
 		cosmeticFormes: ["Shiny Gastrodon-East"],
 		formeOrder: ["Shiny Gastrodon", "Shiny Gastrodon-East"],
@@ -27207,6 +27970,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.2,
 		weightkg: 20.3,
 		color: "Purple",
+		prevo: "Shiny Aipom",
+		evoType: "levelMove",
+		evoMove: "Double Hit",
 		eggGroups: ["Field"],
 	},
 	shinydrifloon: {
@@ -27218,6 +27984,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.4,
 		weightkg: 1.2,
 		color: "Purple",
+		evos: ["Shiny Drifblim"],
 		eggGroups: ["Amorphous"],
 	},
 	shinydrifblim: {
@@ -27229,6 +27996,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.2,
 		weightkg: 15,
 		color: "Purple",
+		prevo: "Shiny Drifloon",
+		evoLevel: 28,
 		eggGroups: ["Amorphous"],
 	},
 	shinybuneary: {
@@ -27240,6 +28009,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.4,
 		weightkg: 5.5,
 		color: "Brown",
+		evos: ["Shiny Lopunny"],
 		eggGroups: ["Field", "Human-Like"],
 	},
 	shinylopunny: {
@@ -27251,6 +28021,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.2,
 		weightkg: 33.3,
 		color: "Brown",
+		prevo: "Shiny Buneary",
+		evoType: "levelFriendship",
 		eggGroups: ["Field", "Human-Like"],
 		otherFormes: ["Shiny Lopunny-Mega"],
 		formeOrder: ["Shiny Lopunny", "Shiny Lopunny-Mega"],
@@ -27278,6 +28050,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.9,
 		weightkg: 4.4,
 		color: "Purple",
+		prevo: "Shiny Misdreavus",
+		evoType: "useItem",
+		evoItem: "Dusk Stone",
 		eggGroups: ["Amorphous"],
 	},
 	shinyhonchkrow: {
@@ -27289,6 +28064,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.9,
 		weightkg: 27.3,
 		color: "Black",
+		prevo: "Shiny Murkrow",
+		evoType: "useItem",
+		evoItem: "Dusk Stone",
 		eggGroups: ["Flying"],
 	},
 	shinyglameow: {
@@ -27301,6 +28079,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.5,
 		weightkg: 3.9,
 		color: "Gray",
+		evos: ["Shiny Purugly"],
 		eggGroups: ["Field"],
 	},
 	shinypurugly: {
@@ -27313,6 +28092,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1,
 		weightkg: 43.8,
 		color: "Gray",
+		prevo: "Shiny Glameow",
+		evoLevel: 38,
 		eggGroups: ["Field"],
 	},
 	shinychingling: {
@@ -27324,6 +28105,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.2,
 		weightkg: 0.6,
 		color: "Yellow",
+		evos: ["Shiny Chimecho"],
 		eggGroups: ["Undiscovered"],
 		canHatch: true,
 	},
@@ -27336,6 +28118,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.4,
 		weightkg: 19.2,
 		color: "Purple",
+		evos: ["Shiny Skuntank"],
 		eggGroups: ["Field"],
 	},
 	shinyskuntank: {
@@ -27347,6 +28130,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1,
 		weightkg: 38,
 		color: "Purple",
+		prevo: "Shiny Stunky",
+		evoLevel: 34,
 		eggGroups: ["Field"],
 	},
 	shinybronzor: {
@@ -27359,6 +28144,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.5,
 		weightkg: 60.5,
 		color: "Green",
+		evos: ["Shiny Bronzong"],
 		eggGroups: ["Mineral"],
 	},
 	shinybronzong: {
@@ -27371,6 +28157,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.3,
 		weightkg: 187,
 		color: "Green",
+		prevo: "Shiny Bronzor",
+		evoLevel: 33,
 		eggGroups: ["Mineral"],
 	},
 	shinybonsly: {
@@ -27382,6 +28170,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.5,
 		weightkg: 15,
 		color: "Brown",
+		evos: ["Shiny Sudowoodo"],
 		eggGroups: ["Undiscovered"],
 		canHatch: true,
 	},
@@ -27394,6 +28183,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.6,
 		weightkg: 13,
 		color: "Pink",
+		evos: ["Shiny Mr. Mime", "Shiny Mr. Mime-Galar"],
 		eggGroups: ["Undiscovered"],
 		canHatch: true,
 	},
@@ -27407,6 +28197,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.6,
 		weightkg: 24.4,
 		color: "Pink",
+		evos: ["Shiny Chansey"],
 		eggGroups: ["Undiscovered"],
 		canHatch: true,
 	},
@@ -27441,6 +28232,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.7,
 		weightkg: 20.5,
 		color: "Blue",
+		evos: ["Shiny Gabite"],
 		eggGroups: ["Monster", "Dragon"],
 	},
 	shinygabite: {
@@ -27452,6 +28244,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.4,
 		weightkg: 56,
 		color: "Blue",
+		prevo: "Shiny Gible",
+		evoLevel: 24,
+		evos: ["Shiny Garchomp"],
 		eggGroups: ["Monster", "Dragon"],
 	},
 	shinygarchomp: {
@@ -27463,8 +28258,10 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.9,
 		weightkg: 95,
 		color: "Blue",
+		prevo: "Shiny Gabite",
+		evoLevel: 48,
 		eggGroups: ["Monster", "Dragon"],
-		otherFormes: ["Shiny Garchomp-Mega", "Garchomp-Mega-Z"],
+		otherFormes: ["Shiny Garchomp-Mega", "Shiny Garchomp-Mega-Z"],
 		formeOrder: ["Shiny Garchomp", "Shiny Garchomp-Mega", "Shiny Garchomp-Mega-Z"],
 	},
 	shinygarchompmega: {
@@ -27506,6 +28303,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.6,
 		weightkg: 105,
 		color: "Black",
+		evos: ["Shiny Snorlax"],
 		eggGroups: ["Undiscovered"],
 		canHatch: true,
 	},
@@ -27519,6 +28317,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.7,
 		weightkg: 20.2,
 		color: "Blue",
+		evos: ["Shiny Lucario"],
 		eggGroups: ["Undiscovered"],
 		canHatch: true,
 	},
@@ -27532,8 +28331,11 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.2,
 		weightkg: 54,
 		color: "Blue",
+		prevo: "Shiny Riolu",
+		evoType: "levelFriendship",
+		evoCondition: "during the day",
 		eggGroups: ["Field", "Human-Like"],
-		otherFormes: ["Shiny Lucario-Mega", "Lucario-Mega-Z"],
+		otherFormes: ["Shiny Lucario-Mega", "Shiny Lucario-Mega-Z"],
 		formeOrder: ["Shiny Lucario", "Shiny Lucario-Mega", "Shiny Lucario-Mega-Z"],
 	},
 	shinylucariomega: {
@@ -27576,6 +28378,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.8,
 		weightkg: 49.5,
 		color: "Brown",
+		evos: ["Shiny Hippowdon"],
 		eggGroups: ["Field"],
 	},
 	shinyhippowdon: {
@@ -27587,6 +28390,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 2,
 		weightkg: 300,
 		color: "Brown",
+		prevo: "Shiny Hippopotas",
+		evoLevel: 34,
 		eggGroups: ["Field"],
 	},
 	shinyskorupi: {
@@ -27598,6 +28403,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.8,
 		weightkg: 12,
 		color: "Purple",
+		evos: ["Shiny Drapion"],
 		eggGroups: ["Bug", "Water 3"],
 	},
 	shinydrapion: {
@@ -27609,6 +28415,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.3,
 		weightkg: 61.5,
 		color: "Purple",
+		prevo: "Shiny Skorupi",
+		evoLevel: 40,
 		eggGroups: ["Bug", "Water 3"],
 	},
 	shinycroagunk: {
@@ -27620,6 +28428,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.7,
 		weightkg: 23,
 		color: "Blue",
+		evos: ["Shiny Toxicroak"],
 		eggGroups: ["Human-Like"],
 	},
 	shinytoxicroak: {
@@ -27631,6 +28440,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.3,
 		weightkg: 44.4,
 		color: "Blue",
+		prevo: "Shiny Croagunk",
+		evoLevel: 37,
 		eggGroups: ["Human-Like"],
 	},
 	shinycarnivine: {
@@ -27653,6 +28464,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.4,
 		weightkg: 7,
 		color: "Blue",
+		evos: ["Shiny Lumineon"],
 		eggGroups: ["Water 2"],
 	},
 	shinylumineon: {
@@ -27664,6 +28476,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.2,
 		weightkg: 24,
 		color: "Blue",
+		prevo: "Shiny Finneon",
+		evoLevel: 31,
 		eggGroups: ["Water 2"],
 	},
 	shinymantyke: {
@@ -27675,6 +28489,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1,
 		weightkg: 65,
 		color: "Blue",
+		evos: ["Shiny Mantine"],
 		eggGroups: ["Undiscovered"],
 		canHatch: true,
 	},
@@ -27687,6 +28502,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1,
 		weightkg: 50.5,
 		color: "White",
+		evos: ["Shiny Abomasnow"],
 		eggGroups: ["Monster", "Grass"],
 	},
 	shinyabomasnow: {
@@ -27698,6 +28514,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 2.2,
 		weightkg: 135.5,
 		color: "White",
+		prevo: "Shiny Snover",
+		evoLevel: 40,
 		eggGroups: ["Monster", "Grass"],
 		otherFormes: ["Shiny Abomasnow-Mega"],
 		formeOrder: ["Shiny Abomasnow", "Shiny Abomasnow-Mega"],
@@ -27725,6 +28543,10 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.1,
 		weightkg: 34,
 		color: "Black",
+		prevo: "Shiny Sneasel",
+		evoType: "levelHold",
+		evoItem: "Razor Claw",
+		evoCondition: "at night",
 		eggGroups: ["Field"],
 	},
 	shinymagnezone: {
@@ -27737,6 +28559,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.2,
 		weightkg: 180,
 		color: "Gray",
+		prevo: "Shiny Magneton",
+		evoType: "useItem",
+		evoItem: "Thunder Stone",
 		eggGroups: ["Mineral"],
 	},
 	shinylickilicky: {
@@ -27748,6 +28573,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.7,
 		weightkg: 140,
 		color: "Pink",
+		prevo: "Shiny Lickitung",
+		evoType: "levelMove",
+		evoMove: "Rollout",
 		eggGroups: ["Monster"],
 	},
 	shinyrhyperior: {
@@ -27759,6 +28587,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 2.4,
 		weightkg: 282.8,
 		color: "Gray",
+		prevo: "Shiny Rhydon",
+		evoType: "trade",
+		evoItem: "Protector",
 		eggGroups: ["Monster", "Field"],
 	},
 	shinytangrowth: {
@@ -27770,6 +28601,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 2,
 		weightkg: 128.6,
 		color: "Blue",
+		prevo: "Shiny Tangela",
+		evoType: "levelMove",
+		evoMove: "Ancient Power",
 		eggGroups: ["Grass"],
 	},
 	shinyelectivire: {
@@ -27782,6 +28616,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.8,
 		weightkg: 138.6,
 		color: "Yellow",
+		prevo: "Shiny Electabuzz",
+		evoType: "trade",
+		evoItem: "Electirizer",
 		eggGroups: ["Human-Like"],
 	},
 	shinymagmortar: {
@@ -27794,6 +28631,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.6,
 		weightkg: 68,
 		color: "Red",
+		prevo: "Shiny Magmar",
+		evoType: "trade",
+		evoItem: "Magmarizer",
 		eggGroups: ["Human-Like"],
 	},
 	shinytogekiss: {
@@ -27806,6 +28646,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.5,
 		weightkg: 38,
 		color: "White",
+		prevo: "Shiny Togetic",
+		evoType: "useItem",
+		evoItem: "Shiny Stone",
 		eggGroups: ["Flying", "Fairy"],
 	},
 	shinyyanmega: {
@@ -27817,6 +28660,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.9,
 		weightkg: 51.5,
 		color: "Green",
+		prevo: "Shiny Yanma",
+		evoType: "levelMove",
+		evoMove: "Ancient Power",
 		eggGroups: ["Bug"],
 	},
 	shinyleafeon: {
@@ -27829,6 +28675,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1,
 		weightkg: 25.5,
 		color: "Green",
+		prevo: "Shiny Eevee",
+		evoType: "useItem",
+		evoItem: "Leaf Stone",
 		eggGroups: ["Field"],
 	},
 	shinyglaceon: {
@@ -27841,6 +28690,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.8,
 		weightkg: 25.9,
 		color: "Blue",
+		prevo: "Shiny Eevee",
+		evoType: "useItem",
+		evoItem: "Ice Stone",
 		eggGroups: ["Field"],
 	},
 	shinygliscor: {
@@ -27852,6 +28704,10 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 2,
 		weightkg: 42.5,
 		color: "Purple",
+		prevo: "Shiny Gligar",
+		evoType: "levelHold",
+		evoItem: "Razor Fang",
+		evoCondition: "at night",
 		eggGroups: ["Bug"],
 	},
 	shinymamoswine: {
@@ -27863,6 +28719,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 2.5,
 		weightkg: 291,
 		color: "Brown",
+		prevo: "Shiny Piloswine",
+		evoType: "levelMove",
+		evoMove: "Ancient Power",
 		eggGroups: ["Field"],
 	},
 	shinyporygonz: {
@@ -27875,6 +28734,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.9,
 		weightkg: 34,
 		color: "Red",
+		prevo: "Shiny Porygon2",
+		evoType: "trade",
+		evoItem: "Dubious Disc",
 		eggGroups: ["Mineral"],
 	},
 	shinygallade: {
@@ -27887,6 +28749,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.6,
 		weightkg: 52,
 		color: "White",
+		prevo: "Shiny Kirlia",
+		evoType: "useItem",
+		evoItem: "Dawn Stone",
 		eggGroups: ["Human-Like", "Amorphous"],
 		otherFormes: ["Shiny Gallade-Mega"],
 		formeOrder: ["Shiny Gallade", "Shiny Gallade-Mega"],
@@ -27915,6 +28780,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.4,
 		weightkg: 340,
 		color: "Gray",
+		prevo: "Shiny Nosepass",
+		evoType: "levelExtra",
+		evoCondition: "near a special magnetic field",
 		eggGroups: ["Mineral"],
 	},
 	shinydusknoir: {
@@ -27926,6 +28794,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 2.2,
 		weightkg: 106.6,
 		color: "Black",
+		prevo: "Shiny Dusclops",
+		evoType: "trade",
+		evoItem: "Reaper Cloth",
 		eggGroups: ["Amorphous"],
 	},
 	shinyfroslass: {
@@ -27938,6 +28809,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.3,
 		weightkg: 26.6,
 		color: "White",
+		prevo: "Shiny Snorunt",
+		evoType: "useItem",
+		evoItem: "Dawn Stone",
 		eggGroups: ["Fairy", "Mineral"],
 		otherFormes: ["Shiny Froslass-Mega"],
 		formeOrder: ["Shiny Froslass", "Shiny Froslass-Mega"],
@@ -27969,7 +28843,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		weightkg: 0.3,
 		color: "Red",
 		eggGroups: ["Amorphous"],
-		otherFormes: ["Shiny Rotom-Heat", "Rotom-Wash", "Rotom-Frost", "Rotom-Fan", "Rotom-Mow"],
+		otherFormes: ["Shiny Rotom-Heat", "Shiny Rotom-Wash", "Shiny Rotom-Frost", "Shiny Rotom-Fan", "Shiny Rotom-Mow"],
 		formeOrder: ["Shiny Rotom", "Shiny Rotom-Heat", "Shiny Rotom-Wash", "Shiny Rotom-Frost", "Shiny Rotom-Fan", "Shiny Rotom-Mow"],
 	},
 	shinyrotomheat: {
@@ -27985,7 +28859,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		weightkg: 0.3,
 		color: "Red",
 		eggGroups: ["Amorphous"],
-		changesFrom: "Rotom",
+		changesFrom: "Shiny Rotom",
 	},
 	shinyrotomwash: {
 		num: 479,
@@ -28000,7 +28874,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		weightkg: 0.3,
 		color: "Red",
 		eggGroups: ["Amorphous"],
-		changesFrom: "Rotom",
+		changesFrom: "Shiny Rotom",
 	},
 	shinyrotomfrost: {
 		num: 479,
@@ -28015,7 +28889,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		weightkg: 0.3,
 		color: "Red",
 		eggGroups: ["Amorphous"],
-		changesFrom: "Rotom",
+		changesFrom: "Shiny Rotom",
 	},
 	shinyrotomfan: {
 		num: 479,
@@ -28030,7 +28904,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		weightkg: 0.3,
 		color: "Red",
 		eggGroups: ["Amorphous"],
-		changesFrom: "Rotom",
+		changesFrom: "Shiny Rotom",
 	},
 	shinyrotommow: {
 		num: 479,
@@ -28045,7 +28919,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		weightkg: 0.3,
 		color: "Red",
 		eggGroups: ["Amorphous"],
-		changesFrom: "Rotom",
+		changesFrom: "Shiny Rotom",
 	},
 	shinyuxie: {
 		num: 480,
@@ -28115,7 +28989,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		color: "Blue",
 		eggGroups: ["Undiscovered"],
 		requiredItem: "Adamant Crystal",
-		changesFrom: "Dialga",
+		changesFrom: "Shiny Dialga",
 		gen: 8,
 	},
 	shinypalkia: {
@@ -28147,7 +29021,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		color: "Purple",
 		eggGroups: ["Undiscovered"],
 		requiredItem: "Lustrous Globe",
-		changesFrom: "Palkia",
+		changesFrom: "Shiny Palkia",
 		gen: 8,
 	},
 	shinyheatran: {
@@ -28223,7 +29097,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		color: "Black",
 		eggGroups: ["Undiscovered"],
 		requiredItem: "Griseous Core",
-		changesFrom: "Giratina",
+		changesFrom: "Shiny Giratina",
 	},
 	shinycresselia: {
 		num: 488,
@@ -28325,7 +29199,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		weightkg: 5.2,
 		color: "Green",
 		eggGroups: ["Undiscovered"],
-		changesFrom: "Shaymin",
+		changesFrom: "Shiny Shaymin",
 	},
 	shinyarceus: {
 		num: 493,
@@ -28360,7 +29234,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		color: "White",
 		eggGroups: ["Undiscovered"],
 		requiredItems: ["Insect Plate", "Buginium Z"],
-		changesFrom: "Arceus",
+		changesFrom: "Shiny Arceus",
 	},
 	shinyarceusdark: {
 		num: 493,
@@ -28376,7 +29250,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		color: "White",
 		eggGroups: ["Undiscovered"],
 		requiredItems: ["Dread Plate", "Darkinium Z"],
-		changesFrom: "Arceus",
+		changesFrom: "Shiny Arceus",
 	},
 	shinyarceusdragon: {
 		num: 493,
@@ -28392,7 +29266,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		color: "White",
 		eggGroups: ["Undiscovered"],
 		requiredItems: ["Draco Plate", "Dragonium Z"],
-		changesFrom: "Arceus",
+		changesFrom: "Shiny Arceus",
 	},
 	shinyarceuselectric: {
 		num: 493,
@@ -28408,7 +29282,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		color: "White",
 		eggGroups: ["Undiscovered"],
 		requiredItems: ["Zap Plate", "Electrium Z"],
-		changesFrom: "Arceus",
+		changesFrom: "Shiny Arceus",
 	},
 	shinyarceusfairy: {
 		num: 493,
@@ -28424,7 +29298,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		color: "White",
 		eggGroups: ["Undiscovered"],
 		requiredItems: ["Pixie Plate", "Fairium Z"],
-		changesFrom: "Arceus",
+		changesFrom: "Shiny Arceus",
 		gen: 6,
 	},
 	shinyarceusfighting: {
@@ -28441,7 +29315,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		color: "White",
 		eggGroups: ["Undiscovered"],
 		requiredItems: ["Fist Plate", "Fightinium Z"],
-		changesFrom: "Arceus",
+		changesFrom: "Shiny Arceus",
 	},
 	shinyarceusfire: {
 		num: 493,
@@ -28457,7 +29331,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		color: "White",
 		eggGroups: ["Undiscovered"],
 		requiredItems: ["Flame Plate", "Firium Z"],
-		changesFrom: "Arceus",
+		changesFrom: "Shiny Arceus",
 	},
 	shinyarceusflying: {
 		num: 493,
@@ -28473,7 +29347,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		color: "White",
 		eggGroups: ["Undiscovered"],
 		requiredItems: ["Sky Plate", "Flyinium Z"],
-		changesFrom: "Arceus",
+		changesFrom: "Shiny Arceus",
 	},
 	shinyarceusghost: {
 		num: 493,
@@ -28489,7 +29363,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		color: "White",
 		eggGroups: ["Undiscovered"],
 		requiredItems: ["Spooky Plate", "Ghostium Z"],
-		changesFrom: "Arceus",
+		changesFrom: "Shiny Arceus",
 	},
 	shinyarceusgrass: {
 		num: 493,
@@ -28505,7 +29379,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		color: "White",
 		eggGroups: ["Undiscovered"],
 		requiredItems: ["Meadow Plate", "Grassium Z"],
-		changesFrom: "Arceus",
+		changesFrom: "Shiny Arceus",
 	},
 	shinyarceusground: {
 		num: 493,
@@ -28521,7 +29395,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		color: "White",
 		eggGroups: ["Undiscovered"],
 		requiredItems: ["Earth Plate", "Groundium Z"],
-		changesFrom: "Arceus",
+		changesFrom: "Shiny Arceus",
 	},
 	shinyarceusice: {
 		num: 493,
@@ -28537,7 +29411,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		color: "White",
 		eggGroups: ["Undiscovered"],
 		requiredItems: ["Icicle Plate", "Icium Z"],
-		changesFrom: "Arceus",
+		changesFrom: "Shiny Arceus",
 	},
 	shinyarceuspoison: {
 		num: 493,
@@ -28553,7 +29427,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		color: "White",
 		eggGroups: ["Undiscovered"],
 		requiredItems: ["Toxic Plate", "Poisonium Z"],
-		changesFrom: "Arceus",
+		changesFrom: "Shiny Arceus",
 	},
 	shinyarceuspsychic: {
 		num: 493,
@@ -28569,7 +29443,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		color: "White",
 		eggGroups: ["Undiscovered"],
 		requiredItems: ["Mind Plate", "Psychium Z"],
-		changesFrom: "Arceus",
+		changesFrom: "Shiny Arceus",
 	},
 	shinyarceusrock: {
 		num: 493,
@@ -28585,7 +29459,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		color: "White",
 		eggGroups: ["Undiscovered"],
 		requiredItems: ["Stone Plate", "Rockium Z"],
-		changesFrom: "Arceus",
+		changesFrom: "Shiny Arceus",
 	},
 	shinyarceussteel: {
 		num: 493,
@@ -28601,7 +29475,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		color: "White",
 		eggGroups: ["Undiscovered"],
 		requiredItems: ["Iron Plate", "Steelium Z"],
-		changesFrom: "Arceus",
+		changesFrom: "Shiny Arceus",
 	},
 	shinyarceuswater: {
 		num: 493,
@@ -28617,7 +29491,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		color: "White",
 		eggGroups: ["Undiscovered"],
 		requiredItems: ["Splash Plate", "Waterium Z"],
-		changesFrom: "Arceus",
+		changesFrom: "Shiny Arceus",
 	},
 	shinyvictini: {
 		num: 494,
@@ -28642,6 +29516,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.6,
 		weightkg: 8.1,
 		color: "Green",
+		evos: ["Shiny Servine"],
 		eggGroups: ["Field", "Grass"],
 	},
 	shinyservine: {
@@ -28654,6 +29529,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.8,
 		weightkg: 16,
 		color: "Green",
+		prevo: "Shiny Snivy",
+		evoLevel: 17,
+		evos: ["Shiny Serperior"],
 		eggGroups: ["Field", "Grass"],
 	},
 	shinyserperior: {
@@ -28666,6 +29544,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 3.3,
 		weightkg: 63,
 		color: "Green",
+		prevo: "Shiny Servine",
+		evoLevel: 36,
 		eggGroups: ["Field", "Grass"],
 	},
 	shinytepig: {
@@ -28678,6 +29558,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.5,
 		weightkg: 9.9,
 		color: "Red",
+		evos: ["Shiny Pignite"],
 		eggGroups: ["Field"],
 	},
 	shinypignite: {
@@ -28690,6 +29571,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1,
 		weightkg: 55.5,
 		color: "Red",
+		prevo: "Shiny Tepig",
+		evoLevel: 17,
+		evos: ["Shiny Emboar"],
 		eggGroups: ["Field"],
 	},
 	shinyemboar: {
@@ -28702,6 +29586,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.6,
 		weightkg: 150,
 		color: "Red",
+		prevo: "Shiny Pignite",
+		evoLevel: 36,
 		eggGroups: ["Field"],
 		otherFormes: ["Shiny Emboar-Mega"],
 		formeOrder: ["Shiny Emboar", "Shiny Emboar-Mega"],
@@ -28732,6 +29618,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.5,
 		weightkg: 5.9,
 		color: "Blue",
+		evos: ["Shiny Dewott"],
 		eggGroups: ["Field"],
 	},
 	shinydewott: {
@@ -28744,6 +29631,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.8,
 		weightkg: 24.5,
 		color: "Blue",
+		prevo: "Shiny Oshawott",
+		evoLevel: 17,
+		evos: ["Shiny Samurott", "Shiny Samurott-Hisui"],
 		eggGroups: ["Field"],
 	},
 	shinysamurott: {
@@ -28756,6 +29646,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.5,
 		weightkg: 94.6,
 		color: "Blue",
+		prevo: "Shiny Dewott",
+		evoLevel: 36,
 		eggGroups: ["Field"],
 		otherFormes: ["Shiny Samurott-Hisui"],
 		formeOrder: ["Shiny Samurott", "Shiny Samurott-Hisui"],
@@ -28772,6 +29664,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.5,
 		weightkg: 58.2,
 		color: "Blue",
+		prevo: "Shiny Dewott",
+		evoLevel: 36,
 		eggGroups: ["Field"],
 	},
 	shinypatrat: {
@@ -28783,6 +29677,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.5,
 		weightkg: 11.6,
 		color: "Brown",
+		evos: ["Shiny Watchog"],
 		eggGroups: ["Field"],
 	},
 	shinywatchog: {
@@ -28794,6 +29689,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.1,
 		weightkg: 27,
 		color: "Brown",
+		prevo: "Shiny Patrat",
+		evoLevel: 20,
 		eggGroups: ["Field"],
 	},
 	shinylillipup: {
@@ -28805,6 +29702,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.4,
 		weightkg: 4.1,
 		color: "Brown",
+		evos: ["Shiny Herdier"],
 		eggGroups: ["Field"],
 	},
 	shinyherdier: {
@@ -28816,6 +29714,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.9,
 		weightkg: 14.7,
 		color: "Gray",
+		prevo: "Shiny Lillipup",
+		evoLevel: 16,
+		evos: ["Shiny Stoutland"],
 		eggGroups: ["Field"],
 	},
 	shinystoutland: {
@@ -28827,6 +29728,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.2,
 		weightkg: 61,
 		color: "Gray",
+		prevo: "Shiny Herdier",
+		evoLevel: 32,
 		eggGroups: ["Field"],
 	},
 	shinypurrloin: {
@@ -28838,6 +29741,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.4,
 		weightkg: 10.1,
 		color: "Purple",
+		evos: ["Shiny Liepard"],
 		eggGroups: ["Field"],
 	},
 	shinyliepard: {
@@ -28849,6 +29753,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.1,
 		weightkg: 37.5,
 		color: "Purple",
+		prevo: "Shiny Purrloin",
+		evoLevel: 20,
 		eggGroups: ["Field"],
 	},
 	shinypansage: {
@@ -28861,6 +29767,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.6,
 		weightkg: 10.5,
 		color: "Green",
+		evos: ["Shiny Simisage"],
 		eggGroups: ["Field"],
 	},
 	shinysimisage: {
@@ -28873,6 +29780,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.1,
 		weightkg: 30.5,
 		color: "Green",
+		prevo: "Shiny Pansage",
+		evoType: "useItem",
+		evoItem: "Leaf Stone",
 		eggGroups: ["Field"],
 	},
 	shinypansear: {
@@ -28885,6 +29795,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.6,
 		weightkg: 11,
 		color: "Red",
+		evos: ["Shiny Simisear"],
 		eggGroups: ["Field"],
 	},
 	shinysimisear: {
@@ -28897,6 +29808,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1,
 		weightkg: 28,
 		color: "Red",
+		prevo: "Shiny Pansear",
+		evoType: "useItem",
+		evoItem: "Fire Stone",
 		eggGroups: ["Field"],
 	},
 	shinypanpour: {
@@ -28909,6 +29823,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.6,
 		weightkg: 13.5,
 		color: "Blue",
+		evos: ["Shiny Simipour"],
 		eggGroups: ["Field"],
 	},
 	shinysimipour: {
@@ -28921,6 +29836,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1,
 		weightkg: 29,
 		color: "Blue",
+		prevo: "Shiny Panpour",
+		evoType: "useItem",
+		evoItem: "Water Stone",
 		eggGroups: ["Field"],
 	},
 	shinymunna: {
@@ -28932,6 +29850,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.6,
 		weightkg: 23.3,
 		color: "Pink",
+		evos: ["Shiny Musharna"],
 		eggGroups: ["Field"],
 	},
 	shinymusharna: {
@@ -28943,6 +29862,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.1,
 		weightkg: 60.5,
 		color: "Pink",
+		prevo: "Shiny Munna",
+		evoType: "useItem",
+		evoItem: "Moon Stone",
 		eggGroups: ["Field"],
 	},
 	shinypidove: {
@@ -28954,6 +29876,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.3,
 		weightkg: 2.1,
 		color: "Gray",
+		evos: ["Shiny Tranquill"],
 		eggGroups: ["Flying"],
 	},
 	shinytranquill: {
@@ -28965,6 +29888,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.6,
 		weightkg: 15,
 		color: "Gray",
+		prevo: "Shiny Pidove",
+		evoLevel: 21,
+		evos: ["Shiny Unfezant"],
 		eggGroups: ["Flying"],
 	},
 	shinyunfezant: {
@@ -28976,6 +29902,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.2,
 		weightkg: 29,
 		color: "Gray",
+		prevo: "Shiny Tranquill",
+		evoLevel: 32,
 		eggGroups: ["Flying"],
 	},
 	shinyblitzle: {
@@ -28987,6 +29915,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.8,
 		weightkg: 29.8,
 		color: "Black",
+		evos: ["Shiny Zebstrika"],
 		eggGroups: ["Field"],
 	},
 	shinyzebstrika: {
@@ -28998,6 +29927,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.6,
 		weightkg: 79.5,
 		color: "Black",
+		prevo: "Shiny Blitzle",
+		evoLevel: 27,
 		eggGroups: ["Field"],
 	},
 	shinyroggenrola: {
@@ -29009,6 +29940,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.4,
 		weightkg: 18,
 		color: "Blue",
+		evos: ["Shiny Boldore"],
 		eggGroups: ["Mineral"],
 	},
 	shinyboldore: {
@@ -29020,6 +29952,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.9,
 		weightkg: 102,
 		color: "Blue",
+		prevo: "Shiny Roggenrola",
+		evoLevel: 25,
+		evos: ["Shiny Gigalith"],
 		eggGroups: ["Mineral"],
 	},
 	shinygigalith: {
@@ -29031,6 +29966,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.7,
 		weightkg: 260,
 		color: "Blue",
+		prevo: "Shiny Boldore",
+		evoType: "trade",
 		eggGroups: ["Mineral"],
 	},
 	shinywoobat: {
@@ -29042,6 +29979,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.4,
 		weightkg: 2.1,
 		color: "Blue",
+		evos: ["Shiny Swoobat"],
 		eggGroups: ["Flying", "Field"],
 	},
 	shinyswoobat: {
@@ -29053,6 +29991,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.9,
 		weightkg: 10.5,
 		color: "Blue",
+		prevo: "Shiny Woobat",
+		evoType: "levelFriendship",
 		eggGroups: ["Flying", "Field"],
 	},
 	shinydrilbur: {
@@ -29064,6 +30004,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.3,
 		weightkg: 8.5,
 		color: "Gray",
+		evos: ["Shiny Excadrill"],
 		eggGroups: ["Field"],
 	},
 	shinyexcadrill: {
@@ -29075,6 +30016,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.7,
 		weightkg: 40.4,
 		color: "Gray",
+		prevo: "Shiny Drilbur",
+		evoLevel: 31,
 		eggGroups: ["Field"],
 		otherFormes: ["Shiny Excadrill-Mega"],
 		formeOrder: ["Shiny Excadrill", "Shiny Excadrill-Mega"],
@@ -29131,6 +30074,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.6,
 		weightkg: 12.5,
 		color: "Gray",
+		evos: ["Shiny Gurdurr"],
 		eggGroups: ["Human-Like"],
 	},
 	shinygurdurr: {
@@ -29143,6 +30087,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.2,
 		weightkg: 40,
 		color: "Gray",
+		prevo: "Shiny Timburr",
+		evoLevel: 25,
+		evos: ["Shiny Conkeldurr"],
 		eggGroups: ["Human-Like"],
 	},
 	shinyconkeldurr: {
@@ -29155,6 +30102,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.4,
 		weightkg: 87,
 		color: "Brown",
+		prevo: "Shiny Gurdurr",
+		evoType: "trade",
 		eggGroups: ["Human-Like"],
 	},
 	shinytympole: {
@@ -29166,6 +30115,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.5,
 		weightkg: 4.5,
 		color: "Blue",
+		evos: ["Shiny Palpitoad"],
 		eggGroups: ["Water 1"],
 	},
 	shinypalpitoad: {
@@ -29177,6 +30127,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.8,
 		weightkg: 17,
 		color: "Blue",
+		prevo: "Shiny Tympole",
+		evoLevel: 25,
+		evos: ["Shiny Seismitoad"],
 		eggGroups: ["Water 1"],
 	},
 	shinyseismitoad: {
@@ -29188,6 +30141,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.5,
 		weightkg: 62,
 		color: "Blue",
+		prevo: "Shiny Palpitoad",
+		evoLevel: 36,
 		eggGroups: ["Water 1"],
 	},
 	shinythroh: {
@@ -29223,6 +30178,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.3,
 		weightkg: 2.5,
 		color: "Yellow",
+		evos: ["Shiny Swadloon"],
 		eggGroups: ["Bug"],
 	},
 	shinyswadloon: {
@@ -29234,6 +30190,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.5,
 		weightkg: 7.3,
 		color: "Green",
+		prevo: "Shiny Sewaddle",
+		evoLevel: 20,
+		evos: ["Shiny Leavanny"],
 		eggGroups: ["Bug"],
 	},
 	shinyleavanny: {
@@ -29245,6 +30204,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.2,
 		weightkg: 20.5,
 		color: "Yellow",
+		prevo: "Shiny Swadloon",
+		evoType: "levelFriendship",
 		eggGroups: ["Bug"],
 	},
 	shinyvenipede: {
@@ -29256,6 +30217,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.4,
 		weightkg: 5.3,
 		color: "Red",
+		evos: ["Shiny Whirlipede"],
 		eggGroups: ["Bug"],
 	},
 	shinywhirlipede: {
@@ -29267,6 +30229,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.2,
 		weightkg: 58.5,
 		color: "Gray",
+		prevo: "Shiny Venipede",
+		evoLevel: 22,
+		evos: ["Shiny Scolipede"],
 		eggGroups: ["Bug"],
 	},
 	shinyscolipede: {
@@ -29278,6 +30243,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 2.5,
 		weightkg: 200.5,
 		color: "Red",
+		prevo: "Shiny Whirlipede",
+		evoLevel: 30,
 		eggGroups: ["Bug"],
 		otherFormes: ["Shiny Scolipede-Mega"],
 		formeOrder: ["Shiny Scolipede", "Shiny Scolipede-Mega"],
@@ -29306,6 +30273,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.3,
 		weightkg: 0.6,
 		color: "Green",
+		evos: ["Shiny Whimsicott"],
 		eggGroups: ["Fairy", "Grass"],
 	},
 	shinywhimsicott: {
@@ -29317,6 +30285,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.7,
 		weightkg: 6.6,
 		color: "Green",
+		prevo: "Shiny Cottonee",
+		evoType: "useItem",
+		evoItem: "Sun Stone",
 		eggGroups: ["Fairy", "Grass"],
 	},
 	shinypetilil: {
@@ -29329,6 +30300,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.5,
 		weightkg: 6.6,
 		color: "Green",
+		evos: ["Shiny Lilligant", "Shiny Lilligant-Hisui"],
 		eggGroups: ["Grass"],
 	},
 	shinylilligant: {
@@ -29341,6 +30313,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.1,
 		weightkg: 16.3,
 		color: "Green",
+		prevo: "Shiny Petilil",
+		evoType: "useItem",
+		evoItem: "Sun Stone",
 		eggGroups: ["Grass"],
 		otherFormes: ["Shiny Lilligant-Hisui"],
 		formeOrder: ["Shiny Lilligant", "Shiny Lilligant-Hisui"],
@@ -29357,6 +30332,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.2,
 		weightkg: 19.2,
 		color: "Green",
+		prevo: "Shiny Petilil",
+		evoType: "useItem",
+		evoItem: "Sun Stone",
 		eggGroups: ["Grass"],
 	},
 	shinybasculin: {
@@ -29370,7 +30348,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		weightkg: 18,
 		color: "Green",
 		eggGroups: ["Water 2"],
-		otherFormes: ["Shiny Basculin-Blue-Striped", "Basculin-White-Striped"],
+		otherFormes: ["Shiny Basculin-Blue-Striped", "Shiny Basculin-White-Striped"],
 		formeOrder: ["Shiny Basculin", "Shiny Basculin-Blue-Striped", "Shiny Basculin-White-Striped"],
 	},
 	shinybasculinbluestriped: {
@@ -29397,6 +30375,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1,
 		weightkg: 18,
 		color: "Green",
+		evos: ["Shiny Basculegion", "Shiny Basculegion-F"],
 		eggGroups: ["Water 2"],
 		gen: 8,
 	},
@@ -29409,6 +30388,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.7,
 		weightkg: 15.2,
 		color: "Brown",
+		evos: ["Shiny Krokorok"],
 		eggGroups: ["Field"],
 	},
 	shinykrokorok: {
@@ -29420,6 +30400,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1,
 		weightkg: 33.4,
 		color: "Brown",
+		prevo: "Shiny Sandile",
+		evoLevel: 29,
+		evos: ["Shiny Krookodile"],
 		eggGroups: ["Field"],
 	},
 	shinykrookodile: {
@@ -29431,6 +30414,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.5,
 		weightkg: 96.3,
 		color: "Red",
+		prevo: "Shiny Krokorok",
+		evoLevel: 40,
 		eggGroups: ["Field"],
 	},
 	shinydarumaka: {
@@ -29442,6 +30427,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.6,
 		weightkg: 37.5,
 		color: "Red",
+		evos: ["Shiny Darmanitan"],
 		eggGroups: ["Field"],
 		otherFormes: ["Shiny Darumaka-Galar"],
 		formeOrder: ["Shiny Darumaka", "Shiny Darumaka-Galar"],
@@ -29457,6 +30443,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.7,
 		weightkg: 40,
 		color: "White",
+		evos: ["Shiny Darmanitan-Galar"],
 		eggGroups: ["Field"],
 	},
 	shinydarmanitan: {
@@ -29469,8 +30456,10 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.3,
 		weightkg: 92.9,
 		color: "Red",
+		prevo: "Shiny Darumaka",
+		evoLevel: 35,
 		eggGroups: ["Field"],
-		otherFormes: ["Shiny Darmanitan-Zen", "Darmanitan-Galar", "Darmanitan-Galar-Zen"],
+		otherFormes: ["Shiny Darmanitan-Zen", "Shiny Darmanitan-Galar", "Shiny Darmanitan-Galar-Zen"],
 		formeOrder: ["Shiny Darmanitan", "Shiny Darmanitan-Zen", "Shiny Darmanitan-Galar", "Shiny Darmanitan-Galar-Zen"],
 	},
 	shinydarmanitanzen: {
@@ -29499,6 +30488,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.7,
 		weightkg: 120,
 		color: "White",
+		prevo: "Shiny Darumaka-Galar",
+		evoType: "useItem",
+		evoItem: "Ice Stone",
 		eggGroups: ["Field"],
 	},
 	shinydarmanitangalarzen: {
@@ -29536,6 +30528,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.3,
 		weightkg: 14.5,
 		color: "Red",
+		evos: ["Shiny Crustle"],
 		eggGroups: ["Bug", "Mineral"],
 	},
 	shinycrustle: {
@@ -29547,6 +30540,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.4,
 		weightkg: 200,
 		color: "Red",
+		prevo: "Shiny Dwebble",
+		evoLevel: 34,
 		eggGroups: ["Bug", "Mineral"],
 	},
 	shinyscraggy: {
@@ -29558,6 +30553,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.6,
 		weightkg: 11.8,
 		color: "Yellow",
+		evos: ["Shiny Scrafty"],
 		eggGroups: ["Field", "Dragon"],
 	},
 	shinyscrafty: {
@@ -29569,6 +30565,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.1,
 		weightkg: 30,
 		color: "Red",
+		prevo: "Shiny Scraggy",
+		evoLevel: 39,
 		eggGroups: ["Field", "Dragon"],
 		otherFormes: ["Shiny Scrafty-Mega"],
 		formeOrder: ["Shiny Scrafty", "Shiny Scrafty-Mega"],
@@ -29608,6 +30606,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.5,
 		weightkg: 1.5,
 		color: "Black",
+		evos: ["Shiny Cofagrigus"],
 		eggGroups: ["Mineral", "Amorphous"],
 		otherFormes: ["Shiny Yamask-Galar"],
 		formeOrder: ["Shiny Yamask", "Shiny Yamask-Galar"],
@@ -29623,6 +30622,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.5,
 		weightkg: 1.5,
 		color: "Black",
+		evos: ["Shiny Runerigus"],
 		eggGroups: ["Mineral", "Amorphous"],
 	},
 	shinycofagrigus: {
@@ -29634,6 +30634,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.7,
 		weightkg: 76.5,
 		color: "Yellow",
+		prevo: "Shiny Yamask",
+		evoLevel: 34,
 		eggGroups: ["Mineral", "Amorphous"],
 	},
 	shinytirtouga: {
@@ -29646,6 +30648,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.7,
 		weightkg: 16.5,
 		color: "Blue",
+		evos: ["Shiny Carracosta"],
 		eggGroups: ["Water 1", "Water 3"],
 	},
 	shinycarracosta: {
@@ -29658,6 +30661,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.2,
 		weightkg: 81,
 		color: "Blue",
+		prevo: "Shiny Tirtouga",
+		evoLevel: 37,
 		eggGroups: ["Water 1", "Water 3"],
 	},
 	shinyarchen: {
@@ -29670,6 +30675,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.5,
 		weightkg: 9.5,
 		color: "Yellow",
+		evos: ["Shiny Archeops"],
 		eggGroups: ["Flying", "Water 3"],
 	},
 	shinyarcheops: {
@@ -29682,6 +30688,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.4,
 		weightkg: 32,
 		color: "Yellow",
+		prevo: "Shiny Archen",
+		evoLevel: 37,
 		eggGroups: ["Flying", "Water 3"],
 	},
 	shinytrubbish: {
@@ -29693,6 +30701,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.6,
 		weightkg: 31,
 		color: "Green",
+		evos: ["Shiny Garbodor"],
 		eggGroups: ["Mineral"],
 	},
 	shinygarbodor: {
@@ -29704,6 +30713,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.9,
 		weightkg: 107.3,
 		color: "Green",
+		prevo: "Shiny Trubbish",
+		evoLevel: 36,
 		eggGroups: ["Mineral"],
 		canGigantamax: "G-Max Malodor",
 	},
@@ -29719,7 +30730,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		weightkg: 0,
 		color: "Green",
 		eggGroups: ["Mineral"],
-		changesFrom: "Garbodor",
+		changesFrom: "Shiny Garbodor",
 	},
 	shinyzorua: {
 		num: 570,
@@ -29731,6 +30742,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.7,
 		weightkg: 12.5,
 		color: "Gray",
+		evos: ["Shiny Zoroark"],
 		eggGroups: ["Field"],
 		otherFormes: ["Shiny Zorua-Hisui"],
 		formeOrder: ["Shiny Zorua", "Shiny Zorua-Hisui"],
@@ -29747,6 +30759,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.7,
 		weightkg: 12.5,
 		color: "Gray",
+		evos: ["Shiny Zoroark-Hisui"],
 		eggGroups: ["Field"],
 	},
 	shinyzoroark: {
@@ -29759,6 +30772,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.6,
 		weightkg: 81.1,
 		color: "Gray",
+		prevo: "Shiny Zorua",
+		evoLevel: 30,
 		eggGroups: ["Field"],
 		otherFormes: ["Shiny Zoroark-Hisui"],
 		formeOrder: ["Shiny Zoroark", "Shiny Zoroark-Hisui"],
@@ -29775,6 +30790,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.6,
 		weightkg: 73,
 		color: "Gray",
+		prevo: "Shiny Zorua-Hisui",
+		evoLevel: 30,
 		eggGroups: ["Field"],
 	},
 	shinyminccino: {
@@ -29787,6 +30804,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.4,
 		weightkg: 5.8,
 		color: "Gray",
+		evos: ["Shiny Cinccino"],
 		eggGroups: ["Field"],
 	},
 	shinycinccino: {
@@ -29799,6 +30817,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.5,
 		weightkg: 7.5,
 		color: "Gray",
+		prevo: "Shiny Minccino",
+		evoType: "useItem",
+		evoItem: "Shiny Stone",
 		eggGroups: ["Field"],
 	},
 	shinygothita: {
@@ -29811,6 +30832,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.4,
 		weightkg: 5.8,
 		color: "Purple",
+		evos: ["Shiny Gothorita"],
 		eggGroups: ["Human-Like"],
 	},
 	shinygothorita: {
@@ -29823,6 +30845,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.7,
 		weightkg: 18,
 		color: "Purple",
+		prevo: "Shiny Gothita",
+		evoLevel: 32,
+		evos: ["Shiny Gothitelle"],
 		eggGroups: ["Human-Like"],
 	},
 	shinygothitelle: {
@@ -29835,6 +30860,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.5,
 		weightkg: 44,
 		color: "Purple",
+		prevo: "Shiny Gothorita",
+		evoLevel: 41,
 		eggGroups: ["Human-Like"],
 	},
 	shinysolosis: {
@@ -29846,6 +30873,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.3,
 		weightkg: 1,
 		color: "Green",
+		evos: ["Shiny Duosion"],
 		eggGroups: ["Amorphous"],
 	},
 	shinyduosion: {
@@ -29857,6 +30885,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.6,
 		weightkg: 8,
 		color: "Green",
+		prevo: "Shiny Solosis",
+		evoLevel: 32,
+		evos: ["Shiny Reuniclus"],
 		eggGroups: ["Amorphous"],
 	},
 	shinyreuniclus: {
@@ -29868,6 +30899,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1,
 		weightkg: 20.1,
 		color: "Green",
+		prevo: "Shiny Duosion",
+		evoLevel: 41,
 		eggGroups: ["Amorphous"],
 	},
 	shinyducklett: {
@@ -29879,6 +30912,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.5,
 		weightkg: 5.5,
 		color: "Blue",
+		evos: ["Shiny Swanna"],
 		eggGroups: ["Water 1", "Flying"],
 	},
 	shinyswanna: {
@@ -29890,6 +30924,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.3,
 		weightkg: 24.2,
 		color: "White",
+		prevo: "Shiny Ducklett",
+		evoLevel: 35,
 		eggGroups: ["Water 1", "Flying"],
 	},
 	shinyvanillite: {
@@ -29901,6 +30937,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.4,
 		weightkg: 5.7,
 		color: "White",
+		evos: ["Shiny Vanillish"],
 		eggGroups: ["Mineral"],
 	},
 	shinyvanillish: {
@@ -29912,6 +30949,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.1,
 		weightkg: 41,
 		color: "White",
+		prevo: "Shiny Vanillite",
+		evoLevel: 35,
+		evos: ["Shiny Vanilluxe"],
 		eggGroups: ["Mineral"],
 	},
 	shinyvanilluxe: {
@@ -29923,6 +30963,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.3,
 		weightkg: 57.5,
 		color: "White",
+		prevo: "Shiny Vanillish",
+		evoLevel: 47,
 		eggGroups: ["Mineral"],
 	},
 	shinydeerling: {
@@ -29935,6 +30977,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.6,
 		weightkg: 19.5,
 		color: "Pink",
+		evos: ["Shiny Sawsbuck"],
 		eggGroups: ["Field"],
 		cosmeticFormes: ["Shiny Deerling-Summer", "Shiny Deerling-Autumn", "Shiny Deerling-Winter"],
 		formeOrder: ["Shiny Deerling", "Shiny Deerling-Summer", "Shiny Deerling-Autumn", "Shiny Deerling-Winter"],
@@ -29970,6 +31013,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.9,
 		weightkg: 92.5,
 		color: "Brown",
+		prevo: "Shiny Deerling",
+		evoLevel: 34,
 		eggGroups: ["Field"],
 		cosmeticFormes: ["Shiny Sawsbuck-Summer", "Shiny Sawsbuck-Autumn", "Shiny Sawsbuck-Winter"],
 		formeOrder: ["Shiny Sawsbuck", "Shiny Sawsbuck-Summer", "Shiny Sawsbuck-Autumn", "Shiny Sawsbuck-Winter"],
@@ -29994,6 +31039,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.5,
 		weightkg: 5.9,
 		color: "Blue",
+		evos: ["Shiny Escavalier"],
 		eggGroups: ["Bug"],
 	},
 	shinyescavalier: {
@@ -30005,6 +31051,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1,
 		weightkg: 33,
 		color: "Gray",
+		prevo: "Shiny Karrablast",
+		evoType: "trade",
+		evoCondition: "with a Shelmet",
 		eggGroups: ["Bug"],
 	},
 	shinyfoongus: {
@@ -30016,6 +31065,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.2,
 		weightkg: 1,
 		color: "White",
+		evos: ["Shiny Amoonguss"],
 		eggGroups: ["Grass"],
 	},
 	shinyamoonguss: {
@@ -30027,6 +31077,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.6,
 		weightkg: 10.5,
 		color: "White",
+		prevo: "Shiny Foongus",
+		evoLevel: 39,
 		eggGroups: ["Grass"],
 	},
 	shinyfrillish: {
@@ -30038,6 +31090,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.2,
 		weightkg: 33,
 		color: "White",
+		evos: ["Shiny Jellicent"],
 		eggGroups: ["Amorphous"],
 	},
 	shinyjellicent: {
@@ -30049,6 +31102,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 2.2,
 		weightkg: 135,
 		color: "White",
+		prevo: "Shiny Frillish",
+		evoLevel: 40,
 		eggGroups: ["Amorphous"],
 	},
 	shinyalomomola: {
@@ -30071,6 +31126,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.1,
 		weightkg: 0.6,
 		color: "Yellow",
+		evos: ["Shiny Galvantula"],
 		eggGroups: ["Bug"],
 	},
 	shinygalvantula: {
@@ -30082,6 +31138,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.8,
 		weightkg: 14.3,
 		color: "Yellow",
+		prevo: "Shiny Joltik",
+		evoLevel: 36,
 		eggGroups: ["Bug"],
 	},
 	shinyferroseed: {
@@ -30093,6 +31151,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.6,
 		weightkg: 18.8,
 		color: "Gray",
+		evos: ["Shiny Ferrothorn"],
 		eggGroups: ["Grass", "Mineral"],
 	},
 	shinyferrothorn: {
@@ -30104,6 +31163,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1,
 		weightkg: 110,
 		color: "Gray",
+		prevo: "Shiny Ferroseed",
+		evoLevel: 40,
 		eggGroups: ["Grass", "Mineral"],
 	},
 	shinyklink: {
@@ -30116,6 +31177,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.3,
 		weightkg: 21,
 		color: "Gray",
+		evos: ["Shiny Klang"],
 		eggGroups: ["Mineral"],
 	},
 	shinyklang: {
@@ -30128,6 +31190,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.6,
 		weightkg: 51,
 		color: "Gray",
+		prevo: "Shiny Klink",
+		evoLevel: 38,
+		evos: ["Shiny Klinklang"],
 		eggGroups: ["Mineral"],
 	},
 	shinyklinklang: {
@@ -30140,6 +31205,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.6,
 		weightkg: 81,
 		color: "Gray",
+		prevo: "Shiny Klang",
+		evoLevel: 49,
 		eggGroups: ["Mineral"],
 	},
 	shinytynamo: {
@@ -30151,6 +31218,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.2,
 		weightkg: 0.3,
 		color: "White",
+		evos: ["Shiny Eelektrik"],
 		eggGroups: ["Amorphous"],
 	},
 	shinyeelektrik: {
@@ -30162,6 +31230,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.2,
 		weightkg: 22,
 		color: "Blue",
+		prevo: "Shiny Tynamo",
+		evoLevel: 39,
+		evos: ["Shiny Eelektross"],
 		eggGroups: ["Amorphous"],
 	},
 	shinyeelektross: {
@@ -30173,6 +31244,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 2.1,
 		weightkg: 80.5,
 		color: "Blue",
+		prevo: "Shiny Eelektrik",
+		evoType: "useItem",
+		evoItem: "Thunder Stone",
 		eggGroups: ["Amorphous"],
 		otherFormes: ["Shiny Eelektross-Mega"],
 		formeOrder: ["Shiny Eelektross", "Shiny Eelektross-Mega"],
@@ -30201,6 +31275,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.5,
 		weightkg: 9,
 		color: "Blue",
+		evos: ["Shiny Beheeyem"],
 		eggGroups: ["Human-Like"],
 	},
 	shinybeheeyem: {
@@ -30212,6 +31287,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1,
 		weightkg: 34.5,
 		color: "Brown",
+		prevo: "Shiny Elgyem",
+		evoLevel: 42,
 		eggGroups: ["Human-Like"],
 	},
 	shinylitwick: {
@@ -30223,6 +31300,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.3,
 		weightkg: 3.1,
 		color: "White",
+		evos: ["Shiny Lampent"],
 		eggGroups: ["Amorphous"],
 	},
 	shinylampent: {
@@ -30234,6 +31312,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.6,
 		weightkg: 13,
 		color: "Black",
+		prevo: "Shiny Litwick",
+		evoLevel: 41,
+		evos: ["Shiny Chandelure"],
 		eggGroups: ["Amorphous"],
 	},
 	shinychandelure: {
@@ -30245,6 +31326,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1,
 		weightkg: 34.3,
 		color: "Black",
+		prevo: "Shiny Lampent",
+		evoType: "useItem",
+		evoItem: "Dusk Stone",
 		eggGroups: ["Amorphous"],
 		otherFormes: ["Shiny Chandelure-Mega"],
 		formeOrder: ["Shiny Chandelure", "Shiny Chandelure-Mega"],
@@ -30273,6 +31357,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.6,
 		weightkg: 18,
 		color: "Green",
+		evos: ["Shiny Fraxure"],
 		eggGroups: ["Monster", "Dragon"],
 	},
 	shinyfraxure: {
@@ -30284,6 +31369,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1,
 		weightkg: 36,
 		color: "Green",
+		prevo: "Shiny Axew",
+		evoLevel: 38,
+		evos: ["Shiny Haxorus"],
 		eggGroups: ["Monster", "Dragon"],
 	},
 	shinyhaxorus: {
@@ -30295,6 +31383,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.8,
 		weightkg: 105.5,
 		color: "Yellow",
+		prevo: "Shiny Fraxure",
+		evoLevel: 48,
 		eggGroups: ["Monster", "Dragon"],
 	},
 	shinycubchoo: {
@@ -30306,6 +31396,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.5,
 		weightkg: 8.5,
 		color: "White",
+		evos: ["Shiny Beartic"],
 		eggGroups: ["Field"],
 	},
 	shinybeartic: {
@@ -30317,6 +31408,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 2.6,
 		weightkg: 260,
 		color: "White",
+		prevo: "Shiny Cubchoo",
+		evoLevel: 37,
 		eggGroups: ["Field"],
 	},
 	shinycryogonal: {
@@ -30340,6 +31433,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.4,
 		weightkg: 7.7,
 		color: "Red",
+		evos: ["Shiny Accelgor"],
 		eggGroups: ["Bug"],
 	},
 	shinyaccelgor: {
@@ -30351,6 +31445,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.8,
 		weightkg: 25.3,
 		color: "Red",
+		prevo: "Shiny Shelmet",
+		evoType: "trade",
+		evoCondition: "with a Karrablast",
 		eggGroups: ["Bug"],
 	},
 	shinystunfisk: {
@@ -30388,6 +31485,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.9,
 		weightkg: 20,
 		color: "Yellow",
+		evos: ["Shiny Mienshao"],
 		eggGroups: ["Field", "Human-Like"],
 	},
 	shinymienshao: {
@@ -30399,6 +31497,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.4,
 		weightkg: 35.5,
 		color: "Purple",
+		prevo: "Shiny Mienfoo",
+		evoLevel: 50,
 		eggGroups: ["Field", "Human-Like"],
 	},
 	shinydruddigon: {
@@ -30422,6 +31522,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1,
 		weightkg: 92,
 		color: "Green",
+		evos: ["Shiny Golurk"],
 		eggGroups: ["Mineral"],
 	},
 	shinygolurk: {
@@ -30434,6 +31535,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 2.8,
 		weightkg: 330,
 		color: "Green",
+		prevo: "Shiny Golett",
+		evoLevel: 43,
 		eggGroups: ["Mineral"],
 		otherFormes: ["Shiny Golurk-Mega"],
 		formeOrder: ["Shiny Golurk", "Shiny Golurk-Mega"],
@@ -30463,6 +31566,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.5,
 		weightkg: 10.2,
 		color: "Red",
+		evos: ["Shiny Bisharp"],
 		eggGroups: ["Human-Like"],
 	},
 	shinybisharp: {
@@ -30474,6 +31578,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.6,
 		weightkg: 70,
 		color: "Red",
+		prevo: "Shiny Pawniard",
+		evoLevel: 52,
+		evos: ["Shiny Kingambit"],
 		eggGroups: ["Human-Like"],
 	},
 	shinybouffalant: {
@@ -30497,6 +31604,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.5,
 		weightkg: 10.5,
 		color: "White",
+		evos: ["Shiny Braviary", "Shiny Braviary-Hisui"],
 		eggGroups: ["Flying"],
 	},
 	shinybraviary: {
@@ -30509,6 +31617,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.5,
 		weightkg: 41,
 		color: "Red",
+		prevo: "Shiny Rufflet",
+		evoLevel: 54,
 		eggGroups: ["Flying"],
 		otherFormes: ["Shiny Braviary-Hisui"],
 		formeOrder: ["Shiny Braviary", "Shiny Braviary-Hisui"],
@@ -30525,6 +31635,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.7,
 		weightkg: 43.4,
 		color: "White",
+		prevo: "Shiny Rufflet",
+		evoLevel: 54,
 		eggGroups: ["Flying"],
 	},
 	shinyvullaby: {
@@ -30537,6 +31649,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.5,
 		weightkg: 9,
 		color: "Brown",
+		evos: ["Shiny Mandibuzz"],
 		eggGroups: ["Flying"],
 	},
 	shinymandibuzz: {
@@ -30549,6 +31662,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.2,
 		weightkg: 39.5,
 		color: "Brown",
+		prevo: "Shiny Vullaby",
+		evoLevel: 54,
 		eggGroups: ["Flying"],
 	},
 	shinyheatmor: {
@@ -30582,6 +31697,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.8,
 		weightkg: 17.3,
 		color: "Blue",
+		evos: ["Shiny Zweilous"],
 		eggGroups: ["Dragon"],
 	},
 	shinyzweilous: {
@@ -30593,6 +31709,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.4,
 		weightkg: 50,
 		color: "Blue",
+		prevo: "Shiny Deino",
+		evoLevel: 50,
+		evos: ["Shiny Hydreigon"],
 		eggGroups: ["Dragon"],
 	},
 	shinyhydreigon: {
@@ -30604,6 +31723,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.8,
 		weightkg: 160,
 		color: "Blue",
+		prevo: "Shiny Zweilous",
+		evoLevel: 64,
 		eggGroups: ["Dragon"],
 	},
 	shinylarvesta: {
@@ -30615,6 +31736,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.1,
 		weightkg: 28.8,
 		color: "White",
+		evos: ["Shiny Volcarona"],
 		eggGroups: ["Bug"],
 	},
 	shinyvolcarona: {
@@ -30626,6 +31748,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.6,
 		weightkg: 46,
 		color: "White",
+		prevo: "Shiny Larvesta",
+		evoLevel: 59,
 		eggGroups: ["Bug"],
 	},
 	shinycobalion: {
@@ -30696,7 +31820,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		weightkg: 63,
 		color: "Green",
 		eggGroups: ["Undiscovered"],
-		changesFrom: "Tornadus",
+		changesFrom: "Shiny Tornadus",
 	},
 	shinythundurus: {
 		num: 642,
@@ -30727,7 +31851,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		weightkg: 61,
 		color: "Blue",
 		eggGroups: ["Undiscovered"],
-		changesFrom: "Thundurus",
+		changesFrom: "Shiny Thundurus",
 	},
 	shinyreshiram: {
 		num: 643,
@@ -30784,7 +31908,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		weightkg: 68,
 		color: "Brown",
 		eggGroups: ["Undiscovered"],
-		changesFrom: "Landorus",
+		changesFrom: "Shiny Landorus",
 	},
 	shinykyurem: {
 		num: 646,
@@ -30798,7 +31922,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		color: "Gray",
 		eggGroups: ["Undiscovered"],
 		tags: ["Restricted Legendary"],
-		otherFormes: ["Shiny Kyurem-Black", "Kyurem-White"],
+		otherFormes: ["Shiny Kyurem-Black", "Shiny Kyurem-White"],
 		formeOrder: ["Shiny Kyurem", "Shiny Kyurem-White", "Shiny Kyurem-Black"],
 	},
 	shinykyuremblack: {
@@ -30814,7 +31938,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		weightkg: 325,
 		color: "Gray",
 		eggGroups: ["Undiscovered"],
-		changesFrom: "Kyurem",
+		changesFrom: "Shiny Kyurem",
 	},
 	shinykyuremwhite: {
 		num: 646,
@@ -30829,7 +31953,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		weightkg: 325,
 		color: "Gray",
 		eggGroups: ["Undiscovered"],
-		changesFrom: "Kyurem",
+		changesFrom: "Shiny Kyurem",
 	},
 	shinykeldeo: {
 		num: 647,
@@ -30861,7 +31985,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		color: "Yellow",
 		eggGroups: ["Undiscovered"],
 		requiredMove: "Secret Sword",
-		changesFrom: "Keldeo",
+		changesFrom: "Shiny Keldeo",
 	},
 	shinymeloetta: {
 		num: 648,
@@ -30907,7 +32031,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		color: "Purple",
 		eggGroups: ["Undiscovered"],
 		tags: ["Mythical"],
-		otherFormes: ["Shiny Genesect-Douse", "Genesect-Shock", "Genesect-Burn", "Genesect-Chill"],
+		otherFormes: ["Shiny Genesect-Douse", "Shiny Genesect-Shock", "Shiny Genesect-Burn", "Shiny Genesect-Chill"],
 		formeOrder: ["Shiny Genesect", "Shiny Genesect-Douse", "Shiny Genesect-Shock", "Shiny Genesect-Burn", "Shiny Genesect-Chill"],
 	},
 	shinygenesectdouse: {
@@ -30924,7 +32048,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		color: "Purple",
 		eggGroups: ["Undiscovered"],
 		requiredItem: "Douse Drive",
-		changesFrom: "Genesect",
+		changesFrom: "Shiny Genesect",
 	},
 	shinygenesectshock: {
 		num: 649,
@@ -30940,7 +32064,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		color: "Purple",
 		eggGroups: ["Undiscovered"],
 		requiredItem: "Shock Drive",
-		changesFrom: "Genesect",
+		changesFrom: "Shiny Genesect",
 	},
 	shinygenesectburn: {
 		num: 649,
@@ -30956,7 +32080,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		color: "Purple",
 		eggGroups: ["Undiscovered"],
 		requiredItem: "Burn Drive",
-		changesFrom: "Genesect",
+		changesFrom: "Shiny Genesect",
 	},
 	shinygenesectchill: {
 		num: 649,
@@ -30972,7 +32096,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		color: "Purple",
 		eggGroups: ["Undiscovered"],
 		requiredItem: "Chill Drive",
-		changesFrom: "Genesect",
+		changesFrom: "Shiny Genesect",
 	},
 	shinychespin: {
 		num: 650,
@@ -30984,6 +32108,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.4,
 		weightkg: 9,
 		color: "Green",
+		evos: ["Shiny Quilladin"],
 		eggGroups: ["Field"],
 	},
 	shinyquilladin: {
@@ -30996,6 +32121,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.7,
 		weightkg: 29,
 		color: "Green",
+		prevo: "Shiny Chespin",
+		evoLevel: 16,
+		evos: ["Shiny Chesnaught"],
 		eggGroups: ["Field"],
 	},
 	shinychesnaught: {
@@ -31008,6 +32136,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.6,
 		weightkg: 90,
 		color: "Green",
+		prevo: "Shiny Quilladin",
+		evoLevel: 36,
 		eggGroups: ["Field"],
 		otherFormes: ["Shiny Chesnaught-Mega"],
 		formeOrder: ["Shiny Chesnaught", "Shiny Chesnaught-Mega"],
@@ -31038,6 +32168,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.4,
 		weightkg: 9.4,
 		color: "Red",
+		evos: ["Shiny Braixen"],
 		eggGroups: ["Field"],
 	},
 	shinybraixen: {
@@ -31050,6 +32181,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1,
 		weightkg: 14.5,
 		color: "Red",
+		prevo: "Shiny Fennekin",
+		evoLevel: 16,
+		evos: ["Shiny Delphox"],
 		eggGroups: ["Field"],
 	},
 	shinydelphox: {
@@ -31062,6 +32196,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.5,
 		weightkg: 39,
 		color: "Red",
+		prevo: "Shiny Braixen",
+		evoLevel: 36,
 		eggGroups: ["Field"],
 		otherFormes: ["Shiny Delphox-Mega"],
 		formeOrder: ["Shiny Delphox", "Shiny Delphox-Mega"],
@@ -31092,6 +32228,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.3,
 		weightkg: 7,
 		color: "Blue",
+		evos: ["Shiny Frogadier"],
 		eggGroups: ["Water 1"],
 	},
 	shinyfrogadier: {
@@ -31104,6 +32241,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.6,
 		weightkg: 10.9,
 		color: "Blue",
+		prevo: "Shiny Froakie",
+		evoLevel: 16,
+		evos: ["Shiny Greninja"],
 		eggGroups: ["Water 1"],
 	},
 	shinygreninja: {
@@ -31116,8 +32256,10 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.5,
 		weightkg: 40,
 		color: "Blue",
+		prevo: "Shiny Frogadier",
+		evoLevel: 36,
 		eggGroups: ["Water 1"],
-		otherFormes: ["Shiny Greninja-Bond", "Greninja-Ash", "Greninja-Mega"],
+		otherFormes: ["Shiny Greninja-Bond", "Shiny Greninja-Ash", "Shiny Greninja-Mega"],
 		formeOrder: ["Shiny Greninja", "Shiny Greninja-Bond", "Shiny Greninja-Ash", "Shiny Greninja-Mega"],
 	},
 	shinygreninjabond: {
@@ -31177,6 +32319,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.4,
 		weightkg: 5,
 		color: "Brown",
+		evos: ["Shiny Diggersby"],
 		eggGroups: ["Field"],
 	},
 	shinydiggersby: {
@@ -31188,6 +32331,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1,
 		weightkg: 42.4,
 		color: "Brown",
+		prevo: "Shiny Bunnelby",
+		evoLevel: 20,
 		eggGroups: ["Field"],
 	},
 	shinyfletchling: {
@@ -31199,6 +32344,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.3,
 		weightkg: 1.7,
 		color: "Red",
+		evos: ["Shiny Fletchinder"],
 		eggGroups: ["Flying"],
 	},
 	shinyfletchinder: {
@@ -31210,6 +32356,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.7,
 		weightkg: 16,
 		color: "Red",
+		prevo: "Shiny Fletchling",
+		evoLevel: 17,
+		evos: ["Shiny Talonflame"],
 		eggGroups: ["Flying"],
 	},
 	shinytalonflame: {
@@ -31221,6 +32370,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.2,
 		weightkg: 24.5,
 		color: "Red",
+		prevo: "Shiny Fletchinder",
+		evoLevel: 35,
 		eggGroups: ["Flying"],
 	},
 	shinyscatterbug: {
@@ -31232,6 +32383,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.3,
 		weightkg: 2.5,
 		color: "Black",
+		evos: ["Shiny Spewpa"],
 		eggGroups: ["Bug"],
 		// TODO: Scatterbug technically has the same number of formes as Vivillon
 	},
@@ -31244,6 +32396,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.3,
 		weightkg: 8.4,
 		color: "Black",
+		prevo: "Shiny Scatterbug",
+		evoLevel: 9,
+		evos: ["Shiny Vivillon", "Shiny Vivillon-Fancy"],
 		eggGroups: ["Bug"],
 		// TODO: Spewpa technically has the same number of formes as Vivillon
 	},
@@ -31257,8 +32412,10 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.2,
 		weightkg: 17,
 		color: "Pink",
+		prevo: "Shiny Spewpa",
+		evoLevel: 12,
 		eggGroups: ["Bug"],
-		otherFormes: ["Shiny Vivillon-Fancy", "Vivillon-Pokeball"],
+		otherFormes: ["Shiny Vivillon-Fancy", "Shiny Vivillon-Pokeball"],
 		cosmeticFormes: ["Shiny Vivillon-Archipelago", "Shiny Vivillon-Continental", "Shiny Vivillon-Elegant", "Shiny Vivillon-Garden", "Shiny Vivillon-High Plains", "Shiny Vivillon-Icy Snow", "Shiny Vivillon-Jungle", "Shiny Vivillon-Marine", "Shiny Vivillon-Modern", "Shiny Vivillon-Monsoon", "Shiny Vivillon-Ocean", "Shiny Vivillon-Polar", "Shiny Vivillon-River", "Shiny Vivillon-Sandstorm", "Shiny Vivillon-Savanna", "Shiny Vivillon-Sun", "Shiny Vivillon-Tundra"],
 		formeOrder: [
 			"Shiny Vivillon-Icy Snow",
@@ -31413,6 +32570,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.2,
 		weightkg: 17,
 		color: "Pink",
+		prevo: "Shiny Spewpa",
+		evoLevel: 12,
 		eggGroups: ["Bug"],
 	},
 	shinyvivillonpokeball: {
@@ -31438,6 +32597,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.6,
 		weightkg: 13.5,
 		color: "Brown",
+		evos: ["Shiny Pyroar"],
 		eggGroups: ["Field"],
 	},
 	shinypyroar: {
@@ -31450,6 +32610,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.5,
 		weightkg: 81.5,
 		color: "Brown",
+		prevo: "Shiny Litleo",
+		evoLevel: 35,
 		eggGroups: ["Field"],
 		otherFormes: ["Shiny Pyroar-Mega"],
 		formeOrder: ["Shiny Pyroar", "Shiny Pyroar-Mega"],
@@ -31481,6 +32643,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.1,
 		weightkg: 0.1,
 		color: "White",
+		evos: ["Shiny Floette"],
 		eggGroups: ["Fairy"],
 		cosmeticFormes: ["Shiny Flabe\u0301be\u0301-Blue", "Shiny Flabe\u0301be\u0301-Orange", "Shiny Flabe\u0301be\u0301-White", "Shiny Flabe\u0301be\u0301-Yellow"],
 		formeOrder: ["Shiny Flabe\u0301be\u0301", "Shiny Flabe\u0301be\u0301-Yellow", "Shiny Flabe\u0301be\u0301-Orange", "Shiny Flabe\u0301be\u0301-Blue", "Shiny Flabe\u0301be\u0301-White"],
@@ -31496,8 +32659,11 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.2,
 		weightkg: 0.9,
 		color: "White",
+		prevo: "Shiny Flabe\u0301be\u0301",
+		evoLevel: 19,
+		evos: ["Shiny Florges"],
 		eggGroups: ["Fairy"],
-		otherFormes: ["Shiny Floette-Eternal", "Floette-Mega"],
+		otherFormes: ["Shiny Floette-Eternal", "Shiny Floette-Mega"],
 		cosmeticFormes: ["Shiny Floette-Blue", "Shiny Floette-Orange", "Shiny Floette-White", "Shiny Floette-Yellow"],
 		formeOrder: ["Shiny Floette", "Shiny Floette-Yellow", "Shiny Floette-Orange", "Shiny Floette-Blue", "Shiny Floette-White", "Shiny Floette-Eternal", "Shiny Floette-Mega"],
 	},
@@ -31543,6 +32709,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.1,
 		weightkg: 10,
 		color: "White",
+		prevo: "Shiny Floette",
+		evoType: "useItem",
+		evoItem: "Shiny Stone",
 		eggGroups: ["Fairy"],
 		cosmeticFormes: ["Shiny Florges-Blue", "Shiny Florges-Orange", "Shiny Florges-White", "Shiny Florges-Yellow"],
 		formeOrder: ["Shiny Florges", "Shiny Florges-Yellow", "Shiny Florges-Orange", "Shiny Florges-Blue", "Shiny Florges-White"],
@@ -31556,6 +32725,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.9,
 		weightkg: 31,
 		color: "Brown",
+		evos: ["Shiny Gogoat"],
 		eggGroups: ["Field"],
 	},
 	shinygogoat: {
@@ -31567,6 +32737,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.7,
 		weightkg: 91,
 		color: "Brown",
+		prevo: "Shiny Skiddo",
+		evoLevel: 32,
 		eggGroups: ["Field"],
 	},
 	shinypancham: {
@@ -31578,6 +32750,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.6,
 		weightkg: 8,
 		color: "White",
+		evos: ["Shiny Pangoro"],
 		eggGroups: ["Field", "Human-Like"],
 	},
 	shinypangoro: {
@@ -31589,6 +32762,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 2.1,
 		weightkg: 136,
 		color: "White",
+		prevo: "Shiny Pancham",
+		evoLevel: 32,
+		evoCondition: "with a Dark-type in the party",
 		eggGroups: ["Field", "Human-Like"],
 	},
 	shinyfurfrou: {
@@ -31602,7 +32778,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		weightkg: 28,
 		color: "White",
 		eggGroups: ["Field"],
-		cosmeticFormes: ["Shiny Furfrou-Dandy", "Shiny Shiny Furfrou-Debutante", "Shiny Shiny Furfrou-Diamond", "Shiny Shiny Furfrou-Heart", "Shiny Shiny Furfrou-Kabuki", "Shiny Shiny Furfrou-La Reine", "Shiny Shiny Furfrou-Matron", "Shiny Shiny Furfrou-Pharaoh", "Shiny Shiny Furfrou-Star"],
+		cosmeticFormes: ["Shiny Furfrou-Dandy", "Shiny Furfrou-Debutante", "Shiny Furfrou-Diamond", "Shiny Furfrou-Heart", "Shiny Furfrou-Kabuki", "Shiny Furfrou-La Reine", "Shiny Furfrou-Matron", "Shiny Furfrou-Pharaoh", "Shiny Furfrou-Star"],
 		formeOrder: [
 			"Shiny Furfrou",
 			"Shiny Furfrou-Heart",
@@ -31625,6 +32801,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.3,
 		weightkg: 3.5,
 		color: "Gray",
+		evos: ["Shiny Meowstic", "Shiny Meowstic-F"],
 		eggGroups: ["Field"],
 	},
 	shinymeowstic: {
@@ -31638,8 +32815,10 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.6,
 		weightkg: 8.5,
 		color: "Blue",
+		prevo: "Shiny Espurr",
+		evoLevel: 25,
 		eggGroups: ["Field"],
-		otherFormes: ["Shiny Meowstic-F", "Meowstic-M-Mega", "Meowstic-F-Mega"],
+		otherFormes: ["Shiny Meowstic-F", "Shiny Meowstic-M-Mega", "Shiny Meowstic-F-Mega"],
 		formeOrder: ["Shiny Meowstic", "Shiny Meowstic-F", "Shiny Meowstic-M-Mega", "Shiny Meowstic-F-Mega"],
 	},
 	shinymeowsticf: {
@@ -31654,6 +32833,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.6,
 		weightkg: 8.5,
 		color: "White",
+		prevo: "Shiny Espurr",
+		evoLevel: 25,
 		eggGroups: ["Field"],
 	},
 	shinymeowsticmmega: {
@@ -31699,6 +32880,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.8,
 		weightkg: 2,
 		color: "Brown",
+		evos: ["Shiny Doublade"],
 		eggGroups: ["Mineral"],
 	},
 	shinydoublade: {
@@ -31710,6 +32892,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.8,
 		weightkg: 4.5,
 		color: "Brown",
+		prevo: "Shiny Honedge",
+		evoLevel: 35,
+		evos: ["Shiny Aegislash"],
 		eggGroups: ["Mineral"],
 	},
 	shinyaegislash: {
@@ -31722,6 +32907,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.7,
 		weightkg: 53,
 		color: "Brown",
+		prevo: "Shiny Doublade",
+		evoType: "useItem",
+		evoItem: "Dusk Stone",
 		eggGroups: ["Mineral"],
 		otherFormes: ["Shiny Aegislash-Blade"],
 		formeOrder: ["Shiny Aegislash", "Shiny Aegislash-Blade"],
@@ -31750,6 +32938,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.2,
 		weightkg: 0.5,
 		color: "Pink",
+		evos: ["Shiny Aromatisse"],
 		eggGroups: ["Fairy"],
 	},
 	shinyaromatisse: {
@@ -31761,6 +32950,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.8,
 		weightkg: 15.5,
 		color: "Pink",
+		prevo: "Shiny Spritzee",
+		evoType: "trade",
+		evoItem: "Sachet",
 		eggGroups: ["Fairy"],
 	},
 	shinyswirlix: {
@@ -31772,6 +32964,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.4,
 		weightkg: 3.5,
 		color: "White",
+		evos: ["Shiny Slurpuff"],
 		eggGroups: ["Fairy"],
 	},
 	shinyslurpuff: {
@@ -31783,6 +32976,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.8,
 		weightkg: 5,
 		color: "White",
+		prevo: "Shiny Swirlix",
+		evoType: "trade",
+		evoItem: "Whipped Dream",
 		eggGroups: ["Fairy"],
 	},
 	shinyinkay: {
@@ -31794,6 +32990,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.4,
 		weightkg: 3.5,
 		color: "Blue",
+		evos: ["Shiny Malamar"],
 		eggGroups: ["Water 1", "Water 2"],
 	},
 	shinymalamar: {
@@ -31805,6 +33002,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.5,
 		weightkg: 47,
 		color: "Blue",
+		prevo: "Shiny Inkay",
+		evoLevel: 30,
+		evoCondition: "with the console turned upside-down",
 		eggGroups: ["Water 1", "Water 2"],
 		otherFormes: ["Shiny Malamar-Mega"],
 		formeOrder: ["Shiny Malamar", "Shiny Malamar-Mega"],
@@ -31833,6 +33033,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.5,
 		weightkg: 31,
 		color: "Brown",
+		evos: ["Shiny Barbaracle"],
 		eggGroups: ["Water 3"],
 	},
 	shinybarbaracle: {
@@ -31844,6 +33045,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.3,
 		weightkg: 96,
 		color: "Brown",
+		prevo: "Shiny Binacle",
+		evoLevel: 39,
 		eggGroups: ["Water 3"],
 		otherFormes: ["Shiny Barbaracle-Mega"],
 		formeOrder: ["Shiny Barbaracle", "Shiny Barbaracle-Mega"],
@@ -31872,6 +33075,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.5,
 		weightkg: 7.3,
 		color: "Brown",
+		evos: ["Shiny Dragalge"],
 		eggGroups: ["Water 1", "Dragon"],
 	},
 	shinydragalge: {
@@ -31883,6 +33087,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.8,
 		weightkg: 81.5,
 		color: "Brown",
+		prevo: "Shiny Skrelp",
+		evoLevel: 48,
 		eggGroups: ["Water 1", "Dragon"],
 		otherFormes: ["Shiny Dragalge-Mega"],
 		formeOrder: ["Shiny Dragalge", "Shiny Dragalge-Mega"],
@@ -31911,6 +33117,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.5,
 		weightkg: 8.3,
 		color: "Blue",
+		evos: ["Shiny Clawitzer"],
 		eggGroups: ["Water 1", "Water 3"],
 	},
 	shinyclawitzer: {
@@ -31922,6 +33129,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.3,
 		weightkg: 35.3,
 		color: "Blue",
+		prevo: "Shiny Clauncher",
+		evoLevel: 37,
 		eggGroups: ["Water 1", "Water 3"],
 	},
 	shinyhelioptile: {
@@ -31933,6 +33142,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.5,
 		weightkg: 6,
 		color: "Yellow",
+		evos: ["Shiny Heliolisk"],
 		eggGroups: ["Monster", "Dragon"],
 	},
 	shinyheliolisk: {
@@ -31944,6 +33154,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1,
 		weightkg: 21,
 		color: "Yellow",
+		prevo: "Shiny Helioptile",
+		evoType: "useItem",
+		evoItem: "Sun Stone",
 		eggGroups: ["Monster", "Dragon"],
 	},
 	shinytyrunt: {
@@ -31956,6 +33169,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.8,
 		weightkg: 26,
 		color: "Brown",
+		evos: ["Shiny Tyrantrum"],
 		eggGroups: ["Monster", "Dragon"],
 	},
 	shinytyrantrum: {
@@ -31968,6 +33182,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 2.5,
 		weightkg: 270,
 		color: "Red",
+		prevo: "Shiny Tyrunt",
+		evoLevel: 39,
+		evoCondition: "during the day",
 		eggGroups: ["Monster", "Dragon"],
 	},
 	shinyamaura: {
@@ -31980,6 +33197,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.3,
 		weightkg: 25.2,
 		color: "Blue",
+		evos: ["Shiny Aurorus"],
 		eggGroups: ["Monster"],
 	},
 	shinyaurorus: {
@@ -31992,6 +33210,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 2.7,
 		weightkg: 225,
 		color: "Blue",
+		prevo: "Shiny Amaura",
+		evoLevel: 39,
+		evoCondition: "at night",
 		eggGroups: ["Monster"],
 	},
 	shinysylveon: {
@@ -32004,6 +33225,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1,
 		weightkg: 23.5,
 		color: "Pink",
+		prevo: "Shiny Eevee",
+		evoType: "levelExtra",
+		evoCondition: "with a Fairy-type move and two levels of Affection",
 		eggGroups: ["Field"],
 	},
 	shinyhawlucha: {
@@ -32066,6 +33290,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.3,
 		weightkg: 2.8,
 		color: "Purple",
+		evos: ["Shiny Sliggoo", "Shiny Sliggoo-Hisui"],
 		eggGroups: ["Dragon"],
 	},
 	shinysliggoo: {
@@ -32077,6 +33302,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.8,
 		weightkg: 17.5,
 		color: "Purple",
+		prevo: "Shiny Goomy",
+		evoLevel: 40,
+		evos: ["Shiny Goodra"],
 		eggGroups: ["Dragon"],
 		otherFormes: ["Shiny Sliggoo-Hisui"],
 		formeOrder: ["Shiny Sliggoo", "Shiny Sliggoo-Hisui"],
@@ -32092,6 +33320,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.7,
 		weightkg: 68.5,
 		color: "Purple",
+		prevo: "Shiny Goomy",
+		evoLevel: 40,
+		evos: ["Shiny Goodra-Hisui"],
 		eggGroups: ["Dragon"],
 	},
 	shinygoodra: {
@@ -32103,6 +33334,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 2,
 		weightkg: 150.5,
 		color: "Purple",
+		prevo: "Shiny Sliggoo",
+		evoLevel: 50,
+		evoCondition: "during rain",
 		eggGroups: ["Dragon"],
 		otherFormes: ["Shiny Goodra-Hisui"],
 		formeOrder: ["Shiny Goodra", "Shiny Goodra-Hisui"],
@@ -32118,6 +33352,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.7,
 		weightkg: 334.1,
 		color: "Purple",
+		prevo: "Shiny Sliggoo-Hisui",
+		evoLevel: 50,
+		evoCondition: "during rain",
 		eggGroups: ["Dragon"],
 	},
 	shinyklefki: {
@@ -32140,6 +33377,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.4,
 		weightkg: 7,
 		color: "Brown",
+		evos: ["Shiny Trevenant"],
 		eggGroups: ["Grass", "Amorphous"],
 	},
 	shinytrevenant: {
@@ -32151,6 +33389,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.5,
 		weightkg: 71,
 		color: "Brown",
+		prevo: "Shiny Phantump",
+		evoType: "trade",
 		eggGroups: ["Grass", "Amorphous"],
 	},
 	shinypumpkaboo: {
@@ -32163,8 +33403,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.4,
 		weightkg: 5,
 		color: "Brown",
+		evos: ["Shiny Gourgeist"],
 		eggGroups: ["Amorphous"],
-		otherFormes: ["Shiny Pumpkaboo-Small", "Pumpkaboo-Large", "Pumpkaboo-Super"],
+		otherFormes: ["Shiny Pumpkaboo-Small", "Shiny Pumpkaboo-Large", "Shiny Pumpkaboo-Super"],
 		formeOrder: ["Shiny Pumpkaboo", "Shiny Pumpkaboo-Small", "Shiny Pumpkaboo-Large", "Shiny Pumpkaboo-Super"],
 	},
 	shinypumpkaboosmall: {
@@ -32178,6 +33419,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.3,
 		weightkg: 3.5,
 		color: "Brown",
+		evos: ["Shiny Gourgeist-Small"],
 		eggGroups: ["Amorphous"],
 	},
 	shinypumpkaboolarge: {
@@ -32191,6 +33433,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.5,
 		weightkg: 7.5,
 		color: "Brown",
+		evos: ["Shiny Gourgeist-Large"],
 		eggGroups: ["Amorphous"],
 	},
 	shinypumpkaboosuper: {
@@ -32204,6 +33447,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.8,
 		weightkg: 15,
 		color: "Brown",
+		evos: ["Shiny Gourgeist-Super"],
 		eggGroups: ["Amorphous"],
 	},
 	shinygourgeist: {
@@ -32216,8 +33460,10 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.9,
 		weightkg: 12.5,
 		color: "Brown",
+		prevo: "Shiny Pumpkaboo",
+		evoType: "trade",
 		eggGroups: ["Amorphous"],
-		otherFormes: ["Shiny Gourgeist-Small", "Gourgeist-Large", "Gourgeist-Super"],
+		otherFormes: ["Shiny Gourgeist-Small", "Shiny Gourgeist-Large", "Shiny Gourgeist-Super"],
 		formeOrder: ["Shiny Gourgeist", "Shiny Gourgeist-Small", "Shiny Gourgeist-Large", "Shiny Gourgeist-Super"],
 	},
 	shinygourgeistsmall: {
@@ -32231,6 +33477,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.7,
 		weightkg: 9.5,
 		color: "Brown",
+		prevo: "Shiny Pumpkaboo-Small",
+		evoType: "trade",
 		eggGroups: ["Amorphous"],
 	},
 	shinygourgeistlarge: {
@@ -32244,6 +33492,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.1,
 		weightkg: 14,
 		color: "Brown",
+		prevo: "Shiny Pumpkaboo-Large",
+		evoType: "trade",
 		eggGroups: ["Amorphous"],
 	},
 	shinygourgeistsuper: {
@@ -32257,6 +33507,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.7,
 		weightkg: 39,
 		color: "Brown",
+		prevo: "Shiny Pumpkaboo-Super",
+		evoType: "trade",
 		eggGroups: ["Amorphous"],
 	},
 	shinybergmite: {
@@ -32268,6 +33520,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1,
 		weightkg: 99.5,
 		color: "Blue",
+		evos: ["Shiny Avalugg", "Shiny Avalugg-Hisui"],
 		eggGroups: ["Monster", "Mineral"],
 	},
 	shinyavalugg: {
@@ -32279,6 +33532,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 2,
 		weightkg: 505,
 		color: "Blue",
+		prevo: "Shiny Bergmite",
+		evoLevel: 37,
 		eggGroups: ["Monster", "Mineral"],
 		otherFormes: ["Shiny Avalugg-Hisui"],
 		formeOrder: ["Shiny Avalugg", "Shiny Avalugg-Hisui"],
@@ -32294,6 +33549,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.4,
 		weightkg: 262.4,
 		color: "Blue",
+		prevo: "Shiny Bergmite",
+		evoLevel: 37,
 		eggGroups: ["Monster", "Mineral"],
 	},
 	shinynoibat: {
@@ -32305,6 +33562,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.5,
 		weightkg: 8,
 		color: "Purple",
+		evos: ["Shiny Noivern"],
 		eggGroups: ["Flying", "Dragon"],
 	},
 	shinynoivern: {
@@ -32316,6 +33574,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.5,
 		weightkg: 85,
 		color: "Purple",
+		prevo: "Shiny Noibat",
+		evoLevel: 48,
 		eggGroups: ["Flying", "Dragon"],
 	},
 	shinyxerneas: {
@@ -32374,7 +33634,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		color: "Green",
 		tags: ["Restricted Legendary"],
 		eggGroups: ["Undiscovered"],
-		otherFormes: ["Shiny Zygarde-10%", "Zygarde-Complete", "Zygarde-Mega"],
+		otherFormes: ["Shiny Zygarde-10%", "Shiny Zygarde-Complete", "Shiny Zygarde-Mega"],
 		// forme 2 = 10% with Power Constructor ,forme 3 = 50% with Power Construct
 		formeOrder: ["Shiny Zygarde", "Shiny Zygarde-10%", "Shiny Zygarde-10%", "Shiny Zygarde", "Shiny Zygarde-Complete", "Shiny Zygarde-Mega"],
 	},
@@ -32391,7 +33651,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		weightkg: 33.5,
 		color: "Black",
 		eggGroups: ["Undiscovered"],
-		changesFrom: "Zygarde",
+		changesFrom: "Shiny Zygarde",
 		gen: 7,
 	},
 	shinyzygardecomplete: {
@@ -32487,7 +33747,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		weightkg: 490,
 		color: "Purple",
 		eggGroups: ["Undiscovered"],
-		changesFrom: "Hoopa",
+		changesFrom: "Shiny Hoopa",
 	},
 	shinyvolcanion: {
 		num: 721,
@@ -32512,6 +33772,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.3,
 		weightkg: 1.5,
 		color: "Brown",
+		evos: ["Shiny Dartrix"],
 		eggGroups: ["Flying"],
 	},
 	shinydartrix: {
@@ -32524,6 +33785,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.7,
 		weightkg: 16,
 		color: "Brown",
+		prevo: "Shiny Rowlet",
+		evoLevel: 17,
+		evos: ["Shiny Decidueye", "Shiny Decidueye-Hisui"],
 		eggGroups: ["Flying"],
 	},
 	shinydecidueye: {
@@ -32536,6 +33800,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.6,
 		weightkg: 36.6,
 		color: "Brown",
+		prevo: "Shiny Dartrix",
+		evoLevel: 34,
 		eggGroups: ["Flying"],
 		otherFormes: ["Shiny Decidueye-Hisui"],
 		formeOrder: ["Shiny Decidueye", "Shiny Decidueye-Hisui"],
@@ -32552,6 +33818,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.6,
 		weightkg: 37,
 		color: "Brown",
+		prevo: "Shiny Dartrix",
+		evoLevel: 36,
 		eggGroups: ["Flying"],
 	},
 	shinylitten: {
@@ -32564,6 +33832,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.4,
 		weightkg: 4.3,
 		color: "Red",
+		evos: ["Shiny Torracat"],
 		eggGroups: ["Field"],
 	},
 	shinytorracat: {
@@ -32576,6 +33845,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.7,
 		weightkg: 25,
 		color: "Red",
+		prevo: "Shiny Litten",
+		evoLevel: 17,
+		evos: ["Shiny Incineroar"],
 		eggGroups: ["Field"],
 	},
 	shinyincineroar: {
@@ -32588,6 +33860,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.8,
 		weightkg: 83,
 		color: "Red",
+		prevo: "Shiny Torracat",
+		evoLevel: 34,
 		eggGroups: ["Field"],
 	},
 	shinypopplio: {
@@ -32600,6 +33874,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.4,
 		weightkg: 7.5,
 		color: "Blue",
+		evos: ["Shiny Brionne"],
 		eggGroups: ["Water 1", "Field"],
 	},
 	shinybrionne: {
@@ -32612,6 +33887,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.6,
 		weightkg: 17.5,
 		color: "Blue",
+		prevo: "Shiny Popplio",
+		evoLevel: 17,
+		evos: ["Shiny Primarina"],
 		eggGroups: ["Water 1", "Field"],
 	},
 	shinyprimarina: {
@@ -32624,6 +33902,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.8,
 		weightkg: 44,
 		color: "Blue",
+		prevo: "Shiny Brionne",
+		evoLevel: 34,
 		eggGroups: ["Water 1", "Field"],
 	},
 	shinypikipek: {
@@ -32635,6 +33915,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.3,
 		weightkg: 1.2,
 		color: "Black",
+		evos: ["Shiny Trumbeak"],
 		eggGroups: ["Flying"],
 	},
 	shinytrumbeak: {
@@ -32646,6 +33927,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.6,
 		weightkg: 14.8,
 		color: "Black",
+		prevo: "Shiny Pikipek",
+		evoLevel: 14,
+		evos: ["Shiny Toucannon"],
 		eggGroups: ["Flying"],
 	},
 	shinytoucannon: {
@@ -32657,6 +33941,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.1,
 		weightkg: 26,
 		color: "Black",
+		prevo: "Shiny Trumbeak",
+		evoLevel: 28,
 		eggGroups: ["Flying"],
 	},
 	shinyyungoos: {
@@ -32668,6 +33954,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.4,
 		weightkg: 6,
 		color: "Brown",
+		evos: ["Shiny Gumshoos"],
 		eggGroups: ["Field"],
 	},
 	shinygumshoos: {
@@ -32679,6 +33966,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.7,
 		weightkg: 14.2,
 		color: "Brown",
+		prevo: "Shiny Yungoos",
+		evoLevel: 20,
+		evoCondition: "during the day",
 		eggGroups: ["Field"],
 		otherFormes: ["Shiny Gumshoos-Totem"],
 		formeOrder: ["Shiny Gumshoos", "Shiny Gumshoos-Totem"],
@@ -32705,6 +33995,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.4,
 		weightkg: 4.4,
 		color: "Gray",
+		evos: ["Shiny Charjabug"],
 		eggGroups: ["Bug"],
 	},
 	shinycharjabug: {
@@ -32716,6 +34007,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.5,
 		weightkg: 10.5,
 		color: "Green",
+		prevo: "Shiny Grubbin",
+		evoLevel: 20,
+		evos: ["Shiny Vikavolt"],
 		eggGroups: ["Bug"],
 	},
 	shinyvikavolt: {
@@ -32727,6 +34021,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.5,
 		weightkg: 45,
 		color: "Blue",
+		prevo: "Shiny Charjabug",
+		evoType: "useItem",
+		evoItem: "Thunder Stone",
 		eggGroups: ["Bug"],
 		otherFormes: ["Shiny Vikavolt-Totem"],
 		formeOrder: ["Shiny Vikavolt", "Shiny Vikavolt-Totem"],
@@ -32753,6 +34050,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.6,
 		weightkg: 7,
 		color: "Purple",
+		evos: ["Shiny Crabominable"],
 		eggGroups: ["Water 3"],
 	},
 	shinycrabominable: {
@@ -32764,6 +34062,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.7,
 		weightkg: 180,
 		color: "White",
+		prevo: "Shiny Crabrawler",
+		evoType: "useItem",
+		evoItem: "Ice Stone",
 		eggGroups: ["Water 3"],
 		otherFormes: ["Shiny Crabominable-Mega"],
 		formeOrder: ["Shiny Crabominable", "Shiny Crabominable-Mega"],
@@ -32795,7 +34096,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		weightkg: 3.4,
 		color: "Red",
 		eggGroups: ["Flying"],
-		otherFormes: ["Shiny Oricorio-Pom-Pom", "Oricorio-Pa'u", "Oricorio-Sensu"],
+		otherFormes: ["Shiny Oricorio-Pom-Pom", "Shiny Oricorio-Pa'u", "Shiny Oricorio-Sensu"],
 		formeOrder: ["Shiny Oricorio", "Shiny Oricorio-Pom-Pom", "Shiny Oricorio-Pa'u", "Shiny Oricorio-Sensu"],
 	},
 	shinyoricoriopompom: {
@@ -32811,7 +34112,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		weightkg: 3.4,
 		color: "Yellow",
 		eggGroups: ["Flying"],
-		changesFrom: "Oricorio",
+		changesFrom: "Shiny Oricorio",
 	},
 	shinyoricoriopau: {
 		num: 741,
@@ -32826,7 +34127,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		weightkg: 3.4,
 		color: "Pink",
 		eggGroups: ["Flying"],
-		changesFrom: "Oricorio",
+		changesFrom: "Shiny Oricorio",
 	},
 	shinyoricoriosensu: {
 		num: 741,
@@ -32841,7 +34142,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		weightkg: 3.4,
 		color: "Purple",
 		eggGroups: ["Flying"],
-		changesFrom: "Oricorio",
+		changesFrom: "Shiny Oricorio",
 	},
 	shinycutiefly: {
 		num: 742,
@@ -32852,6 +34153,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.1,
 		weightkg: 0.2,
 		color: "Yellow",
+		evos: ["Shiny Ribombee"],
 		eggGroups: ["Bug", "Fairy"],
 	},
 	shinyribombee: {
@@ -32863,6 +34165,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.2,
 		weightkg: 0.5,
 		color: "Yellow",
+		prevo: "Shiny Cutiefly",
+		evoLevel: 25,
 		eggGroups: ["Bug", "Fairy"],
 		otherFormes: ["Shiny Ribombee-Totem"],
 		formeOrder: ["Shiny Ribombee", "Shiny Ribombee-Totem"],
@@ -32890,6 +34194,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.5,
 		weightkg: 9.2,
 		color: "Brown",
+		evos: ["Shiny Lycanroc", "Shiny Lycanroc-Midnight"],
 		eggGroups: ["Field"],
 		otherFormes: ["Shiny Rockruff-Dusk"],
 		formeOrder: ["Shiny Rockruff", "Shiny Rockruff-Dusk"],
@@ -32905,6 +34210,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.5,
 		weightkg: 9.2,
 		color: "Brown",
+		evos: ["Shiny Lycanroc-Dusk"],
 		eggGroups: ["Field"],
 	},
 	shinylycanroc: {
@@ -32917,8 +34223,11 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.8,
 		weightkg: 25,
 		color: "Brown",
+		prevo: "Shiny Rockruff",
+		evoLevel: 25,
+		evoCondition: "during the day",
 		eggGroups: ["Field"],
-		otherFormes: ["Shiny Lycanroc-Midnight", "Lycanroc-Dusk"],
+		otherFormes: ["Shiny Lycanroc-Midnight", "Shiny Lycanroc-Dusk"],
 		formeOrder: ["Shiny Lycanroc", "Shiny Lycanroc-Midnight", "Shiny Lycanroc-Dusk"],
 	},
 	shinylycanrocmidnight: {
@@ -32932,6 +34241,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.1,
 		weightkg: 25,
 		color: "Red",
+		prevo: "Shiny Rockruff",
+		evoLevel: 25,
+		evoCondition: "at night",
 		eggGroups: ["Field"],
 	},
 	shinylycanrocdusk: {
@@ -32945,6 +34257,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.8,
 		weightkg: 25,
 		color: "Brown",
+		prevo: "Shiny Rockruff-Dusk",
+		evoLevel: 25,
+		evoCondition: "from a special Rockruff during the evening",
 		eggGroups: ["Field"],
 	},
 	shinywishiwashi: {
@@ -32985,6 +34300,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.4,
 		weightkg: 8,
 		color: "Blue",
+		evos: ["Shiny Toxapex"],
 		eggGroups: ["Water 1"],
 	},
 	shinytoxapex: {
@@ -32996,6 +34312,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.7,
 		weightkg: 14.5,
 		color: "Blue",
+		prevo: "Shiny Mareanie",
+		evoLevel: 38,
 		eggGroups: ["Water 1"],
 	},
 	shinymudbray: {
@@ -33007,6 +34325,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1,
 		weightkg: 110,
 		color: "Brown",
+		evos: ["Shiny Mudsdale"],
 		eggGroups: ["Field"],
 	},
 	shinymudsdale: {
@@ -33018,6 +34337,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 2.5,
 		weightkg: 920,
 		color: "Brown",
+		prevo: "Shiny Mudbray",
+		evoLevel: 30,
 		eggGroups: ["Field"],
 	},
 	shinydewpider: {
@@ -33029,6 +34350,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.3,
 		weightkg: 4,
 		color: "Green",
+		evos: ["Shiny Araquanid"],
 		eggGroups: ["Water 1", "Bug"],
 	},
 	shinyaraquanid: {
@@ -33040,6 +34362,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.8,
 		weightkg: 82,
 		color: "Green",
+		prevo: "Shiny Dewpider",
+		evoLevel: 22,
 		eggGroups: ["Water 1", "Bug"],
 		otherFormes: ["Shiny Araquanid-Totem"],
 		formeOrder: ["Shiny Araquanid", "Shiny Araquanid-Totem"],
@@ -33066,6 +34390,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.3,
 		weightkg: 1.5,
 		color: "Pink",
+		evos: ["Shiny Lurantis"],
 		eggGroups: ["Grass"],
 	},
 	shinylurantis: {
@@ -33077,6 +34402,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.9,
 		weightkg: 18.5,
 		color: "Pink",
+		prevo: "Shiny Fomantis",
+		evoLevel: 34,
+		evoCondition: "during the day",
 		eggGroups: ["Grass"],
 		otherFormes: ["Shiny Lurantis-Totem"],
 		formeOrder: ["Shiny Lurantis", "Shiny Lurantis-Totem"],
@@ -33103,6 +34431,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.2,
 		weightkg: 1.5,
 		color: "Purple",
+		evos: ["Shiny Shiinotic"],
 		eggGroups: ["Grass"],
 	},
 	shinyshiinotic: {
@@ -33114,6 +34443,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1,
 		weightkg: 11.5,
 		color: "Purple",
+		prevo: "Shiny Morelull",
+		evoLevel: 24,
 		eggGroups: ["Grass"],
 	},
 	shinysalandit: {
@@ -33126,6 +34457,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.6,
 		weightkg: 4.8,
 		color: "Black",
+		evos: ["Shiny Salazzle"],
 		eggGroups: ["Monster", "Dragon"],
 	},
 	shinysalazzle: {
@@ -33138,6 +34470,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.2,
 		weightkg: 22.2,
 		color: "Black",
+		prevo: "Shiny Salandit",
+		evoLevel: 33,
 		eggGroups: ["Monster", "Dragon"],
 		otherFormes: ["Shiny Salazzle-Totem"],
 		formeOrder: ["Shiny Salazzle", "Shiny Salazzle-Totem"],
@@ -33165,6 +34499,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.5,
 		weightkg: 6.8,
 		color: "Pink",
+		evos: ["Shiny Bewear"],
 		eggGroups: ["Field"],
 	},
 	shinybewear: {
@@ -33176,6 +34511,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 2.1,
 		weightkg: 135,
 		color: "Pink",
+		prevo: "Shiny Stufful",
+		evoLevel: 27,
 		eggGroups: ["Field"],
 	},
 	shinybounsweet: {
@@ -33188,6 +34525,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.3,
 		weightkg: 3.2,
 		color: "Purple",
+		evos: ["Shiny Steenee"],
 		eggGroups: ["Grass"],
 	},
 	shinysteenee: {
@@ -33200,6 +34538,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.7,
 		weightkg: 8.2,
 		color: "Purple",
+		prevo: "Shiny Bounsweet",
+		evoLevel: 18,
+		evos: ["Shiny Tsareena"],
 		eggGroups: ["Grass"],
 	},
 	shinytsareena: {
@@ -33212,6 +34553,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.2,
 		weightkg: 21.4,
 		color: "Purple",
+		prevo: "Shiny Steenee",
+		evoType: "levelMove",
+		evoMove: "Stomp",
 		eggGroups: ["Grass"],
 	},
 	shinycomfey: {
@@ -33257,6 +34601,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.5,
 		weightkg: 12,
 		color: "Gray",
+		evos: ["Shiny Golisopod"],
 		eggGroups: ["Bug", "Water 3"],
 	},
 	shinygolisopod: {
@@ -33268,6 +34613,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 2,
 		weightkg: 108,
 		color: "Gray",
+		prevo: "Shiny Wimpod",
+		evoLevel: 30,
 		eggGroups: ["Bug", "Water 3"],
 		otherFormes: ["Shiny Golisopod-Mega"],
 		formeOrder: ["Shiny Golisopod", "Shiny Golisopod-Mega"],
@@ -33296,6 +34643,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.5,
 		weightkg: 70,
 		color: "Brown",
+		evos: ["Shiny Palossand"],
 		eggGroups: ["Amorphous"],
 	},
 	shinypalossand: {
@@ -33307,6 +34655,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.3,
 		weightkg: 250,
 		color: "Brown",
+		prevo: "Shiny Sandygast",
+		evoLevel: 42,
 		eggGroups: ["Amorphous"],
 	},
 	shinypyukumuku: {
@@ -33331,6 +34681,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		weightkg: 120.5,
 		color: "Gray",
 		tags: ["Sub-Legendary"],
+		evos: ["Shiny Silvally"],
 		eggGroups: ["Undiscovered"],
 	},
 	shinysilvally: {
@@ -33345,6 +34696,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		weightkg: 100.5,
 		color: "Gray",
 		tags: ["Sub-Legendary"],
+		prevo: "Shiny Type: Null",
+		evoType: "levelFriendship",
 		eggGroups: ["Undiscovered"],
 		otherFormes: ["Shiny Silvally-Bug", "Shiny Silvally-Dark", "Shiny Silvally-Dragon", "Shiny Silvally-Electric", "Shiny Silvally-Fairy", "Shiny Silvally-Fighting", "Shiny Silvally-Fire", "Shiny Silvally-Flying", "Shiny Silvally-Ghost", "Shiny Silvally-Grass", "Shiny Silvally-Ground", "Shiny Silvally-Ice", "Shiny Silvally-Poison", "Shiny Silvally-Psychic", "Shiny Silvally-Rock", "Shiny Silvally-Steel", "Shiny Silvally-Water"],
 		formeOrder: [
@@ -33366,7 +34719,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		color: "Gray",
 		eggGroups: ["Undiscovered"],
 		requiredItem: "Bug Memory",
-		changesFrom: "Silvally",
+		changesFrom: "Shiny Silvally",
 	},
 	shinysilvallydark: {
 		num: 773,
@@ -33382,7 +34735,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		color: "Gray",
 		eggGroups: ["Undiscovered"],
 		requiredItem: "Dark Memory",
-		changesFrom: "Silvally",
+		changesFrom: "Shiny Silvally",
 	},
 	shinysilvallydragon: {
 		num: 773,
@@ -33398,7 +34751,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		color: "Gray",
 		eggGroups: ["Undiscovered"],
 		requiredItem: "Dragon Memory",
-		changesFrom: "Silvally",
+		changesFrom: "Shiny Silvally",
 	},
 	shinysilvallyelectric: {
 		num: 773,
@@ -33414,7 +34767,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		color: "Gray",
 		eggGroups: ["Undiscovered"],
 		requiredItem: "Electric Memory",
-		changesFrom: "Silvally",
+		changesFrom: "Shiny Silvally",
 	},
 	shinysilvallyfairy: {
 		num: 773,
@@ -33430,7 +34783,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		color: "Gray",
 		eggGroups: ["Undiscovered"],
 		requiredItem: "Fairy Memory",
-		changesFrom: "Silvally",
+		changesFrom: "Shiny Silvally",
 	},
 	shinysilvallyfighting: {
 		num: 773,
@@ -33446,7 +34799,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		color: "Gray",
 		eggGroups: ["Undiscovered"],
 		requiredItem: "Fighting Memory",
-		changesFrom: "Silvally",
+		changesFrom: "Shiny Silvally",
 	},
 	shinysilvallyfire: {
 		num: 773,
@@ -33462,7 +34815,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		color: "Gray",
 		eggGroups: ["Undiscovered"],
 		requiredItem: "Fire Memory",
-		changesFrom: "Silvally",
+		changesFrom: "Shiny Silvally",
 	},
 	shinysilvallyflying: {
 		num: 773,
@@ -33478,7 +34831,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		color: "Gray",
 		eggGroups: ["Undiscovered"],
 		requiredItem: "Flying Memory",
-		changesFrom: "Silvally",
+		changesFrom: "Shiny Silvally",
 	},
 	shinysilvallyghost: {
 		num: 773,
@@ -33494,7 +34847,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		color: "Gray",
 		eggGroups: ["Undiscovered"],
 		requiredItem: "Ghost Memory",
-		changesFrom: "Silvally",
+		changesFrom: "Shiny Silvally",
 	},
 	shinysilvallygrass: {
 		num: 773,
@@ -33510,7 +34863,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		color: "Gray",
 		eggGroups: ["Undiscovered"],
 		requiredItem: "Grass Memory",
-		changesFrom: "Silvally",
+		changesFrom: "Shiny Silvally",
 	},
 	shinysilvallyground: {
 		num: 773,
@@ -33526,7 +34879,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		color: "Gray",
 		eggGroups: ["Undiscovered"],
 		requiredItem: "Ground Memory",
-		changesFrom: "Silvally",
+		changesFrom: "Shiny Silvally",
 	},
 	shinysilvallyice: {
 		num: 773,
@@ -33542,7 +34895,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		color: "Gray",
 		eggGroups: ["Undiscovered"],
 		requiredItem: "Ice Memory",
-		changesFrom: "Silvally",
+		changesFrom: "Shiny Silvally",
 	},
 	shinysilvallypoison: {
 		num: 773,
@@ -33558,7 +34911,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		color: "Gray",
 		eggGroups: ["Undiscovered"],
 		requiredItem: "Poison Memory",
-		changesFrom: "Silvally",
+		changesFrom: "Shiny Silvally",
 	},
 	shinysilvallypsychic: {
 		num: 773,
@@ -33574,7 +34927,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		color: "Gray",
 		eggGroups: ["Undiscovered"],
 		requiredItem: "Psychic Memory",
-		changesFrom: "Silvally",
+		changesFrom: "Shiny Silvally",
 	},
 	shinysilvallyrock: {
 		num: 773,
@@ -33590,7 +34943,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		color: "Gray",
 		eggGroups: ["Undiscovered"],
 		requiredItem: "Rock Memory",
-		changesFrom: "Silvally",
+		changesFrom: "Shiny Silvally",
 	},
 	shinysilvallysteel: {
 		num: 773,
@@ -33606,7 +34959,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		color: "Gray",
 		eggGroups: ["Undiscovered"],
 		requiredItem: "Steel Memory",
-		changesFrom: "Silvally",
+		changesFrom: "Shiny Silvally",
 	},
 	shinysilvallywater: {
 		num: 773,
@@ -33622,7 +34975,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		color: "Gray",
 		eggGroups: ["Undiscovered"],
 		requiredItem: "Water Memory",
-		changesFrom: "Silvally",
+		changesFrom: "Shiny Silvally",
 	},
 	shinyminior: {
 		num: 774,
@@ -33637,7 +34990,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		color: "Red",
 		eggGroups: ["Mineral"],
 		otherFormes: ["Shiny Minior-Meteor"],
-		cosmeticFormes: ["Shiny Minior-Orange", "Shiny Shiny Minior-Yellow", "Shiny Shiny Minior-Green", "Shiny Shiny Minior-Blue", "Shiny Shiny Minior-Indigo", "Shiny Shiny Minior-Violet"],
+		cosmeticFormes: ["Shiny Minior-Orange", "Shiny Minior-Yellow", "Shiny Minior-Green", "Shiny Minior-Blue", "Shiny Minior-Indigo", "Shiny Minior-Violet"],
 		formeOrder: [
 			// All of the colored Minior Meteor formes (unsupported by PS) are numbers 0-6
 			"Shiny Minior-Meteor", "Shiny Minior-Meteor", "Shiny Minior-Meteor", "Shiny Minior-Meteor", "Shiny Minior-Meteor", "Shiny Minior-Meteor", "Shiny Minior-Meteor",
@@ -33761,7 +35114,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		weightkg: 0.7,
 		color: "Yellow",
 		eggGroups: ["Amorphous"],
-		otherFormes: ["Shiny Mimikyu-Busted", "Mimikyu-Totem", "Mimikyu-Busted-Totem"],
+		otherFormes: ["Shiny Mimikyu-Busted", "Shiny Mimikyu-Totem", "Shiny Mimikyu-Busted-Totem"],
 		formeOrder: ["Shiny Mimikyu", "Shiny Mimikyu-Busted", "Shiny Mimikyu-Totem", "Shiny Mimikyu-Busted-Totem"],
 	},
 	shinymimikyubusted: {
@@ -33867,6 +35220,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.6,
 		weightkg: 29.7,
 		color: "Gray",
+		evos: ["Shiny Hakamo-o"],
 		eggGroups: ["Dragon"],
 	},
 	shinyhakamoo: {
@@ -33878,6 +35232,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.2,
 		weightkg: 47,
 		color: "Gray",
+		prevo: "Shiny Jangmo-o",
+		evoLevel: 35,
+		evos: ["Shiny Kommo-o"],
 		eggGroups: ["Dragon"],
 	},
 	shinykommoo: {
@@ -33889,6 +35246,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.6,
 		weightkg: 78.2,
 		color: "Gray",
+		prevo: "Shiny Hakamo-o",
+		evoLevel: 45,
 		eggGroups: ["Dragon"],
 		otherFormes: ["Shiny Kommo-o-Totem"],
 		formeOrder: ["Shiny Kommo-o", "Shiny Kommo-o-Totem"],
@@ -33968,6 +35327,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.2,
 		weightkg: 0.1,
 		color: "Blue",
+		evos: ["Shiny Cosmoem"],
 		tags: ["Restricted Legendary"],
 		eggGroups: ["Undiscovered"],
 	},
@@ -33982,6 +35342,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		weightkg: 999.9,
 		color: "Blue",
 		tags: ["Restricted Legendary"],
+		prevo: "Shiny Cosmog",
+		evoLevel: 43,
+		evos: ["Shiny Solgaleo", "Shiny Lunala"],
 		eggGroups: ["Undiscovered"],
 	},
 	shinysolgaleo: {
@@ -33995,6 +35358,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		weightkg: 230,
 		color: "White",
 		tags: ["Restricted Legendary"],
+		prevo: "Shiny Cosmoem",
+		evoLevel: 53,
 		eggGroups: ["Undiscovered"],
 	},
 	shinylunala: {
@@ -34008,6 +35373,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		weightkg: 120,
 		color: "Purple",
 		tags: ["Restricted Legendary"],
+		prevo: "Shiny Cosmoem",
+		evoLevel: 53,
 		eggGroups: ["Undiscovered"],
 	},
 	shinynihilego: {
@@ -34113,7 +35480,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		color: "Black",
 		tags: ["Restricted Legendary"],
 		eggGroups: ["Undiscovered"],
-		otherFormes: ["Shiny Necrozma-Dusk-Mane", "Necrozma-Dawn-Wings", "Necrozma-Ultra"],
+		otherFormes: ["Shiny Necrozma-Dusk-Mane", "Shiny Necrozma-Dawn-Wings", "Shiny Necrozma-Ultra"],
 		formeOrder: ["Shiny Necrozma", "Shiny Necrozma-Dusk-Mane", "Shiny Necrozma-Dawn-Wings", "Shiny Necrozma-Ultra"],
 	},
 	shinynecrozmaduskmane: {
@@ -34129,7 +35496,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		weightkg: 460,
 		color: "Yellow",
 		eggGroups: ["Undiscovered"],
-		changesFrom: "Necrozma",
+		changesFrom: "Shiny Necrozma",
 	},
 	shinynecrozmadawnwings: {
 		num: 800,
@@ -34144,7 +35511,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		weightkg: 350,
 		color: "Blue",
 		eggGroups: ["Undiscovered"],
-		changesFrom: "Necrozma",
+		changesFrom: "Shiny Necrozma",
 	},
 	shinynecrozmaultra: {
 		num: 800,
@@ -34174,7 +35541,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		color: "Gray",
 		eggGroups: ["Undiscovered"],
 		tags: ["Mythical"],
-		otherFormes: ["Shiny Magearna-Original", "Magearna-Mega", "Magearna-Original-Mega"],
+		otherFormes: ["Shiny Magearna-Original", "Shiny Magearna-Mega", "Shiny Magearna-Original-Mega"],
 		formeOrder: ["Shiny Magearna", "Shiny Magearna-Original", "Shiny Magearna-Mega", "Shiny Magearna-Original-Mega"],
 	},
 	shinymagearnaoriginal: {
@@ -34248,6 +35615,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		weightkg: 1.8,
 		color: "Purple",
 		tags: ["Ultra Beast"],
+		evos: ["Shiny Naganadel"],
 		eggGroups: ["Undiscovered"],
 	},
 	shinynaganadel: {
@@ -34261,6 +35629,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		weightkg: 150,
 		color: "Purple",
 		tags: ["Ultra Beast"],
+		prevo: "Shiny Poipole",
+		evoType: "levelMove",
+		evoMove: "Dragon Pulse",
 		eggGroups: ["Undiscovered"],
 	},
 	shinystakataka: {
@@ -34361,7 +35732,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		weightkg: 0,
 		color: "Gray",
 		eggGroups: ["Undiscovered"],
-		changesFrom: "Melmetal",
+		changesFrom: "Shiny Melmetal",
 	},
 	shinygrookey: {
 		num: 810,
@@ -34373,6 +35744,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.3,
 		weightkg: 5,
 		color: "Green",
+		evos: ["Shiny Thwackey"],
 		eggGroups: ["Field", "Grass"],
 	},
 	shinythwackey: {
@@ -34385,6 +35757,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.7,
 		weightkg: 14,
 		color: "Green",
+		prevo: "Shiny Grookey",
+		evoLevel: 16,
+		evos: ["Shiny Rillaboom"],
 		eggGroups: ["Field", "Grass"],
 	},
 	shinyrillaboom: {
@@ -34397,6 +35772,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 2.1,
 		weightkg: 90,
 		color: "Green",
+		prevo: "Shiny Thwackey",
+		evoLevel: 35,
 		eggGroups: ["Field", "Grass"],
 		canGigantamax: "G-Max Drum Solo",
 	},
@@ -34413,7 +35790,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		weightkg: 0,
 		color: "Green",
 		eggGroups: ["Field", "Grass"],
-		changesFrom: "Rillaboom",
+		changesFrom: "Shiny Rillaboom",
 	},
 	shinyscorbunny: {
 		num: 813,
@@ -34425,6 +35802,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.3,
 		weightkg: 4.5,
 		color: "White",
+		evos: ["Shiny Raboot"],
 		eggGroups: ["Field", "Human-Like"],
 	},
 	shinyraboot: {
@@ -34437,6 +35815,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.6,
 		weightkg: 9,
 		color: "Gray",
+		prevo: "Shiny Scorbunny",
+		evoLevel: 16,
+		evos: ["Shiny Cinderace"],
 		eggGroups: ["Field", "Human-Like"],
 	},
 	shinycinderace: {
@@ -34449,6 +35830,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.4,
 		weightkg: 33,
 		color: "White",
+		prevo: "Shiny Raboot",
+		evoLevel: 35,
 		eggGroups: ["Field", "Human-Like"],
 		canGigantamax: "G-Max Fireball",
 	},
@@ -34465,7 +35848,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		weightkg: 0,
 		color: "White",
 		eggGroups: ["Field", "Human-Like"],
-		changesFrom: "Cinderace",
+		changesFrom: "Shiny Cinderace",
 	},
 	shinysobble: {
 		num: 816,
@@ -34477,6 +35860,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.3,
 		weightkg: 4,
 		color: "Blue",
+		evos: ["Shiny Drizzile"],
 		eggGroups: ["Water 1", "Field"],
 	},
 	shinydrizzile: {
@@ -34489,6 +35873,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.7,
 		weightkg: 11.5,
 		color: "Blue",
+		prevo: "Shiny Sobble",
+		evoLevel: 16,
+		evos: ["Shiny Inteleon"],
 		eggGroups: ["Water 1", "Field"],
 	},
 	shinyinteleon: {
@@ -34501,6 +35888,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.9,
 		weightkg: 45.2,
 		color: "Blue",
+		prevo: "Shiny Drizzile",
+		evoLevel: 35,
 		eggGroups: ["Water 1", "Field"],
 		canGigantamax: "G-Max Hydrosnipe",
 	},
@@ -34517,7 +35906,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		weightkg: 0,
 		color: "Blue",
 		eggGroups: ["Water 1", "Field"],
-		changesFrom: "Inteleon",
+		changesFrom: "Shiny Inteleon",
 	},
 	shinyskwovet: {
 		num: 819,
@@ -34528,6 +35917,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.3,
 		weightkg: 2.5,
 		color: "Brown",
+		evos: ["Shiny Greedent"],
 		eggGroups: ["Field"],
 	},
 	shinygreedent: {
@@ -34539,6 +35929,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.6,
 		weightkg: 6,
 		color: "Brown",
+		prevo: "Shiny Skwovet",
+		evoLevel: 24,
 		eggGroups: ["Field"],
 	},
 	shinyrookidee: {
@@ -34550,6 +35942,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.2,
 		weightkg: 1.8,
 		color: "Blue",
+		evos: ["Shiny Corvisquire"],
 		eggGroups: ["Flying"],
 	},
 	shinycorvisquire: {
@@ -34561,6 +35954,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.8,
 		weightkg: 16,
 		color: "Blue",
+		prevo: "Shiny Rookidee",
+		evoLevel: 18,
+		evos: ["Shiny Corviknight"],
 		eggGroups: ["Flying"],
 	},
 	shinycorviknight: {
@@ -34572,6 +35968,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 2.2,
 		weightkg: 75,
 		color: "Purple",
+		prevo: "Shiny Corvisquire",
+		evoLevel: 38,
 		eggGroups: ["Flying"],
 		canGigantamax: "G-Max Wind Rage",
 	},
@@ -34587,7 +35985,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		weightkg: 0,
 		color: "Purple",
 		eggGroups: ["Flying"],
-		changesFrom: "Corviknight",
+		changesFrom: "Shiny Corviknight",
 	},
 	shinyblipbug: {
 		num: 824,
@@ -34598,6 +35996,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.4,
 		weightkg: 8,
 		color: "Blue",
+		evos: ["Shiny Dottler"],
 		eggGroups: ["Bug"],
 	},
 	shinydottler: {
@@ -34609,6 +36008,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.4,
 		weightkg: 19.5,
 		color: "Yellow",
+		prevo: "Shiny Blipbug",
+		evoLevel: 10,
+		evos: ["Shiny Orbeetle"],
 		eggGroups: ["Bug"],
 	},
 	shinyorbeetle: {
@@ -34620,6 +36022,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.4,
 		weightkg: 40.8,
 		color: "Red",
+		prevo: "Shiny Dottler",
+		evoLevel: 30,
 		eggGroups: ["Bug"],
 		canGigantamax: "G-Max Gravitas",
 	},
@@ -34635,7 +36039,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		weightkg: 0,
 		color: "Red",
 		eggGroups: ["Bug"],
-		changesFrom: "Orbeetle",
+		changesFrom: "Shiny Orbeetle",
 	},
 	shinynickit: {
 		num: 827,
@@ -34646,6 +36050,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.6,
 		weightkg: 8.9,
 		color: "Brown",
+		evos: ["Shiny Thievul"],
 		eggGroups: ["Field"],
 	},
 	shinythievul: {
@@ -34657,6 +36062,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.2,
 		weightkg: 19.9,
 		color: "Brown",
+		prevo: "Shiny Nickit",
+		evoLevel: 18,
 		eggGroups: ["Field"],
 	},
 	shinygossifleur: {
@@ -34668,6 +36075,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.4,
 		weightkg: 2.2,
 		color: "Green",
+		evos: ["Shiny Eldegoss"],
 		eggGroups: ["Grass"],
 	},
 	shinyeldegoss: {
@@ -34679,6 +36087,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.5,
 		weightkg: 2.5,
 		color: "Green",
+		prevo: "Shiny Gossifleur",
+		evoLevel: 20,
 		eggGroups: ["Grass"],
 	},
 	shinywooloo: {
@@ -34690,6 +36100,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.6,
 		weightkg: 6,
 		color: "White",
+		evos: ["Shiny Dubwool"],
 		eggGroups: ["Field"],
 	},
 	shinydubwool: {
@@ -34701,6 +36112,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.3,
 		weightkg: 43,
 		color: "White",
+		prevo: "Shiny Wooloo",
+		evoLevel: 24,
 		eggGroups: ["Field"],
 	},
 	shinychewtle: {
@@ -34712,6 +36125,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.3,
 		weightkg: 8.5,
 		color: "Green",
+		evos: ["Shiny Drednaw"],
 		eggGroups: ["Monster", "Water 1"],
 	},
 	shinydrednaw: {
@@ -34723,6 +36137,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1,
 		weightkg: 115.5,
 		color: "Green",
+		prevo: "Shiny Chewtle",
+		evoLevel: 22,
 		eggGroups: ["Monster", "Water 1"],
 		canGigantamax: "G-Max Stonesurge",
 	},
@@ -34738,7 +36154,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		weightkg: 0,
 		color: "Green",
 		eggGroups: ["Monster", "Water 1"],
-		changesFrom: "Drednaw",
+		changesFrom: "Shiny Drednaw",
 	},
 	shinyyamper: {
 		num: 835,
@@ -34749,6 +36165,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.3,
 		weightkg: 13.5,
 		color: "Yellow",
+		evos: ["Shiny Boltund"],
 		eggGroups: ["Field"],
 	},
 	shinyboltund: {
@@ -34760,6 +36177,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1,
 		weightkg: 34,
 		color: "Yellow",
+		prevo: "Shiny Yamper",
+		evoLevel: 25,
 		eggGroups: ["Field"],
 	},
 	shinyrolycoly: {
@@ -34771,6 +36190,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.3,
 		weightkg: 12,
 		color: "Black",
+		evos: ["Shiny Carkol"],
 		eggGroups: ["Mineral"],
 	},
 	shinycarkol: {
@@ -34782,6 +36202,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.1,
 		weightkg: 78,
 		color: "Black",
+		prevo: "Shiny Rolycoly",
+		evoLevel: 18,
+		evos: ["Shiny Coalossal"],
 		eggGroups: ["Mineral"],
 	},
 	shinycoalossal: {
@@ -34793,6 +36216,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 2.8,
 		weightkg: 310.5,
 		color: "Black",
+		prevo: "Shiny Carkol",
+		evoLevel: 34,
 		eggGroups: ["Mineral"],
 		canGigantamax: "G-Max Volcalith",
 	},
@@ -34808,7 +36233,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		weightkg: 0,
 		color: "Black",
 		eggGroups: ["Mineral"],
-		changesFrom: "Coalossal",
+		changesFrom: "Shiny Coalossal",
 	},
 	shinyapplin: {
 		num: 840,
@@ -34819,6 +36244,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.2,
 		weightkg: 0.5,
 		color: "Green",
+		evos: ["Shiny Flapple", "Shiny Appletun", "Shiny Dipplin"],
 		eggGroups: ["Grass", "Dragon"],
 	},
 	shinyflapple: {
@@ -34830,6 +36256,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.3,
 		weightkg: 1,
 		color: "Green",
+		prevo: "Shiny Applin",
+		evoType: "useItem",
+		evoItem: "Tart Apple",
 		eggGroups: ["Grass", "Dragon"],
 		canGigantamax: "G-Max Tartness",
 	},
@@ -34845,7 +36274,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		weightkg: 0,
 		color: "Green",
 		eggGroups: ["Grass", "Dragon"],
-		changesFrom: "Flapple",
+		changesFrom: "Shiny Flapple",
 	},
 	shinyappletun: {
 		num: 842,
@@ -34856,6 +36285,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.4,
 		weightkg: 13,
 		color: "Green",
+		prevo: "Shiny Applin",
+		evoType: "useItem",
+		evoItem: "Sweet Apple",
 		eggGroups: ["Grass", "Dragon"],
 		canGigantamax: "G-Max Sweetness",
 	},
@@ -34871,7 +36303,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		weightkg: 0,
 		color: "Green",
 		eggGroups: ["Grass", "Dragon"],
-		changesFrom: "Appletun",
+		changesFrom: "Shiny Appletun",
 	},
 	shinysilicobra: {
 		num: 843,
@@ -34882,6 +36314,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 2.2,
 		weightkg: 7.6,
 		color: "Green",
+		evos: ["Shiny Sandaconda"],
 		eggGroups: ["Field", "Dragon"],
 	},
 	shinysandaconda: {
@@ -34893,6 +36326,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 3.8,
 		weightkg: 65.5,
 		color: "Green",
+		prevo: "Shiny Silicobra",
+		evoLevel: 36,
 		eggGroups: ["Field", "Dragon"],
 		canGigantamax: "G-Max Sandblast",
 	},
@@ -34908,7 +36343,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		weightkg: 0,
 		color: "Green",
 		eggGroups: ["Field", "Dragon"],
-		changesFrom: "Sandaconda",
+		changesFrom: "Shiny Sandaconda",
 	},
 	shinycramorant: {
 		num: 845,
@@ -34920,7 +36355,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		weightkg: 18,
 		color: "Blue",
 		eggGroups: ["Water 1", "Flying"],
-		otherFormes: ["Shiny Cramorant-Gulping", "Cramorant-Gorging"],
+		otherFormes: ["Shiny Cramorant-Gulping", "Shiny Cramorant-Gorging"],
 		formeOrder: ["Shiny Cramorant", "Shiny Cramorant-Gulping", "Shiny Cramorant-Gorging"],
 	},
 	shinycramorantgulping: {
@@ -34962,6 +36397,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.5,
 		weightkg: 1,
 		color: "Brown",
+		evos: ["Shiny Barraskewda"],
 		eggGroups: ["Water 2"],
 	},
 	shinybarraskewda: {
@@ -34973,6 +36409,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.3,
 		weightkg: 30,
 		color: "Brown",
+		prevo: "Shiny Arrokuda",
+		evoLevel: 26,
 		eggGroups: ["Water 2"],
 	},
 	shinytoxel: {
@@ -34984,6 +36422,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.4,
 		weightkg: 11,
 		color: "Purple",
+		evos: ["Shiny Toxtricity", "Shiny Toxtricity-Low-Key"],
 		eggGroups: ["Undiscovered"],
 		canHatch: true,
 	},
@@ -34997,6 +36436,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.6,
 		weightkg: 40,
 		color: "Purple",
+		prevo: "Shiny Toxel",
+		evoLevel: 30,
 		eggGroups: ["Human-Like"],
 		otherFormes: ["Shiny Toxtricity-Low-Key"],
 		formeOrder: ["Shiny Toxtricity", "Shiny Toxtricity-Low-Key"],
@@ -35013,6 +36454,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.6,
 		weightkg: 40,
 		color: "Purple",
+		prevo: "Shiny Toxel",
+		evoLevel: 30,
 		eggGroups: ["Human-Like"],
 		canGigantamax: "G-Max Stun Shock",
 	},
@@ -35028,7 +36471,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		weightkg: 0,
 		color: "Purple",
 		eggGroups: ["Human-Like"],
-		changesFrom: "Toxtricity",
+		changesFrom: "Shiny Toxtricity",
 	},
 	shinytoxtricitylowkeygmax: {
 		num: 849,
@@ -35043,7 +36486,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		color: "Purple",
 		eggGroups: ["Human-Like"],
 		battleOnly: "Shiny Toxtricity-Low-Key",
-		changesFrom: "Toxtricity-Low-Key",
+		changesFrom: "Shiny Toxtricity-Low-Key",
 	},
 	shinysizzlipede: {
 		num: 850,
@@ -35054,6 +36497,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.7,
 		weightkg: 1,
 		color: "Red",
+		evos: ["Shiny Centiskorch"],
 		eggGroups: ["Bug"],
 	},
 	shinycentiskorch: {
@@ -35065,6 +36509,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 3,
 		weightkg: 120,
 		color: "Red",
+		prevo: "Shiny Sizzlipede",
+		evoLevel: 28,
 		eggGroups: ["Bug"],
 		canGigantamax: "G-Max Centiferno",
 	},
@@ -35080,7 +36526,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		weightkg: 0,
 		color: "Red",
 		eggGroups: ["Bug"],
-		changesFrom: "Centiskorch",
+		changesFrom: "Shiny Centiskorch",
 	},
 	shinyclobbopus: {
 		num: 852,
@@ -35091,6 +36537,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.6,
 		weightkg: 4,
 		color: "Brown",
+		evos: ["Shiny Grapploct"],
 		eggGroups: ["Water 1", "Human-Like"],
 	},
 	shinygrapploct: {
@@ -35102,6 +36549,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.6,
 		weightkg: 39,
 		color: "Blue",
+		prevo: "Shiny Clobbopus",
+		evoType: "levelMove",
+		evoMove: "Taunt",
 		eggGroups: ["Water 1", "Human-Like"],
 	},
 	shinysinistea: {
@@ -35115,6 +36565,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.1,
 		weightkg: 0.2,
 		color: "Purple",
+		evos: ["Shiny Polteageist"],
 		eggGroups: ["Mineral", "Amorphous"],
 		otherFormes: ["Shiny Sinistea-Antique"],
 		formeOrder: ["Shiny Sinistea", "Shiny Sinistea-Antique"],
@@ -35131,6 +36582,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.1,
 		weightkg: 0.2,
 		color: "Purple",
+		evos: ["Shiny Polteageist-Antique"],
 		eggGroups: ["Undiscovered"],
 	},
 	shinypolteageist: {
@@ -35144,6 +36596,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.2,
 		weightkg: 0.4,
 		color: "Purple",
+		prevo: "Shiny Sinistea",
+		evoType: "useItem",
+		evoItem: "Cracked Pot",
 		eggGroups: ["Mineral", "Amorphous"],
 		otherFormes: ["Shiny Polteageist-Antique"],
 		formeOrder: ["Shiny Polteageist", "Shiny Polteageist-Antique"],
@@ -35160,6 +36615,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.2,
 		weightkg: 0.4,
 		color: "Purple",
+		prevo: "Shiny Sinistea-Antique",
+		evoType: "useItem",
+		evoItem: "Chipped Pot",
 		eggGroups: ["Undiscovered"],
 	},
 	shinyhatenna: {
@@ -35172,6 +36630,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.4,
 		weightkg: 3.4,
 		color: "Pink",
+		evos: ["Shiny Hattrem"],
 		eggGroups: ["Fairy"],
 	},
 	shinyhattrem: {
@@ -35184,6 +36643,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.6,
 		weightkg: 4.8,
 		color: "Pink",
+		prevo: "Shiny Hatenna",
+		evoLevel: 32,
+		evos: ["Shiny Hatterene"],
 		eggGroups: ["Fairy"],
 	},
 	shinyhatterene: {
@@ -35196,6 +36658,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 2.1,
 		weightkg: 5.1,
 		color: "Pink",
+		prevo: "Shiny Hattrem",
+		evoLevel: 42,
 		eggGroups: ["Fairy"],
 		canGigantamax: "G-Max Smite",
 	},
@@ -35212,7 +36676,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		weightkg: 0,
 		color: "Pink",
 		eggGroups: ["Fairy"],
-		changesFrom: "Hatterene",
+		changesFrom: "Shiny Hatterene",
 	},
 	shinyimpidimp: {
 		num: 859,
@@ -35224,6 +36688,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.4,
 		weightkg: 5.5,
 		color: "Pink",
+		evos: ["Shiny Morgrem"],
 		eggGroups: ["Fairy", "Human-Like"],
 	},
 	shinymorgrem: {
@@ -35236,6 +36701,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.8,
 		weightkg: 12.5,
 		color: "Pink",
+		prevo: "Shiny Impidimp",
+		evoLevel: 32,
+		evos: ["Shiny Grimmsnarl"],
 		eggGroups: ["Fairy", "Human-Like"],
 	},
 	shinygrimmsnarl: {
@@ -35248,6 +36716,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.5,
 		weightkg: 61,
 		color: "Purple",
+		prevo: "Shiny Morgrem",
+		evoLevel: 42,
 		eggGroups: ["Fairy", "Human-Like"],
 		canGigantamax: "G-Max Snooze",
 	},
@@ -35264,7 +36734,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		weightkg: 0,
 		color: "Purple",
 		eggGroups: ["Fairy", "Human-Like"],
-		changesFrom: "Grimmsnarl",
+		changesFrom: "Shiny Grimmsnarl",
 	},
 	shinyobstagoon: {
 		num: 862,
@@ -35275,6 +36745,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.6,
 		weightkg: 46,
 		color: "Gray",
+		prevo: "Shiny Linoone-Galar",
+		evoLevel: 35,
+		evoCondition: "at night",
 		eggGroups: ["Field"],
 	},
 	shinyperrserker: {
@@ -35286,6 +36759,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.8,
 		weightkg: 28,
 		color: "Brown",
+		prevo: "Shiny Meowth-Galar",
+		evoLevel: 28,
 		eggGroups: ["Field"],
 	},
 	shinycursola: {
@@ -35298,6 +36773,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1,
 		weightkg: 0.4,
 		color: "White",
+		prevo: "Shiny Corsola-Galar",
+		evoLevel: 38,
 		eggGroups: ["Water 1", "Water 3"],
 	},
 	shinysirfetchd: {
@@ -35309,6 +36786,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.8,
 		weightkg: 117,
 		color: "White",
+		prevo: "Shiny Farfetch\u2019d-Galar",
+		evoType: "other",
+		evoCondition: "Land 3 critical hits in 1 battle",
 		eggGroups: ["Flying", "Field"],
 	},
 	shinymrrime: {
@@ -35320,6 +36800,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.5,
 		weightkg: 58.2,
 		color: "Purple",
+		prevo: "Shiny Mr. Mime-Galar",
+		evoLevel: 42,
 		eggGroups: ["Human-Like"],
 	},
 	shinyrunerigus: {
@@ -35331,6 +36813,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.6,
 		weightkg: 66.6,
 		color: "Gray",
+		prevo: "Shiny Yamask-Galar",
+		evoType: "other",
+		evoCondition: "Have 49+ HP lost and walk under stone sculpture in Dusty Bowl",
 		eggGroups: ["Mineral", "Amorphous"],
 	},
 	shinymilcery: {
@@ -35343,6 +36828,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.2,
 		weightkg: 0.3,
 		color: "White",
+		evos: ["Shiny Alcremie"],
 		eggGroups: ["Fairy", "Amorphous"],
 	},
 	shinyalcremie: {
@@ -35356,6 +36842,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.3,
 		weightkg: 0.5,
 		color: "White",
+		prevo: "Shiny Milcery",
+		evoType: "other",
+		evoCondition: "spin while holding a Sweet",
 		eggGroups: ["Fairy", "Amorphous"],
 		cosmeticFormes: ["Shiny Alcremie-Ruby-Cream", "Shiny Alcremie-Matcha-Cream", "Shiny Alcremie-Mint-Cream", "Shiny Alcremie-Lemon-Cream", "Shiny Alcremie-Salted-Cream", "Shiny Alcremie-Ruby-Swirl", "Shiny Alcremie-Caramel-Swirl", "Shiny Alcremie-Rainbow-Swirl"],
 		formeOrder: ["Shiny Alcremie", "Shiny Alcremie-Ruby-Cream", "Shiny Alcremie-Matcha-Cream", "Shiny Alcremie-Mint-Cream", "Shiny Alcremie-Lemon-Cream", "Shiny Alcremie-Salted-Cream", "Shiny Alcremie-Ruby-Swirl", "Shiny Alcremie-Caramel-Swirl", "Shiny Alcremie-Rainbow-Swirl"],
@@ -35423,7 +36912,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		weightkg: 0,
 		color: "Yellow",
 		eggGroups: ["Fairy", "Amorphous"],
-		changesFrom: "Alcremie",
+		changesFrom: "Shiny Alcremie",
 	},
 	shinyfalinks: {
 		num: 870,
@@ -35475,6 +36964,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.3,
 		weightkg: 3.8,
 		color: "White",
+		evos: ["Shiny Frosmoth"],
 		eggGroups: ["Bug"],
 	},
 	shinyfrosmoth: {
@@ -35486,6 +36976,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.3,
 		weightkg: 42,
 		color: "White",
+		prevo: "Shiny Snom",
+		evoType: "levelFriendship",
+		evoCondition: "at night",
 		eggGroups: ["Bug"],
 	},
 	shinystonjourner: {
@@ -35596,6 +37089,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.2,
 		weightkg: 100,
 		color: "Yellow",
+		evos: ["Shiny Copperajah"],
 		eggGroups: ["Field", "Mineral"],
 	},
 	shinycopperajah: {
@@ -35607,6 +37101,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 3,
 		weightkg: 650,
 		color: "Green",
+		prevo: "Shiny Cufant",
+		evoLevel: 34,
 		eggGroups: ["Field", "Mineral"],
 		canGigantamax: "G-Max Steelsurge",
 	},
@@ -35622,7 +37118,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		weightkg: 0,
 		color: "Green",
 		eggGroups: ["Field", "Mineral"],
-		changesFrom: "Copperajah",
+		changesFrom: "Shiny Copperajah",
 	},
 	shinydracozolt: {
 		num: 880,
@@ -35681,6 +37177,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.8,
 		weightkg: 40,
 		color: "White",
+		evos: ["Shiny Archaludon"],
 		eggGroups: ["Mineral", "Dragon"],
 		canGigantamax: "G-Max Depletion",
 	},
@@ -35696,7 +37193,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		weightkg: 0,
 		color: "White",
 		eggGroups: ["Mineral", "Dragon"],
-		changesFrom: "Duraludon",
+		changesFrom: "Shiny Duraludon",
 	},
 	shinydreepy: {
 		num: 885,
@@ -35707,6 +37204,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.5,
 		weightkg: 2,
 		color: "Green",
+		evos: ["Shiny Drakloak"],
 		eggGroups: ["Amorphous", "Dragon"],
 	},
 	shinydrakloak: {
@@ -35718,6 +37216,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.4,
 		weightkg: 11,
 		color: "Green",
+		prevo: "Shiny Dreepy",
+		evoLevel: 50,
+		evos: ["Shiny Dragapult"],
 		eggGroups: ["Amorphous", "Dragon"],
 	},
 	shinydragapult: {
@@ -35729,6 +37230,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 3,
 		weightkg: 50,
 		color: "Green",
+		prevo: "Shiny Drakloak",
+		evoLevel: 60,
 		eggGroups: ["Amorphous", "Dragon"],
 	},
 	shinyzacian: {
@@ -35841,6 +37344,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		weightkg: 12,
 		color: "Gray",
 		tags: ["Sub-Legendary"],
+		evos: ["Shiny Urshifu", "Shiny Urshifu-Rapid-Strike"],
 		eggGroups: ["Undiscovered"],
 	},
 	shinyurshifu: {
@@ -35855,6 +37359,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		weightkg: 105,
 		color: "Gray",
 		tags: ["Sub-Legendary"],
+		prevo: "Shiny Kubfu",
+		evoType: "other",
+		evoCondition: "Defeat the Single Strike Tower",
 		eggGroups: ["Undiscovered"],
 		otherFormes: ["Shiny Urshifu-Rapid-Strike"],
 		formeOrder: ["Shiny Urshifu", "Shiny Urshifu-Rapid-Strike"],
@@ -35872,6 +37379,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.9,
 		weightkg: 105,
 		color: "Gray",
+		prevo: "Shiny Kubfu",
+		evoType: "other",
+		evoCondition: "Defeat the Rapid Strike Tower",
 		eggGroups: ["Undiscovered"],
 		canGigantamax: "G-Max Rapid Flow",
 	},
@@ -35888,7 +37398,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		weightkg: 0,
 		color: "Gray",
 		eggGroups: ["Undiscovered"],
-		changesFrom: "Urshifu",
+		changesFrom: "Shiny Urshifu",
 	},
 	shinyurshifurapidstrikegmax: {
 		num: 892,
@@ -35904,7 +37414,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		color: "Gray",
 		eggGroups: ["Undiscovered"],
 		battleOnly: "Shiny Urshifu-Rapid-Strike",
-		changesFrom: "Urshifu-Rapid-Strike",
+		changesFrom: "Shiny Urshifu-Rapid-Strike",
 	},
 	shinyzarude: {
 		num: 893,
@@ -35999,7 +37509,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		color: "Green",
 		eggGroups: ["Undiscovered"],
 		tags: ["Restricted Legendary"],
-		otherFormes: ["Shiny Calyrex-Ice", "Calyrex-Shadow"],
+		otherFormes: ["Shiny Calyrex-Ice", "Shiny Calyrex-Shadow"],
 		formeOrder: ["Shiny Calyrex", "Shiny Calyrex-Ice", "Shiny Calyrex-Shadow"],
 	},
 	shinycalyrexice: {
@@ -36015,7 +37525,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		weightkg: 809.1,
 		color: "White",
 		eggGroups: ["Undiscovered"],
-		changesFrom: "Calyrex",
+		changesFrom: "Shiny Calyrex",
 	},
 	shinycalyrexshadow: {
 		num: 898,
@@ -36030,7 +37540,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		weightkg: 53.6,
 		color: "Black",
 		eggGroups: ["Undiscovered"],
-		changesFrom: "Calyrex",
+		changesFrom: "Shiny Calyrex",
 	},
 	shinywyrdeer: {
 		num: 899,
@@ -36041,6 +37551,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.8,
 		weightkg: 95.1,
 		color: "Gray",
+		prevo: "Shiny Stantler",
+		evoType: "other",
+		evoCondition: "Use Agile style Psyshield Bash 20 times",
 		eggGroups: ["Field"],
 	},
 	shinykleavor: {
@@ -36052,6 +37565,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.8,
 		weightkg: 89,
 		color: "Brown",
+		prevo: "Shiny Scyther",
+		evoType: "useItem",
+		evoCondition: "Black Augurite",
 		eggGroups: ["Bug"],
 	},
 	shinyursaluna: {
@@ -36063,6 +37579,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 2.4,
 		weightkg: 290,
 		color: "Brown",
+		prevo: "Shiny Ursaring",
+		evoType: "other",
+		evoCondition: "Peat Block when there's a full moon",
 		eggGroups: ["Field"],
 		otherFormes: ["Shiny Ursaluna-Bloodmoon"],
 		formeOrder: ["Shiny Ursaluna", "Shiny Ursaluna-Bloodmoon"],
@@ -36093,6 +37612,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 3,
 		weightkg: 110,
 		color: "Green",
+		prevo: "Shiny Basculin-White-Striped",
+		evoType: "other",
+		evoCondition: "Receive 294+ recoil without fainting",
 		eggGroups: ["Water 2"],
 		otherFormes: ["Shiny Basculegion-F"],
 		formeOrder: ["Shiny Basculegion", "Shiny Basculegion-F"],
@@ -36109,6 +37631,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 3,
 		weightkg: 110,
 		color: "Green",
+		prevo: "Shiny Basculin-White-Striped",
+		evoType: "other",
+		evoCondition: "Receive 294+ recoil without fainting",
 		eggGroups: ["Water 2"],
 	},
 	shinysneasler: {
@@ -36120,6 +37645,10 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.3,
 		weightkg: 43,
 		color: "Blue",
+		prevo: "Shiny Sneasel-Hisui",
+		evoType: "levelHold",
+		evoItem: "Razor Claw",
+		evoCondition: "during the day",
 		eggGroups: ["Field"],
 	},
 	shinyoverqwil: {
@@ -36131,6 +37660,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 2.5,
 		weightkg: 60.5,
 		color: "Black",
+		prevo: "Shiny Qwilfish-Hisui",
+		evoType: "other",
+		evoCondition: "Use Strong style Barb Barrage 20 times",
 		eggGroups: ["Water 2"],
 	},
 	shinyenamorus: {
@@ -36162,7 +37694,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		weightkg: 48,
 		color: "Pink",
 		eggGroups: ["Undiscovered"],
-		changesFrom: "Enamorus",
+		changesFrom: "Shiny Enamorus",
 	},
 	shinysprigatito: {
 		num: 906,
@@ -36174,6 +37706,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.4,
 		weightkg: 4.1,
 		color: "Green",
+		evos: ["Shiny Floragato"],
 		eggGroups: ["Field", "Grass"],
 	},
 	shinyfloragato: {
@@ -36186,6 +37719,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.9,
 		weightkg: 12.2,
 		color: "Green",
+		prevo: "Shiny Sprigatito",
+		evoLevel: 16,
+		evos: ["Shiny Meowscarada"],
 		eggGroups: ["Field", "Grass"],
 	},
 	shinymeowscarada: {
@@ -36198,6 +37734,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.5,
 		weightkg: 31.2,
 		color: "Green",
+		prevo: "Shiny Floragato",
+		evoLevel: 36,
 		eggGroups: ["Field", "Grass"],
 	},
 	shinyfuecoco: {
@@ -36210,6 +37748,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.4,
 		weightkg: 9.8,
 		color: "Red",
+		evos: ["Shiny Crocalor"],
 		eggGroups: ["Field"],
 	},
 	shinycrocalor: {
@@ -36222,6 +37761,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1,
 		weightkg: 30.7,
 		color: "Red",
+		prevo: "Shiny Fuecoco",
+		evoLevel: 16,
+		evos: ["Shiny Skeledirge"],
 		eggGroups: ["Field"],
 	},
 	shinyskeledirge: {
@@ -36234,6 +37776,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.6,
 		weightkg: 326.5,
 		color: "Red",
+		prevo: "Shiny Crocalor",
+		evoLevel: 36,
 		eggGroups: ["Field"],
 	},
 	shinyquaxly: {
@@ -36246,6 +37790,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.5,
 		weightkg: 6.1,
 		color: "Blue",
+		evos: ["Shiny Quaxwell"],
 		eggGroups: ["Flying", "Water 1"],
 	},
 	shinyquaxwell: {
@@ -36258,6 +37803,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.2,
 		weightkg: 21.5,
 		color: "Blue",
+		prevo: "Shiny Quaxly",
+		evoLevel: 16,
+		evos: ["Shiny Quaquaval"],
 		eggGroups: ["Flying", "Water 1"],
 	},
 	shinyquaquaval: {
@@ -36270,6 +37818,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.8,
 		weightkg: 61.9,
 		color: "Blue",
+		prevo: "Shiny Quaxwell",
+		evoLevel: 36,
 		eggGroups: ["Flying", "Water 1"],
 	},
 	shinylechonk: {
@@ -36281,6 +37831,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.5,
 		weightkg: 10.2,
 		color: "Gray",
+		evos: ["Shiny Oinkologne", "Shiny Oinkologne-F"],
 		eggGroups: ["Field"],
 	},
 	shinyoinkologne: {
@@ -36294,6 +37845,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1,
 		weightkg: 120,
 		color: "Gray",
+		prevo: "Shiny Lechonk",
+		evoLevel: 18,
 		otherFormes: ["Shiny Oinkologne-F"],
 		formeOrder: ["Shiny Oinkologne", "Shiny Oinkologne-F"],
 		eggGroups: ["Field"],
@@ -36310,6 +37863,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1,
 		weightkg: 120,
 		color: "Brown",
+		prevo: "Shiny Lechonk",
+		evoLevel: 18,
 		eggGroups: ["Field"],
 	},
 	shinytarountula: {
@@ -36321,6 +37876,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.3,
 		weightkg: 4,
 		color: "White",
+		evos: ["Shiny Spidops"],
 		eggGroups: ["Bug"],
 	},
 	shinyspidops: {
@@ -36332,6 +37888,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1,
 		weightkg: 16.5,
 		color: "Green",
+		prevo: "Shiny Tarountula",
+		evoLevel: 15,
 		eggGroups: ["Bug"],
 	},
 	shinynymble: {
@@ -36343,6 +37901,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.2,
 		weightkg: 1,
 		color: "Gray",
+		evos: ["Shiny Lokix"],
 		eggGroups: ["Bug"],
 	},
 	shinylokix: {
@@ -36354,6 +37913,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1,
 		weightkg: 17.5,
 		color: "Gray",
+		prevo: "Shiny Nymble",
+		evoLevel: 24,
 		eggGroups: ["Bug"],
 	},
 	shinypawmi: {
@@ -36365,6 +37926,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.3,
 		weightkg: 2.5,
 		color: "Yellow",
+		evos: ["Shiny Pawmo"],
 		eggGroups: ["Field"],
 	},
 	shinypawmo: {
@@ -36376,6 +37938,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.4,
 		weightkg: 6.5,
 		color: "Yellow",
+		prevo: "Shiny Pawmi",
+		evoLevel: 18,
+		evos: ["Shiny Pawmot"],
 		eggGroups: ["Field"],
 	},
 	shinypawmot: {
@@ -36387,6 +37952,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.9,
 		weightkg: 41,
 		color: "Yellow",
+		prevo: "Shiny Pawmo",
+		evoType: "other",
+		evoCondition: "walk 1000 steps in Let's Go",
 		eggGroups: ["Field"],
 	},
 	shinytandemaus: {
@@ -36399,6 +37967,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.3,
 		weightkg: 1.8,
 		color: "White",
+		evos: ["Shiny Maushold", "Shiny Maushold-Four"],
 		eggGroups: ["Field", "Fairy"],
 	},
 	shinymaushold: {
@@ -36412,6 +37981,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.3,
 		weightkg: 2.3,
 		color: "White",
+		prevo: "Shiny Tandemaus",
+		evoLevel: 25,
 		otherFormes: ["Shiny Maushold-Four"],
 		formeOrder: ["Shiny Maushold", "Shiny Maushold-Four"],
 		eggGroups: ["Field", "Fairy"],
@@ -36428,6 +37999,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.3,
 		weightkg: 2.8,
 		color: "White",
+		prevo: "Shiny Tandemaus",
+		evoLevel: 25,
 		eggGroups: ["Field", "Fairy"],
 	},
 	shinyfidough: {
@@ -36439,6 +38012,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.3,
 		weightkg: 10.9,
 		color: "Yellow",
+		evos: ["Shiny Dachsbun"],
 		eggGroups: ["Field", "Mineral"],
 	},
 	shinydachsbun: {
@@ -36450,6 +38024,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.5,
 		weightkg: 14.9,
 		color: "Brown",
+		prevo: "Shiny Fidough",
+		evoLevel: 26,
 		eggGroups: ["Field", "Mineral"],
 	},
 	shinysmoliv: {
@@ -36461,6 +38037,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.3,
 		weightkg: 6.5,
 		color: "Green",
+		evos: ["Shiny Dolliv"],
 		eggGroups: ["Grass"],
 	},
 	shinydolliv: {
@@ -36472,6 +38049,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.6,
 		weightkg: 11.9,
 		color: "Green",
+		prevo: "Shiny Smoliv",
+		evoLevel: 25,
+		evos: ["Shiny Arboliva"],
 		eggGroups: ["Grass"],
 	},
 	shinyarboliva: {
@@ -36483,6 +38063,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.4,
 		weightkg: 48.2,
 		color: "Green",
+		prevo: "Shiny Dolliv",
+		evoLevel: 35,
 		eggGroups: ["Grass"],
 	},
 	shinysquawkabilly: {
@@ -36495,7 +38077,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.6,
 		weightkg: 2.4,
 		color: "Green",
-		otherFormes: ["Shiny Squawkabilly-Blue", "Squawkabilly-Yellow", "Squawkabilly-White"],
+		otherFormes: ["Shiny Squawkabilly-Blue", "Shiny Squawkabilly-Yellow", "Shiny Squawkabilly-White"],
 		formeOrder: ["Shiny Squawkabilly", "Shiny Squawkabilly-Blue", "Shiny Squawkabilly-Yellow", "Shiny Squawkabilly-White"],
 		eggGroups: ["Flying"],
 	},
@@ -36547,6 +38129,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.4,
 		weightkg: 16,
 		color: "Brown",
+		evos: ["Shiny Naclstack"],
 		eggGroups: ["Mineral"],
 	},
 	shinynaclstack: {
@@ -36558,6 +38141,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.6,
 		weightkg: 105,
 		color: "Brown",
+		prevo: "Shiny Nacli",
+		evoLevel: 24,
+		evos: ["Shiny Garganacl"],
 		eggGroups: ["Mineral"],
 	},
 	shinygarganacl: {
@@ -36569,6 +38155,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 2.3,
 		weightkg: 240,
 		color: "Brown",
+		prevo: "Shiny Naclstack",
+		evoLevel: 38,
 		eggGroups: ["Mineral"],
 	},
 	shinycharcadet: {
@@ -36580,6 +38168,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.6,
 		weightkg: 10.5,
 		color: "Red",
+		evos: ["Shiny Armarouge", "Shiny Ceruledge"],
 		eggGroups: ["Human-Like"],
 	},
 	shinyarmarouge: {
@@ -36591,6 +38180,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.5,
 		weightkg: 85,
 		color: "Red",
+		prevo: "Shiny Charcadet",
+		evoType: "useItem",
+		evoItem: "Auspicious Armor",
 		eggGroups: ["Human-Like"],
 	},
 	shinyceruledge: {
@@ -36602,6 +38194,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.6,
 		weightkg: 62,
 		color: "Purple",
+		prevo: "Shiny Charcadet",
+		evoType: "useItem",
+		evoItem: "Malicious Armor",
 		eggGroups: ["Human-Like"],
 	},
 	shinytadbulb: {
@@ -36613,6 +38208,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.3,
 		weightkg: 0.4,
 		color: "Yellow",
+		evos: ["Shiny Bellibolt"],
 		eggGroups: ["Water 1"],
 	},
 	shinybellibolt: {
@@ -36624,6 +38220,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.2,
 		weightkg: 113,
 		color: "Green",
+		prevo: "Shiny Tadbulb",
+		evoType: "useItem",
+		evoItem: "Thunder Stone",
 		eggGroups: ["Water 1"],
 	},
 	shinywattrel: {
@@ -36635,6 +38234,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.4,
 		weightkg: 3.6,
 		color: "Black",
+		evos: ["Shiny Kilowattrel"],
 		eggGroups: ["Water 1", "Flying"],
 	},
 	shinykilowattrel: {
@@ -36646,6 +38246,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.4,
 		weightkg: 38.6,
 		color: "Yellow",
+		prevo: "Shiny Wattrel",
+		evoLevel: 25,
 		eggGroups: ["Water 1", "Flying"],
 	},
 	shinymaschiff: {
@@ -36657,6 +38259,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.5,
 		weightkg: 16,
 		color: "Brown",
+		evos: ["Shiny Mabosstiff"],
 		eggGroups: ["Field"],
 	},
 	shinymabosstiff: {
@@ -36668,6 +38271,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.1,
 		weightkg: 61,
 		color: "Gray",
+		prevo: "Shiny Maschiff",
+		evoLevel: 30,
 		eggGroups: ["Field"],
 	},
 	shinyshroodle: {
@@ -36679,6 +38284,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.2,
 		weightkg: 0.7,
 		color: "Gray",
+		evos: ["Shiny Grafaiai"],
 		eggGroups: ["Field"],
 	},
 	shinygrafaiai: {
@@ -36690,6 +38296,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.7,
 		weightkg: 27.2,
 		color: "Gray",
+		prevo: "Shiny Shroodle",
+		evoLevel: 28,
 		eggGroups: ["Field"],
 	},
 	shinybramblin: {
@@ -36701,6 +38309,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.6,
 		weightkg: 0.6,
 		color: "Brown",
+		evos: ["Shiny Brambleghast"],
 		eggGroups: ["Grass"],
 	},
 	shinybrambleghast: {
@@ -36712,6 +38321,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.2,
 		weightkg: 6,
 		color: "Brown",
+		prevo: "Shiny Bramblin",
+		evoType: "other",
+		evoCondition: "Walk 1000 steps in Let's Go",
 		eggGroups: ["Grass"],
 	},
 	shinytoedscool: {
@@ -36723,6 +38335,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.9,
 		weightkg: 33,
 		color: "Yellow",
+		evos: ["Shiny Toedscruel"],
 		eggGroups: ["Field"],
 	},
 	shinytoedscruel: {
@@ -36734,6 +38347,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.9,
 		weightkg: 58,
 		color: "Black",
+		prevo: "Shiny Toedscool",
+		evoLevel: 30,
 		eggGroups: ["Field"],
 	},
 	shinyklawf: {
@@ -36756,6 +38371,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.3,
 		weightkg: 3,
 		color: "Green",
+		evos: ["Shiny Scovillain"],
 		eggGroups: ["Grass"],
 	},
 	shinyscovillain: {
@@ -36767,6 +38383,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.9,
 		weightkg: 15,
 		color: "Green",
+		prevo: "Shiny Capsakid",
+		evoType: "useItem",
+		evoItem: "Fire Stone",
 		eggGroups: ["Grass"],
 		otherFormes: ["Shiny Scovillain-Mega"],
 		formeOrder: ["Shiny Scovillain", "Shiny Scovillain-Mega"],
@@ -36794,6 +38413,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.2,
 		weightkg: 1,
 		color: "Brown",
+		evos: ["Shiny Rabsca"],
 		eggGroups: ["Bug"],
 	},
 	shinyrabsca: {
@@ -36805,6 +38425,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.3,
 		weightkg: 3.5,
 		color: "Green",
+		prevo: "Shiny Rellor",
+		evoType: "other",
+		evoCondition: "walk 1000 steps in Let's Go",
 		eggGroups: ["Bug"],
 	},
 	shinyflittle: {
@@ -36816,6 +38439,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.2,
 		weightkg: 1.5,
 		color: "Yellow",
+		evos: ["Shiny Espathra"],
 		eggGroups: ["Flying"],
 	},
 	shinyespathra: {
@@ -36827,6 +38451,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.9,
 		weightkg: 90,
 		color: "Yellow",
+		prevo: "Shiny Flittle",
+		evoLevel: 35,
 		eggGroups: ["Flying"],
 	},
 	shinytinkatink: {
@@ -36839,6 +38465,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.4,
 		weightkg: 8.9,
 		color: "Pink",
+		evos: ["Shiny Tinkatuff"],
 		eggGroups: ["Fairy"],
 	},
 	shinytinkatuff: {
@@ -36851,6 +38478,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.7,
 		weightkg: 59.1,
 		color: "Pink",
+		prevo: "Shiny Tinkatink",
+		evoLevel: 24,
+		evos: ["Shiny Tinkaton"],
 		eggGroups: ["Fairy"],
 	},
 	shinytinkaton: {
@@ -36863,6 +38493,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.7,
 		weightkg: 112.8,
 		color: "Pink",
+		prevo: "Shiny Tinkatuff",
+		evoLevel: 38,
 		eggGroups: ["Fairy"],
 	},
 	shinywiglett: {
@@ -36874,6 +38506,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.2,
 		weightkg: 1.8,
 		color: "White",
+		evos: ["Shiny Wugtrio"],
 		eggGroups: ["Water 3"],
 	},
 	shinywugtrio: {
@@ -36885,6 +38518,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.2,
 		weightkg: 5.4,
 		color: "Red",
+		prevo: "Shiny Wiglett",
+		evoLevel: 26,
 		eggGroups: ["Water 3"],
 	},
 	shinybombirdier: {
@@ -36907,6 +38542,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.3,
 		weightkg: 60.2,
 		color: "Blue",
+		evos: ["Shiny Palafin"],
 		eggGroups: ["Field", "Water 2"],
 	},
 	shinypalafin: {
@@ -36919,6 +38555,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.3,
 		weightkg: 60.2,
 		color: "Blue",
+		prevo: "Shiny Finizen",
+		evoLevel: 38,
 		otherFormes: ["Shiny Palafin-Hero"],
 		formeOrder: ["Shiny Palafin", "Shiny Palafin-Hero"],
 		eggGroups: ["Field", "Water 2"],
@@ -36947,6 +38585,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1,
 		weightkg: 35,
 		color: "Gray",
+		evos: ["Shiny Revavroom"],
 		eggGroups: ["Mineral"],
 	},
 	shinyrevavroom: {
@@ -36958,6 +38597,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.8,
 		weightkg: 120,
 		color: "Gray",
+		prevo: "Shiny Varoom",
+		evoLevel: 40,
 		eggGroups: ["Mineral"],
 	},
 	shinycyclizar: {
@@ -36991,6 +38632,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.7,
 		weightkg: 8,
 		color: "Blue",
+		evos: ["Shiny Glimmora"],
 		eggGroups: ["Mineral"],
 	},
 	shinyglimmora: {
@@ -37002,6 +38644,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.5,
 		weightkg: 45,
 		color: "Blue",
+		prevo: "Shiny Glimmet",
+		evoLevel: 35,
 		eggGroups: ["Mineral"],
 		otherFormes: ["Shiny Glimmora-Mega"],
 		formeOrder: ["Shiny Glimmora", "Shiny Glimmora-Mega"],
@@ -37029,6 +38673,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.6,
 		weightkg: 35,
 		color: "White",
+		evos: ["Shiny Houndstone"],
 		eggGroups: ["Field"],
 	},
 	shinyhoundstone: {
@@ -37040,6 +38685,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 2,
 		weightkg: 15,
 		color: "White",
+		prevo: "Shiny Greavard",
+		evoLevel: 30,
+		evoCondition: "at night",
 		eggGroups: ["Field"],
 	},
 	shinyflamigo: {
@@ -37062,6 +38710,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.2,
 		weightkg: 45,
 		color: "White",
+		evos: ["Shiny Cetitan"],
 		eggGroups: ["Field"],
 	},
 	shinycetitan: {
@@ -37073,6 +38722,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 4.5,
 		weightkg: 700,
 		color: "White",
+		prevo: "Shiny Cetoddle",
+		evoType: "useItem",
+		evoItem: "Ice Stone",
 		eggGroups: ["Field"],
 	},
 	shinyveluza: {
@@ -37108,7 +38760,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		weightkg: 8,
 		color: "Red",
 		eggGroups: ["Water 2"],
-		otherFormes: ["Shiny Tatsugiri-Droopy", "Tatsugiri-Stretchy", "Tatsugiri-Curly-Mega", "Tatsugiri-Droopy-Mega", "Tatsugiri-Stretchy-Mega"],
+		otherFormes: ["Shiny Tatsugiri-Droopy", "Shiny Tatsugiri-Stretchy", "Shiny Tatsugiri-Curly-Mega", "Shiny Tatsugiri-Droopy-Mega", "Shiny Tatsugiri-Stretchy-Mega"],
 		formeOrder: ["Shiny Tatsugiri", "Shiny Tatsugiri-Droopy", "Shiny Tatsugiri-Stretchy", "Shiny Tatsugiri-Curly-Mega", "Shiny Tatsugiri-Droopy-Mega", "Shiny Tatsugiri-Stretchy-Mega"],
 	},
 	shinytatsugiridroopy: {
@@ -37191,6 +38843,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.2,
 		weightkg: 56,
 		color: "Gray",
+		prevo: "Shiny Primeape",
+		evoType: "other",
+		evoCondition: "Use Rage Fist 20 times and level-up",
 		eggGroups: ["Field"],
 	},
 	shinyclodsire: {
@@ -37202,6 +38857,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.8,
 		weightkg: 223,
 		color: "Brown",
+		prevo: "Shiny Wooper-Paldea",
+		evoLevel: 20,
 		eggGroups: ["Water 1", "Field"],
 	},
 	shinyfarigiraf: {
@@ -37213,6 +38870,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 3.2,
 		weightkg: 160,
 		color: "Brown",
+		prevo: "Shiny Girafarig",
+		evoType: "levelMove",
+		evoMove: "Twin Beam",
 		eggGroups: ["Field"],
 	},
 	shinydudunsparce: {
@@ -37225,6 +38885,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 3.6,
 		weightkg: 39.2,
 		color: "Yellow",
+		prevo: "Shiny Dunsparce",
+		evoType: "levelMove",
+		evoMove: "Hyper Drill",
 		otherFormes: ["Shiny Dudunsparce-Three-Segment"],
 		formeOrder: ["Shiny Dudunsparce", "Shiny Dudunsparce-Three-Segment"],
 		eggGroups: ["Field"],
@@ -37240,6 +38903,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 4.5,
 		weightkg: 47.4,
 		color: "Yellow",
+		prevo: "Shiny Dunsparce",
+		evoType: "levelMove",
+		evoMove: "Hyper Drill",
 		eggGroups: ["Field"],
 	},
 	shinykingambit: {
@@ -37251,6 +38917,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 2,
 		weightkg: 120,
 		color: "Black",
+		prevo: "Shiny Bisharp",
+		evoType: "other",
+		evoCondition: "Defeat 3 Bisharp leading Pawniard and level-up",
 		eggGroups: ["Human-Like"],
 	},
 	shinygreattusk: {
@@ -37418,6 +39087,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.5,
 		weightkg: 17,
 		color: "Gray",
+		evos: ["Shiny Arctibax"],
 		eggGroups: ["Dragon", "Mineral"],
 	},
 	shinyarctibax: {
@@ -37429,6 +39099,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.8,
 		weightkg: 30,
 		color: "Blue",
+		prevo: "Shiny Frigibax",
+		evoLevel: 35,
+		evos: ["Shiny Baxcalibur"],
 		eggGroups: ["Dragon", "Mineral"],
 	},
 	shinybaxcalibur: {
@@ -37440,6 +39113,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 2.1,
 		weightkg: 210,
 		color: "Blue",
+		prevo: "Shiny Arctibax",
+		evoLevel: 54,
 		eggGroups: ["Dragon", "Mineral"],
 		otherFormes: ["Shiny Baxcalibur-Mega"],
 		formeOrder: ["Shiny Baxcalibur", "Shiny Baxcalibur-Mega"],
@@ -37469,6 +39144,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.3,
 		weightkg: 5,
 		color: "Red",
+		evos: ["Shiny Gholdengo"],
 		otherFormes: ["Shiny Gimmighoul-Roaming"],
 		formeOrder: ["Shiny Gimmighoul", "Shiny Gimmighoul-Roaming"],
 		eggGroups: ["Undiscovered"],
@@ -37485,6 +39161,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.1,
 		weightkg: 0.1,
 		color: "Gray",
+		evos: ["Shiny Gholdengo"],
 		eggGroups: ["Undiscovered"],
 	},
 	shinygholdengo: {
@@ -37497,6 +39174,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.2,
 		weightkg: 30,
 		color: "Yellow",
+		prevo: "Shiny Gimmighoul",
+		evoType: "other",
+		evoCondition: "Level up with 999 Coins in the bag",
 		eggGroups: ["Undiscovered"],
 	},
 	shinywochien: {
@@ -37638,6 +39318,10 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.4,
 		weightkg: 4.4,
 		color: "Green",
+		prevo: "Shiny Applin",
+		evos: ["Shiny Hydrapple"],
+		evoType: "useItem",
+		evoItem: "Syrupy Apple",
 		eggGroups: ["Grass", "Dragon"],
 	},
 	shinypoltchageist: {
@@ -37651,6 +39335,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.1,
 		weightkg: 1.1,
 		color: "Green",
+		evos: ["Shiny Sinistcha"],
 		eggGroups: ["Mineral", "Amorphous"],
 		otherFormes: ["Shiny Poltchageist-Artisan"],
 		formeOrder: ["Shiny Poltchageist", "Shiny Poltchageist-Artisan"],
@@ -37667,6 +39352,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.1,
 		weightkg: 1.1,
 		color: "Green",
+		evos: ["Shiny Sinistcha-Masterpiece"],
 		eggGroups: ["Undiscovered"],
 	},
 	shinysinistcha: {
@@ -37680,6 +39366,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.2,
 		weightkg: 2.2,
 		color: "Green",
+		prevo: "Shiny Poltchageist",
+		evoType: "useItem",
+		evoItem: "Unremarkable Teacup",
 		eggGroups: ["Mineral", "Amorphous"],
 		otherFormes: ["Shiny Sinistcha-Masterpiece"],
 		formeOrder: ["Shiny Sinistcha", "Shiny Sinistcha-Masterpiece"],
@@ -37696,6 +39385,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.2,
 		weightkg: 2.2,
 		color: "Green",
+		prevo: "Shiny Poltchageist-Artisan",
+		evoType: "useItem",
+		evoItem: "Masterpiece Teacup",
 		eggGroups: ["Undiscovered"],
 	},
 	shinyokidogi: {
@@ -37750,7 +39442,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		color: "Green",
 		tags: ["Sub-Legendary"],
 		eggGroups: ["Undiscovered"],
-		otherFormes: ["Shiny Ogerpon-Wellspring", "Ogerpon-Hearthflame", "Ogerpon-Cornerstone", "Ogerpon-Teal-Tera", "Ogerpon-Wellspring-Tera", "Ogerpon-Hearthflame-Tera", "Ogerpon-Cornerstone-Tera"],
+		otherFormes: ["Shiny Ogerpon-Wellspring", "Shiny Ogerpon-Hearthflame", "Shiny Ogerpon-Cornerstone", "Shiny Ogerpon-Teal-Tera", "Shiny Ogerpon-Wellspring-Tera", "Shiny Ogerpon-Hearthflame-Tera", "Shiny Ogerpon-Cornerstone-Tera"],
 		formeOrder: ["Shiny Ogerpon", "Shiny Ogerpon-Wellspring", "Shiny Ogerpon-Hearthflame", "Shiny Ogerpon-Cornerstone", "Shiny Ogerpon-Teal-Tera", "Shiny Ogerpon-Wellspring-Tera", "Shiny Ogerpon-Hearthflame-Tera", "Shiny Ogerpon-Cornerstone-Tera"],
 		requiredTeraType: "Grass",
 	},
@@ -37768,7 +39460,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		color: "Blue",
 		eggGroups: ["Undiscovered"],
 		requiredItem: "Wellspring Mask",
-		changesFrom: "Ogerpon",
+		changesFrom: "Shiny Ogerpon",
 		requiredTeraType: "Water",
 	},
 	shinyogerponhearthflame: {
@@ -37785,7 +39477,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		color: "Red",
 		eggGroups: ["Undiscovered"],
 		requiredItem: "Hearthflame Mask",
-		changesFrom: "Ogerpon",
+		changesFrom: "Shiny Ogerpon",
 		requiredTeraType: "Fire",
 	},
 	shinyogerponcornerstone: {
@@ -37802,7 +39494,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		color: "Gray",
 		eggGroups: ["Undiscovered"],
 		requiredItem: "Cornerstone Mask",
-		changesFrom: "Ogerpon",
+		changesFrom: "Shiny Ogerpon",
 		requiredTeraType: "Rock",
 	},
 	shinyogerpontealtera: {
@@ -37881,6 +39573,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 2,
 		weightkg: 60,
 		color: "White",
+		prevo: "Shiny Duraludon",
+		evoType: "useItem",
+		evoItem: "Metal Alloy",
 		eggGroups: ["Mineral", "Dragon"],
 	},
 	shinyhydrapple: {
@@ -37892,6 +39587,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.8,
 		weightkg: 93,
 		color: "Green",
+		prevo: "Shiny Dipplin",
+		evoType: "levelMove",
+		evoMove: "Dragon Cheer",
 		eggGroups: ["Grass", "Dragon"],
 	},
 	shinygougingfire: {
@@ -37953,7 +39651,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		color: "Blue",
 		tags: ["Restricted Legendary"],
 		eggGroups: ["Undiscovered"],
-		otherFormes: ["Shiny Terapagos-Terastal", "Terapagos-Stellar"],
+		otherFormes: ["Shiny Terapagos-Terastal", "Shiny Terapagos-Stellar"],
 		formeOrder: ["Shiny Terapagos", "Shiny Terapagos-Terastal", "Shiny Terapagos-Stellar"],
 		requiredTeraType: "Stellar",
 	},
