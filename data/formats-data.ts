@@ -6062,7 +6062,6 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinyvenusaur: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinyvenusaurmega: {
@@ -6082,7 +6081,6 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinycharizard: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinycharizardmegax: {
@@ -6106,8 +6104,7 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 		tier: "Illegal",
 	},
 	shinyblastoise: {
-		tier: "IllegalBL",
-		doublesTier: "(Illegal)",
+		tier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinyblastoisemega: {
@@ -6217,7 +6214,6 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinyarbok: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinypichu: {
@@ -6229,7 +6225,6 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinypikachu: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinypikachucosplay: {
@@ -6258,37 +6253,30 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinypikachuoriginal: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinypikachuhoenn: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinypikachusinnoh: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinypikachuunova: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinypikachukalos: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinypikachualola: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinypikachupartner: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinypikachustarter: {
@@ -6301,17 +6289,14 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinypikachuworld: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinyraichu: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinyraichualola: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinysandshrew: {
@@ -6322,12 +6307,10 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinysandslash: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinysandslashalola: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinynidoranf: {
@@ -6365,12 +6348,10 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinyclefairy: {
 		tier: "Illegal",
-		doublesTier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinyclefable: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinyvulpix: {
@@ -6383,12 +6364,10 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinyninetales: {
 		tier: "Illegal",
-		doublesTier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinyninetalesalola: {
 		tier: "Illegal",
-		IllegalblesTier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinyigglybuff: {
@@ -6399,7 +6378,6 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinywigglytuff: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinyzubat: {
@@ -6425,12 +6403,10 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinyvileplume: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinybellossom: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinyparas: {
@@ -6448,7 +6424,6 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinyvenomoth: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinydiglett: {
@@ -6459,12 +6434,10 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinydugtrio: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinydugtrioalola: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinymeowth: {
@@ -6482,17 +6455,14 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinypersian: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinypersianalola: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinyperrserker: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinypsyduck: {
@@ -6500,7 +6470,6 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinygolduck: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinymankey: {
@@ -6519,12 +6488,10 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinyarcanine: {
 		tier: "Illegal",
-		doublesTier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinyarcaninehisui: {
 		tier: "Illegal",
-		doublesTier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinypoliwag: {
@@ -6535,12 +6502,10 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinypoliwrath: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinypolitoed: {
 		tier: "Illegal",
-		doublesTier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinyabra: {
@@ -6590,7 +6555,6 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinyvictreebel: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinytentacool: {
@@ -6598,7 +6562,6 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinytentacruel: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinygeodude: {
@@ -6615,12 +6578,10 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinygolem: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinygolemalola: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinyponyta: {
@@ -6651,7 +6612,6 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinyslowbro: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinyslowbromega: {
@@ -6661,17 +6621,14 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinyslowbrogalar: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinyslowking: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinyslowkinggalar: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinymagnemite: {
@@ -6684,7 +6641,6 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinymagnezone: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinyfarfetchd: {
@@ -6707,7 +6663,6 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinydodrio: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinyseel: {
@@ -6715,7 +6670,6 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinydewgong: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinygrimer: {
@@ -6726,20 +6680,17 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinymuk: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinymukalola: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinyshellder: {
 		tier: "Illegal",
 	},
 	shinycloyster: {
-		tier: "IllegalBL",
-		doublesTier: "(Illegal)",
+		tier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinygastly: {
@@ -6750,7 +6701,6 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinygengar: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinygengarmega: {
@@ -6782,7 +6732,6 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinyhypno: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinykrabby: {
@@ -6804,17 +6753,14 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinyvoltorbhisui: {
 		tier: "Illegal",
-		doublesTier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinyelectrode: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinyelectrodehisui: {
-		tier: "IllegalBL",
-		doublesTier: "(Illegal)",
+		tier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinyexeggcute: {
@@ -6822,12 +6768,10 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinyexeggutor: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinyexeggutoralola: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinycubone: {
@@ -6854,17 +6798,14 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinyhitmonlee: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinyhitmonchan: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinyhitmontop: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinylickitung: {
@@ -6882,12 +6823,10 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinyweezing: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinyweezinggalar: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinyrhyhorn: {
@@ -6900,7 +6839,6 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinyrhyperior: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinyhappiny: {
@@ -6913,7 +6851,6 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinyblissey: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinytangela: {
@@ -6943,8 +6880,7 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 		tier: "Illegal",
 	},
 	shinykingdra: {
-		tier: "IllegalBL",
-		doublesTier: "(Illegal)",
+		tier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinygoldeen: {
@@ -6994,7 +6930,6 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinyscizor: {
 		tier: "Illegal",
-		doublesTier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinyscizormega: {
@@ -7004,7 +6939,6 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinykleavor: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinysmoochum: {
@@ -7025,7 +6959,6 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinyelectivire: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinymagby: {
@@ -7036,7 +6969,6 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinymagmortar: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinypinsir: {
@@ -7051,30 +6983,25 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinytauros: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinytaurospaldeacombat: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinytaurospaldeablaze: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinytaurospaldeaaqua: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinymagikarp: {
 		tier: "Illegal",
 	},
 	shinygyarados: {
-		tier: "IllegalBL",
-		doublesTier: "Illegal",
+		tier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinygyaradosmega: {
@@ -7084,7 +7011,6 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinylapras: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinylaprasgmax: {
@@ -7093,7 +7019,6 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinyditto: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinyeevee: {
@@ -7109,42 +7034,34 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinyvaporeon: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinyjolteon: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinyflareon: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinyespeon: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinyumbreon: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinyleafeon: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinyglaceon: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinysylveon: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinyporygon: {
@@ -7152,12 +7069,10 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinyporygon2: {
 		tier: "Illegal",
-		doublesTier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinyporygonz: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinyomanyte: {
@@ -7195,7 +7110,6 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinysnorlax: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinysnorlaxgmax: {
@@ -7204,32 +7118,26 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinyarticuno: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinyarticunogalar: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinyzapdos: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinyzapdosgalar: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinymoltres: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinymoltresgalar: {
 		tier: "Illegal",
-		doublesTier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinydratini: {
@@ -7240,27 +7148,22 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinydragonite: {
 		tier: "Illegal",
-		IllegalblesTier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinymewtwo: {
 		tier: "Illegal",
-		doublesTier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinymewtwomegax: {
 		tier: "Illegal",
-		doublesTier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinymewtwomegay: {
 		tier: "Illegal",
-		doublesTier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinymew: {
 		tier: "Illegal",
-		IllegalblesTier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinychikorita: {
@@ -7271,7 +7174,6 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinymeganium: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinycyndaquil: {
@@ -7282,12 +7184,10 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinytyphlosion: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinytyphlosionhisui: {
 		tier: "Illegal",
-		doublesTier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinytotodile: {
@@ -7297,8 +7197,7 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 		tier: "Illegal",
 	},
 	shinyferaligatr: {
-		tier: "IllegalBL",
-		doublesTier: "(Illegal)",
+		tier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinysentret: {
@@ -7306,7 +7205,6 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinyfurret: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinyhoothoot: {
@@ -7314,7 +7212,6 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinynoctowl: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinyledyba: {
@@ -7332,7 +7229,6 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinyariados: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinychinchou: {
@@ -7340,7 +7236,6 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinylanturn: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinytogepi: {
@@ -7376,7 +7271,6 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinyampharos: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinyampharosmega: {
@@ -7392,7 +7286,6 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinyazumarill: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinybonsly: {
@@ -7400,7 +7293,6 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinysudowoodo: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinyhoppip: {
@@ -7411,7 +7303,6 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinyjumpluff: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinyaipom: {
@@ -7419,7 +7310,6 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinyambipom: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinysunkern: {
@@ -7427,15 +7317,13 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinysunflora: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinyyanma: {
 		tier: "Illegal",
 	},
 	shinyyanmega: {
-		tier: "IllegalBL",
-		doublesTier: "(Illegal)",
+		tier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinywooper: {
@@ -7446,16 +7334,13 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinyquagsire: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinymurkrow: {
 		tier: "Illegal",
-		doublesTier: "Illegal",
 	},
 	shinyhonchkrow: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinymisdreavus: {
@@ -7463,7 +7348,6 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinymismagius: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinyunown: {
@@ -7486,7 +7370,6 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinyfarigiraf: {
 		tier: "Illegal",
-		IllegalblesTier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinypineco: {
@@ -7494,15 +7377,13 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinyforretress: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinydunsparce: {
 		tier: "Illegal",
 	},
 	shinydudunsparce: {
-		tier: "IllegalBL",
-		doublesTier: "(Illegal)",
+		tier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinygligar: {
@@ -7512,7 +7393,6 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinygliscor: {
 		tier: "Illegal",
-		doublesTier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinysnubbull: {
@@ -7520,12 +7400,10 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinygranbull: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinyqwilfish: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinyqwilfishhisui: {
@@ -7535,7 +7413,6 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinyoverqwil: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinyshuckle: {
@@ -7545,7 +7422,6 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinyheracross: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinyheracrossmega: {
@@ -7563,12 +7439,10 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinyweavile: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinysneasler: {
 		tier: "Illegal",
-		doublesTier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinyteddiursa: {
@@ -7579,12 +7453,10 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinyursaluna: {
 		tier: "Illegal",
-		IllegalblesTier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinyursalunabloodmoon: {
 		tier: "Illegal",
-		IllegalblesTier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinyslugma: {
@@ -7592,7 +7464,6 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinymagcargo: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinyswinub: {
@@ -7603,7 +7474,6 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinymamoswine: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinycorsola: {
@@ -7633,7 +7503,6 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinydelibird: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinymantyke: {
@@ -7648,7 +7517,6 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinyskarmory: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinyhoundour: {
@@ -7656,7 +7524,6 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinyhoundoom: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinyhoundoommega: {
@@ -7669,7 +7536,6 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinydonphan: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinystantler: {
@@ -7677,12 +7543,10 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinywyrdeer: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinysmeargle: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinymiltank: {
@@ -7692,17 +7556,14 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinyraikou: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinyentei: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinysuicune: {
 		tier: "Illegal",
-		IllegalblesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinylarvitar: {
@@ -7713,7 +7574,6 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinytyranitar: {
 		tier: "Illegal",
-		IllegalblesTier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinytyranitarmega: {
@@ -7723,17 +7583,14 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinylugia: {
 		tier: "Illegal",
-		doublesTier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinyhooh: {
 		tier: "Illegal",
-		doublesTier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinycelebi: {
 		tier: "Illegal",
-		doublesTier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinytreecko: {
@@ -7744,7 +7601,6 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinysceptile: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinysceptilemega: {
@@ -7760,7 +7616,6 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinyblaziken: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinyblazikenmega: {
@@ -7776,7 +7631,6 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinyswampert: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinyswampertmega: {
@@ -7789,7 +7643,6 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinymightyena: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinyzigzagoon: {
@@ -7850,7 +7703,6 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinyludicolo: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinyseedot: {
@@ -7861,7 +7713,6 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinyshiftry: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinytaillow: {
@@ -7879,7 +7730,6 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinypelipper: {
 		tier: "Illegal",
-		IllegalblesTier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinyralts: {
@@ -7890,7 +7740,6 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinygardevoir: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinygardevoirmega: {
@@ -7899,8 +7748,7 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 		natDexTier: "Illegal",
 	},
 	shinygallade: {
-		tier: "IllegalBL",
-		doublesTier: "(Illegal)",
+		tier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinygallademega: {
@@ -7913,7 +7761,6 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinymasquerain: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinyshroomish: {
@@ -7921,7 +7768,6 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinybreloom: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinyslakoth: {
@@ -7932,7 +7778,6 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinyslaking: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinynincada: {
@@ -7969,8 +7814,7 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 		tier: "Illegal",
 	},
 	shinyhariyama: {
-		tier: "IllegalBL",
-		doublesTier: "(Illegal)",
+		tier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinynosepass: {
@@ -7978,7 +7822,6 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinyprobopass: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinyskitty: {
@@ -7993,7 +7836,6 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinysableye: {
 		tier: "Illegal",
-		doublesTier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinysableyemega: {
@@ -8036,7 +7878,6 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinymedicham: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinymedichammega: {
@@ -8061,22 +7902,18 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinyplusle: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinyminun: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinyvolbeat: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinyillumise: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinybudew: {
@@ -8099,7 +7936,6 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinyswalot: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinycarvanha: {
@@ -8132,7 +7968,6 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinycamerupt: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinycameruptmega: {
@@ -8142,7 +7977,6 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinytorkoal: {
 		tier: "Illegal",
-		IllegalblesTier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinyspoink: {
@@ -8150,7 +7984,6 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinygrumpig: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinyspinda: {
@@ -8166,7 +7999,6 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinyflygon: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinycacnea: {
@@ -8174,7 +8006,6 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinycacturne: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinyswablu: {
@@ -8182,7 +8013,6 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinyaltaria: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinyaltariamega: {
@@ -8192,12 +8022,10 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinyzangoose: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinyseviper: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinylunatone: {
@@ -8215,7 +8043,6 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinywhiscash: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinycorphish: {
@@ -8223,7 +8050,6 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinycrawdaunt: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinybaltoy: {
@@ -8261,7 +8087,6 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinymilotic: {
 		tier: "Illegal",
-		doublesTier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinycastform: {
@@ -8288,7 +8113,6 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinybanette: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinybanettemega: {
@@ -8304,12 +8128,10 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinydusknoir: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinytropius: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinychingling: {
@@ -8317,7 +8139,6 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinychimecho: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinyabsol: {
@@ -8335,7 +8156,6 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinyglalie: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinyglaliemega: {
@@ -8345,7 +8165,6 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinyfroslass: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinyspheal: {
@@ -8385,7 +8204,6 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinyluvdisc: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinybagon: {
@@ -8396,7 +8214,6 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinysalamence: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinysalamencemega: {
@@ -8412,7 +8229,6 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinymetagross: {
 		tier: "Illegal",
-		doublesTier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinymetagrossmega: {
@@ -8421,93 +8237,75 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 		natDexTier: "Illegal",
 	},
 	shinyregirock: {
-		tier: "IllegalBL",
-		doublesTier: "(Illegal)",
+		tier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinyregice: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinyregisteel: {
-		tier: "IllegalBL",
-		doublesTier: "(Illegal)",
+		tier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinylatias: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinylatiasmega: {
-		tier: "IllegalBL",
-		doublesTier: "(Illegal)",
+		tier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinylatios: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinylatiosmega: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinykyogre: {
 		tier: "Illegal",
-		doublesTier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinykyogreprimal: {
 		tier: "Illegal",
-		doublesTier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinygroudon: {
 		tier: "Illegal",
-		doublesTier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinygroudonprimal: {
 		tier: "Illegal",
-		IllegalblesTier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinyrayquaza: {
-		tier: "IllegalBL",
-		doublesTier: "Illegal",
+		tier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinyrayquazamega: {
 		tier: "Illegal",
-		doublesTier: "Illegal",
 		natDexTier: "Illegal"
 	},
 	shinyjirachi: {
 		tier: "Illegal",
-		doublesTier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinydeoxys: {
 		tier: "Illegal",
-		doublesTier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinydeoxysattack: {
 		tier: "Illegal",
-		doublesTier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinydeoxysdefense: {
 		tier: "Illegal",
-		doublesTier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinydeoxysspeed: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinyturtwig: {
@@ -8518,7 +8316,6 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinytorterra: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinychimchar: {
@@ -8529,7 +8326,6 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinyinfernape: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinypiplup: {
@@ -8540,7 +8336,6 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinyempoleon: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinystarly: {
@@ -8551,7 +8346,6 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinystaraptor: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinybidoof: {
@@ -8569,7 +8363,6 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinykricketune: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinyshinx: {
@@ -8580,7 +8373,6 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinyluxray: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinycranidos: {
@@ -8588,7 +8380,6 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinyrampardos: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinyshieldon: {
@@ -8596,7 +8387,6 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinybastiodon: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinyburmy: {
@@ -8629,12 +8419,10 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinyvespiquen: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinypachirisu: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinybuizel: {
@@ -8642,7 +8430,6 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinyfloatzel: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinycherubi: {
@@ -8663,7 +8450,6 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinygastrodon: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinydrifloon: {
@@ -8672,7 +8458,6 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinydrifblim: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinybuneary: {
@@ -8705,7 +8490,6 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinyskuntank: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinybronzor: {
@@ -8713,7 +8497,6 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinybronzong: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinychatot: {
@@ -8723,7 +8506,6 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinyspiritomb: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinygible: {
@@ -8734,20 +8516,18 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinygarchomp: {
 		tier: "Illegal",
-		doublesTier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinygarchompmega: {
 		isNonstandard: "Past",
 		tier: "Illegal",
-		natDexTier: "(Illegal)",
+		natDexTier: "Illegal",
 	},
 	shinyriolu: {
 		tier: "Illegal",
 	},
 	shinylucario: {
-		tier: "IllegalBL",
-		doublesTier: "(Illegal)",
+		tier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinylucariomega: {
@@ -8760,7 +8540,6 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinyhippowdon: {
 		tier: "Illegal",
-		doublesTier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinyskorupi: {
@@ -8778,7 +8557,6 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinytoxicroak: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinycarnivine: {
@@ -8791,7 +8569,6 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinylumineon: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinysnover: {
@@ -8799,7 +8576,6 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinyabomasnow: {
 		tier: "Illegal",
-		doublesTier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinyabomasnowmega: {
@@ -8809,127 +8585,102 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinyrotom: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinyrotomheat: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinyrotomwash: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinyrotomfrost: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinyrotomfan: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinyrotommow: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinyuxie: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinymesprit: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinyazelf: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinydialga: {
-		tier: "IllegalBL",
-		doublesTier: "Illegal",
+		tier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinydialgaorigin: {
 		tier: "Illegal",
-		doublesTier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinypalkia: {
 		tier: "Illegal",
-		doublesTier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinypalkiaorigin: {
 		tier: "Illegal",
-		doublesTier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinyheatran: {
 		tier: "Illegal",
-		IllegalblesTier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinyregigigas: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinygiratina: {
 		tier: "Illegal",
-		doublesTier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinygiratinaorigin: {
-		tier: "IllegalBL",
-		doublesTier: "(Illegal)",
+		tier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinycresselia: {
-		tier: "IllegalBL",
-		IllegalblesTier: "Illegal",
+		tier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinyphione: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinymanaphy: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinydarkrai: {
 		tier: "Illegal",
-		doublesTier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinyshaymin: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinyshayminsky: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinyarceus: {
 		tier: "Illegal",
-		doublesTier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinyvictini: {
 		tier: "Illegal",
-		doublesTier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinysnivy: {
@@ -8940,7 +8691,6 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinyserperior: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinytepig: {
@@ -8950,8 +8700,7 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 		tier: "Illegal",
 	},
 	shinyemboar: {
-		tier: "IllegalBL",
-		doublesTier: "(Illegal)",
+		tier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinyoshawott: {
@@ -8962,12 +8711,10 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinysamurott: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinysamurotthisui: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinypatrat: {
@@ -9065,7 +8812,6 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinyzebstrika: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinyroggenrola: {
@@ -9098,7 +8844,6 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinyexcadrill: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinyaudino: {
@@ -9119,7 +8864,6 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinyconkeldurr: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinytympole: {
@@ -9155,7 +8899,6 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinyleavanny: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinyvenipede: {
@@ -9178,7 +8921,6 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinywhimsicott: {
 		tier: "Illegal",
-		IllegalblesTier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinypetilil: {
@@ -9186,27 +8928,22 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinylilligant: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinylilliganthisui: {
-		tier: "IllegalBL",
-		doublesTier: "(Illegal)",
+		tier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinybasculin: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinybasculegion: {
 		tier: "Illegal",
-		doublesTier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinybasculegionf: {
 		tier: "Illegal",
-		doublesTier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinysandile: {
@@ -9217,7 +8954,6 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinykrookodile: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinydarumaka: {
@@ -9266,7 +9002,6 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinyscrafty: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinysigilyph: {
@@ -9336,12 +9071,10 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinyzoroark: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinyzoroarkhisui: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinyminccino: {
@@ -9349,7 +9082,6 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinycinccino: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinygothita: {
@@ -9360,7 +9092,6 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinygothitelle: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinysolosis: {
@@ -9371,7 +9102,6 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinyreuniclus: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinyducklett: {
@@ -9379,7 +9109,6 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinyswanna: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinyvanillite: {
@@ -9402,7 +9131,6 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinysawsbuck: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinyemolga: {
@@ -9425,7 +9153,6 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinyamoonguss: {
 		tier: "Illegal",
-		IllegalblesTier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinyfrillish: {
@@ -9440,7 +9167,6 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinyalomomola: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinyjoltik: {
@@ -9448,7 +9174,6 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinygalvantula: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinyferroseed: {
@@ -9484,7 +9209,6 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinyeelektross: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinyelgyem: {
@@ -9505,7 +9229,6 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinychandelure: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinyaxew: {
@@ -9515,8 +9238,7 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 		tier: "Illegal",
 	},
 	shinyhaxorus: {
-		tier: "IllegalBL",
-		doublesTier: "(Illegal)",
+		tier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinycubchoo: {
@@ -9524,12 +9246,10 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinybeartic: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinycryogonal: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinyshelmet: {
@@ -9557,7 +9277,6 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinymienshao: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinydruddigon: {
@@ -9570,7 +9289,6 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinygolurk: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinypawniard: {
@@ -9591,12 +9309,10 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinybraviary: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinybraviaryhisui: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinyvullaby: {
@@ -9604,7 +9320,6 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinymandibuzz: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinyheatmor: {
@@ -9624,8 +9339,7 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 		tier: "Illegal",
 	},
 	shinyhydreigon: {
-		tier: "IllegalBL",
-		doublesTier: "(Illegal)",
+		tier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinylarvesta: {
@@ -9633,117 +9347,94 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinyvolcarona: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinycobalion: {
 		tier: "Illegal",
-		IllegalblesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinyterrakion: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinyvirizion: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinytornadus: {
 		tier: "Illegal",
-		doublesTier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinytornadustherian: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinythundurus: {
 		tier: "Illegal",
-		IllegalblesTier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinythundurustherian: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinyreshiram: {
 		tier: "Illegal",
-		doublesTier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinyzekrom: {
 		tier: "Illegal",
-		doublesTier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinylandorus: {
 		tier: "Illegal",
-		IllegalblesTier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinylandorustherian: {
 		tier: "Illegal",
-		IllegalblesTier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinykyurem: {
 		tier: "Illegal",
-		IllegalblesTier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinykyuremblack: {
 		tier: "Illegal",
-		doublesTier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinykyuremwhite: {
 		tier: "Illegal",
-		doublesTier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinykeldeo: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinymeloetta: {
-		tier: "IllegalBL",
-		doublesTier: "(Illegal)",
+		tier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinymeloettapiroulette: {
 		tier: "Illegal",
-		doublesTier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinygenesect: {
 		tier: "Illegal",
-		doublesTier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinygenesectburn: {
 		tier: "Illegal",
-		doublesTier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinygenesectchill: {
 		tier: "Illegal",
-		doublesTier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinygenesectdouse: {
 		tier: "Illegal",
-		doublesTier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinygenesectshock: {
 		tier: "Illegal",
-		doublesTier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinychespin: {
@@ -9754,7 +9445,6 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinychesnaught: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinyfennekin: {
@@ -9765,7 +9455,6 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinydelphox: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinyfroakie: {
@@ -9773,22 +9462,18 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinyfrogadier: {
 		tier: "Illegal",
-		doublesTier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinygreninja: {
 		tier: "Illegal",
-		doublesTier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinygreninjabond: {
 		tier: "Illegal",
-		doublesTier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinygreninjaash: {
 		tier: "Illegal",
-		doublesTier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinybunnelby: {
@@ -9809,7 +9494,6 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinytalonflame: {
 		tier: "Illegal",
-		doublesTier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinyscatterbug: {
@@ -9820,7 +9504,6 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinyvivillon: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinylitleo: {
@@ -9828,7 +9511,6 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinypyroar: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinyflabebe: {
@@ -9836,7 +9518,6 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinyfloette: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinyfloetteeternal: {
@@ -9846,7 +9527,6 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinyflorges: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinyskiddo: {
@@ -9854,7 +9534,6 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinygogoat: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinypancham: {
@@ -9877,7 +9556,6 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinymeowstic: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinyhonedge: {
@@ -9923,7 +9601,6 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinymalamar: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinybinacle: {
@@ -9941,7 +9618,6 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinydragalge: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinyclauncher: {
@@ -9949,7 +9625,6 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinyclawitzer: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinyhelioptile: {
@@ -9984,17 +9659,14 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinyhawlucha: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinydedenne: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinycarbink: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinygoomy: {
@@ -10008,17 +9680,14 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinygoodra: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinygoodrahisui: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinyklefki: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinyphantump: {
@@ -10026,7 +9695,6 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinytrevenant: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinypumpkaboo: {
@@ -10062,12 +9730,10 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinyavalugg: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinyavalugghisui: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinynoibat: {
@@ -10075,12 +9741,10 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinynoivern: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinyxerneas: {
 		tier: "Illegal",
-		doublesTier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinyxerneasneutral: {
@@ -10089,17 +9753,14 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinyyveltal: {
 		tier: "Illegal",
-		doublesTier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinyyveltalprimal: {
 		tier: "Illegal",
-		doublesTier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinyzygarde: {
 		tier: "Illegal",
-		doublesTier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinyzygarde10: {
@@ -10109,32 +9770,26 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinyzygardecomplete: {
 		tier: "Illegal",
-		doublesTier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinydiancie: {
 		tier: "Illegal",
-		IllegalblesTier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinydianciemega: {
 		tier: "Illegal",
-		doublesTier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinyhoopa: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinyhoopaunbound: {
 		tier: "Illegal",
-		doublesTier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinyvolcanion: {
 		tier: "Illegal",
-		doublesTier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinyrowlet: {
@@ -10145,12 +9800,10 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinydecidueye: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinydecidueyehisui: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinylitten: {
@@ -10161,7 +9814,6 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinyincineroar: {
 		tier: "Illegal",
-		IllegalblesTier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinypopplio: {
@@ -10172,7 +9824,6 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinyprimarina: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinypikipek: {
@@ -10183,7 +9834,6 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinytoucannon: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinyyungoos: {
@@ -10191,7 +9841,6 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinygumshoos: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinygumshoostotem: {
@@ -10206,7 +9855,6 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinyvikavolt: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinyvikavolttotem: {
@@ -10218,27 +9866,22 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinycrabominable: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinyoricorio: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinyoricoriopompom: {
-		tier: "IllegalBL",
-		doublesTier: "(Illegal)",
+		tier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinyoricoriopau: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinyoricoriosensu: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinycutiefly: {
@@ -10246,7 +9889,6 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinyribombee: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinyribombeetotem: {
@@ -10261,17 +9903,14 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinylycanroc: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinylycanrocmidnight: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinylycanrocdusk: {
-		tier: "IllegalBL",
-		doublesTier: "(Illegal)",
+		tier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinywishiwashi: {
@@ -10289,7 +9928,6 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinytoxapex: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinymudbray: {
@@ -10297,7 +9935,6 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinymudsdale: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinydewpider: {
@@ -10305,7 +9942,6 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinyaraquanid: {
 		tier: "Illegal",
-		doublesTier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinyaraquanidtotem: {
@@ -10317,7 +9953,6 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinylurantis: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinylurantistotem: {
@@ -10339,7 +9974,6 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinysalazzle: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinysalazzletotem: {
@@ -10364,22 +9998,18 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinytsareena: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinycomfey: {
 		tier: "Illegal",
-		doublesTier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinyoranguru: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinypassimian: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinywimpod: {
@@ -10397,7 +10027,6 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinypalossand: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinypyukumuku: {
@@ -10411,103 +10040,83 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 		natDexTier: "Illegal",
 	},
 	shinysilvally: {
-		tier: "IllegalBL",
-		doublesTier: "Illegal",
+		tier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinysilvallybug: {
-		tier: "IllegalBL",
-		doublesTier: "Illegal",
+		tier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinysilvallydark: {
-		tier: "IllegalBL",
-		doublesTier: "Illegal",
+		tier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinysilvallydragon: {
-		tier: "IllegalBL",
-		doublesTier: "Illegal",
+		tier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinysilvallyelectric: {
-		tier: "IllegalBL",
-		doublesTier: "Illegal",
+		tier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinysilvallyfairy: {
-		tier: "IllegalBL",
-		doublesTier: "Illegal",
+		tier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinysilvallyfighting: {
-		tier: "IllegalBL",
-		doublesTier: "Illegal",
+		tier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinysilvallyfire: {
-		tier: "IllegalBL",
-		doublesTier: "Illegal",
+		tier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinysilvallyflying: {
-		tier: "IllegalBL",
-		doublesTier: "Illegal",
+		tier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinysilvallyghost: {
-		tier: "IllegalBL",
-		doublesTier: "Illegal",
+		tier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinysilvallygrass: {
-		tier: "IllegalBL",
-		doublesTier: "Illegal",
+		tier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinysilvallyground: {
-		tier: "IllegalBL",
-		doublesTier: "Illegal",
+		tier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinysilvallyice: {
-		tier: "IllegalBL",
-		doublesTier: "Illegal",
+		tier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinysilvallypoison: {
-		tier: "IllegalBL",
-		doublesTier: "Illegal",
+		tier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinysilvallypsychic: {
-		tier: "IllegalBL",
-		doublesTier: "Illegal",
+		tier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinysilvallyrock: {
-		tier: "IllegalBL",
-		doublesTier: "Illegal",
+		tier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinysilvallysteel: {
-		tier: "IllegalBL",
-		doublesTier: "Illegal",
+		tier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinysilvallywater: {
-		tier: "IllegalBL",
-		doublesTier: "Illegal",
+		tier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinyminior: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinykomala: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinyturtonator: {
@@ -10526,7 +10135,6 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinymimikyu: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinymimikyutotem: {
@@ -10538,8 +10146,7 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 		tier: "Illegal",
 	},
 	shinybruxish: {
-		tier: "IllegalBL",
-		doublesTier: "(Illegal)",
+		tier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinydrampa: {
@@ -10560,7 +10167,6 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinykommoo: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinykommoototem: {
@@ -10569,22 +10175,18 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinytapukoko: {
 		tier: "Illegal",
-		doublesTier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinytapulele: {
 		tier: "Illegal",
-		doublesTier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinytapubulu: {
 		tier: "Illegal",
-		doublesTier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinytapufini: {
 		tier: "Illegal",
-		IllegalblesTier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinycosmog: {
@@ -10595,77 +10197,62 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinysolgaleo: {
 		tier: "Illegal",
-		doublesTier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinylunala: {
 		tier: "Illegal",
-		doublesTier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinynihilego: {
 		tier: "Illegal",
-		doublesTier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinybuzzwole: {
 		tier: "Illegal",
-		doublesTier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinypheromosa: {
 		tier: "Illegal",
-		doublesTier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinyxurkitree: {
 		tier: "Illegal",
-		doublesTier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinycelesteela: {
 		tier: "Illegal",
-		doublesTier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinykartana: {
 		tier: "Illegal",
-		doublesTier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinyguzzlord: {
 		tier: "Illegal",
-		doublesTier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinynecrozma: {
 		tier: "Illegal",
-		doublesTier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinynecrozmaduskmane: {
 		tier: "Illegal",
-		doublesTier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinynecrozmadawnwings: {
 		tier: "Illegal",
-		doublesTier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinynecrozmaultra: {
 		tier: "Illegal",
-		doublesTier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinymagearna: {
 		tier: "Illegal",
-		doublesTier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinymarshadow: {
 		tier: "Illegal",
-		doublesTier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinypoipole: {
@@ -10680,17 +10267,14 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinystakataka: {
 		tier: "Illegal",
-		doublesTier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinyblacephalon: {
 		tier: "Illegal",
-		doublesTier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinyzeraora: {
 		tier: "Illegal",
-		doublesTier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinymeltan: {
@@ -10700,7 +10284,6 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinymelmetal: {
 		tier: "Illegal",
-		doublesTier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinymelmetalgmax: {
@@ -10715,7 +10298,6 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinyrillaboom: {
 		tier: "Illegal",
-		IllegalblesTier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinyrillaboomgmax: {
@@ -10730,7 +10312,6 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinycinderace: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinycinderacegmax: {
@@ -10745,7 +10326,6 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinyinteleon: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinyinteleongmax: {
@@ -10757,7 +10337,6 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinygreedent: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinyrookidee: {
@@ -10768,7 +10347,6 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinycorviknight: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinycorviknightgmax: {
@@ -10829,7 +10407,6 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinydrednaw: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinydrednawgmax: {
@@ -10854,7 +10431,6 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinycoalossal: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinycoalossalgmax: {
@@ -10866,7 +10442,6 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinyflapple: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinyflapplegmax: {
@@ -10875,7 +10450,6 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinyappletun: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinyappletungmax: {
@@ -10884,7 +10458,6 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinydipplin: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinysilicobra: {
@@ -10892,7 +10465,6 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinysandaconda: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinysandacondagmax: {
@@ -10901,7 +10473,6 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinycramorant: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinyarrokuda: {
@@ -10909,7 +10480,6 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinybarraskewda: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinytoxel: {
@@ -10917,7 +10487,6 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinytoxtricity: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinytoxtricitygmax: {
@@ -10957,7 +10526,6 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinypolteageist: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinyhatenna: {
@@ -10968,7 +10536,6 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinyhatterene: {
 		tier: "Illegal",
-		IllegalblesTier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinyhatterenegmax: {
@@ -10983,7 +10550,6 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinygrimmsnarl: {
 		tier: "Illegal",
-		IllegalblesTier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinygrimmsnarlgmax: {
@@ -10994,8 +10560,7 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 		tier: "Illegal",
 	},
 	shinyalcremie: {
-		tier: "IllegalBL",
-		doublesTier: "(Illegal)",
+		tier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinyalcremiegmax: {
@@ -11004,12 +10569,10 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinyfalinks: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinypincurchin: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinysnom: {
@@ -11017,32 +10580,26 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinyfrosmoth: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinystonjourner: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinyeiscue: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinyindeedee: {
 		tier: "Illegal",
-		doublesTier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinyindeedeef: {
 		tier: "Illegal",
-		IllegalblesTier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinymorpeko: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinycufant: {
@@ -11050,7 +10607,6 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinycopperajah: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinycopperajahgmax: {
@@ -11094,37 +10650,30 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinydragapult: {
 		tier: "Illegal",
-		doublesTier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinyzacian: {
 		tier: "Illegal",
-		doublesTier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinyzaciancrowned: {
 		tier: "Illegal",
-		doublesTier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinyzamazenta: {
 		tier: "Illegal",
-		doublesTier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinyzamazentacrowned: {
 		tier: "Illegal",
-		doublesTier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinyeternatus: {
 		tier: "Illegal",
-		doublesTier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinyeternatuseternamax: {
 		tier: "Illegal",
-		doublesTier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinykubfu: {
@@ -11132,12 +10681,10 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinyurshifu: {
 		tier: "Illegal",
-		doublesTier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinyurshifurapidstrike: {
 		tier: "Illegal",
-		doublesTier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinyurshifugmax: {
@@ -11150,52 +10697,42 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinyzarude: {
 		tier: "Illegal",
-		doublesTier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinyregieleki: {
 		tier: "Illegal",
-		doublesTier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinyregidrago: {
 		tier: "Illegal",
-		doublesTier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinyglastrier: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinyspectrier: {
 		tier: "Illegal",
-		IllegalblesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinycalyrex: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinycalyrexice: {
 		tier: "Illegal",
-		doublesTier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinycalyrexshadow: {
 		tier: "Illegal",
-		doublesTier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinyenamorus: {
-		tier: "IllegalBL",
-		doublesTier: "Illegal",
+		tier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinyenamorustherian: {
-		tier: "IllegalBL",
-		doublesTier: "(Illegal)",
+		tier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinysprigatito: {
@@ -11206,7 +10743,6 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinymeowscarada: {
 		tier: "Illegal",
-		doublesTier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinyfuecoco: {
@@ -11217,7 +10753,6 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinyskeledirge: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinyquaxly: {
@@ -11228,7 +10763,6 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinyquaquaval: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinylechonk: {
@@ -11236,12 +10770,10 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinyoinkologne: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinyoinkolognef: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinytarountula: {
@@ -11249,7 +10781,6 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinyspidops: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinynymble: {
@@ -11257,7 +10788,6 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinylokix: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinyrellor: {
@@ -11265,7 +10795,6 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinyrabsca: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinygreavard: {
@@ -11273,7 +10802,6 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinyhoundstone: {
 		tier: "Illegal",
-		doublesTier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinyflittle: {
@@ -11281,7 +10809,6 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinyespathra: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinywiglett: {
@@ -11289,25 +10816,21 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinywugtrio: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinydondozo: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinyveluza: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinyfinizen: {
 		tier: "Illegal",
 	},
 	shinypalafin: {
-		tier: "(Illegal)",
-		doublesTier: "(Illegal)",
+		tier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinysmoliv: {
@@ -11318,7 +10841,6 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinyarboliva: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinycapsakid: {
@@ -11326,7 +10848,6 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinyscovillain: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinytadbulb: {
@@ -11334,7 +10855,6 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinybellibolt: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinyvaroom: {
@@ -11342,12 +10862,10 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinyrevavroom: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinyorthworm: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinytandemaus: {
@@ -11355,7 +10873,6 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinymaushold: {
 		tier: "Illegal",
-		doublesTier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinycetoddle: {
@@ -11363,7 +10880,6 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinycetitan: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinyfrigibax: {
@@ -11374,17 +10890,14 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinybaxcalibur: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinytatsugiri: {
 		tier: "Illegal",
-		doublesTier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinycyclizar: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinypawmi: {
@@ -11395,7 +10908,6 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinypawmot: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinywattrel: {
@@ -11403,27 +10915,22 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinykilowattrel: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinybombirdier: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinysquawkabilly: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinyflamigo: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinyklawf: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinynacli: {
@@ -11434,7 +10941,6 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinygarganacl: {
 		tier: "Illegal",
-		doublesTier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinyglimmet: {
@@ -11442,7 +10948,6 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinyglimmora: {
 		tier: "Illegal",
-		IllegalblesTier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinyshroodle: {
@@ -11450,7 +10955,6 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinygrafaiai: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinyfidough: {
@@ -11458,7 +10962,6 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinydachsbun: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinymaschiff: {
@@ -11466,7 +10969,6 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinymabosstiff: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinybramblin: {
@@ -11474,7 +10976,6 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinybrambleghast: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinygimmighoul: {
@@ -11485,107 +10986,86 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinygholdengo: {
 		tier: "Illegal",
-		IllegalblesTier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinygreattusk: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinybrutebonnet: {
 		tier: "Illegal",
-		doublesTier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinysandyshocks: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinyscreamtail: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinyfluttermane: {
 		tier: "Illegal",
-		doublesTier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinyslitherwing: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinyroaringmoon: {
 		tier: "Illegal",
-		IllegalblesTier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinyirontreads: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinyironmoth: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinyironhands: {
 		tier: "Illegal",
-		IllegalblesTier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinyironjugulis: {
-		tier: "IllegalBL",
-		doublesTier: "Illegal",
+		tier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinyironthorns: {
-		tier: "IllegalBL",
-		doublesTier: "(Illegal)",
+		tier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinyironbundle: {
 		tier: "Illegal",
-		doublesTier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinyironvaliant: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinytinglu: {
 		tier: "Illegal",
-		doublesTier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinychienpao: {
 		tier: "Illegal",
-		IllegalblesTier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinywochien: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinychiyu: {
 		tier: "Illegal",
-		doublesTier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinykoraidon: {
 		tier: "Illegal",
-		doublesTier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinymiraidon: {
 		tier: "Illegal",
-		doublesTier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinytinkatink: {
@@ -11596,7 +11076,6 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinytinkaton: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinycharcadet: {
@@ -11604,12 +11083,10 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinyarmarouge: {
 		tier: "Illegal",
-		doublesTier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinyceruledge: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinytoedscool: {
@@ -11617,32 +11094,26 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinytoedscruel: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinykingambit: {
 		tier: "Illegal",
-		IllegalblesTier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinyclodsire: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinyannihilape: {
 		tier: "Illegal",
-		doublesTier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinywalkingwake: {
 		tier: "Illegal",
-		IllegalblesTier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinyironleaves: {
-		tier: "IllegalBL",
-		doublesTier: "(Illegal)",
+		tier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinypoltchageist: {
@@ -11650,87 +11121,70 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	shinysinistcha: {
 		tier: "Illegal",
-		IllegalblesTier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinyokidogi: {
 		tier: "Illegal",
-		IllegalblesTier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinymunkidori: {
 		tier: "Illegal",
-		doublesTier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinyfezandipiti: {
 		tier: "Illegal",
-		doublesTier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinyogerpon: {
 		tier: "Illegal",
-		IllegalblesTier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinyogerponwellspring: {
 		tier: "Illegal",
-		doublesTier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinyogerponhearthflame: {
 		tier: "Illegal",
-		doublesTier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinyogerponcornerstone: {
 		tier: "Illegal",
-		doublesTier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinyarchaludon: {
 		tier: "Illegal",
-		IllegalblesTier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinyhydrapple: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinygougingfire: {
 		tier: "Illegal",
-		IllegalblesTier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinyragingbolt: {
 		tier: "Illegal",
-		IllegalblesTier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinyironboulder: {
 		tier: "Illegal",
-		doublesTier: "(Illegal)",
 		natDexTier: "Illegal",
 	},
 	shinyironcrown: {
 		tier: "Illegal",
-		doublesTier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinyterapagos: {
 		tier: "Illegal",
-		doublesTier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinyterapagosstellar: {
 		tier: "Illegal",
-		doublesTier: "Illegal",
 		natDexTier: "Illegal",
 	},
 	shinypecharunt: {
 		tier: "Illegal",
-		IllegalblesTier: "Illegal",
 		natDexTier: "Illegal",
 	},
 };
