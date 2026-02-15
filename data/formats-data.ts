@@ -6054,4 +6054,8 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 		isNonstandard: "Custom",
 		tier: "Illegal",
 	},
+
+	shinybulbasaur: {
+		tier: "LC",
+	},
 };
