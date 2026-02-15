@@ -31235,7 +31235,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Bug"],
 		// TODO: Scatterbug technically has the same number of formes as Vivillon
 	},
-	spewpa: {
+	shinyspewpa: {
 		num: 665,
 		name: "Shiny Spewpa",
 		types: ["Bug"],
@@ -31247,7 +31247,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Bug"],
 		// TODO: Spewpa technically has the same number of formes as Vivillon
 	},
-	vivillon: {
+	shinyvivillon: {
 		num: 666,
 		name: "Shiny Vivillon",
 		baseForme: "Meadow", // TODO: actual base forme is Icy Snow, not Meadow
