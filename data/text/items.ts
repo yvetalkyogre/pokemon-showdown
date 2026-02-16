@@ -1158,11 +1158,11 @@ export const ItemsText: {[id: IDEntry]: ItemText} = {
 	},
 	mewtwonitex: {
 		name: "Mewtwonite X",
-		shortDesc: "If held by Mewtwo, this item allows him to mega evolve in Battle and get all his (non-HP) stats boosted by 1.5.",
+		shortDesc: "If held by Mewtwo, this item allows him to mega evolve in Battle.",
 	},
 	mewtwonitey: {
 		name: "Mewtwonite Y",
-		shortDesc: "If held by Mewtwo, this item allows him to mega evolve in battle and get all his (non-HP) stats boosted by 1.5.",
+		shortDesc: "If held by Mewtwo, this item allows him to mega evolve in battle.",
 	},
 	micleberry: {
 		name: "Micle Berry",
@@ -2301,8 +2301,8 @@ export const ItemsText: {[id: IDEntry]: ItemText} = {
 	},
 	waterstone: {
 		name: "Water Stone",
-		desc: "A Stone if Held by Greninja, then he will turn into Ash-Greninja and get his Atk, Def, SpD, SpA boosted by 1.5!",
-		shortDesc: "A Stone if Held by Greninja, then he will turn into Ash-Greninja and get his Atk, Def, SpD, SpA boosted by 1.5!",
+		desc: "A Stone if Held by Greninja, then he will turn into Ash-Greninja.",
+		shortDesc: "A Stone if Held by Greninja, then he will turn into Ash-Greninja.",
 	},
 	wateriumz: {
 		name: "Waterium Z",
@@ -2435,5 +2435,17 @@ export const ItemsText: {[id: IDEntry]: ItemText} = {
 	vilevial: {
 		name: "Vile Vial",
 		shortDesc: "If held by a Venomicon, its Poison- and Flying-type attacks have 1.2x power.",
+	},
+	greninjite: {
+		name: "Greninjite",
+		shortDesc: "If held by Greninja, then he can turn into Mega Greninja I.",
+	},
+	greninjiteii: {
+		name: "Greninjite II",
+		shortDesc: "If held by Greninja, then he can turn into Mega Greninja II.",
+	},
+	zygardite: {
+		name: "Zygardite",
+		shortDesc: "If held by Zygarde, then he can turn into Mega Zygarde.",
 	},
 };
