@@ -1402,13 +1402,7 @@ export const Items: import('../sim/dex-items').ItemDataTable = {
 			}
 		},
  		onTakeItem(item, pokemon, source) {
-			if ((source && source.baseSpecies.num === 493) || pokemon.baseSpecies.num === 493) {
-				return false;
-			}
-			return true;
-		},
-		onTakeItem(item, pokemon, source) {
-			if ((source && source.baseSpecies.num === 9999493) || pokemon.baseSpecies.num === 9999493) {
+			if ((source && ( source.baseSpecies.num === 493 || source.baseSpecies.num === 9999493)) || pokemon.baseSpecies.num === 493 || pokemon.baseSpecies.num === 9999493) {
 				return false;
 			}
 			return true;
@@ -1524,13 +1518,7 @@ export const Items: import('../sim/dex-items').ItemDataTable = {
 			}
 		},
  		onTakeItem(item, pokemon, source) {
-			if ((source && source.baseSpecies.num === 493) || pokemon.baseSpecies.num === 493) {
-				return false;
-			}
-			return true;
-		},
-		onTakeItem(item, pokemon, source) {
-			if ((source && source.baseSpecies.num === 9999493) || pokemon.baseSpecies.num === 9999493) {
+			if ((source && ( source.baseSpecies.num === 493 || source.baseSpecies.num === 9999493)) || pokemon.baseSpecies.num === 493 || pokemon.baseSpecies.num === 9999493) {
 				return false;
 			}
 			return true;
@@ -1625,13 +1613,7 @@ export const Items: import('../sim/dex-items').ItemDataTable = {
 			}
 		},
  		onTakeItem(item, pokemon, source) {
-			if ((source && source.baseSpecies.num === 493) || pokemon.baseSpecies.num === 493) {
-				return false;
-			}
-			return true;
-		},
-		onTakeItem(item, pokemon, source) {
-			if ((source && source.baseSpecies.num === 9999493) || pokemon.baseSpecies.num === 9999493) {
+			if ((source && ( source.baseSpecies.num === 493 || source.baseSpecies.num === 9999493)) || pokemon.baseSpecies.num === 493 || pokemon.baseSpecies.num === 9999493) {
 				return false;
 			}
 			return true;
@@ -2059,13 +2041,7 @@ export const Items: import('../sim/dex-items').ItemDataTable = {
 			}
 		},
  		onTakeItem(item, pokemon, source) {
-			if ((source && source.baseSpecies.num === 493) || pokemon.baseSpecies.num === 493) {
-				return false;
-			}
-			return true;
-		},
-		onTakeItem(item, pokemon, source) {
-			if ((source && source.baseSpecies.num === 9999493) || pokemon.baseSpecies.num === 9999493) {
+			if ((source && ( source.baseSpecies.num === 493 || source.baseSpecies.num === 9999493)) || pokemon.baseSpecies.num === 493 || pokemon.baseSpecies.num === 9999493) {
 				return false;
 			}
 			return true;
@@ -2130,13 +2106,7 @@ export const Items: import('../sim/dex-items').ItemDataTable = {
 			}
 		},
  		onTakeItem(item, pokemon, source) {
-			if ((source && source.baseSpecies.num === 493) || pokemon.baseSpecies.num === 493) {
-				return false;
-			}
-			return true;
-		},
-		onTakeItem(item, pokemon, source) {
-			if ((source && source.baseSpecies.num === 9999493) || pokemon.baseSpecies.num === 9999493) {
+			if ((source && ( source.baseSpecies.num === 493 || source.baseSpecies.num === 9999493)) || pokemon.baseSpecies.num === 493 || pokemon.baseSpecies.num === 9999493) {
 				return false;
 			}
 			return true;
@@ -2891,14 +2861,8 @@ export const Items: import('../sim/dex-items').ItemDataTable = {
 				return this.chainModify([4915, 4096]);
 			}
 		},
-		onTakeItem(item, pokemon, source) {
-			if ((source && source.baseSpecies.num === 493) || pokemon.baseSpecies.num === 493) {
-				return false;
-			}
-			return true;
-		},
-		onTakeItem(item, pokemon, source) {
-			if ((source && source.baseSpecies.num === 9999493) || pokemon.baseSpecies.num === 9999493) {
+ 		onTakeItem(item, pokemon, source) {
+			if ((source && ( source.baseSpecies.num === 493 || source.baseSpecies.num === 9999493)) || pokemon.baseSpecies.num === 493 || pokemon.baseSpecies.num === 9999493) {
 				return false;
 			}
 			return true;
@@ -2980,13 +2944,7 @@ export const Items: import('../sim/dex-items').ItemDataTable = {
 			}
 		},
  		onTakeItem(item, pokemon, source) {
-			if ((source && source.baseSpecies.num === 493) || pokemon.baseSpecies.num === 493) {
-				return false;
-			}
-			return true;
-		},
-		onTakeItem(item, pokemon, source) {
-			if ((source && source.baseSpecies.num === 9999493) || pokemon.baseSpecies.num === 9999493) {
+			if ((source && ( source.baseSpecies.num === 493 || source.baseSpecies.num === 9999493)) || pokemon.baseSpecies.num === 493 || pokemon.baseSpecies.num === 9999493) {
 				return false;
 			}
 			return true;
@@ -3054,13 +3012,7 @@ export const Items: import('../sim/dex-items').ItemDataTable = {
 			}
 		},
  		onTakeItem(item, pokemon, source) {
-			if ((source && source.baseSpecies.num === 493) || pokemon.baseSpecies.num === 493) {
-				return false;
-			}
-			return true;
-		},
-		onTakeItem(item, pokemon, source) {
-			if ((source && source.baseSpecies.num === 9999493) || pokemon.baseSpecies.num === 9999493) {
+			if ((source && ( source.baseSpecies.num === 493 || source.baseSpecies.num === 9999493)) || pokemon.baseSpecies.num === 493 || pokemon.baseSpecies.num === 9999493) {
 				return false;
 			}
 			return true;
@@ -3873,13 +3825,7 @@ export const Items: import('../sim/dex-items').ItemDataTable = {
 			}
 		},
  		onTakeItem(item, pokemon, source) {
-			if ((source && source.baseSpecies.num === 493) || pokemon.baseSpecies.num === 493) {
-				return false;
-			}
-			return true;
-		},
-		onTakeItem(item, pokemon, source) {
-			if ((source && source.baseSpecies.num === 9999493) || pokemon.baseSpecies.num === 9999493) {
+			if ((source && ( source.baseSpecies.num === 493 || source.baseSpecies.num === 9999493)) || pokemon.baseSpecies.num === 493 || pokemon.baseSpecies.num === 9999493) {
 				return false;
 			}
 			return true;
@@ -4157,13 +4103,7 @@ export const Items: import('../sim/dex-items').ItemDataTable = {
 			}
 		},
  		onTakeItem(item, pokemon, source) {
-			if ((source && source.baseSpecies.num === 493) || pokemon.baseSpecies.num === 493) {
-				return false;
-			}
-			return true;
-		},
-		onTakeItem(item, pokemon, source) {
-			if ((source && source.baseSpecies.num === 9999493) || pokemon.baseSpecies.num === 9999493) {
+			if ((source && ( source.baseSpecies.num === 493 || source.baseSpecies.num === 9999493)) || pokemon.baseSpecies.num === 493 || pokemon.baseSpecies.num === 9999493) {
 				return false;
 			}
 			return true;
@@ -4672,13 +4612,7 @@ export const Items: import('../sim/dex-items').ItemDataTable = {
 			}
 		},
  		onTakeItem(item, pokemon, source) {
-			if ((source && source.baseSpecies.num === 493) || pokemon.baseSpecies.num === 493) {
-				return false;
-			}
-			return true;
-		},
-		onTakeItem(item, pokemon, source) {
-			if ((source && source.baseSpecies.num === 9999493) || pokemon.baseSpecies.num === 9999493) {
+			if ((source && ( source.baseSpecies.num === 493 || source.baseSpecies.num === 9999493)) || pokemon.baseSpecies.num === 493 || pokemon.baseSpecies.num === 9999493) {
 				return false;
 			}
 			return true;
@@ -5807,13 +5741,7 @@ export const Items: import('../sim/dex-items').ItemDataTable = {
 			}
 		},
  		onTakeItem(item, pokemon, source) {
-			if ((source && source.baseSpecies.num === 493) || pokemon.baseSpecies.num === 493) {
-				return false;
-			}
-			return true;
-		},
-		onTakeItem(item, pokemon, source) {
-			if ((source && source.baseSpecies.num === 9999493) || pokemon.baseSpecies.num === 9999493) {
+			if ((source && ( source.baseSpecies.num === 493 || source.baseSpecies.num === 9999493)) || pokemon.baseSpecies.num === 493 || pokemon.baseSpecies.num === 9999493) {
 				return false;
 			}
 			return true;
@@ -5987,13 +5915,7 @@ export const Items: import('../sim/dex-items').ItemDataTable = {
 			}
 		},
  		onTakeItem(item, pokemon, source) {
-			if ((source && source.baseSpecies.num === 493) || pokemon.baseSpecies.num === 493) {
-				return false;
-			}
-			return true;
-		},
-		onTakeItem(item, pokemon, source) {
-			if ((source && source.baseSpecies.num === 9999493) || pokemon.baseSpecies.num === 9999493) {
+			if ((source && ( source.baseSpecies.num === 493 || source.baseSpecies.num === 9999493)) || pokemon.baseSpecies.num === 493 || pokemon.baseSpecies.num === 9999493) {
 				return false;
 			}
 			return true;
@@ -6043,13 +5965,7 @@ export const Items: import('../sim/dex-items').ItemDataTable = {
 			}
 		},
  		onTakeItem(item, pokemon, source) {
-			if ((source && source.baseSpecies.num === 493) || pokemon.baseSpecies.num === 493) {
-				return false;
-			}
-			return true;
-		},
-		onTakeItem(item, pokemon, source) {
-			if ((source && source.baseSpecies.num === 9999493) || pokemon.baseSpecies.num === 9999493) {
+			if ((source && ( source.baseSpecies.num === 493 || source.baseSpecies.num === 9999493)) || pokemon.baseSpecies.num === 493 || pokemon.baseSpecies.num === 9999493) {
 				return false;
 			}
 			return true;
@@ -6241,13 +6157,7 @@ export const Items: import('../sim/dex-items').ItemDataTable = {
 			}
 		},
  		onTakeItem(item, pokemon, source) {
-			if ((source && source.baseSpecies.num === 493) || pokemon.baseSpecies.num === 493) {
-				return false;
-			}
-			return true;
-		},
-		onTakeItem(item, pokemon, source) {
-			if ((source && source.baseSpecies.num === 9999493) || pokemon.baseSpecies.num === 9999493) {
+			if ((source && ( source.baseSpecies.num === 493 || source.baseSpecies.num === 9999493)) || pokemon.baseSpecies.num === 493 || pokemon.baseSpecies.num === 9999493) {
 				return false;
 			}
 			return true;
@@ -6485,13 +6395,7 @@ export const Items: import('../sim/dex-items').ItemDataTable = {
 			}
 		},
  		onTakeItem(item, pokemon, source) {
-			if ((source && source.baseSpecies.num === 493) || pokemon.baseSpecies.num === 493) {
-				return false;
-			}
-			return true;
-		},
-		onTakeItem(item, pokemon, source) {
-			if ((source && source.baseSpecies.num === 9999493) || pokemon.baseSpecies.num === 9999493) {
+			if ((source && ( source.baseSpecies.num === 493 || source.baseSpecies.num === 9999493)) || pokemon.baseSpecies.num === 493 || pokemon.baseSpecies.num === 9999493) {
 				return false;
 			}
 			return true;
@@ -7940,13 +7844,7 @@ export const Items: import('../sim/dex-items').ItemDataTable = {
 			}
 		},
  		onTakeItem(item, pokemon, source) {
-			if ((source && source.baseSpecies.num === 493) || pokemon.baseSpecies.num === 493) {
-				return false;
-			}
-			return true;
-		},
-		onTakeItem(item, pokemon, source) {
-			if ((source && source.baseSpecies.num === 9999493) || pokemon.baseSpecies.num === 9999493) {
+			if ((source && ( source.baseSpecies.num === 493 || source.baseSpecies.num === 9999493)) || pokemon.baseSpecies.num === 493 || pokemon.baseSpecies.num === 9999493) {
 				return false;
 			}
 			return true;
@@ -8614,8 +8512,7 @@ export const Items: import('../sim/dex-items').ItemDataTable = {
 	greninjiteii: {
 		name: "Greninjite II",
 		spritenum: 560,
-		megaStone: { "Greninja": "Greninja-Mega II" },
-		megaStone: { "Greninja-Ash": "Greninja-Ash-Mega II" },
+		megaStone: { "Greninja": "Greninja-Mega II", "Greninja-Ash": "Greninja-Mega II" },
 		itemUser: ["Greninja"],
 		onTakeItem(item, source) {
 			// TODO: Figure out if this works on Greninja-Bond
@@ -8628,8 +8525,7 @@ export const Items: import('../sim/dex-items').ItemDataTable = {
 	greninjite: {
 		name: "Greninjite",
 		spritenum: 560,
-		megaStone: { "Greninja": "Greninja-Mega I" },
-		megaStone: { "Greninja-Ash": "Greninja-Ash-Mega I" },
+		megaStone: { "Greninja": "Greninja-Mega I", "Greninja-Ash": "Greninja-Ash-Mega I" },
 		itemUser: ["Greninja"],
 		onTakeItem(item, source) {
 			// TODO: Figure out if this works on Greninja-Bond
