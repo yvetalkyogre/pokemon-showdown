@@ -11865,8 +11865,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		tags: ["Restricted Legendary"],
 		color: "Blue",
 		eggGroups: ["Undiscovered"],
-		otherFormes: ["Greninja", "Greninja-Ash", "Greninja-Mega","Greninja-Mega II", "Greninja-Ash-Mega","Greninja-Ash-Mega II"],
-		formeOrder: ["Greninja", "Greninja", "Greninja-Ash", "Greninja-Mega","Greninja-Mega II", "Greninja-Ash-Mega","Greninja-Ash-Mega II"],
+		otherFormes: ["Greninja", "Greninja-Ash", "Greninja-Mega I","Greninja-Mega II", "Greninja-Ash-Mega I","Greninja-Ash-Mega II"],
+		formeOrder: ["Greninja", "Greninja", "Greninja-Ash", "Greninja-Mega I","Greninja-Mega II", "Greninja-Ash-Mega I","Greninja-Ash-Mega II"],
 	},
 	greninjabond: {
 		num: 658,
@@ -11900,9 +11900,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		battleOnly: "Greninja",
 		gen: 7,
 	},
-	greninjamegaii: {
+	greninjamegai: {
 		num: 658,
-		name: "Greninja-Mega II",
+		name: "Greninja-Mega I",
 		baseSpecies: "Greninja",
 		forme: "Mega",
 		types: ["Water", "Dark", "Steel"],
@@ -11914,12 +11914,12 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		color: "Blue",
 		eggGroups: ["Undiscovered"],
 		requiredAbility: "Battle Bond",
-		requiredItem: "Greninjite II",
+		requiredItem: "Greninjite",
 		gen: 7,
 	},
-	greninjaashmegaii: {
+	greninjaashmegai: {
 		num: 658,
-		name: "Greninja-Ash-Mega II",
+		name: "Greninja-Ash-Mega I",
 		baseSpecies: "Greninja",
 		forme: "Mega",
 		types: ["Water", "Dark", "Steel"],
@@ -11931,12 +11931,12 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		color: "Blue",
 		eggGroups: ["Undiscovered"],
 		requiredAbility: "Sheer Force",
-		requiredItem: "Greninjite II",
+		requiredItem: "Greninjite",
 		gen: 7,
 	},
-	greninjamega: {
+	greninjamegaii: {
 		num: 658,
-		name: "Greninja-Mega",
+		name: "Greninja-Mega II",
 		baseSpecies: "Greninja",
 		forme: "Mega",
 		types: ["Water", "Dark"],
@@ -11948,12 +11948,12 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		color: "Blue",
 		eggGroups: ["Undiscovered"],
 		requiredAbility: "Battle Bond",
-		requiredItem: "Greninjite",
+		requiredItem: "Greninjite II",
 		gen: 7,
 	},
-	greninjaashmega: {
+	greninjaashmegaii: {
 		num: 658,
-		name: "Greninja-Ash-Mega",
+		name: "Greninja-Ash-Mega II",
 		baseSpecies: "Greninja",
 		forme: "Mega",
 		types: ["Water", "Dark"],
@@ -11965,7 +11965,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		color: "Blue",
 		eggGroups: ["Undiscovered"],
 		requiredAbility: "Sheer Force",
-		requiredItem: "Greninjite",
+		requiredItem: "Greninjite II",
 		gen: 7,
 	},
 	bunnelby: {
