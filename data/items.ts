@@ -8535,7 +8535,7 @@ export const Items: import('../sim/dex-items').ItemDataTable = {
 	greninjiteii: {
 		name: "Greninjite II",
 		spritenum: 560,
-		megaStone: ["Greninja-Mega II", "Greninja-Ash-Mega II"]
+		megaStone: ["Greninja-Mega II", "Greninja-Ash-Mega II"],
 		megaEvolves: ["Greninja", "Greninja-Ash"],
 		itemUser: ["Greninja", "Greninja-Ash"],
 		onTakeItem(item, source) {
@@ -8548,7 +8548,7 @@ export const Items: import('../sim/dex-items').ItemDataTable = {
 	greninjite: {
 		name: "Greninjite",
 		spritenum: 560,
-		megaStone: ["Greninja-Mega I", "Greninja-Ash-Mega I"]
+		megaStone: ["Greninja-Mega I", "Greninja-Ash-Mega I"],
 		megaEvolves: ["Greninja", "Greninja-Ash"],
 		itemUser: ["Greninja", "Greninja-Ash"],
 		onTakeItem(item, source) {
