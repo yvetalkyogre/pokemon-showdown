@@ -3736,6 +3736,26 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 		doublesTier: "DUber",
 		natDexTier: "Uber",
 	},
+	greninjamegai: {
+		tier: "Uber",
+		doublesTier: "DUber",
+		natDexTier: "Uber",
+	},
+	greninjamegaii: {
+		tier: "Uber",
+		doublesTier: "DUber",
+		natDexTier: "Uber",
+	},
+	greninjaashmegai: {
+		tier: "AG",
+		doublesTier: "DUber",
+		natDexTier: "AG",
+	},
+	greninjaashmegaii: {
+		tier: "AG",
+		doublesTier: "DUber",
+		natDexTier: "AG",
+	},
 	bunnelby: {
 		isNonstandard: "Past",
 		tier: "Illegal",
@@ -4051,6 +4071,11 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 		isNonstandard: "Past",
 		tier: "Illegal",
 		natDexTier: "RU",
+	},
+	zygardemega: {
+		tier: "AG",
+		doublesTier: "DUber",
+		natDexTier: "AG",
 	},
 	zygardecomplete: {
 		tier: "AG",

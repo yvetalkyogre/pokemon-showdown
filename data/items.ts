@@ -1401,8 +1401,14 @@ export const Items: import('../sim/dex-items').ItemDataTable = {
 				return this.chainModify([4915, 4096]);
 			}
 		},
-		onTakeItem(item, pokemon, source) {
+ 		onTakeItem(item, pokemon, source) {
 			if ((source && source.baseSpecies.num === 493) || pokemon.baseSpecies.num === 493) {
+				return false;
+			}
+			return true;
+		},
+		onTakeItem(item, pokemon, source) {
+			if ((source && source.baseSpecies.num === 9999493) || pokemon.baseSpecies.num === 9999493) {
 				return false;
 			}
 			return true;
@@ -1517,8 +1523,14 @@ export const Items: import('../sim/dex-items').ItemDataTable = {
 				return this.chainModify([4915, 4096]);
 			}
 		},
-		onTakeItem(item, pokemon, source) {
+ 		onTakeItem(item, pokemon, source) {
 			if ((source && source.baseSpecies.num === 493) || pokemon.baseSpecies.num === 493) {
+				return false;
+			}
+			return true;
+		},
+		onTakeItem(item, pokemon, source) {
+			if ((source && source.baseSpecies.num === 9999493) || pokemon.baseSpecies.num === 9999493) {
 				return false;
 			}
 			return true;
@@ -1612,8 +1624,14 @@ export const Items: import('../sim/dex-items').ItemDataTable = {
 				return this.chainModify([4915, 4096]);
 			}
 		},
-		onTakeItem(item, pokemon, source) {
+ 		onTakeItem(item, pokemon, source) {
 			if ((source && source.baseSpecies.num === 493) || pokemon.baseSpecies.num === 493) {
+				return false;
+			}
+			return true;
+		},
+		onTakeItem(item, pokemon, source) {
+			if ((source && source.baseSpecies.num === 9999493) || pokemon.baseSpecies.num === 9999493) {
 				return false;
 			}
 			return true;
@@ -2040,8 +2058,14 @@ export const Items: import('../sim/dex-items').ItemDataTable = {
 				return this.chainModify([4915, 4096]);
 			}
 		},
-		onTakeItem(item, pokemon, source) {
+ 		onTakeItem(item, pokemon, source) {
 			if ((source && source.baseSpecies.num === 493) || pokemon.baseSpecies.num === 493) {
+				return false;
+			}
+			return true;
+		},
+		onTakeItem(item, pokemon, source) {
+			if ((source && source.baseSpecies.num === 9999493) || pokemon.baseSpecies.num === 9999493) {
 				return false;
 			}
 			return true;
@@ -2105,8 +2129,14 @@ export const Items: import('../sim/dex-items').ItemDataTable = {
 				return this.chainModify([4915, 4096]);
 			}
 		},
-		onTakeItem(item, pokemon, source) {
+ 		onTakeItem(item, pokemon, source) {
 			if ((source && source.baseSpecies.num === 493) || pokemon.baseSpecies.num === 493) {
+				return false;
+			}
+			return true;
+		},
+		onTakeItem(item, pokemon, source) {
+			if ((source && source.baseSpecies.num === 9999493) || pokemon.baseSpecies.num === 9999493) {
 				return false;
 			}
 			return true;
@@ -2867,6 +2897,12 @@ export const Items: import('../sim/dex-items').ItemDataTable = {
 			}
 			return true;
 		},
+		onTakeItem(item, pokemon, source) {
+			if ((source && source.baseSpecies.num === 9999493) || pokemon.baseSpecies.num === 9999493) {
+				return false;
+			}
+			return true;
+		},
 		onModifySpDPriority: 10,
 		onModifySpD(spd, pokemon) {
 			if (pokemon.baseSpecies.num === 493) {
@@ -2943,8 +2979,14 @@ export const Items: import('../sim/dex-items').ItemDataTable = {
 				return this.chainModify([4915, 4096]);
 			}
 		},
-		onTakeItem(item, pokemon, source) {
+ 		onTakeItem(item, pokemon, source) {
 			if ((source && source.baseSpecies.num === 493) || pokemon.baseSpecies.num === 493) {
+				return false;
+			}
+			return true;
+		},
+		onTakeItem(item, pokemon, source) {
+			if ((source && source.baseSpecies.num === 9999493) || pokemon.baseSpecies.num === 9999493) {
 				return false;
 			}
 			return true;
@@ -3011,8 +3053,14 @@ export const Items: import('../sim/dex-items').ItemDataTable = {
 				return this.chainModify([4915, 4096]);
 			}
 		},
-		onTakeItem(item, pokemon, source) {
+ 		onTakeItem(item, pokemon, source) {
 			if ((source && source.baseSpecies.num === 493) || pokemon.baseSpecies.num === 493) {
+				return false;
+			}
+			return true;
+		},
+		onTakeItem(item, pokemon, source) {
+			if ((source && source.baseSpecies.num === 9999493) || pokemon.baseSpecies.num === 9999493) {
 				return false;
 			}
 			return true;
@@ -3824,8 +3872,14 @@ export const Items: import('../sim/dex-items').ItemDataTable = {
 				return this.chainModify([4915, 4096]);
 			}
 		},
-		onTakeItem(item, pokemon, source) {
+ 		onTakeItem(item, pokemon, source) {
 			if ((source && source.baseSpecies.num === 493) || pokemon.baseSpecies.num === 493) {
+				return false;
+			}
+			return true;
+		},
+		onTakeItem(item, pokemon, source) {
+			if ((source && source.baseSpecies.num === 9999493) || pokemon.baseSpecies.num === 9999493) {
 				return false;
 			}
 			return true;
@@ -4032,36 +4086,6 @@ export const Items: import('../sim/dex-items').ItemDataTable = {
 		onTakeItem(item, source) {
 			if (item.megaEvolves === source.baseSpecies.baseSpecies) return false;
 			return true;
-		},
-		onModifyAtkPriority: 1,
-		onModifyAtk(atk, pokemon) {
-			if (pokemon.baseSpecies.name === 'Mewtwo-Mega-X') {
-				return this.chainModify(1.5);
-			}
-		},
-		onModifySpAPriority: 1,
-		onModifySpA(spa, pokemon) {
-			if (pokemon.baseSpecies.name === 'Mewtwo-Mega-X') {
-				return this.chainModify(1.5);
-			}
-		},
-		onModifyDefPriority: 1,		
-		onModifyDef(def, pokemon) {
-			if (pokemon.baseSpecies.name === 'Mewtwo-Mega-X') {
-				return this.chainModify(1.5);
-			}
-		},	
-		onModifySpePriority: 1,
-		onModifySpe(spe, pokemon) {
-			if (pokemon.baseSpecies.name === 'Mewtwo-Mega-X') {
-				return this.chainModify(1.5);
-			}
-		},
-		onModifySpDPriority: 1,		
-		onModifySpD(spd, pokemon) {
-			if (pokemon.baseSpecies.name === 'Mewtwo-Mega-X') {
-				return this.chainModify(1.5);
-			}
 		},		
 		num: 662,
 		gen: 6,
@@ -4076,36 +4100,6 @@ export const Items: import('../sim/dex-items').ItemDataTable = {
 			if (item.megaEvolves === source.baseSpecies.baseSpecies) return false;
 			return true;
 		},
-		onModifyAtkPriority: 1,
-		onModifyAtk(atk, pokemon) {
-			if (pokemon.baseSpecies.name === 'Mewtwo-Mega-Y') {
-				return this.chainModify(1.5);
-			}
-		},
-		onModifySpAPriority: 1,
-		onModifySpA(spa, pokemon) {
-			if (pokemon.baseSpecies.name === 'Mewtwo-Mega-Y') {
-				return this.chainModify(1.5);
-			}
-		},
-		onModifyDefPriority: 1,		
-		onModifyDef(def, pokemon) {
-			if (pokemon.baseSpecies.name === 'Mewtwo-Mega-Y') {
-				return this.chainModify(1.5);
-			}
-		},	
-		onModifySpePriority: 1,
-		onModifySpe(spe, pokemon) {
-			if (pokemon.baseSpecies.name === 'Mewtwo-Mega-Y') {
-				return this.chainModify(1.5);
-			}
-		},
-		onModifySpDPriority: 1,		
-		onModifySpD(spd, pokemon) {
-			if (pokemon.baseSpecies.name === 'Mewtwo-Mega-Y') {
-				return this.chainModify(1.5);
-			}
-		},		
 		num: 663,
 		gen: 6,
 	},
@@ -4162,8 +4156,14 @@ export const Items: import('../sim/dex-items').ItemDataTable = {
 				return this.chainModify([4915, 4096]);
 			}
 		},
-		onTakeItem(item, pokemon, source) {
+ 		onTakeItem(item, pokemon, source) {
 			if ((source && source.baseSpecies.num === 493) || pokemon.baseSpecies.num === 493) {
+				return false;
+			}
+			return true;
+		},
+		onTakeItem(item, pokemon, source) {
+			if ((source && source.baseSpecies.num === 9999493) || pokemon.baseSpecies.num === 9999493) {
 				return false;
 			}
 			return true;
@@ -4671,8 +4671,14 @@ export const Items: import('../sim/dex-items').ItemDataTable = {
 				return this.chainModify([4915, 4096]);
 			}
 		},
-		onTakeItem(item, pokemon, source) {
+ 		onTakeItem(item, pokemon, source) {
 			if ((source && source.baseSpecies.num === 493) || pokemon.baseSpecies.num === 493) {
+				return false;
+			}
+			return true;
+		},
+		onTakeItem(item, pokemon, source) {
+			if ((source && source.baseSpecies.num === 9999493) || pokemon.baseSpecies.num === 9999493) {
 				return false;
 			}
 			return true;
@@ -5800,8 +5806,14 @@ export const Items: import('../sim/dex-items').ItemDataTable = {
 				return this.chainModify([4915, 4096]);
 			}
 		},
-		onTakeItem(item, pokemon, source) {
+ 		onTakeItem(item, pokemon, source) {
 			if ((source && source.baseSpecies.num === 493) || pokemon.baseSpecies.num === 493) {
+				return false;
+			}
+			return true;
+		},
+		onTakeItem(item, pokemon, source) {
+			if ((source && source.baseSpecies.num === 9999493) || pokemon.baseSpecies.num === 9999493) {
 				return false;
 			}
 			return true;
@@ -5974,8 +5986,14 @@ export const Items: import('../sim/dex-items').ItemDataTable = {
 				return this.chainModify([4915, 4096]);
 			}
 		},
-		onTakeItem(item, pokemon, source) {
+ 		onTakeItem(item, pokemon, source) {
 			if ((source && source.baseSpecies.num === 493) || pokemon.baseSpecies.num === 493) {
+				return false;
+			}
+			return true;
+		},
+		onTakeItem(item, pokemon, source) {
+			if ((source && source.baseSpecies.num === 9999493) || pokemon.baseSpecies.num === 9999493) {
 				return false;
 			}
 			return true;
@@ -6024,8 +6042,14 @@ export const Items: import('../sim/dex-items').ItemDataTable = {
 				return this.chainModify([4915, 4096]);
 			}
 		},
-		onTakeItem(item, pokemon, source) {
+ 		onTakeItem(item, pokemon, source) {
 			if ((source && source.baseSpecies.num === 493) || pokemon.baseSpecies.num === 493) {
+				return false;
+			}
+			return true;
+		},
+		onTakeItem(item, pokemon, source) {
+			if ((source && source.baseSpecies.num === 9999493) || pokemon.baseSpecies.num === 9999493) {
 				return false;
 			}
 			return true;
@@ -6216,8 +6240,14 @@ export const Items: import('../sim/dex-items').ItemDataTable = {
 				return this.chainModify([4915, 4096]);
 			}
 		},
-		onTakeItem(item, pokemon, source) {
+ 		onTakeItem(item, pokemon, source) {
 			if ((source && source.baseSpecies.num === 493) || pokemon.baseSpecies.num === 493) {
+				return false;
+			}
+			return true;
+		},
+		onTakeItem(item, pokemon, source) {
+			if ((source && source.baseSpecies.num === 9999493) || pokemon.baseSpecies.num === 9999493) {
 				return false;
 			}
 			return true;
@@ -6454,8 +6484,14 @@ export const Items: import('../sim/dex-items').ItemDataTable = {
 				return this.chainModify([4915, 4096]);
 			}
 		},
-		onTakeItem(item, pokemon, source) {
+ 		onTakeItem(item, pokemon, source) {
 			if ((source && source.baseSpecies.num === 493) || pokemon.baseSpecies.num === 493) {
+				return false;
+			}
+			return true;
+		},
+		onTakeItem(item, pokemon, source) {
+			if ((source && source.baseSpecies.num === 9999493) || pokemon.baseSpecies.num === 9999493) {
 				return false;
 			}
 			return true;
@@ -7661,30 +7697,6 @@ export const Items: import('../sim/dex-items').ItemDataTable = {
 		fling: {
 			basePower: 30,
 		},
-		onModifyAtkPriority: 1,
-		onModifyAtk(atk, pokemon) {
-			if (pokemon.baseSpecies.name === 'Greninja-Ash') {
-				return this.chainModify(1.5);
-			}
-		},
-		onModifySpAPriority: 1,
-		onModifySpA(spa, pokemon) {
-			if (pokemon.baseSpecies.name === 'Greninja-Ash') {
-				return this.chainModify(1.5);
-			}
-		},
-		onModifyDefPriority: 1,		
-		onModifyDef(def, pokemon) {
-			if (pokemon.baseSpecies.name === 'Greninja-Ash') {
-				return this.chainModify(1.5);
-			}
-		},	
-		onModifySpDPriority: 1,		
-		onModifySpD(spd, pokemon) {
-			if (pokemon.baseSpecies.name === 'Greninja-Ash') {
-				return this.chainModify(1.5);
-			}
-		},
 		onSwitchIn(pokemon) {
 			if (pokemon.isActive && (pokemon.baseSpecies.name === 'Greninja' || pokemon.baseSpecies.name === 'Greninja-Bond')) {
 				this.add('-activate', pokemon, 'ability: Battle Bond');
@@ -7927,8 +7939,14 @@ export const Items: import('../sim/dex-items').ItemDataTable = {
 				return this.chainModify([4915, 4096]);
 			}
 		},
-		onTakeItem(item, pokemon, source) {
+ 		onTakeItem(item, pokemon, source) {
 			if ((source && source.baseSpecies.num === 493) || pokemon.baseSpecies.num === 493) {
+				return false;
+			}
+			return true;
+		},
+		onTakeItem(item, pokemon, source) {
+			if ((source && source.baseSpecies.num === 9999493) || pokemon.baseSpecies.num === 9999493) {
 				return false;
 			}
 			return true;
@@ -8303,5 +8321,575 @@ export const Items: import('../sim/dex-items').ItemDataTable = {
 		num: -2,
 		gen: 8,
 		isNonstandard: "CAP",
+	},
+	absolitez: {
+		name: "Absolite Z",
+		spritenum: 576,
+		megaStone: { "Absol": "Absol-Mega-Z" },
+		itemUser: ["Absol"],
+		onTakeItem(item, source) {
+			return !item.megaStone?.[source.baseSpecies.baseSpecies];
+		},
+		num: 2588,
+		gen: 9,
+		isNonstandard: "Past",
+	},
+	barbaracite: {
+		name: "Barbaracite",
+		spritenum: 564,
+		megaStone: { "Barbaracle": "Barbaracle-Mega" },
+		itemUser: ["Barbaracle"],
+		onTakeItem(item, source) {
+			return !item.megaStone?.[source.baseSpecies.baseSpecies];
+		},
+		num: 2581,
+		gen: 9,
+		isNonstandard: "Past",
+	},
+	baxcalibrite: {
+		name: "Baxcalibrite",
+		spritenum: 0,
+		megaStone: { "Baxcalibur": "Baxcalibur-Mega" },
+		itemUser: ["Baxcalibur"],
+		onTakeItem(item, source) {
+			return !item.megaStone?.[source.baseSpecies.baseSpecies];
+		},
+		num: 2601,
+		gen: 9,
+		isNonstandard: "Past",
+	},
+	chandelurite: {
+		name: "Chandelurite",
+		spritenum: 557,
+		megaStone: { "Chandelure": "Chandelure-Mega" },
+		itemUser: ["Chandelure"],
+		onTakeItem(item, source) {
+			return !item.megaStone?.[source.baseSpecies.baseSpecies];
+		},
+		num: 2574,
+		gen: 9,
+		isNonstandard: "Past",
+	},
+	chesnaughtite: {
+		name: "Chesnaughtite",
+		spritenum: 558,
+		megaStone: { "Chesnaught": "Chesnaught-Mega" },
+		itemUser: ["Chesnaught"],
+		onTakeItem(item, source) {
+			return !item.megaStone?.[source.baseSpecies.baseSpecies];
+		},
+		num: 2575,
+		gen: 9,
+		isNonstandard: "Past",
+	},
+	chimechite: {
+		name: "Chimechite",
+		spritenum: 0,
+		megaStone: { "Chimecho": "Chimecho-Mega" },
+		itemUser: ["Chimecho"],
+		onTakeItem(item, source) {
+			return !item.megaStone?.[source.baseSpecies.baseSpecies];
+		},
+		num: 2587,
+		gen: 9,
+		isNonstandard: "Past",
+	},
+	clefablite: {
+		name: "Clefablite",
+		spritenum: 544,
+		megaStone: { "Clefable": "Clefable-Mega" },
+		itemUser: ["Clefable"],
+		onTakeItem(item, source) {
+			return !item.megaStone?.[source.baseSpecies.baseSpecies];
+		},
+		num: 2559,
+		gen: 9,
+		isNonstandard: "Past",
+	},
+	crabominite: {
+		name: "Crabominite",
+		spritenum: 0,
+		megaStone: { "Crabominable": "Crabominable-Mega" },
+		itemUser: ["Crabominable"],
+		onTakeItem(item, source) {
+			return !item.megaStone?.[source.baseSpecies.baseSpecies];
+		},
+		num: 2595,
+		gen: 9,
+		isNonstandard: "Past",
+	},
+	darkranite: {
+		name: "Darkranite",
+		spritenum: 0,
+		megaStone: { "Darkrai": "Darkrai-Mega" },
+		itemUser: ["Darkrai"],
+		onTakeItem(item, source) {
+			return !item.megaStone?.[source.baseSpecies.baseSpecies];
+		},
+		num: 2593,
+		gen: 9,
+		isNonstandard: "Past",
+	},
+	delphoxite: {
+		name: "Delphoxite",
+		spritenum: 559,
+		megaStone: { "Delphox": "Delphox-Mega" },
+		itemUser: ["Delphox"],
+		onTakeItem(item, source) {
+			return !item.megaStone?.[source.baseSpecies.baseSpecies];
+		},
+		num: 2576,
+		gen: 9,
+		isNonstandard: "Past",
+	},
+	dragalgite: {
+		name: "Dragalgite",
+		spritenum: 565,
+		megaStone: { "Dragalge": "Dragalge-Mega" },
+		itemUser: ["Dragalge"],
+		onTakeItem(item, source) {
+			return !item.megaStone?.[source.baseSpecies.baseSpecies];
+		},
+		num: 2582,
+		gen: 9,
+		isNonstandard: "Past",
+	},
+	dragoninite: {
+		name: "Dragoninite",
+		spritenum: 547,
+		megaStone: { "Dragonite": "Dragonite-Mega" },
+		itemUser: ["Dragonite"],
+		onTakeItem(item, source) {
+			return !item.megaStone?.[source.baseSpecies.baseSpecies];
+		},
+		num: 2562,
+		gen: 9,
+		isNonstandard: "Past",
+	},
+	drampanite: {
+		name: "Drampanite",
+		spritenum: 569,
+		megaStone: { "Drampa": "Drampa-Mega" },
+		itemUser: ["Drampa"],
+		onTakeItem(item, source) {
+			return !item.megaStone?.[source.baseSpecies.baseSpecies];
+		},
+		num: 2585,
+		gen: 9,
+		isNonstandard: "Past",
+	},
+	eelektrossite: {
+		name: "Eelektrossite",
+		spritenum: 556,
+		megaStone: { "Eelektross": "Eelektross-Mega" },
+		itemUser: ["Eelektross"],
+		onTakeItem(item, source) {
+			return !item.megaStone?.[source.baseSpecies.baseSpecies];
+		},
+		num: 2573,
+		gen: 9,
+		isNonstandard: "Past",
+	},
+	emboarite: {
+		name: "Emboarite",
+		spritenum: 552,
+		megaStone: { "Emboar": "Emboar-Mega" },
+		itemUser: ["Emboar"],
+		onTakeItem(item, source) {
+			return !item.megaStone?.[source.baseSpecies.baseSpecies];
+		},
+		num: 2569,
+		gen: 9,
+		isNonstandard: "Past",
+	},
+	excadrite: {
+		name: "Excadrite",
+		spritenum: 553,
+		megaStone: { "Excadrill": "Excadrill-Mega" },
+		itemUser: ["Excadrill"],
+		onTakeItem(item, source) {
+			return !item.megaStone?.[source.baseSpecies.baseSpecies];
+		},
+		num: 2570,
+		gen: 9,
+		isNonstandard: "Past",
+	},
+	falinksite: {
+		name: "Falinksite",
+		spritenum: 570,
+		megaStone: { "Falinks": "Falinks-Mega" },
+		itemUser: ["Falinks"],
+		onTakeItem(item, source) {
+			return !item.megaStone?.[source.baseSpecies.baseSpecies];
+		},
+		num: 2586,
+		gen: 9,
+		isNonstandard: "Past",
+	},
+	feraligite: {
+		name: "Feraligite",
+		spritenum: 549,
+		megaStone: { "Feraligatr": "Feraligatr-Mega" },
+		itemUser: ["Feraligatr"],
+		onTakeItem(item, source) {
+			return !item.megaStone?.[source.baseSpecies.baseSpecies];
+		},
+		num: 2564,
+		gen: 9,
+		isNonstandard: "Past",
+	},
+	floettite: {
+		name: "Floettite",
+		spritenum: 562,
+		megaStone: { "Floette-Eternal": "Floette-Eternal-Mega" },
+		itemUser: ["Floette-Eternal"],
+		onTakeItem(item, source) {
+			return !item.megaStone || (!item.megaStone[source.baseSpecies.name] &&
+				!Object.values(item.megaStone).includes(source.baseSpecies.name));
+		},
+		num: 2579,
+		gen: 9,
+		isNonstandard: "Past",
+	},
+	froslassite: {
+		name: "Froslassite",
+		spritenum: 551,
+		megaStone: { "Froslass": "Froslass-Mega" },
+		itemUser: ["Froslass"],
+		onTakeItem(item, source) {
+			return !item.megaStone?.[source.baseSpecies.baseSpecies];
+		},
+		num: 2566,
+		gen: 9,
+		isNonstandard: "Past",
+	},
+	garchompitez: {
+		name: "Garchompite Z",
+		spritenum: 573,
+		megaStone: { "Garchomp": "Garchomp-Mega-Z" },
+		itemUser: ["Garchomp"],
+		onTakeItem(item, source) {
+			return !item.megaStone?.[source.baseSpecies.baseSpecies];
+		},
+		num: 2590,
+		gen: 9,
+		isNonstandard: "Past",
+	},
+	glimmoranite: {
+		name: "Glimmoranite",
+		spritenum: 0,
+		megaStone: { "Glimmora": "Glimmora-Mega" },
+		itemUser: ["Glimmora"],
+		onTakeItem(item, source) {
+			return !item.megaStone?.[source.baseSpecies.baseSpecies];
+		},
+		num: 2600,
+		gen: 9,
+		isNonstandard: "Past",
+	},
+	golisopite: {
+		name: "Golisopite",
+		spritenum: 0,
+		megaStone: { "Golisopod": "Golisopod-Mega" },
+		itemUser: ["Golisopod"],
+		onTakeItem(item, source) {
+			return !item.megaStone?.[source.baseSpecies.baseSpecies];
+		},
+		num: 2596,
+		gen: 9,
+		isNonstandard: "Past",
+	},
+	golurkite: {
+		name: "Golurkite",
+		spritenum: 0,
+		megaStone: { "Golurk": "Golurk-Mega" },
+		itemUser: ["Golurk"],
+		onTakeItem(item, source) {
+			return !item.megaStone?.[source.baseSpecies.baseSpecies];
+		},
+		num: 2594,
+		gen: 9,
+		isNonstandard: "Past",
+	},
+	greninjiteii: {
+		name: "Greninjite II",
+		spritenum: 560,
+		megaStone: { "Greninja": "Greninja-Mega II" },
+		megaStone: { "Greninja-Ash": "Greninja-Ash-Mega II" },
+		itemUser: ["Greninja"],
+		onTakeItem(item, source) {
+			// TODO: Figure out if this works on Greninja-Bond
+			return !item.megaStone?.[source.baseSpecies.baseSpecies];
+		},
+		num: 2577,
+		gen: 9,
+		isNonstandard: "Past",
+	},
+	greninjite: {
+		name: "Greninjite",
+		spritenum: 560,
+		megaStone: { "Greninja": "Greninja-Mega I" },
+		megaStone: { "Greninja-Ash": "Greninja-Ash-Mega I" },
+		itemUser: ["Greninja"],
+		onTakeItem(item, source) {
+			// TODO: Figure out if this works on Greninja-Bond
+			return !item.megaStone?.[source.baseSpecies.baseSpecies];
+		},
+		num: 2577,
+		gen: 9,
+		isNonstandard: "Past",
+	},
+	hawluchanite: {
+		name: "Hawluchanite",
+		spritenum: 566,
+		megaStone: { "Hawlucha": "Hawlucha-Mega" },
+		itemUser: ["Hawlucha"],
+		onTakeItem(item, source) {
+			return !item.megaStone?.[source.baseSpecies.baseSpecies];
+		},
+		num: 2583,
+		gen: 9,
+		isNonstandard: "Past",
+	},
+	heatranite: {
+		name: "Heatranite",
+		spritenum: 0,
+		megaStone: { "Heatran": "Heatran-Mega" },
+		itemUser: ["Heatran"],
+		onTakeItem(item, source) {
+			return !item.megaStone?.[source.baseSpecies.baseSpecies];
+		},
+		num: 2592,
+		gen: 9,
+		isNonstandard: "Past",
+	},
+	lucarionitez: {
+		name: "Lucarionite Z",
+		spritenum: 594,
+		megaStone: { "Lucario": "Lucario-Mega-Z" },
+		itemUser: ["Lucario"],
+		onTakeItem(item, source) {
+			return !item.megaStone?.[source.baseSpecies.baseSpecies];
+		},
+		num: 2591,
+		gen: 9,
+		isNonstandard: "Past",
+	},
+	magearnite: {
+		name: "Magearnite",
+		spritenum: 0,
+		megaStone: {
+			"Magearna": "Magearna-Mega",
+			"Magearna-Original": "Magearna-Original-Mega",
+		},
+		itemUser: ["Magearna", "Magearna-Original"],
+		onTakeItem(item, source) {
+			return !item.megaStone || (!item.megaStone[source.baseSpecies.name] &&
+				!Object.values(item.megaStone).includes(source.baseSpecies.name));
+		},
+		num: 2597,
+		gen: 9,
+		isNonstandard: "Past",
+	},
+	malamarite: {
+		name: "Malamarite",
+		spritenum: 563,
+		megaStone: { "Malamar": "Malamar-Mega" },
+		itemUser: ["Malamar"],
+		onTakeItem(item, source) {
+			return !item.megaStone?.[source.baseSpecies.baseSpecies];
+		},
+		num: 2580,
+		gen: 9,
+		isNonstandard: "Past",
+	},
+	meganiumite: {
+		name: "Meganiumite",
+		spritenum: 548,
+		megaStone: { "Meganium": "Meganium-Mega" },
+		itemUser: ["Meganium"],
+		onTakeItem(item, source) {
+			return !item.megaStone?.[source.baseSpecies.baseSpecies];
+		},
+		num: 2563,
+		gen: 9,
+		isNonstandard: "Past",
+	},
+	meowsticite: {
+		name: "Meowsticite",
+		spritenum: 0,
+		megaStone: {
+			"Meowstic": "Meowstic-M-Mega",
+			"Meowstic-F": "Meowstic-F-Mega",
+		},
+		itemUser: ["Meowstic", "Meowstic-F"],
+		onTakeItem(item, source) {
+			return !item.megaStone || (!item.megaStone[source.baseSpecies.name] &&
+				!Object.values(item.megaStone).includes(source.baseSpecies.name));
+		},
+		num: 2594,
+		gen: 9,
+		isNonstandard: "Past",
+	},
+	pyroarite: {
+		name: "Pyroarite",
+		spritenum: 561,
+		megaStone: { "Pyroar": "Pyroar-Mega" },
+		itemUser: ["Pyroar"],
+		onTakeItem(item, source) {
+			return !item.megaStone?.[source.baseSpecies.baseSpecies];
+		},
+		num: 2578,
+		gen: 9,
+		isNonstandard: "Past",
+	},
+	raichunitex: {
+		name: "Raichunite X",
+		spritenum: 0,
+		megaStone: { "Raichu": "Raichu-Mega-X" },
+		itemUser: ["Raichu"],
+		onTakeItem(item, source) {
+			return !item.megaStone?.[source.baseSpecies.baseSpecies];
+		},
+		num: 2585,
+		gen: 9,
+		isNonstandard: "Past",
+	},
+	raichunitey: {
+		name: "Raichunite Y",
+		spritenum: 0,
+		megaStone: { "Raichu": "Raichu-Mega-Y" },
+		itemUser: ["Raichu"],
+		onTakeItem(item, source) {
+			return !item.megaStone?.[source.baseSpecies.baseSpecies];
+		},
+		num: 2586,
+		gen: 9,
+		isNonstandard: "Past",
+	},
+	scolipite: {
+		name: "Scolipite",
+		spritenum: 554,
+		megaStone: { "Scolipede": "Scolipede-Mega" },
+		itemUser: ["Scolipede"],
+		onTakeItem(item, source) {
+			return !item.megaStone?.[source.baseSpecies.baseSpecies];
+		},
+		num: 2571,
+		gen: 9,
+		isNonstandard: "Past",
+	},
+	scovillainite: {
+		name: "Scovillainite",
+		spritenum: 0,
+		megaStone: { "Scovillain": "Scovillain-Mega" },
+		itemUser: ["Scovillain"],
+		onTakeItem(item, source) {
+			return !item.megaStone?.[source.baseSpecies.baseSpecies];
+		},
+		num: 2599,
+		gen: 9,
+		isNonstandard: "Past",
+	},
+	scraftinite: {
+		name: "Scraftinite",
+		spritenum: 555,
+		megaStone: { "Scrafty": "Scrafty-Mega" },
+		itemUser: ["Scrafty"],
+		onTakeItem(item, source) {
+			return !item.megaStone?.[source.baseSpecies.baseSpecies];
+		},
+		num: 2572,
+		gen: 9,
+		isNonstandard: "Past",
+	},
+	skarmorite: {
+		name: "Skarmorite",
+		spritenum: 550,
+		megaStone: { "Skarmory": "Skarmory-Mega" },
+		itemUser: ["Skarmory"],
+		onTakeItem(item, source) {
+			return !item.megaStone?.[source.baseSpecies.baseSpecies];
+		},
+		num: 2565,
+		gen: 9,
+		isNonstandard: "Past",
+	},
+	staraptite: {
+		name: "Staraptite",
+		spritenum: 0,
+		megaStone: { "Staraptor": "Staraptor-Mega" },
+		itemUser: ["Staraptor"],
+		onTakeItem(item, source) {
+			return !item.megaStone?.[source.baseSpecies.baseSpecies];
+		},
+		num: 2589,
+		gen: 9,
+		isNonstandard: "Past",
+	},
+	starminite: {
+		name: "Starminite",
+		spritenum: 546,
+		megaStone: { "Starmie": "Starmie-Mega" },
+		itemUser: ["Starmie"],
+		onTakeItem(item, source) {
+			return !item.megaStone?.[source.baseSpecies.baseSpecies];
+		},
+		num: 2561,
+		gen: 9,
+		isNonstandard: "Past",
+	},
+	tatsugirinite: {
+		name: "Tatsugirinite",
+		spritenum: 0,
+		megaStone: {
+			"Tatsugiri": "Tatsugiri-Curly-Mega",
+			"Tatsugiri-Droopy": "Tatsugiri-Droopy-Mega",
+			"Tatsugiri-Stretchy": "Tatsugiri-Stretchy-Mega",
+		},
+		itemUser: ["Tatsugiri", "Tatsugiri-Droopy", "Tatsugiri-Stretchy"],
+		onTakeItem(item, source) {
+			return !item.megaStone || (!item.megaStone[source.baseSpecies.name] &&
+				!Object.values(item.megaStone).includes(source.baseSpecies.name));
+		},
+		num: 2601,
+		gen: 9,
+		isNonstandard: "Past",
+	},
+	victreebelite: {
+		name: "Victreebelite",
+		spritenum: 545,
+		megaStone: { "Victreebel": "Victreebel-Mega" },
+		itemUser: ["Victreebel"],
+		onTakeItem(item, source) {
+			return !item.megaStone?.[source.baseSpecies.baseSpecies];
+		},
+		num: 2560,
+		gen: 9,
+		isNonstandard: "Past",
+	},
+	zeraorite: {
+		name: "Zeraorite",
+		spritenum: 0,
+		megaStone: { "Zeraora": "Zeraora-Mega" },
+		itemUser: ["Zeraora"],
+		onTakeItem(item, source) {
+			return !item.megaStone?.[source.baseSpecies.baseSpecies];
+		},
+		num: 2598,
+		gen: 9,
+		isNonstandard: "Past",
+	},
+	zygardite: {
+		name: "Zygardite",
+		spritenum: 568,
+		megaStone: { "Zygarde": "Zygarde-Mega" },
+		itemUser: ["Zygarde"],
+		onTakeItem(item, source) {
+			return !item.megaStone?.[source.baseSpecies.baseSpecies];
+		},
+		num: 2584,
+		gen: 9,
+		isNonstandard: "Past",
 	},
 };
