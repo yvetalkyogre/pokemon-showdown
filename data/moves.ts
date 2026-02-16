@@ -2962,6 +2962,12 @@ export const Moves: import('../sim/dex-moves').MoveDataTable = {
 		category: "Special",
 		isNonstandard: "Past",
 		name: "Core Enforcer",
+		basePowerCallback(pokemon, target, move) {
+			if (pokemon.species.name === 'Zygarde Mega' || pokemon.species.name === 'Zygarde Complete') {
+				return move.basePower + 100;
+			}
+			return move.basePower;
+		},
 		pp: 10,
 		priority: 0,
 		flags: {protect: 1, mirror: 1, metronome: 1},
@@ -2975,6 +2981,16 @@ export const Moves: import('../sim/dex-moves').MoveDataTable = {
 			if (target.newlySwitched || this.queue.willMove(target)) return;
 			target.addVolatile('gastroacid');
 		},
+		onModifyType(move, pokemon, target) {
+        	// Only Mega Zygarde & Zygarde-Complete get to ignore Fairy immunity
+        	// (normal Zygarde Z-move still respects it)
+        	if (pokemon.species.name === 'Zygarde Mega' || pokemon.species.name === 'Zygarde Complete') {
+            	move.ignoreImmunity = move.ignoreImmunity || {};
+            	move.ignoreImmunity['Fairy'] = true;   // most common way
+            	// or more explicit (sometimes needed):
+            	// move.ignoreImmunity = { Fairy: true };
+        	}
+    	},
 		secondary: null,
 		target: "allAdjacentFoes",
 		type: "Dragon",
