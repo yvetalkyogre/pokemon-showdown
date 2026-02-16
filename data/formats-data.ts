@@ -3746,16 +3746,6 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 		doublesTier: "DUber",
 		natDexTier: "Uber",
 	},
-	greninjaashmegai: {
-		tier: "AG",
-		doublesTier: "DUber",
-		natDexTier: "AG",
-	},
-	greninjaashmegaii: {
-		tier: "AG",
-		doublesTier: "DUber",
-		natDexTier: "AG",
-	},
 	bunnelby: {
 		isNonstandard: "Past",
 		tier: "Illegal",
