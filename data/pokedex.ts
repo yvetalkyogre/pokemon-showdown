@@ -20116,7 +20116,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		gen: 5,
 	},
 	shinybulbasaur: {
-		num: 1,
+		num: 99991,
 		name: "Shiny Bulbasaur",
 		types: ["Grass", "Poison"],
 		gender: "F",
@@ -20129,7 +20129,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Monster", "Grass"],
 	},
 	shinyivysaur: {
-		num: 2,
+		num: 99992,
 		name: "Shiny Ivysaur",
 		types: ["Grass", "Poison"],
 		gender: "F",
@@ -20144,7 +20144,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Monster", "Grass"],
 	},
 	shinyvenusaur: {
-		num: 3,
+		num: 99993,
 		name: "Shiny Venusaur",
 		types: ["Grass", "Poison"],
 		gender: "F",
@@ -20161,7 +20161,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		canGigantamax: "G-Max Vine Lash",
 	},
 	shinyvenusaurmega: {
-		num: 3,
+		num: 99993,
 		name: "Shiny Venusaur-Mega",
 		baseSpecies: "Shiny Venusaur",
 		forme: "Mega",
@@ -20176,7 +20176,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		requiredItem: "Venusaurite",
 	},
 	shinyvenusaurgmax: {
-		num: 3,
+		num: 99993,
 		name: "Shiny Venusaur-Gmax",
 		baseSpecies: "Shiny Venusaur",
 		forme: "Gmax",
@@ -20191,7 +20191,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		changesFrom: "Shiny Venusaur",
 	},
 	shinycharmander: {
-		num: 4,
+		num: 99994,
 		name: "Shiny Charmander",
 		types: ["Fire"],
 		gender: "F",
@@ -20204,7 +20204,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Monster", "Dragon"],
 	},
 	shinycharmeleon: {
-		num: 5,
+		num: 99995,
 		name: "Shiny Charmeleon",
 		types: ["Fire"],
 		gender: "F",
@@ -20219,7 +20219,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Monster", "Dragon"],
 	},
 	shinycharizard: {
-		num: 6,
+		num: 99996,
 		name: "Shiny Charizard",
 		types: ["Fire", "Flying"],
 		gender: "F",
@@ -20236,7 +20236,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		canGigantamax: "G-Max Wildfire",
 	},
 	shinycharizardmegax: {
-		num: 6,
+		num: 99996,
 		name: "Shiny Charizard-Mega-X",
 		baseSpecies: "Shiny Charizard",
 		forme: "Mega-X",
@@ -20251,7 +20251,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		requiredItem: "Charizardite X",
 	},
 	shinycharizardmegay: {
-		num: 6,
+		num: 99996,
 		name: "Shiny Charizard-Mega-Y",
 		baseSpecies: "Shiny Charizard",
 		forme: "Mega-Y",
@@ -20266,7 +20266,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		requiredItem: "Charizardite Y",
 	},
 	shinycharizardgmax: {
-		num: 6,
+		num: 99996,
 		name: "Shiny Charizard-Gmax",
 		baseSpecies: "Shiny Charizard",
 		forme: "Gmax",
@@ -20281,7 +20281,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		changesFrom: "Shiny Charizard",
 	},
 	shinysquirtle: {
-		num: 7,
+		num: 99997,
 		name: "Shiny Squirtle",
 		types: ["Water"],
 		gender: "F",
@@ -20294,7 +20294,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Monster", "Water 1"],
 	},
 	shinywartortle: {
-		num: 8,
+		num: 99998,
 		name: "Shiny Wartortle",
 		types: ["Water"],
 		gender: "F",
@@ -20309,7 +20309,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Monster", "Water 1"],
 	},
 	shinyblastoise: {
-		num: 9,
+		num: 99999,
 		name: "Shiny Blastoise",
 		types: ["Water"],
 		gender: "F",
@@ -20326,7 +20326,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		canGigantamax: "G-Max Cannonade",
 	},
 	shinyblastoisemega: {
-		num: 9,
+		num: 99999,
 		name: "Shiny Blastoise-Mega",
 		baseSpecies: "Shiny Blastoise",
 		forme: "Mega",
@@ -20341,7 +20341,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		requiredItem: "Blastoisinite",
 	},
 	shinyblastoisegmax: {
-		num: 9,
+		num: 99999,
 		name: "Shiny Blastoise-Gmax",
 		baseSpecies: "Shiny Blastoise",
 		forme: "Gmax",
@@ -20356,7 +20356,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		changesFrom: "Shiny Blastoise",
 	},
 	shinycaterpie: {
-		num: 10,
+		num: 999910,
 		name: "Shiny Caterpie",
 		types: ["Bug"],
 		baseStats: { hp: 45, atk: 30, def: 35, spa: 20, spd: 20, spe: 45 },
@@ -20368,7 +20368,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Bug"],
 	},
 	shinymetapod: {
-		num: 11,
+		num: 999911,
 		name: "Shiny Metapod",
 		types: ["Bug"],
 		baseStats: { hp: 50, atk: 20, def: 55, spa: 25, spd: 25, spe: 30 },
@@ -20382,7 +20382,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Bug"],
 	},
 	shinybutterfree: {
-		num: 12,
+		num: 999912,
 		name: "Shiny Butterfree",
 		types: ["Bug", "Flying"],
 		baseStats: { hp: 60, atk: 45, def: 50, spa: 90, spd: 80, spe: 70 },
@@ -20396,7 +20396,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		canGigantamax: "G-Max Befuddle",
 	},
 	shinybutterfreegmax: {
-		num: 12,
+		num: 999912,
 		name: "Shiny Butterfree-Gmax",
 		baseSpecies: "Shiny Butterfree",
 		forme: "Gmax",
@@ -20410,7 +20410,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		changesFrom: "Shiny Butterfree",
 	},
 	shinyweedle: {
-		num: 13,
+		num: 999913,
 		name: "Shiny Weedle",
 		types: ["Bug", "Poison"],
 		baseStats: { hp: 40, atk: 35, def: 30, spa: 20, spd: 20, spe: 50 },
@@ -20422,7 +20422,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Bug"],
 	},
 	shinykakuna: {
-		num: 14,
+		num: 999914,
 		name: "Shiny Kakuna",
 		types: ["Bug", "Poison"],
 		baseStats: { hp: 45, atk: 25, def: 50, spa: 25, spd: 25, spe: 35 },
@@ -20436,7 +20436,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Bug"],
 	},
 	shinybeedrill: {
-		num: 15,
+		num: 999915,
 		name: "Shiny Beedrill",
 		types: ["Bug", "Poison"],
 		baseStats: { hp: 65, atk: 90, def: 40, spa: 45, spd: 80, spe: 75 },
@@ -20451,7 +20451,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Beedrill", "Shiny Beedrill-Mega"],
 	},
 	shinybeedrillmega: {
-		num: 15,
+		num: 999915,
 		name: "Shiny Beedrill-Mega",
 		baseSpecies: "Shiny Beedrill",
 		forme: "Mega",
@@ -20465,7 +20465,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		requiredItem: "Beedrillite",
 	},
 	shinypidgey: {
-		num: 16,
+		num: 999916,
 		name: "Shiny Pidgey",
 		types: ["Normal", "Flying"],
 		baseStats: { hp: 40, atk: 45, def: 40, spa: 35, spd: 35, spe: 56 },
@@ -20477,7 +20477,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Flying"],
 	},
 	shinypidgeotto: {
-		num: 17,
+		num: 999917,
 		name: "Shiny Pidgeotto",
 		types: ["Normal", "Flying"],
 		baseStats: { hp: 63, atk: 60, def: 55, spa: 50, spd: 50, spe: 71 },
@@ -20491,7 +20491,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Flying"],
 	},
 	shinypidgeot: {
-		num: 18,
+		num: 999918,
 		name: "Shiny Pidgeot",
 		types: ["Normal", "Flying"],
 		baseStats: { hp: 83, atk: 80, def: 75, spa: 70, spd: 70, spe: 101 },
@@ -20506,7 +20506,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Pidgeot", "Shiny Pidgeot-Mega"],
 	},
 	shinypidgeotmega: {
-		num: 18,
+		num: 999918,
 		name: "Shiny Pidgeot-Mega",
 		baseSpecies: "Shiny Pidgeot",
 		forme: "Mega",
@@ -20520,7 +20520,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		requiredItem: "Pidgeotite",
 	},
 	shinyrattata: {
-		num: 19,
+		num: 999919,
 		name: "Shiny Rattata",
 		types: ["Normal"],
 		baseStats: { hp: 30, atk: 56, def: 35, spa: 25, spd: 35, spe: 72 },
@@ -20534,7 +20534,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Rattata", "Shiny Rattata-Alola"],
 	},
 	shinyrattataalola: {
-		num: 19,
+		num: 999919,
 		name: "Shiny Rattata-Alola",
 		baseSpecies: "Shiny Rattata",
 		forme: "Alola",
@@ -20548,7 +20548,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field"],
 	},
 	shinyraticate: {
-		num: 20,
+		num: 999920,
 		name: "Shiny Raticate",
 		types: ["Normal"],
 		baseStats: { hp: 55, atk: 81, def: 60, spa: 50, spd: 70, spe: 97 },
@@ -20563,7 +20563,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Raticate", "Shiny Raticate-Alola", "Shiny Raticate-Alola-Totem"],
 	},
 	shinyraticatealola: {
-		num: 20,
+		num: 999920,
 		name: "Shiny Raticate-Alola",
 		baseSpecies: "Shiny Raticate",
 		forme: "Alola",
@@ -20579,7 +20579,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field"],
 	},
 	shinyraticatealolatotem: {
-		num: 20,
+		num: 999920,
 		name: "Shiny Raticate-Alola-Totem",
 		baseSpecies: "Shiny Raticate",
 		forme: "Alola-Totem",
@@ -20592,7 +20592,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field"],
 	},
 	shinyspearow: {
-		num: 21,
+		num: 999921,
 		name: "Shiny Spearow",
 		types: ["Normal", "Flying"],
 		baseStats: { hp: 40, atk: 60, def: 30, spa: 31, spd: 31, spe: 70 },
@@ -20604,7 +20604,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Flying"],
 	},
 	shinyfearow: {
-		num: 22,
+		num: 999922,
 		name: "Shiny Fearow",
 		types: ["Normal", "Flying"],
 		baseStats: { hp: 65, atk: 90, def: 65, spa: 61, spd: 61, spe: 100 },
@@ -20617,7 +20617,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Flying"],
 	},
 	shinyekans: {
-		num: 23,
+		num: 999923,
 		name: "Shiny Ekans",
 		types: ["Poison"],
 		baseStats: { hp: 35, atk: 60, def: 44, spa: 40, spd: 54, spe: 55 },
@@ -20629,7 +20629,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field", "Dragon"],
 	},
 	shinyarbok: {
-		num: 24,
+		num: 999924,
 		name: "Shiny Arbok",
 		types: ["Poison"],
 		baseStats: { hp: 60, atk: 95, def: 69, spa: 65, spd: 79, spe: 80 },
@@ -20642,7 +20642,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field", "Dragon"],
 	},
 	shinypikachu: {
-		num: 25,
+		num: 999925,
 		name: "Shiny Pikachu",
 		types: ["Electric"],
 		baseStats: { hp: 35, atk: 55, def: 40, spa: 50, spd: 50, spe: 90 },
@@ -20665,7 +20665,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		canGigantamax: "G-Max Volt Crash",
 	},
 	shinypikachucosplay: {
-		num: 25,
+		num: 999925,
 		name: "Shiny Pikachu-Cosplay",
 		baseSpecies: "Shiny Pikachu",
 		forme: "Cosplay",
@@ -20680,7 +20680,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		gen: 6,
 	},
 	shinypikachurockstar: {
-		num: 25,
+		num: 999925,
 		name: "Shiny Pikachu-Rock-Star",
 		baseSpecies: "Shiny Pikachu",
 		forme: "Rock-Star",
@@ -20696,7 +20696,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		gen: 6,
 	},
 	shinypikachubelle: {
-		num: 25,
+		num: 999925,
 		name: "Shiny Pikachu-Belle",
 		baseSpecies: "Shiny Pikachu",
 		forme: "Belle",
@@ -20712,7 +20712,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		gen: 6,
 	},
 	shinypikachupopstar: {
-		num: 25,
+		num: 999925,
 		name: "Shiny Pikachu-Pop-Star",
 		baseSpecies: "Shiny Pikachu",
 		forme: "Pop-Star",
@@ -20728,7 +20728,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		gen: 6,
 	},
 	shinypikachuphd: {
-		num: 25,
+		num: 999925,
 		name: "Shiny Pikachu-PhD",
 		baseSpecies: "Shiny Pikachu",
 		forme: "PhD",
@@ -20744,7 +20744,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		gen: 6,
 	},
 	shinypikachulibre: {
-		num: 25,
+		num: 999925,
 		name: "Shiny Pikachu-Libre",
 		baseSpecies: "Shiny Pikachu",
 		forme: "Libre",
@@ -20760,7 +20760,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		gen: 6,
 	},
 	shinypikachuoriginal: {
-		num: 25,
+		num: 999925,
 		name: "Shiny Pikachu-Original",
 		baseSpecies: "Shiny Pikachu",
 		forme: "Original",
@@ -20775,7 +20775,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		gen: 7,
 	},
 	shinypikachuhoenn: {
-		num: 25,
+		num: 999925,
 		name: "Shiny Pikachu-Hoenn",
 		baseSpecies: "Shiny Pikachu",
 		forme: "Hoenn",
@@ -20790,7 +20790,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		gen: 7,
 	},
 	shinypikachusinnoh: {
-		num: 25,
+		num: 999925,
 		name: "Shiny Pikachu-Sinnoh",
 		baseSpecies: "Shiny Pikachu",
 		forme: "Sinnoh",
@@ -20805,7 +20805,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		gen: 7,
 	},
 	shinypikachuunova: {
-		num: 25,
+		num: 999925,
 		name: "Shiny Pikachu-Unova",
 		baseSpecies: "Shiny Pikachu",
 		forme: "Unova",
@@ -20820,7 +20820,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		gen: 7,
 	},
 	shinypikachukalos: {
-		num: 25,
+		num: 999925,
 		name: "Shiny Pikachu-Kalos",
 		baseSpecies: "Shiny Pikachu",
 		forme: "Kalos",
@@ -20835,7 +20835,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		gen: 7,
 	},
 	shinypikachualola: {
-		num: 25,
+		num: 999925,
 		name: "Shiny Pikachu-Alola",
 		baseSpecies: "Shiny Pikachu",
 		forme: "Alola",
@@ -20850,7 +20850,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		gen: 7,
 	},
 	shinypikachupartner: {
-		num: 25,
+		num: 999925,
 		name: "Shiny Pikachu-Partner",
 		baseSpecies: "Shiny Pikachu",
 		forme: "Partner",
@@ -20865,7 +20865,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		gen: 7,
 	},
 	shinypikachustarter: {
-		num: 25,
+		num: 999925,
 		name: "Shiny Pikachu-Starter",
 		baseSpecies: "Shiny Pikachu",
 		forme: "Starter",
@@ -20878,7 +20878,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Undiscovered"],
 	},
 	shinypikachugmax: {
-		num: 25,
+		num: 999925,
 		name: "Shiny Pikachu-Gmax",
 		baseSpecies: "Shiny Pikachu",
 		forme: "Gmax",
@@ -20892,7 +20892,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		changesFrom: "Shiny Pikachu",
 	},
 	shinypikachuworld: {
-		num: 25,
+		num: 999925,
 		name: "Shiny Pikachu-World",
 		baseSpecies: "Shiny Pikachu",
 		forme: "World",
@@ -20907,7 +20907,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		gen: 8,
 	},
 	shinyraichu: {
-		num: 26,
+		num: 999926,
 		name: "Shiny Raichu",
 		types: ["Electric"],
 		baseStats: { hp: 60, atk: 90, def: 55, spa: 90, spd: 80, spe: 110 },
@@ -20923,7 +20923,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Raichu", "Shiny Raichu-Alola", "Shiny Raichu-Mega-X", "Shiny Raichu-Mega-Y"],
 	},
 	shinyraichualola: {
-		num: 26,
+		num: 999926,
 		name: "Shiny Raichu-Alola",
 		baseSpecies: "Shiny Raichu",
 		forme: "Alola",
@@ -20940,7 +20940,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field", "Fairy"],
 	},
 	shinyraichumegax: {
-		num: 26,
+		num: 999926,
 		name: "Shiny Raichu-Mega-X",
 		baseSpecies: "Shiny Raichu",
 		forme: "Mega-X",
@@ -20955,7 +20955,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		gen: 9,
 	},
 	shinyraichumegay: {
-		num: 26,
+		num: 999926,
 		name: "Shiny Raichu-Mega-Y",
 		baseSpecies: "Shiny Raichu",
 		forme: "Mega-Y",
@@ -20970,7 +20970,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		gen: 9,
 	},
 	shinysandshrew: {
-		num: 27,
+		num: 999927,
 		name: "Shiny Sandshrew",
 		types: ["Ground"],
 		baseStats: { hp: 50, atk: 75, def: 85, spa: 20, spd: 30, spe: 40 },
@@ -20984,7 +20984,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Sandshrew", "Shiny Sandshrew-Alola"],
 	},
 	shinysandshrewalola: {
-		num: 27,
+		num: 999927,
 		name: "Shiny Sandshrew-Alola",
 		baseSpecies: "Shiny Sandshrew",
 		forme: "Alola",
@@ -20998,7 +20998,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field"],
 	},
 	shinysandslash: {
-		num: 28,
+		num: 999928,
 		name: "Shiny Sandslash",
 		types: ["Ground"],
 		baseStats: { hp: 75, atk: 100, def: 110, spa: 45, spd: 55, spe: 65 },
@@ -21013,7 +21013,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Sandslash", "Shiny Sandslash-Alola"],
 	},
 	shinysandslashalola: {
-		num: 28,
+		num: 999928,
 		name: "Shiny Sandslash-Alola",
 		baseSpecies: "Shiny Sandslash",
 		forme: "Alola",
@@ -21029,7 +21029,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field"],
 	},
 	shinynidoranf: {
-		num: 29,
+		num: 999929,
 		name: "Shiny Nidoran-F",
 		types: ["Poison"],
 		gender: "F",
@@ -21042,7 +21042,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Monster", "Field"],
 	},
 	shinynidorina: {
-		num: 30,
+		num: 999930,
 		name: "Shiny Nidorina",
 		types: ["Poison"],
 		gender: "F",
@@ -21057,7 +21057,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Undiscovered"],
 	},
 	shinynidoqueen: {
-		num: 31,
+		num: 999931,
 		name: "Shiny Nidoqueen",
 		types: ["Poison", "Ground"],
 		gender: "F",
@@ -21072,7 +21072,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Undiscovered"],
 	},
 	shinynidoranm: {
-		num: 32,
+		num: 999932,
 		name: "Shiny Nidoran-M",
 		types: ["Poison"],
 		gender: "F",
@@ -21086,7 +21086,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		mother: 'nidoranf',
 	},
 	shinynidorino: {
-		num: 33,
+		num: 999933,
 		name: "Shiny Nidorino",
 		types: ["Poison"],
 		gender: "F",
@@ -21101,7 +21101,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Monster", "Field"],
 	},
 	shinynidoking: {
-		num: 34,
+		num: 999934,
 		name: "Shiny Nidoking",
 		types: ["Poison", "Ground"],
 		gender: "F",
@@ -21116,7 +21116,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Monster", "Field"],
 	},
 	shinyclefairy: {
-		num: 35,
+		num: 999935,
 		name: "Shiny Clefairy",
 		types: ["Fairy"],
 		gender: "F",
@@ -21131,7 +21131,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Fairy"],
 	},
 	shinyclefable: {
-		num: 36,
+		num: 999936,
 		name: "Shiny Clefable",
 		types: ["Fairy"],
 		gender: "F",
@@ -21148,7 +21148,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Clefable", "Shiny Clefable-Mega"],
 	},
 	shinyclefablemega: {
-		num: 36,
+		num: 999936,
 		name: "Shiny Clefable-Mega",
 		baseSpecies: "Shiny Clefable",
 		forme: "Mega",
@@ -21164,7 +21164,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		gen: 9,
 	},
 	shinyvulpix: {
-		num: 37,
+		num: 999937,
 		name: "Shiny Vulpix",
 		types: ["Fire"],
 		gender: "F",
@@ -21179,7 +21179,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Vulpix", "Shiny Vulpix-Alola"],
 	},
 	shinyvulpixalola: {
-		num: 37,
+		num: 999937,
 		name: "Shiny Vulpix-Alola",
 		baseSpecies: "Shiny Vulpix",
 		forme: "Alola",
@@ -21194,7 +21194,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field"],
 	},
 	shinyninetales: {
-		num: 38,
+		num: 999938,
 		name: "Shiny Ninetales",
 		types: ["Fire"],
 		gender: "F",
@@ -21211,7 +21211,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Ninetales", "Shiny Ninetales-Alola"],
 	},
 	shinyninetalesalola: {
-		num: 38,
+		num: 999938,
 		name: "Shiny Ninetales-Alola",
 		baseSpecies: "Shiny Ninetales",
 		forme: "Alola",
@@ -21228,7 +21228,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field"],
 	},
 	shinyjigglypuff: {
-		num: 39,
+		num: 999939,
 		name: "Shiny Jigglypuff",
 		types: ["Normal", "Fairy"],
 		gender: "F",
@@ -21243,7 +21243,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Fairy"],
 	},
 	shinywigglytuff: {
-		num: 40,
+		num: 999940,
 		name: "Shiny Wigglytuff",
 		types: ["Normal", "Fairy"],
 		gender: "F",
@@ -21258,7 +21258,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Fairy"],
 	},
 	shinyzubat: {
-		num: 41,
+		num: 999941,
 		name: "Shiny Zubat",
 		types: ["Poison", "Flying"],
 		baseStats: { hp: 40, atk: 45, def: 35, spa: 30, spd: 40, spe: 55 },
@@ -21270,7 +21270,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Flying"],
 	},
 	shinygolbat: {
-		num: 42,
+		num: 999942,
 		name: "Shiny Golbat",
 		types: ["Poison", "Flying"],
 		baseStats: { hp: 75, atk: 80, def: 70, spa: 65, spd: 75, spe: 90 },
@@ -21284,7 +21284,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Flying"],
 	},
 	shinyoddish: {
-		num: 43,
+		num: 999943,
 		name: "Shiny Oddish",
 		types: ["Grass", "Poison"],
 		baseStats: { hp: 45, atk: 50, def: 55, spa: 75, spd: 65, spe: 30 },
@@ -21296,7 +21296,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Grass"],
 	},
 	shinygloom: {
-		num: 44,
+		num: 999944,
 		name: "Shiny Gloom",
 		types: ["Grass", "Poison"],
 		baseStats: { hp: 60, atk: 65, def: 70, spa: 85, spd: 75, spe: 40 },
@@ -21310,7 +21310,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Grass"],
 	},
 	shinyvileplume: {
-		num: 45,
+		num: 999945,
 		name: "Shiny Vileplume",
 		types: ["Grass", "Poison"],
 		baseStats: { hp: 75, atk: 80, def: 85, spa: 110, spd: 90, spe: 50 },
@@ -21324,7 +21324,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Grass"],
 	},
 	shinyparas: {
-		num: 46,
+		num: 999946,
 		name: "Shiny Paras",
 		types: ["Bug", "Grass"],
 		baseStats: { hp: 35, atk: 70, def: 55, spa: 45, spd: 55, spe: 25 },
@@ -21336,7 +21336,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Bug", "Grass"],
 	},
 	shinyparasect: {
-		num: 47,
+		num: 999947,
 		name: "Shiny Parasect",
 		types: ["Bug", "Grass"],
 		baseStats: { hp: 60, atk: 95, def: 80, spa: 60, spd: 80, spe: 30 },
@@ -21349,7 +21349,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Bug", "Grass"],
 	},
 	shinyvenonat: {
-		num: 48,
+		num: 999948,
 		name: "Shiny Venonat",
 		types: ["Bug", "Poison"],
 		baseStats: { hp: 60, atk: 55, def: 50, spa: 40, spd: 55, spe: 45 },
@@ -21361,7 +21361,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Bug"],
 	},
 	shinyvenomoth: {
-		num: 49,
+		num: 999949,
 		name: "Shiny Venomoth",
 		types: ["Bug", "Poison"],
 		baseStats: { hp: 70, atk: 65, def: 60, spa: 90, spd: 75, spe: 90 },
@@ -21374,7 +21374,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Bug"],
 	},
 	shinydiglett: {
-		num: 50,
+		num: 999950,
 		name: "Shiny Diglett",
 		types: ["Ground"],
 		baseStats: { hp: 10, atk: 55, def: 25, spa: 35, spd: 45, spe: 95 },
@@ -21388,7 +21388,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Diglett", "Shiny Diglett-Alola"],
 	},
 	shinydiglettalola: {
-		num: 50,
+		num: 999950,
 		name: "Shiny Diglett-Alola",
 		baseSpecies: "Shiny Diglett",
 		forme: "Alola",
@@ -21402,7 +21402,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field"],
 	},
 	shinydugtrio: {
-		num: 51,
+		num: 999951,
 		name: "Shiny Dugtrio",
 		types: ["Ground"],
 		baseStats: { hp: 35, atk: 100, def: 50, spa: 50, spd: 70, spe: 120 },
@@ -21417,7 +21417,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Dugtrio", "Shiny Dugtrio-Alola"],
 	},
 	shinydugtrioalola: {
-		num: 51,
+		num: 999951,
 		name: "Shiny Dugtrio-Alola",
 		baseSpecies: "Shiny Dugtrio",
 		forme: "Alola",
@@ -21432,7 +21432,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field"],
 	},
 	shinymeowth: {
-		num: 52,
+		num: 999952,
 		name: "Shiny Meowth",
 		types: ["Normal"],
 		baseStats: { hp: 40, atk: 45, def: 35, spa: 40, spd: 40, spe: 90 },
@@ -21447,7 +21447,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		canGigantamax: "G-Max Gold Rush",
 	},
 	shinymeowthalola: {
-		num: 52,
+		num: 999952,
 		name: "Shiny Meowth-Alola",
 		baseSpecies: "Shiny Meowth",
 		forme: "Alola",
@@ -21461,7 +21461,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field"],
 	},
 	shinymeowthgalar: {
-		num: 52,
+		num: 999952,
 		name: "Shiny Meowth-Galar",
 		baseSpecies: "Shiny Meowth",
 		forme: "Galar",
@@ -21475,7 +21475,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field"],
 	},
 	shinymeowthgmax: {
-		num: 52,
+		num: 999952,
 		name: "Shiny Meowth-Gmax",
 		baseSpecies: "Shiny Meowth",
 		forme: "Gmax",
@@ -21489,7 +21489,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		changesFrom: "Shiny Meowth",
 	},
 	shinypersian: {
-		num: 53,
+		num: 999953,
 		name: "Shiny Persian",
 		types: ["Normal"],
 		baseStats: { hp: 65, atk: 70, def: 60, spa: 65, spd: 65, spe: 115 },
@@ -21504,7 +21504,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Persian", "Shiny Persian-Alola"],
 	},
 	shinypersianalola: {
-		num: 53,
+		num: 999953,
 		name: "Shiny Persian-Alola",
 		baseSpecies: "Shiny Persian",
 		forme: "Alola",
@@ -21519,7 +21519,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field"],
 	},
 	shinypsyduck: {
-		num: 54,
+		num: 999954,
 		name: "Shiny Psyduck",
 		types: ["Water"],
 		baseStats: { hp: 50, atk: 52, def: 48, spa: 65, spd: 50, spe: 55 },
@@ -21531,7 +21531,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Water 1", "Field"],
 	},
 	shinygolduck: {
-		num: 55,
+		num: 999955,
 		name: "Shiny Golduck",
 		types: ["Water"],
 		baseStats: { hp: 80, atk: 82, def: 78, spa: 95, spd: 80, spe: 85 },
@@ -21544,7 +21544,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Water 1", "Field"],
 	},
 	shinymankey: {
-		num: 56,
+		num: 999956,
 		name: "Shiny Mankey",
 		types: ["Fighting"],
 		baseStats: { hp: 40, atk: 80, def: 35, spa: 35, spd: 45, spe: 70 },
@@ -21556,7 +21556,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field"],
 	},
 	shinyprimeape: {
-		num: 57,
+		num: 999957,
 		name: "Shiny Primeape",
 		types: ["Fighting"],
 		baseStats: { hp: 65, atk: 105, def: 60, spa: 60, spd: 70, spe: 95 },
@@ -21570,7 +21570,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field"],
 	},
 	shinygrowlithe: {
-		num: 58,
+		num: 999958,
 		name: "Shiny Growlithe",
 		types: ["Fire"],
 		gender: "F",
@@ -21585,7 +21585,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Growlithe", "Shiny Growlithe-Hisui"],
 	},
 	shinygrowlithehisui: {
-		num: 58,
+		num: 999958,
 		name: "Shiny Growlithe-Hisui",
 		baseSpecies: "Shiny Growlithe",
 		forme: "Hisui",
@@ -21600,7 +21600,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field"],
 	},
 	shinyarcanine: {
-		num: 59,
+		num: 999959,
 		name: "Shiny Arcanine",
 		types: ["Fire"],
 		gender: "F",
@@ -21617,7 +21617,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Arcanine", "Shiny Arcanine-Hisui"],
 	},
 	shinyarcaninehisui: {
-		num: 59,
+		num: 999959,
 		name: "Shiny Arcanine-Hisui",
 		baseSpecies: "Shiny Arcanine",
 		forme: "Hisui",
@@ -21634,7 +21634,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field"],
 	},
 	shinypoliwag: {
-		num: 60,
+		num: 999960,
 		name: "Shiny Poliwag",
 		types: ["Water"],
 		baseStats: { hp: 40, atk: 50, def: 40, spa: 40, spd: 40, spe: 90 },
@@ -21646,7 +21646,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Water 1"],
 	},
 	shinypoliwhirl: {
-		num: 61,
+		num: 999961,
 		name: "Shiny Poliwhirl",
 		types: ["Water"],
 		baseStats: { hp: 65, atk: 65, def: 65, spa: 50, spd: 50, spe: 90 },
@@ -21660,7 +21660,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Water 1"],
 	},
 	shinypoliwrath: {
-		num: 62,
+		num: 999962,
 		name: "Shiny Poliwrath",
 		types: ["Water", "Fighting"],
 		baseStats: { hp: 90, atk: 95, def: 95, spa: 70, spd: 90, spe: 70 },
@@ -21674,7 +21674,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Water 1"],
 	},
 	shinyabra: {
-		num: 63,
+		num: 999963,
 		name: "Shiny Abra",
 		types: ["Psychic"],
 		gender: "F",
@@ -21687,7 +21687,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Human-Like"],
 	},
 	shinykadabra: {
-		num: 64,
+		num: 999964,
 		name: "Shiny Kadabra",
 		types: ["Psychic"],
 		gender: "F",
@@ -21702,7 +21702,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Human-Like"],
 	},
 	shinyalakazam: {
-		num: 65,
+		num: 999965,
 		name: "Shiny Alakazam",
 		types: ["Psychic"],
 		gender: "F",
@@ -21718,7 +21718,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Alakazam", "Shiny Alakazam-Mega"],
 	},
 	shinyalakazammega: {
-		num: 65,
+		num: 999965,
 		name: "Shiny Alakazam-Mega",
 		baseSpecies: "Shiny Alakazam",
 		forme: "Mega",
@@ -21733,7 +21733,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		requiredItem: "Alakazite",
 	},
 	shinymachop: {
-		num: 66,
+		num: 999966,
 		name: "Shiny Machop",
 		types: ["Fighting"],
 		gender: "F",
@@ -21746,7 +21746,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Human-Like"],
 	},
 	shinymachoke: {
-		num: 67,
+		num: 999967,
 		name: "Shiny Machoke",
 		types: ["Fighting"],
 		gender: "F",
@@ -21761,7 +21761,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Human-Like"],
 	},
 	shinymachamp: {
-		num: 68,
+		num: 999968,
 		name: "Shiny Machamp",
 		types: ["Fighting"],
 		gender: "F",
@@ -21776,7 +21776,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		canGigantamax: "G-Max Chi Strike",
 	},
 	shinymachampgmax: {
-		num: 68,
+		num: 999968,
 		name: "Shiny Machamp-Gmax",
 		baseSpecies: "Shiny Machamp",
 		forme: "Gmax",
@@ -21791,7 +21791,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		changesFrom: "Shiny Machamp",
 	},
 	shinybellsprout: {
-		num: 69,
+		num: 999969,
 		name: "Shiny Bellsprout",
 		types: ["Grass", "Poison"],
 		baseStats: { hp: 50, atk: 75, def: 35, spa: 70, spd: 30, spe: 40 },
@@ -21803,7 +21803,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Grass"],
 	},
 	shinyweepinbell: {
-		num: 70,
+		num: 999970,
 		name: "Shiny Weepinbell",
 		types: ["Grass", "Poison"],
 		baseStats: { hp: 65, atk: 90, def: 50, spa: 85, spd: 45, spe: 55 },
@@ -21817,7 +21817,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Grass"],
 	},
 	shinyvictreebel: {
-		num: 71,
+		num: 999971,
 		name: "Shiny Victreebel",
 		types: ["Grass", "Poison"],
 		baseStats: { hp: 80, atk: 105, def: 65, spa: 100, spd: 70, spe: 70 },
@@ -21833,7 +21833,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Victreebel", "Shiny Victreebel-Mega"],
 	},
 	shinyvictreebelmega: {
-		num: 71,
+		num: 999971,
 		name: "Shiny Victreebel-Mega",
 		baseSpecies: "Shiny Victreebel",
 		forme: "Mega",
@@ -21848,7 +21848,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		gen: 9,
 	},
 	shinytentacool: {
-		num: 72,
+		num: 999972,
 		name: "Shiny Tentacool",
 		types: ["Water", "Poison"],
 		baseStats: { hp: 40, atk: 40, def: 35, spa: 50, spd: 100, spe: 70 },
@@ -21860,7 +21860,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Water 3"],
 	},
 	shinytentacruel: {
-		num: 73,
+		num: 999973,
 		name: "Shiny Tentacruel",
 		types: ["Water", "Poison"],
 		baseStats: { hp: 80, atk: 70, def: 65, spa: 80, spd: 120, spe: 100 },
@@ -21873,7 +21873,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Water 3"],
 	},
 	shinygeodude: {
-		num: 74,
+		num: 999974,
 		name: "Shiny Geodude",
 		types: ["Rock", "Ground"],
 		baseStats: { hp: 40, atk: 80, def: 100, spa: 30, spd: 30, spe: 20 },
@@ -21887,7 +21887,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Geodude", "Shiny Geodude-Alola"],
 	},
 	shinygeodudealola: {
-		num: 74,
+		num: 999974,
 		name: "Shiny Geodude-Alola",
 		baseSpecies: "Shiny Geodude",
 		forme: "Alola",
@@ -21901,7 +21901,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Mineral"],
 	},
 	shinygraveler: {
-		num: 75,
+		num: 999975,
 		name: "Shiny Graveler",
 		types: ["Rock", "Ground"],
 		baseStats: { hp: 55, atk: 95, def: 115, spa: 45, spd: 45, spe: 35 },
@@ -21917,7 +21917,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Graveler", "Shiny Graveler-Alola"],
 	},
 	shinygraveleralola: {
-		num: 75,
+		num: 999975,
 		name: "Shiny Graveler-Alola",
 		baseSpecies: "Shiny Graveler",
 		forme: "Alola",
@@ -21933,7 +21933,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Mineral"],
 	},
 	shinygolem: {
-		num: 76,
+		num: 999976,
 		name: "Shiny Golem",
 		types: ["Rock", "Ground"],
 		baseStats: { hp: 80, atk: 120, def: 130, spa: 55, spd: 65, spe: 45 },
@@ -21948,7 +21948,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Golem", "Shiny Golem-Alola"],
 	},
 	shinygolemalola: {
-		num: 76,
+		num: 999976,
 		name: "Shiny Golem-Alola",
 		baseSpecies: "Shiny Golem",
 		forme: "Alola",
@@ -21963,7 +21963,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Mineral"],
 	},
 	shinyponyta: {
-		num: 77,
+		num: 999977,
 		name: "Shiny Ponyta",
 		types: ["Fire"],
 		baseStats: { hp: 50, atk: 85, def: 55, spa: 65, spd: 65, spe: 90 },
@@ -21977,7 +21977,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Ponyta", "Shiny Ponyta-Galar"],
 	},
 	shinyponytagalar: {
-		num: 77,
+		num: 999977,
 		name: "Shiny Ponyta-Galar",
 		baseSpecies: "Shiny Ponyta",
 		forme: "Galar",
@@ -21991,7 +21991,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field"],
 	},
 	shinyrapidash: {
-		num: 78,
+		num: 999978,
 		name: "Shiny Rapidash",
 		types: ["Fire"],
 		baseStats: { hp: 65, atk: 100, def: 70, spa: 80, spd: 80, spe: 105 },
@@ -22006,7 +22006,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Rapidash", "Shiny Rapidash-Galar"],
 	},
 	shinyrapidashgalar: {
-		num: 78,
+		num: 999978,
 		name: "Shiny Rapidash-Galar",
 		baseSpecies: "Shiny Rapidash",
 		forme: "Galar",
@@ -22021,7 +22021,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field"],
 	},
 	shinyslowpoke: {
-		num: 79,
+		num: 999979,
 		name: "Shiny Slowpoke",
 		types: ["Water", "Psychic"],
 		baseStats: { hp: 90, atk: 65, def: 65, spa: 40, spd: 40, spe: 15 },
@@ -22035,7 +22035,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Slowpoke", "Shiny Slowpoke-Galar"],
 	},
 	shinyslowpokegalar: {
-		num: 79,
+		num: 999979,
 		name: "Shiny Slowpoke-Galar",
 		baseSpecies: "Shiny Slowpoke",
 		forme: "Galar",
@@ -22049,7 +22049,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Monster", "Water 1"],
 	},
 	shinyslowbro: {
-		num: 80,
+		num: 999980,
 		name: "Shiny Slowbro",
 		types: ["Water", "Psychic"],
 		baseStats: { hp: 95, atk: 75, def: 110, spa: 100, spd: 80, spe: 30 },
@@ -22064,7 +22064,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Slowbro", "Shiny Slowbro-Mega", "Shiny Slowbro-Galar"],
 	},
 	shinyslowbromega: {
-		num: 80,
+		num: 999980,
 		name: "Shiny Slowbro-Mega",
 		baseSpecies: "Shiny Slowbro",
 		forme: "Mega",
@@ -22078,7 +22078,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		requiredItem: "Slowbronite",
 	},
 	shinyslowbrogalar: {
-		num: 80,
+		num: 999980,
 		name: "Shiny Slowbro-Galar",
 		baseSpecies: "Shiny Slowbro",
 		forme: "Galar",
@@ -22094,7 +22094,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Monster", "Water 1"],
 	},
 	shinymagnemite: {
-		num: 81,
+		num: 999981,
 		name: "Shiny Magnemite",
 		types: ["Electric", "Steel"],
 		gender: "F",
@@ -22107,7 +22107,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Mineral"],
 	},
 	shinymagneton: {
-		num: 82,
+		num: 999982,
 		name: "Shiny Magneton",
 		types: ["Electric", "Steel"],
 		gender: "F",
@@ -22122,7 +22122,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Mineral"],
 	},
 	shinyfarfetchd: {
-		num: 83,
+		num: 999983,
 		name: "Shiny Farfetch\u2019d",
 		types: ["Normal", "Flying"],
 		baseStats: { hp: 52, atk: 90, def: 55, spa: 58, spd: 62, spe: 60 },
@@ -22135,7 +22135,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Farfetch\u2019d", "Shiny Farfetch\u2019d-Galar"],
 	},
 	shinyfarfetchdgalar: {
-		num: 83,
+		num: 999983,
 		name: "Shiny Farfetch\u2019d-Galar",
 		baseSpecies: "Shiny Farfetch\u2019d",
 		forme: "Galar",
@@ -22149,7 +22149,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Flying", "Field"],
 	},
 	shinydoduo: {
-		num: 84,
+		num: 999984,
 		name: "Shiny Doduo",
 		types: ["Normal", "Flying"],
 		baseStats: { hp: 35, atk: 85, def: 45, spa: 35, spd: 35, spe: 75 },
@@ -22161,7 +22161,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Flying"],
 	},
 	shinydodrio: {
-		num: 85,
+		num: 999985,
 		name: "Shiny Dodrio",
 		types: ["Normal", "Flying"],
 		baseStats: { hp: 60, atk: 110, def: 70, spa: 60, spd: 60, spe: 110 },
@@ -22174,7 +22174,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Flying"],
 	},
 	shinyseel: {
-		num: 86,
+		num: 999986,
 		name: "Shiny Seel",
 		types: ["Water"],
 		baseStats: { hp: 65, atk: 45, def: 55, spa: 45, spd: 70, spe: 45 },
@@ -22186,7 +22186,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Water 1", "Field"],
 	},
 	shinydewgong: {
-		num: 87,
+		num: 999987,
 		name: "Shiny Dewgong",
 		types: ["Water", "Ice"],
 		baseStats: { hp: 90, atk: 70, def: 80, spa: 70, spd: 95, spe: 70 },
@@ -22199,7 +22199,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Water 1", "Field"],
 	},
 	shinygrimer: {
-		num: 88,
+		num: 999988,
 		name: "Shiny Grimer",
 		types: ["Poison"],
 		baseStats: { hp: 80, atk: 80, def: 50, spa: 40, spd: 50, spe: 25 },
@@ -22213,7 +22213,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Grimer", "Shiny Grimer-Alola"],
 	},
 	shinygrimeralola: {
-		num: 88,
+		num: 999988,
 		name: "Shiny Grimer-Alola",
 		baseSpecies: "Shiny Grimer",
 		forme: "Alola",
@@ -22227,7 +22227,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Amorphous"],
 	},
 	shinymuk: {
-		num: 89,
+		num: 999989,
 		name: "Shiny Muk",
 		types: ["Poison"],
 		baseStats: { hp: 105, atk: 105, def: 75, spa: 65, spd: 100, spe: 50 },
@@ -22242,7 +22242,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Muk", "Shiny Muk-Alola"],
 	},
 	shinymukalola: {
-		num: 89,
+		num: 999989,
 		name: "Shiny Muk-Alola",
 		baseSpecies: "Shiny Muk",
 		forme: "Alola",
@@ -22257,7 +22257,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Amorphous"],
 	},
 	shinyshellder: {
-		num: 90,
+		num: 999990,
 		name: "Shiny Shellder",
 		types: ["Water"],
 		baseStats: { hp: 30, atk: 65, def: 100, spa: 45, spd: 25, spe: 40 },
@@ -22269,7 +22269,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Water 3"],
 	},
 	shinycloyster: {
-		num: 91,
+		num: 999991,
 		name: "Shiny Cloyster",
 		types: ["Water", "Ice"],
 		baseStats: { hp: 50, atk: 95, def: 180, spa: 85, spd: 45, spe: 70 },
@@ -22283,7 +22283,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Water 3"],
 	},
 	shinygastly: {
-		num: 92,
+		num: 999992,
 		name: "Shiny Gastly",
 		types: ["Ghost", "Poison"],
 		baseStats: { hp: 30, atk: 35, def: 30, spa: 100, spd: 35, spe: 80 },
@@ -22295,7 +22295,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Amorphous"],
 	},
 	shinyhaunter: {
-		num: 93,
+		num: 999993,
 		name: "Shiny Haunter",
 		types: ["Ghost", "Poison"],
 		baseStats: { hp: 45, atk: 50, def: 45, spa: 115, spd: 55, spe: 95 },
@@ -22309,7 +22309,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Amorphous"],
 	},
 	shinygengar: {
-		num: 94,
+		num: 999994,
 		name: "Shiny Gengar",
 		types: ["Ghost", "Poison"],
 		baseStats: { hp: 60, atk: 65, def: 60, spa: 130, spd: 75, spe: 110 },
@@ -22325,7 +22325,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		canGigantamax: "G-Max Terror",
 	},
 	shinygengarmega: {
-		num: 94,
+		num: 999994,
 		name: "Shiny Gengar-Mega",
 		baseSpecies: "Shiny Gengar",
 		forme: "Mega",
@@ -22339,7 +22339,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		requiredItem: "Gengarite",
 	},
 	shinygengargmax: {
-		num: 94,
+		num: 999994,
 		name: "Shiny Gengar-Gmax",
 		baseSpecies: "Shiny Gengar",
 		forme: "Gmax",
@@ -22353,7 +22353,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		changesFrom: "Shiny Gengar",
 	},
 	shinyonix: {
-		num: 95,
+		num: 999995,
 		name: "Shiny Onix",
 		types: ["Rock", "Ground"],
 		baseStats: { hp: 35, atk: 45, def: 160, spa: 30, spd: 45, spe: 70 },
@@ -22365,7 +22365,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Mineral"],
 	},
 	shinydrowzee: {
-		num: 96,
+		num: 999996,
 		name: "Shiny Drowzee",
 		types: ["Psychic"],
 		baseStats: { hp: 60, atk: 48, def: 45, spa: 43, spd: 90, spe: 42 },
@@ -22377,7 +22377,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Human-Like"],
 	},
 	shinyhypno: {
-		num: 97,
+		num: 999997,
 		name: "Shiny Hypno",
 		types: ["Psychic"],
 		baseStats: { hp: 85, atk: 73, def: 70, spa: 73, spd: 115, spe: 67 },
@@ -22390,7 +22390,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Human-Like"],
 	},
 	shinykrabby: {
-		num: 98,
+		num: 999998,
 		name: "Shiny Krabby",
 		types: ["Water"],
 		baseStats: { hp: 30, atk: 105, def: 90, spa: 25, spd: 25, spe: 50 },
@@ -22402,7 +22402,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Water 3"],
 	},
 	shinykingler: {
-		num: 99,
+		num: 999999,
 		name: "Shiny Kingler",
 		types: ["Water"],
 		baseStats: { hp: 55, atk: 130, def: 115, spa: 50, spd: 50, spe: 75 },
@@ -22416,7 +22416,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		canGigantamax: "G-Max Foam Burst",
 	},
 	shinykinglergmax: {
-		num: 99,
+		num: 999999,
 		name: "Shiny Kingler-Gmax",
 		baseSpecies: "Shiny Kingler",
 		forme: "Gmax",
@@ -22430,7 +22430,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		changesFrom: "Shiny Kingler",
 	},
 	shinyvoltorb: {
-		num: 100,
+		num: 9999100,
 		name: "Shiny Voltorb",
 		types: ["Electric"],
 		gender: "F",
@@ -22445,7 +22445,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Voltorb", "Shiny Voltorb-Hisui"],
 	},
 	shinyvoltorbhisui: {
-		num: 100,
+		num: 9999100,
 		name: "Shiny Voltorb-Hisui",
 		baseSpecies: "Shiny Voltorb",
 		forme: "Hisui",
@@ -22460,7 +22460,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Mineral"],
 	},
 	shinyelectrode: {
-		num: 101,
+		num: 9999101,
 		name: "Shiny Electrode",
 		types: ["Electric"],
 		gender: "F",
@@ -22476,7 +22476,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Electrode", "Shiny Electrode-Hisui"],
 	},
 	shinyelectrodehisui: {
-		num: 101,
+		num: 9999101,
 		name: "Shiny Electrode-Hisui",
 		baseSpecies: "Shiny Electrode",
 		forme: "Hisui",
@@ -22493,7 +22493,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Mineral"],
 	},
 	shinyexeggcute: {
-		num: 102,
+		num: 9999102,
 		name: "Shiny Exeggcute",
 		types: ["Grass", "Psychic"],
 		baseStats: { hp: 60, atk: 40, def: 80, spa: 60, spd: 45, spe: 40 },
@@ -22505,7 +22505,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Grass"],
 	},
 	shinyexeggutor: {
-		num: 103,
+		num: 9999103,
 		name: "Shiny Exeggutor",
 		types: ["Grass", "Psychic"],
 		baseStats: { hp: 95, atk: 95, def: 85, spa: 125, spd: 75, spe: 55 },
@@ -22521,7 +22521,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Exeggutor", "Shiny Exeggutor-Alola"],
 	},
 	shinyexeggutoralola: {
-		num: 103,
+		num: 9999103,
 		name: "Shiny Exeggutor-Alola",
 		baseSpecies: "Shiny Exeggutor",
 		forme: "Alola",
@@ -22538,7 +22538,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Grass"],
 	},
 	shinycubone: {
-		num: 104,
+		num: 9999104,
 		name: "Shiny Cubone",
 		types: ["Ground"],
 		baseStats: { hp: 50, atk: 50, def: 95, spa: 40, spd: 50, spe: 35 },
@@ -22550,7 +22550,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Monster"],
 	},
 	shinymarowak: {
-		num: 105,
+		num: 9999105,
 		name: "Shiny Marowak",
 		types: ["Ground"],
 		baseStats: { hp: 60, atk: 80, def: 110, spa: 50, spd: 80, spe: 45 },
@@ -22565,7 +22565,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Marowak", "Shiny Marowak-Alola", "Shiny Marowak-Alola-Totem"],
 	},
 	shinymarowakalola: {
-		num: 105,
+		num: 9999105,
 		name: "Shiny Marowak-Alola",
 		baseSpecies: "Shiny Marowak",
 		forme: "Alola",
@@ -22582,7 +22582,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Monster"],
 	},
 	shinymarowakalolatotem: {
-		num: 105,
+		num: 9999105,
 		name: "Shiny Marowak-Alola-Totem",
 		baseSpecies: "Shiny Marowak",
 		forme: "Alola-Totem",
@@ -22595,7 +22595,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Monster"],
 	},
 	shinyhitmonlee: {
-		num: 106,
+		num: 9999106,
 		name: "Shiny Hitmonlee",
 		types: ["Fighting"],
 		gender: "F",
@@ -22610,7 +22610,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Human-Like"],
 	},
 	shinyhitmonchan: {
-		num: 107,
+		num: 9999107,
 		name: "Shiny Hitmonchan",
 		types: ["Fighting"],
 		gender: "F",
@@ -22625,7 +22625,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Human-Like"],
 	},
 	shinylickitung: {
-		num: 108,
+		num: 9999108,
 		name: "Shiny Lickitung",
 		types: ["Normal"],
 		baseStats: { hp: 90, atk: 55, def: 75, spa: 60, spd: 75, spe: 30 },
@@ -22637,7 +22637,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Monster"],
 	},
 	shinykoffing: {
-		num: 109,
+		num: 9999109,
 		name: "Shiny Koffing",
 		types: ["Poison"],
 		baseStats: { hp: 40, atk: 65, def: 95, spa: 60, spd: 45, spe: 35 },
@@ -22649,7 +22649,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Amorphous"],
 	},
 	shinyweezing: {
-		num: 110,
+		num: 9999110,
 		name: "Shiny Weezing",
 		types: ["Poison"],
 		baseStats: { hp: 65, atk: 90, def: 120, spa: 85, spd: 70, spe: 60 },
@@ -22664,7 +22664,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Weezing", "Shiny Weezing-Galar"],
 	},
 	shinyweezinggalar: {
-		num: 110,
+		num: 9999110,
 		name: "Shiny Weezing-Galar",
 		baseSpecies: "Shiny Weezing",
 		forme: "Galar",
@@ -22680,7 +22680,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Amorphous"],
 	},
 	shinyrhyhorn: {
-		num: 111,
+		num: 9999111,
 		name: "Shiny Rhyhorn",
 		types: ["Ground", "Rock"],
 		baseStats: { hp: 80, atk: 85, def: 95, spa: 30, spd: 30, spe: 25 },
@@ -22692,7 +22692,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Monster", "Field"],
 	},
 	shinyrhydon: {
-		num: 112,
+		num: 9999112,
 		name: "Shiny Rhydon",
 		types: ["Ground", "Rock"],
 		baseStats: { hp: 105, atk: 130, def: 120, spa: 45, spd: 45, spe: 40 },
@@ -22706,7 +22706,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Monster", "Field"],
 	},
 	shinychansey: {
-		num: 113,
+		num: 9999113,
 		name: "Shiny Chansey",
 		types: ["Normal"],
 		gender: "F",
@@ -22724,7 +22724,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		canHatch: true,
 	},
 	shinytangela: {
-		num: 114,
+		num: 9999114,
 		name: "Shiny Tangela",
 		types: ["Grass"],
 		baseStats: { hp: 65, atk: 55, def: 115, spa: 100, spd: 40, spe: 60 },
@@ -22736,7 +22736,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Grass"],
 	},
 	shinykangaskhan: {
-		num: 115,
+		num: 9999115,
 		name: "Shiny Kangaskhan",
 		types: ["Normal"],
 		gender: "F",
@@ -22750,7 +22750,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Kangaskhan", "Shiny Kangaskhan-Mega"],
 	},
 	shinykangaskhanmega: {
-		num: 115,
+		num: 9999115,
 		name: "Shiny Kangaskhan-Mega",
 		baseSpecies: "Shiny Kangaskhan",
 		forme: "Mega",
@@ -22765,7 +22765,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		requiredItem: "Kangaskhanite",
 	},
 	shinyhorsea: {
-		num: 116,
+		num: 9999116,
 		name: "Shiny Horsea",
 		types: ["Water"],
 		baseStats: { hp: 30, atk: 40, def: 70, spa: 70, spd: 25, spe: 60 },
@@ -22777,7 +22777,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Water 1", "Dragon"],
 	},
 	shinyseadra: {
-		num: 117,
+		num: 9999117,
 		name: "Shiny Seadra",
 		types: ["Water"],
 		baseStats: { hp: 55, atk: 65, def: 95, spa: 95, spd: 45, spe: 85 },
@@ -22791,7 +22791,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Water 1", "Dragon"],
 	},
 	shinygoldeen: {
-		num: 118,
+		num: 9999118,
 		name: "Shiny Goldeen",
 		types: ["Water"],
 		baseStats: { hp: 45, atk: 67, def: 60, spa: 35, spd: 50, spe: 63 },
@@ -22803,7 +22803,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Water 2"],
 	},
 	shinyseaking: {
-		num: 119,
+		num: 9999119,
 		name: "Shiny Seaking",
 		types: ["Water"],
 		baseStats: { hp: 80, atk: 92, def: 65, spa: 65, spd: 80, spe: 68 },
@@ -22816,7 +22816,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Water 2"],
 	},
 	shinystaryu: {
-		num: 120,
+		num: 9999120,
 		name: "Shiny Staryu",
 		types: ["Water"],
 		gender: "F",
@@ -22829,7 +22829,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Water 3"],
 	},
 	shinystarmie: {
-		num: 121,
+		num: 9999121,
 		name: "Shiny Starmie",
 		types: ["Water", "Psychic"],
 		gender: "F",
@@ -22846,7 +22846,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Starmie", "Shiny Starmie-Mega"],
 	},
 	shinystarmiemega: {
-		num: 121,
+		num: 9999121,
 		name: "Shiny Starmie-Mega",
 		baseSpecies: "Shiny Starmie",
 		forme: "Mega",
@@ -22863,7 +22863,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		gen: 9,
 	},
 	shinymrmime: {
-		num: 122,
+		num: 9999122,
 		name: "Shiny Mr. Mime",
 		types: ["Psychic", "Fairy"],
 		baseStats: { hp: 40, atk: 45, def: 65, spa: 100, spd: 120, spe: 90 },
@@ -22880,7 +22880,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Mr. Mime", "Shiny Mr. Mime-Galar"],
 	},
 	shinymrmimegalar: {
-		num: 122,
+		num: 9999122,
 		name: "Shiny Mr. Mime-Galar",
 		baseSpecies: "Shiny Mr. Mime",
 		forme: "Galar",
@@ -22899,7 +22899,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		canHatch: true,
 	},
 	shinyscyther: {
-		num: 123,
+		num: 9999123,
 		name: "Shiny Scyther",
 		types: ["Bug", "Flying"],
 		baseStats: { hp: 70, atk: 110, def: 80, spa: 55, spd: 80, spe: 105 },
@@ -22911,7 +22911,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Bug"],
 	},
 	shinyjynx: {
-		num: 124,
+		num: 9999124,
 		name: "Shiny Jynx",
 		types: ["Ice", "Psychic"],
 		gender: "F",
@@ -22925,7 +22925,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Human-Like"],
 	},
 	shinyelectabuzz: {
-		num: 125,
+		num: 9999125,
 		name: "Shiny Electabuzz",
 		types: ["Electric"],
 		gender: "F",
@@ -22940,7 +22940,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Human-Like"],
 	},
 	shinymagmar: {
-		num: 126,
+		num: 9999126,
 		name: "Shiny Magmar",
 		types: ["Fire"],
 		gender: "F",
@@ -22955,7 +22955,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Human-Like"],
 	},
 	shinypinsir: {
-		num: 127,
+		num: 9999127,
 		name: "Shiny Pinsir",
 		types: ["Bug"],
 		baseStats: { hp: 65, atk: 125, def: 100, spa: 55, spd: 70, spe: 85 },
@@ -22968,7 +22968,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Pinsir", "Shiny Pinsir-Mega"],
 	},
 	shinypinsirmega: {
-		num: 127,
+		num: 9999127,
 		name: "Shiny Pinsir-Mega",
 		baseSpecies: "Shiny Pinsir",
 		forme: "Mega",
@@ -22982,7 +22982,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		requiredItem: "Pinsirite",
 	},
 	shinytauros: {
-		num: 128,
+		num: 9999128,
 		name: "Shiny Tauros",
 		types: ["Normal"],
 		gender: "F",
@@ -22996,7 +22996,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field"],
 	},
 	shinytaurospaldeacombat: {
-		num: 128,
+		num: 9999128,
 		name: "Shiny Tauros-Paldea-Combat",
 		baseSpecies: "Shiny Tauros",
 		forme: "Paldea-Combat",
@@ -23010,7 +23010,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field"],
 	},
 	shinytaurospaldeablaze: {
-		num: 128,
+		num: 9999128,
 		name: "Shiny Tauros-Paldea-Blaze",
 		baseSpecies: "Shiny Tauros",
 		forme: "Paldea-Blaze",
@@ -23024,7 +23024,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field"],
 	},
 	shinytaurospaldeaaqua: {
-		num: 128,
+		num: 9999128,
 		name: "Shiny Tauros-Paldea-Aqua",
 		baseSpecies: "Shiny Tauros",
 		forme: "Paldea-Aqua",
@@ -23038,7 +23038,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field"],
 	},
 	shinymagikarp: {
-		num: 129,
+		num: 9999129,
 		name: "Shiny Magikarp",
 		types: ["Water"],
 		baseStats: { hp: 20, atk: 10, def: 55, spa: 15, spd: 20, spe: 80 },
@@ -23050,7 +23050,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Water 2", "Dragon"],
 	},
 	shinygyarados: {
-		num: 130,
+		num: 9999130,
 		name: "Shiny Gyarados",
 		types: ["Water", "Flying"],
 		baseStats: { hp: 95, atk: 125, def: 79, spa: 60, spd: 100, spe: 81 },
@@ -23065,7 +23065,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Gyarados", "Shiny Gyarados-Mega"],
 	},
 	shinygyaradosmega: {
-		num: 130,
+		num: 9999130,
 		name: "Shiny Gyarados-Mega",
 		baseSpecies: "Shiny Gyarados",
 		forme: "Mega",
@@ -23079,7 +23079,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		requiredItem: "Gyaradosite",
 	},
 	shinylapras: {
-		num: 131,
+		num: 9999131,
 		name: "Shiny Lapras",
 		types: ["Water", "Ice"],
 		baseStats: { hp: 130, atk: 85, def: 80, spa: 85, spd: 95, spe: 60 },
@@ -23091,7 +23091,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		canGigantamax: "G-Max Resonance",
 	},
 	shinylaprasgmax: {
-		num: 131,
+		num: 9999131,
 		name: "Shiny Lapras-Gmax",
 		baseSpecies: "Shiny Lapras",
 		forme: "Gmax",
@@ -23105,7 +23105,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		changesFrom: "Shiny Lapras",
 	},
 	shinyditto: {
-		num: 132,
+		num: 9999132,
 		name: "Shiny Ditto",
 		types: ["Normal"],
 		gender: "F",
@@ -23117,7 +23117,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Ditto"],
 	},
 	shinyeevee: {
-		num: 133,
+		num: 9999133,
 		name: "Shiny Eevee",
 		types: ["Normal"],
 		gender: "F",
@@ -23133,7 +23133,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		canGigantamax: "G-Max Cuddle",
 	},
 	shinyeeveestarter: {
-		num: 133,
+		num: 9999133,
 		name: "Shiny Eevee-Starter",
 		baseSpecies: "Shiny Eevee",
 		forme: "Starter",
@@ -23147,7 +23147,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Undiscovered"],
 	},
 	shinyeeveegmax: {
-		num: 133,
+		num: 9999133,
 		name: "Shiny Eevee-Gmax",
 		baseSpecies: "Shiny Eevee",
 		forme: "Gmax",
@@ -23162,7 +23162,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		changesFrom: "Shiny Eevee",
 	},
 	shinyvaporeon: {
-		num: 134,
+		num: 9999134,
 		name: "Shiny Vaporeon",
 		types: ["Water"],
 		gender: "F",
@@ -23177,7 +23177,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field"],
 	},
 	shinyjolteon: {
-		num: 135,
+		num: 9999135,
 		name: "Shiny Jolteon",
 		types: ["Electric"],
 		gender: "F",
@@ -23192,7 +23192,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field"],
 	},
 	shinyflareon: {
-		num: 136,
+		num: 9999136,
 		name: "Shiny Flareon",
 		types: ["Fire"],
 		gender: "F",
@@ -23207,7 +23207,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field"],
 	},
 	shinyporygon: {
-		num: 137,
+		num: 9999137,
 		name: "Shiny Porygon",
 		types: ["Normal"],
 		gender: "F",
@@ -23220,7 +23220,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Mineral"],
 	},
 	shinyomanyte: {
-		num: 138,
+		num: 9999138,
 		name: "Shiny Omanyte",
 		types: ["Rock", "Water"],
 		gender: "F",
@@ -23233,7 +23233,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Water 1", "Water 3"],
 	},
 	shinyomastar: {
-		num: 139,
+		num: 9999139,
 		name: "Shiny Omastar",
 		types: ["Rock", "Water"],
 		gender: "F",
@@ -23247,7 +23247,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Water 1", "Water 3"],
 	},
 	shinykabuto: {
-		num: 140,
+		num: 9999140,
 		name: "Shiny Kabuto",
 		types: ["Rock", "Water"],
 		gender: "F",
@@ -23260,7 +23260,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Water 1", "Water 3"],
 	},
 	shinykabutops: {
-		num: 141,
+		num: 9999141,
 		name: "Shiny Kabutops",
 		types: ["Rock", "Water"],
 		gender: "F",
@@ -23274,7 +23274,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Water 1", "Water 3"],
 	},
 	shinyaerodactyl: {
-		num: 142,
+		num: 9999142,
 		name: "Shiny Aerodactyl",
 		types: ["Rock", "Flying"],
 		gender: "F",
@@ -23288,7 +23288,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Aerodactyl", "Shiny Aerodactyl-Mega"],
 	},
 	shinyaerodactylmega: {
-		num: 142,
+		num: 9999142,
 		name: "Shiny Aerodactyl-Mega",
 		baseSpecies: "Shiny Aerodactyl",
 		forme: "Mega",
@@ -23303,7 +23303,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		requiredItem: "Aerodactylite",
 	},
 	shinysnorlax: {
-		num: 143,
+		num: 9999143,
 		name: "Shiny Snorlax",
 		types: ["Normal"],
 		gender: "F",
@@ -23319,7 +23319,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		canGigantamax: "G-Max Replenish",
 	},
 	shinysnorlaxgmax: {
-		num: 143,
+		num: 9999143,
 		name: "Shiny Snorlax-Gmax",
 		baseSpecies: "Shiny Snorlax",
 		forme: "Gmax",
@@ -23334,7 +23334,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		changesFrom: "Shiny Snorlax",
 	},
 	shinyarticuno: {
-		num: 144,
+		num: 9999144,
 		name: "Shiny Articuno",
 		types: ["Ice", "Flying"],
 		gender: "F",
@@ -23349,7 +23349,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Articuno", "Shiny Articuno-Galar"],
 	},
 	shinyarticunogalar: {
-		num: 144,
+		num: 9999144,
 		name: "Shiny Articuno-Galar",
 		baseSpecies: "Shiny Articuno",
 		forme: "Galar",
@@ -23363,7 +23363,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Undiscovered"],
 	},
 	shinyzapdos: {
-		num: 145,
+		num: 9999145,
 		name: "Shiny Zapdos",
 		types: ["Electric", "Flying"],
 		gender: "F",
@@ -23378,7 +23378,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Zapdos", "Shiny Zapdos-Galar"],
 	},
 	shinyzapdosgalar: {
-		num: 145,
+		num: 9999145,
 		name: "Shiny Zapdos-Galar",
 		baseSpecies: "Shiny Zapdos",
 		forme: "Galar",
@@ -23392,7 +23392,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Undiscovered"],
 	},
 	shinymoltres: {
-		num: 146,
+		num: 9999146,
 		name: "Shiny Moltres",
 		types: ["Fire", "Flying"],
 		gender: "F",
@@ -23407,7 +23407,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Moltres", "Shiny Moltres-Galar"],
 	},
 	shinymoltresgalar: {
-		num: 146,
+		num: 9999146,
 		name: "Shiny Moltres-Galar",
 		baseSpecies: "Shiny Moltres",
 		forme: "Galar",
@@ -23421,7 +23421,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Undiscovered"],
 	},
 	shinydratini: {
-		num: 147,
+		num: 9999147,
 		name: "Shiny Dratini",
 		types: ["Dragon"],
 		baseStats: { hp: 41, atk: 64, def: 45, spa: 50, spd: 50, spe: 50 },
@@ -23433,7 +23433,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Water 1", "Dragon"],
 	},
 	shinydragonair: {
-		num: 148,
+		num: 9999148,
 		name: "Shiny Dragonair",
 		types: ["Dragon"],
 		baseStats: { hp: 61, atk: 84, def: 65, spa: 70, spd: 70, spe: 70 },
@@ -23447,7 +23447,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Water 1", "Dragon"],
 	},
 	shinydragonite: {
-		num: 149,
+		num: 9999149,
 		name: "Shiny Dragonite",
 		types: ["Dragon", "Flying"],
 		baseStats: { hp: 91, atk: 134, def: 95, spa: 100, spd: 100, spe: 80 },
@@ -23462,7 +23462,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Dragonite", "Shiny Dragonite-Mega"],
 	},
 	shinydragonitemega: {
-		num: 149,
+		num: 9999149,
 		name: "Shiny Dragonite-Mega",
 		baseSpecies: "Shiny Dragonite",
 		forme: "Mega",
@@ -23477,7 +23477,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		gen: 9,
 	},
 	shinymewtwo: {
-		num: 150,
+		num: 9999150,
 		name: "Shiny Mewtwo",
 		types: ["Psychic"],
 		gender: "F",
@@ -23492,7 +23492,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Mewtwo", "Shiny Mewtwo-Mega-X", "Shiny Mewtwo-Mega-Y"],
 	},
 	shinymewtwomegax: {
-		num: 150,
+		num: 9999150,
 		name: "Shiny Mewtwo-Mega-X",
 		baseSpecies: "Shiny Mewtwo",
 		forme: "Mega-X",
@@ -23507,7 +23507,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		requiredItem: "Mewtwonite X",
 	},
 	shinymewtwomegay: {
-		num: 150,
+		num: 9999150,
 		name: "Shiny Mewtwo-Mega-Y",
 		baseSpecies: "Shiny Mewtwo",
 		forme: "Mega-Y",
@@ -23522,7 +23522,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		requiredItem: "Mewtwonite Y",
 	},
 	shinymew: {
-		num: 151,
+		num: 9999151,
 		name: "Shiny Mew",
 		types: ["Psychic"],
 		gender: "F",
@@ -23535,7 +23535,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Undiscovered"],
 	},
 	shinychikorita: {
-		num: 152,
+		num: 9999152,
 		name: "Shiny Chikorita",
 		types: ["Grass"],
 		gender: "F",
@@ -23548,7 +23548,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Monster", "Grass"],
 	},
 	shinybayleef: {
-		num: 153,
+		num: 9999153,
 		name: "Shiny Bayleef",
 		types: ["Grass"],
 		gender: "F",
@@ -23563,7 +23563,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Monster", "Grass"],
 	},
 	shinymeganium: {
-		num: 154,
+		num: 9999154,
 		name: "Shiny Meganium",
 		types: ["Grass"],
 		gender: "F",
@@ -23579,7 +23579,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Meganium", "Shiny Meganium-Mega"],
 	},
 	shinymeganiummega: {
-		num: 154,
+		num: 9999154,
 		name: "Shiny Meganium-Mega",
 		baseSpecies: "Shiny Meganium",
 		forme: "Mega",
@@ -23595,7 +23595,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		gen: 9,
 	},
 	shinycyndaquil: {
-		num: 155,
+		num: 9999155,
 		name: "Shiny Cyndaquil",
 		types: ["Fire"],
 		gender: "F",
@@ -23608,7 +23608,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field"],
 	},
 	shinyquilava: {
-		num: 156,
+		num: 9999156,
 		name: "Shiny Quilava",
 		types: ["Fire"],
 		gender: "F",
@@ -23623,7 +23623,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field"],
 	},
 	shinytyphlosion: {
-		num: 157,
+		num: 9999157,
 		name: "Shiny Typhlosion",
 		types: ["Fire"],
 		gender: "F",
@@ -23639,7 +23639,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Typhlosion", "Shiny Typhlosion-Hisui"],
 	},
 	shinytyphlosionhisui: {
-		num: 157,
+		num: 9999157,
 		name: "Shiny Typhlosion-Hisui",
 		baseSpecies: "Shiny Typhlosion",
 		forme: "Hisui",
@@ -23655,7 +23655,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field"],
 	},
 	shinytotodile: {
-		num: 158,
+		num: 9999158,
 		name: "Shiny Totodile",
 		types: ["Water"],
 		gender: "F",
@@ -23668,7 +23668,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Monster", "Water 1"],
 	},
 	shinycroconaw: {
-		num: 159,
+		num: 9999159,
 		name: "Shiny Croconaw",
 		types: ["Water"],
 		gender: "F",
@@ -23683,7 +23683,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Monster", "Water 1"],
 	},
 	shinyferaligatr: {
-		num: 160,
+		num: 9999160,
 		name: "Shiny Feraligatr",
 		types: ["Water"],
 		gender: "F",
@@ -23699,7 +23699,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Feraligatr", "Shiny Feraligatr-Mega"],
 	},
 	shinyferaligatrmega: {
-		num: 160,
+		num: 9999160,
 		name: "Shiny Feraligatr-Mega",
 		baseSpecies: "Shiny Feraligatr",
 		forme: "Mega",
@@ -23715,7 +23715,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		gen: 9,
 	},
 	shinysentret: {
-		num: 161,
+		num: 9999161,
 		name: "Shiny Sentret",
 		types: ["Normal"],
 		baseStats: { hp: 35, atk: 46, def: 34, spa: 35, spd: 45, spe: 20 },
@@ -23727,7 +23727,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field"],
 	},
 	shinyfurret: {
-		num: 162,
+		num: 9999162,
 		name: "Shiny Furret",
 		types: ["Normal"],
 		baseStats: { hp: 85, atk: 76, def: 64, spa: 45, spd: 55, spe: 90 },
@@ -23740,7 +23740,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field"],
 	},
 	shinyhoothoot: {
-		num: 163,
+		num: 9999163,
 		name: "Shiny Hoothoot",
 		types: ["Normal", "Flying"],
 		baseStats: { hp: 60, atk: 30, def: 30, spa: 36, spd: 56, spe: 50 },
@@ -23752,7 +23752,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Flying"],
 	},
 	shinynoctowl: {
-		num: 164,
+		num: 9999164,
 		name: "Shiny Noctowl",
 		types: ["Normal", "Flying"],
 		baseStats: { hp: 100, atk: 50, def: 50, spa: 86, spd: 96, spe: 70 },
@@ -23765,7 +23765,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Flying"],
 	},
 	shinyledyba: {
-		num: 165,
+		num: 9999165,
 		name: "Shiny Ledyba",
 		types: ["Bug", "Flying"],
 		baseStats: { hp: 40, atk: 20, def: 30, spa: 40, spd: 80, spe: 55 },
@@ -23777,7 +23777,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Bug"],
 	},
 	shinyledian: {
-		num: 166,
+		num: 9999166,
 		name: "Shiny Ledian",
 		types: ["Bug", "Flying"],
 		baseStats: { hp: 55, atk: 35, def: 50, spa: 55, spd: 110, spe: 85 },
@@ -23790,7 +23790,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Bug"],
 	},
 	shinyspinarak: {
-		num: 167,
+		num: 9999167,
 		name: "Shiny Spinarak",
 		types: ["Bug", "Poison"],
 		baseStats: { hp: 40, atk: 60, def: 40, spa: 40, spd: 40, spe: 30 },
@@ -23802,7 +23802,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Bug"],
 	},
 	shinyariados: {
-		num: 168,
+		num: 9999168,
 		name: "Shiny Ariados",
 		types: ["Bug", "Poison"],
 		baseStats: { hp: 70, atk: 90, def: 70, spa: 60, spd: 70, spe: 40 },
@@ -23815,7 +23815,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Bug"],
 	},
 	shinycrobat: {
-		num: 169,
+		num: 9999169,
 		name: "Shiny Crobat",
 		types: ["Poison", "Flying"],
 		baseStats: { hp: 85, atk: 90, def: 80, spa: 70, spd: 80, spe: 130 },
@@ -23828,7 +23828,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Flying"],
 	},
 	shinychinchou: {
-		num: 170,
+		num: 9999170,
 		name: "Shiny Chinchou",
 		types: ["Water", "Electric"],
 		baseStats: { hp: 75, atk: 38, def: 38, spa: 56, spd: 56, spe: 67 },
@@ -23840,7 +23840,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Water 2"],
 	},
 	shinylanturn: {
-		num: 171,
+		num: 9999171,
 		name: "Shiny Lanturn",
 		types: ["Water", "Electric"],
 		baseStats: { hp: 125, atk: 58, def: 58, spa: 76, spd: 76, spe: 67 },
@@ -23853,7 +23853,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Water 2"],
 	},
 	shinypichu: {
-		num: 172,
+		num: 9999172,
 		name: "Shiny Pichu",
 		types: ["Electric"],
 		baseStats: { hp: 20, atk: 40, def: 15, spa: 35, spd: 35, spe: 60 },
@@ -23868,7 +23868,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Pichu", "Shiny Pichu-Spiky-eared"],
 	},
 	shinypichuspikyeared: {
-		num: 172,
+		num: 9999172,
 		name: "Shiny Pichu-Spiky-eared",
 		baseSpecies: "Shiny Pichu",
 		forme: "Spiky-eared",
@@ -23882,7 +23882,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		gen: 4,
 	},
 	shinycleffa: {
-		num: 173,
+		num: 9999173,
 		name: "Shiny Cleffa",
 		types: ["Fairy"],
 		gender: "F",
@@ -23896,7 +23896,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		canHatch: true,
 	},
 	shinyigglybuff: {
-		num: 174,
+		num: 9999174,
 		name: "Shiny Igglybuff",
 		types: ["Normal", "Fairy"],
 		gender: "F",
@@ -23910,7 +23910,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		canHatch: true,
 	},
 	shinytogepi: {
-		num: 175,
+		num: 9999175,
 		name: "Shiny Togepi",
 		types: ["Fairy"],
 		gender: "F",
@@ -23924,7 +23924,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		canHatch: true,
 	},
 	shinytogetic: {
-		num: 176,
+		num: 9999176,
 		name: "Shiny Togetic",
 		types: ["Fairy", "Flying"],
 		gender: "F",
@@ -23939,7 +23939,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Flying", "Fairy"],
 	},
 	shinynatu: {
-		num: 177,
+		num: 9999177,
 		name: "Shiny Natu",
 		types: ["Psychic", "Flying"],
 		baseStats: { hp: 40, atk: 50, def: 45, spa: 70, spd: 45, spe: 70 },
@@ -23951,7 +23951,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Flying"],
 	},
 	shinyxatu: {
-		num: 178,
+		num: 9999178,
 		name: "Shiny Xatu",
 		types: ["Psychic", "Flying"],
 		baseStats: { hp: 65, atk: 75, def: 70, spa: 95, spd: 70, spe: 95 },
@@ -23964,7 +23964,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Flying"],
 	},
 	shinymareep: {
-		num: 179,
+		num: 9999179,
 		name: "Shiny Mareep",
 		types: ["Electric"],
 		baseStats: { hp: 55, atk: 40, def: 40, spa: 65, spd: 45, spe: 35 },
@@ -23976,7 +23976,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Monster", "Field"],
 	},
 	shinyflaaffy: {
-		num: 180,
+		num: 9999180,
 		name: "Shiny Flaaffy",
 		types: ["Electric"],
 		baseStats: { hp: 70, atk: 55, def: 55, spa: 80, spd: 60, spe: 45 },
@@ -23990,7 +23990,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Monster", "Field"],
 	},
 	shinyampharos: {
-		num: 181,
+		num: 9999181,
 		name: "Shiny Ampharos",
 		types: ["Electric"],
 		baseStats: { hp: 90, atk: 75, def: 85, spa: 115, spd: 90, spe: 55 },
@@ -24005,7 +24005,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Ampharos", "Shiny Ampharos-Mega"],
 	},
 	shinyampharosmega: {
-		num: 181,
+		num: 9999181,
 		name: "Shiny Ampharos-Mega",
 		baseSpecies: "Shiny Ampharos",
 		forme: "Mega",
@@ -24019,7 +24019,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		requiredItem: "Ampharosite",
 	},
 	shinybellossom: {
-		num: 182,
+		num: 9999182,
 		name: "Shiny Bellossom",
 		types: ["Grass"],
 		baseStats: { hp: 75, atk: 80, def: 95, spa: 90, spd: 100, spe: 50 },
@@ -24033,7 +24033,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Grass"],
 	},
 	shinymarill: {
-		num: 183,
+		num: 9999183,
 		name: "Shiny Marill",
 		types: ["Water", "Fairy"],
 		baseStats: { hp: 70, atk: 20, def: 50, spa: 20, spd: 50, spe: 40 },
@@ -24048,7 +24048,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		canHatch: true,
 	},
 	shinyazumarill: {
-		num: 184,
+		num: 9999184,
 		name: "Shiny Azumarill",
 		types: ["Water", "Fairy"],
 		baseStats: { hp: 100, atk: 50, def: 80, spa: 60, spd: 80, spe: 50 },
@@ -24061,7 +24061,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Water 1", "Fairy"],
 	},
 	shinysudowoodo: {
-		num: 185,
+		num: 9999185,
 		name: "Shiny Sudowoodo",
 		types: ["Rock"],
 		baseStats: { hp: 70, atk: 100, def: 115, spa: 30, spd: 65, spe: 30 },
@@ -24076,7 +24076,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		canHatch: true,
 	},
 	shinypolitoed: {
-		num: 186,
+		num: 9999186,
 		name: "Shiny Politoed",
 		types: ["Water"],
 		baseStats: { hp: 90, atk: 75, def: 75, spa: 90, spd: 100, spe: 70 },
@@ -24090,7 +24090,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Water 1"],
 	},
 	shinyhoppip: {
-		num: 187,
+		num: 9999187,
 		name: "Shiny Hoppip",
 		types: ["Grass", "Flying"],
 		baseStats: { hp: 35, atk: 35, def: 40, spa: 35, spd: 55, spe: 50 },
@@ -24102,7 +24102,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Fairy", "Grass"],
 	},
 	shinyskiploom: {
-		num: 188,
+		num: 9999188,
 		name: "Shiny Skiploom",
 		types: ["Grass", "Flying"],
 		baseStats: { hp: 55, atk: 45, def: 50, spa: 45, spd: 65, spe: 80 },
@@ -24116,7 +24116,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Fairy", "Grass"],
 	},
 	shinyjumpluff: {
-		num: 189,
+		num: 9999189,
 		name: "Shiny Jumpluff",
 		types: ["Grass", "Flying"],
 		baseStats: { hp: 75, atk: 55, def: 70, spa: 55, spd: 95, spe: 110 },
@@ -24129,7 +24129,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Fairy", "Grass"],
 	},
 	shinyaipom: {
-		num: 190,
+		num: 9999190,
 		name: "Shiny Aipom",
 		types: ["Normal"],
 		baseStats: { hp: 55, atk: 70, def: 55, spa: 40, spd: 55, spe: 85 },
@@ -24141,7 +24141,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field"],
 	},
 	shinysunkern: {
-		num: 191,
+		num: 9999191,
 		name: "Shiny Sunkern",
 		types: ["Grass"],
 		baseStats: { hp: 30, atk: 30, def: 30, spa: 30, spd: 30, spe: 30 },
@@ -24153,7 +24153,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Grass"],
 	},
 	shinysunflora: {
-		num: 192,
+		num: 9999192,
 		name: "Shiny Sunflora",
 		types: ["Grass"],
 		baseStats: { hp: 75, atk: 75, def: 55, spa: 105, spd: 85, spe: 30 },
@@ -24167,7 +24167,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Grass"],
 	},
 	shinyyanma: {
-		num: 193,
+		num: 9999193,
 		name: "Shiny Yanma",
 		types: ["Bug", "Flying"],
 		baseStats: { hp: 65, atk: 65, def: 45, spa: 75, spd: 45, spe: 95 },
@@ -24179,7 +24179,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Bug"],
 	},
 	shinywooper: {
-		num: 194,
+		num: 9999194,
 		name: "Shiny Wooper",
 		types: ["Water", "Ground"],
 		baseStats: { hp: 55, atk: 45, def: 45, spa: 25, spd: 25, spe: 15 },
@@ -24193,7 +24193,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Wooper", "Shiny Wooper-Paldea"],
 	},
 	shinywooperpaldea: {
-		num: 194,
+		num: 9999194,
 		name: "Shiny Wooper-Paldea",
 		baseSpecies: "Shiny Wooper",
 		forme: "Paldea",
@@ -24207,7 +24207,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Water 1", "Field"],
 	},
 	shinyquagsire: {
-		num: 195,
+		num: 9999195,
 		name: "Shiny Quagsire",
 		types: ["Water", "Ground"],
 		baseStats: { hp: 95, atk: 85, def: 85, spa: 65, spd: 65, spe: 35 },
@@ -24220,7 +24220,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Water 1", "Field"],
 	},
 	shinyespeon: {
-		num: 196,
+		num: 9999196,
 		name: "Shiny Espeon",
 		types: ["Psychic"],
 		gender: "F",
@@ -24235,7 +24235,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field"],
 	},
 	shinyumbreon: {
-		num: 197,
+		num: 9999197,
 		name: "Shiny Umbreon",
 		types: ["Dark"],
 		gender: "F",
@@ -24250,7 +24250,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field"],
 	},
 	shinymurkrow: {
-		num: 198,
+		num: 9999198,
 		name: "Shiny Murkrow",
 		types: ["Dark", "Flying"],
 		baseStats: { hp: 60, atk: 85, def: 42, spa: 85, spd: 42, spe: 91 },
@@ -24262,7 +24262,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Flying"],
 	},
 	shinyslowking: {
-		num: 199,
+		num: 9999199,
 		name: "Shiny Slowking",
 		types: ["Water", "Psychic"],
 		baseStats: { hp: 95, atk: 75, def: 80, spa: 100, spd: 110, spe: 30 },
@@ -24278,7 +24278,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Slowking", "Shiny Slowking-Galar"],
 	},
 	shinyslowkinggalar: {
-		num: 199,
+		num: 9999199,
 		name: "Shiny Slowking-Galar",
 		baseSpecies: "Shiny Slowking",
 		forme: "Galar",
@@ -24294,7 +24294,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Monster", "Water 1"],
 	},
 	shinymisdreavus: {
-		num: 200,
+		num: 9999200,
 		name: "Shiny Misdreavus",
 		types: ["Ghost"],
 		baseStats: { hp: 60, atk: 60, def: 60, spa: 85, spd: 85, spe: 85 },
@@ -24306,7 +24306,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Amorphous"],
 	},
 	shinyunown: {
-		num: 201,
+		num: 9999201,
 		name: "Shiny Unown",
 		baseForme: "A",
 		types: ["Psychic"],
@@ -24321,7 +24321,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Unown", "Shiny Unown-B", "Shiny Unown-C", "Shiny Unown-D", "Shiny Unown-E", "Shiny Unown-F", "Shiny Unown-G", "Shiny Unown-H", "Shiny Unown-I", "Shiny Unown-J", "Shiny Unown-K", "Shiny Unown-L", "Shiny Unown-M", "Shiny Unown-N", "Shiny Unown-O", "Shiny Unown-P", "Shiny Unown-Q", "Shiny Unown-R", "Shiny Unown-S", "Shiny Unown-T", "Shiny Unown-U", "Shiny Unown-V", "Shiny Unown-W", "Shiny Unown-X", "Shiny Unown-Y", "Shiny Unown-Z", "Shiny Unown-Exclamation", "Shiny Unown-Question"],
 	},
 	shinywobbuffet: {
-		num: 202,
+		num: 9999202,
 		name: "Shiny Wobbuffet",
 		types: ["Psychic"],
 		baseStats: { hp: 190, atk: 33, def: 58, spa: 33, spd: 58, spe: 33 },
@@ -24335,7 +24335,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		canHatch: true,
 	},
 	shinygirafarig: {
-		num: 203,
+		num: 9999203,
 		name: "Shiny Girafarig",
 		types: ["Normal", "Psychic"],
 		baseStats: { hp: 70, atk: 80, def: 65, spa: 90, spd: 65, spe: 85 },
@@ -24347,7 +24347,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field"],
 	},
 	shinypineco: {
-		num: 204,
+		num: 9999204,
 		name: "Shiny Pineco",
 		types: ["Bug"],
 		baseStats: { hp: 50, atk: 65, def: 90, spa: 35, spd: 35, spe: 15 },
@@ -24359,7 +24359,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Bug"],
 	},
 	shinyforretress: {
-		num: 205,
+		num: 9999205,
 		name: "Shiny Forretress",
 		types: ["Bug", "Steel"],
 		baseStats: { hp: 75, atk: 90, def: 140, spa: 60, spd: 60, spe: 40 },
@@ -24372,7 +24372,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Bug"],
 	},
 	shinydunsparce: {
-		num: 206,
+		num: 9999206,
 		name: "Shiny Dunsparce",
 		types: ["Normal"],
 		baseStats: { hp: 100, atk: 70, def: 70, spa: 65, spd: 65, spe: 45 },
@@ -24384,7 +24384,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field"],
 	},
 	shinygligar: {
-		num: 207,
+		num: 9999207,
 		name: "Shiny Gligar",
 		types: ["Ground", "Flying"],
 		baseStats: { hp: 65, atk: 75, def: 105, spa: 35, spd: 65, spe: 85 },
@@ -24396,7 +24396,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Bug"],
 	},
 	shinysteelix: {
-		num: 208,
+		num: 9999208,
 		name: "Shiny Steelix",
 		types: ["Steel", "Ground"],
 		baseStats: { hp: 75, atk: 85, def: 200, spa: 55, spd: 65, spe: 30 },
@@ -24412,7 +24412,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Steelix", "Shiny Steelix-Mega"],
 	},
 	shinysteelixmega: {
-		num: 208,
+		num: 9999208,
 		name: "Shiny Steelix-Mega",
 		baseSpecies: "Shiny Steelix",
 		forme: "Mega",
@@ -24426,7 +24426,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		requiredItem: "Steelixite",
 	},
 	shinysnubbull: {
-		num: 209,
+		num: 9999209,
 		name: "Shiny Snubbull",
 		types: ["Fairy"],
 		gender: "F",
@@ -24439,7 +24439,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field", "Fairy"],
 	},
 	shinygranbull: {
-		num: 210,
+		num: 9999210,
 		name: "Shiny Granbull",
 		types: ["Fairy"],
 		gender: "F",
@@ -24453,7 +24453,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field", "Fairy"],
 	},
 	shinyqwilfish: {
-		num: 211,
+		num: 9999211,
 		name: "Shiny Qwilfish",
 		types: ["Water", "Poison"],
 		baseStats: { hp: 65, atk: 95, def: 85, spa: 55, spd: 55, spe: 85 },
@@ -24466,7 +24466,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Qwilfish", "Shiny Qwilfish-Hisui"],
 	},
 	shinyqwilfishhisui: {
-		num: 211,
+		num: 9999211,
 		name: "Shiny Qwilfish-Hisui",
 		baseSpecies: "Shiny Qwilfish",
 		forme: "Hisui",
@@ -24480,7 +24480,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Water 2"],
 	},
 	shinyscizor: {
-		num: 212,
+		num: 9999212,
 		name: "Shiny Scizor",
 		types: ["Bug", "Steel"],
 		baseStats: { hp: 70, atk: 130, def: 100, spa: 55, spd: 80, spe: 65 },
@@ -24496,7 +24496,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Scizor", "Shiny Scizor-Mega"],
 	},
 	shinyscizormega: {
-		num: 212,
+		num: 9999212,
 		name: "Shiny Scizor-Mega",
 		baseSpecies: "Shiny Scizor",
 		forme: "Mega",
@@ -24510,7 +24510,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		requiredItem: "Scizorite",
 	},
 	shinyshuckle: {
-		num: 213,
+		num: 9999213,
 		name: "Shiny Shuckle",
 		types: ["Bug", "Rock"],
 		baseStats: { hp: 20, atk: 10, def: 230, spa: 10, spd: 230, spe: 5 },
@@ -24521,7 +24521,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Bug"],
 	},
 	shinyheracross: {
-		num: 214,
+		num: 9999214,
 		name: "Shiny Heracross",
 		types: ["Bug", "Fighting"],
 		baseStats: { hp: 80, atk: 125, def: 75, spa: 40, spd: 95, spe: 85 },
@@ -24534,7 +24534,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Heracross", "Shiny Heracross-Mega"],
 	},
 	shinyheracrossmega: {
-		num: 214,
+		num: 9999214,
 		name: "Shiny Heracross-Mega",
 		baseSpecies: "Shiny Heracross",
 		forme: "Mega",
@@ -24548,7 +24548,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		requiredItem: "Heracronite",
 	},
 	shinysneasel: {
-		num: 215,
+		num: 9999215,
 		name: "Shiny Sneasel",
 		types: ["Dark", "Ice"],
 		baseStats: { hp: 55, atk: 95, def: 55, spa: 35, spd: 75, spe: 115 },
@@ -24562,7 +24562,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Sneasel", "Shiny Sneasel-Hisui"],
 	},
 	shinysneaselhisui: {
-		num: 215,
+		num: 9999215,
 		name: "Shiny Sneasel-Hisui",
 		baseSpecies: "Shiny Sneasel",
 		forme: "Hisui",
@@ -24576,7 +24576,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field"],
 	},
 	shinyteddiursa: {
-		num: 216,
+		num: 9999216,
 		name: "Shiny Teddiursa",
 		types: ["Normal"],
 		baseStats: { hp: 60, atk: 80, def: 50, spa: 50, spd: 50, spe: 40 },
@@ -24588,7 +24588,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field"],
 	},
 	shinyursaring: {
-		num: 217,
+		num: 9999217,
 		name: "Shiny Ursaring",
 		types: ["Normal"],
 		baseStats: { hp: 90, atk: 130, def: 75, spa: 75, spd: 75, spe: 55 },
@@ -24602,7 +24602,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field"],
 	},
 	shinyslugma: {
-		num: 218,
+		num: 9999218,
 		name: "Shiny Slugma",
 		types: ["Fire"],
 		baseStats: { hp: 40, atk: 40, def: 40, spa: 70, spd: 40, spe: 20 },
@@ -24614,7 +24614,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Amorphous"],
 	},
 	shinymagcargo: {
-		num: 219,
+		num: 9999219,
 		name: "Shiny Magcargo",
 		types: ["Fire", "Rock"],
 		baseStats: { hp: 60, atk: 50, def: 120, spa: 90, spd: 80, spe: 30 },
@@ -24627,7 +24627,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Amorphous"],
 	},
 	shinyswinub: {
-		num: 220,
+		num: 9999220,
 		name: "Shiny Swinub",
 		types: ["Ice", "Ground"],
 		baseStats: { hp: 50, atk: 50, def: 40, spa: 30, spd: 30, spe: 50 },
@@ -24639,7 +24639,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field"],
 	},
 	shinypiloswine: {
-		num: 221,
+		num: 9999221,
 		name: "Shiny Piloswine",
 		types: ["Ice", "Ground"],
 		baseStats: { hp: 100, atk: 100, def: 80, spa: 60, spd: 60, spe: 50 },
@@ -24653,7 +24653,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field"],
 	},
 	shinycorsola: {
-		num: 222,
+		num: 9999222,
 		name: "Shiny Corsola",
 		types: ["Water", "Rock"],
 		gender: "F",
@@ -24667,7 +24667,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Corsola", "Shiny Corsola-Galar"],
 	},
 	shinycorsolagalar: {
-		num: 222,
+		num: 9999222,
 		name: "Shiny Corsola-Galar",
 		baseSpecies: "Shiny Corsola",
 		forme: "Galar",
@@ -24682,7 +24682,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Water 1", "Water 3"],
 	},
 	shinyremoraid: {
-		num: 223,
+		num: 9999223,
 		name: "Shiny Remoraid",
 		types: ["Water"],
 		baseStats: { hp: 35, atk: 65, def: 35, spa: 65, spd: 35, spe: 65 },
@@ -24694,7 +24694,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Water 1", "Water 2"],
 	},
 	shinyoctillery: {
-		num: 224,
+		num: 9999224,
 		name: "Shiny Octillery",
 		types: ["Water"],
 		baseStats: { hp: 75, atk: 105, def: 75, spa: 105, spd: 75, spe: 45 },
@@ -24707,7 +24707,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Water 1", "Water 2"],
 	},
 	shinydelibird: {
-		num: 225,
+		num: 9999225,
 		name: "Shiny Delibird",
 		types: ["Ice", "Flying"],
 		baseStats: { hp: 45, atk: 55, def: 45, spa: 65, spd: 45, spe: 75 },
@@ -24718,7 +24718,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Water 1", "Field"],
 	},
 	shinymantine: {
-		num: 226,
+		num: 9999226,
 		name: "Shiny Mantine",
 		types: ["Water", "Flying"],
 		baseStats: { hp: 85, atk: 40, def: 70, spa: 80, spd: 140, spe: 70 },
@@ -24733,7 +24733,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		canHatch: true,
 	},
 	shinyskarmory: {
-		num: 227,
+		num: 9999227,
 		name: "Shiny Skarmory",
 		types: ["Steel", "Flying"],
 		baseStats: { hp: 65, atk: 80, def: 140, spa: 40, spd: 70, spe: 70 },
@@ -24746,7 +24746,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Skarmory", "Shiny Skarmory-Mega"],
 	},
 	shinyskarmorymega: {
-		num: 227,
+		num: 9999227,
 		name: "Shiny Skarmory-Mega",
 		baseSpecies: "Shiny Skarmory",
 		forme: "Mega",
@@ -24761,7 +24761,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		gen: 9,
 	},
 	shinyhoundour: {
-		num: 228,
+		num: 9999228,
 		name: "Shiny Houndour",
 		types: ["Dark", "Fire"],
 		baseStats: { hp: 45, atk: 60, def: 30, spa: 80, spd: 50, spe: 65 },
@@ -24773,7 +24773,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field"],
 	},
 	shinyhoundoom: {
-		num: 229,
+		num: 9999229,
 		name: "Shiny Houndoom",
 		types: ["Dark", "Fire"],
 		baseStats: { hp: 75, atk: 90, def: 50, spa: 110, spd: 80, spe: 95 },
@@ -24788,7 +24788,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Houndoom", "Shiny Houndoom-Mega"],
 	},
 	shinyhoundoommega: {
-		num: 229,
+		num: 9999229,
 		name: "Shiny Houndoom-Mega",
 		baseSpecies: "Shiny Houndoom",
 		forme: "Mega",
@@ -24802,7 +24802,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		requiredItem: "Houndoominite",
 	},
 	shinykingdra: {
-		num: 230,
+		num: 9999230,
 		name: "Shiny Kingdra",
 		types: ["Water", "Dragon"],
 		baseStats: { hp: 75, atk: 95, def: 95, spa: 95, spd: 95, spe: 85 },
@@ -24816,7 +24816,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Water 1", "Dragon"],
 	},
 	shinyphanpy: {
-		num: 231,
+		num: 9999231,
 		name: "Shiny Phanpy",
 		types: ["Ground"],
 		baseStats: { hp: 90, atk: 60, def: 60, spa: 40, spd: 40, spe: 40 },
@@ -24828,7 +24828,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field"],
 	},
 	shinydonphan: {
-		num: 232,
+		num: 9999232,
 		name: "Shiny Donphan",
 		types: ["Ground"],
 		baseStats: { hp: 90, atk: 120, def: 120, spa: 60, spd: 60, spe: 50 },
@@ -24841,7 +24841,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field"],
 	},
 	shinyporygon2: {
-		num: 233,
+		num: 9999233,
 		name: "Shiny Porygon2",
 		types: ["Normal"],
 		gender: "F",
@@ -24857,7 +24857,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Mineral"],
 	},
 	shinystantler: {
-		num: 234,
+		num: 9999234,
 		name: "Shiny Stantler",
 		types: ["Normal"],
 		baseStats: { hp: 73, atk: 95, def: 62, spa: 85, spd: 65, spe: 85 },
@@ -24869,7 +24869,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field"],
 	},
 	shinysmeargle: {
-		num: 235,
+		num: 9999235,
 		name: "Shiny Smeargle",
 		types: ["Normal"],
 		baseStats: { hp: 55, atk: 20, def: 35, spa: 20, spd: 45, spe: 75 },
@@ -24880,7 +24880,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field"],
 	},
 	shinytyrogue: {
-		num: 236,
+		num: 9999236,
 		name: "Shiny Tyrogue",
 		types: ["Fighting"],
 		gender: "F",
@@ -24894,7 +24894,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		canHatch: true,
 	},
 	shinyhitmontop: {
-		num: 237,
+		num: 9999237,
 		name: "Shiny Hitmontop",
 		types: ["Fighting"],
 		gender: "F",
@@ -24909,7 +24909,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Human-Like"],
 	},
 	shinysmoochum: {
-		num: 238,
+		num: 9999238,
 		name: "Shiny Smoochum",
 		types: ["Ice", "Psychic"],
 		gender: "F",
@@ -24923,7 +24923,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		canHatch: true,
 	},
 	shinyelekid: {
-		num: 239,
+		num: 9999239,
 		name: "Shiny Elekid",
 		types: ["Electric"],
 		gender: "F",
@@ -24937,7 +24937,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		canHatch: true,
 	},
 	shinymagby: {
-		num: 240,
+		num: 9999240,
 		name: "Shiny Magby",
 		types: ["Fire"],
 		gender: "F",
@@ -24951,7 +24951,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		canHatch: true,
 	},
 	shinymiltank: {
-		num: 241,
+		num: 9999241,
 		name: "Shiny Miltank",
 		types: ["Normal"],
 		gender: "F",
@@ -24963,7 +24963,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field"],
 	},
 	shinyblissey: {
-		num: 242,
+		num: 9999242,
 		name: "Shiny Blissey",
 		types: ["Normal"],
 		gender: "F",
@@ -24977,7 +24977,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Fairy"],
 	},
 	shinyraikou: {
-		num: 243,
+		num: 9999243,
 		name: "Shiny Raikou",
 		types: ["Electric"],
 		gender: "F",
@@ -24990,7 +24990,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Undiscovered"],
 	},
 	shinyentei: {
-		num: 244,
+		num: 9999244,
 		name: "Shiny Entei",
 		types: ["Fire"],
 		gender: "F",
@@ -25003,7 +25003,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Undiscovered"],
 	},
 	shinysuicune: {
-		num: 245,
+		num: 9999245,
 		name: "Shiny Suicune",
 		types: ["Water"],
 		gender: "F",
@@ -25016,7 +25016,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Undiscovered"],
 	},
 	shinylarvitar: {
-		num: 246,
+		num: 9999246,
 		name: "Shiny Larvitar",
 		types: ["Rock", "Ground"],
 		baseStats: { hp: 50, atk: 64, def: 50, spa: 45, spd: 50, spe: 41 },
@@ -25028,7 +25028,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Monster"],
 	},
 	shinypupitar: {
-		num: 247,
+		num: 9999247,
 		name: "Shiny Pupitar",
 		types: ["Rock", "Ground"],
 		baseStats: { hp: 70, atk: 84, def: 70, spa: 65, spd: 70, spe: 51 },
@@ -25042,7 +25042,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Monster"],
 	},
 	shinytyranitar: {
-		num: 248,
+		num: 9999248,
 		name: "Shiny Tyranitar",
 		types: ["Rock", "Dark"],
 		baseStats: { hp: 100, atk: 134, def: 110, spa: 95, spd: 100, spe: 61 },
@@ -25057,7 +25057,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Tyranitar", "Shiny Tyranitar-Mega"],
 	},
 	shinytyranitarmega: {
-		num: 248,
+		num: 9999248,
 		name: "Shiny Tyranitar-Mega",
 		baseSpecies: "Shiny Tyranitar",
 		forme: "Mega",
@@ -25071,7 +25071,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		requiredItem: "Tyranitarite",
 	},
 	shinylugia: {
-		num: 249,
+		num: 9999249,
 		name: "Shiny Lugia",
 		types: ["Psychic", "Flying"],
 		gender: "F",
@@ -25084,7 +25084,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Undiscovered"],
 	},
 	shinyhooh: {
-		num: 250,
+		num: 9999250,
 		name: "Shiny Ho-Oh",
 		types: ["Fire", "Flying"],
 		gender: "F",
@@ -25097,7 +25097,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Undiscovered"],
 	},
 	shinycelebi: {
-		num: 251,
+		num: 9999251,
 		name: "Shiny Celebi",
 		types: ["Psychic", "Grass"],
 		gender: "F",
@@ -25110,7 +25110,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Undiscovered"],
 	},
 	shinytreecko: {
-		num: 252,
+		num: 9999252,
 		name: "Shiny Treecko",
 		types: ["Grass"],
 		gender: "F",
@@ -25123,7 +25123,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Monster", "Dragon"],
 	},
 	shinygrovyle: {
-		num: 253,
+		num: 9999253,
 		name: "Shiny Grovyle",
 		types: ["Grass"],
 		gender: "F",
@@ -25138,7 +25138,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Monster", "Dragon"],
 	},
 	shinysceptile: {
-		num: 254,
+		num: 9999254,
 		name: "Shiny Sceptile",
 		types: ["Grass"],
 		gender: "F",
@@ -25154,7 +25154,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Sceptile", "Shiny Sceptile-Mega"],
 	},
 	shinysceptilemega: {
-		num: 254,
+		num: 9999254,
 		name: "Shiny Sceptile-Mega",
 		baseSpecies: "Shiny Sceptile",
 		forme: "Mega",
@@ -25169,7 +25169,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		requiredItem: "Sceptilite",
 	},
 	shinytorchic: {
-		num: 255,
+		num: 9999255,
 		name: "Shiny Torchic",
 		types: ["Fire"],
 		gender: "F",
@@ -25182,7 +25182,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field"],
 	},
 	shinycombusken: {
-		num: 256,
+		num: 9999256,
 		name: "Shiny Combusken",
 		types: ["Fire", "Fighting"],
 		gender: "F",
@@ -25197,7 +25197,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field"],
 	},
 	shinyblaziken: {
-		num: 257,
+		num: 9999257,
 		name: "Shiny Blaziken",
 		types: ["Fire", "Fighting"],
 		gender: "F",
@@ -25213,7 +25213,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Blaziken", "Shiny Blaziken-Mega"],
 	},
 	shinyblazikenmega: {
-		num: 257,
+		num: 9999257,
 		name: "Shiny Blaziken-Mega",
 		baseSpecies: "Shiny Blaziken",
 		forme: "Mega",
@@ -25228,7 +25228,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		requiredItem: "Blazikenite",
 	},
 	shinymudkip: {
-		num: 258,
+		num: 9999258,
 		name: "Shiny Mudkip",
 		types: ["Water"],
 		gender: "F",
@@ -25241,7 +25241,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Monster", "Water 1"],
 	},
 	shinymarshtomp: {
-		num: 259,
+		num: 9999259,
 		name: "Shiny Marshtomp",
 		types: ["Water", "Ground"],
 		gender: "F",
@@ -25256,7 +25256,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Monster", "Water 1"],
 	},
 	shinyswampert: {
-		num: 260,
+		num: 9999260,
 		name: "Shiny Swampert",
 		types: ["Water", "Ground"],
 		gender: "F",
@@ -25272,7 +25272,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Swampert", "Shiny Swampert-Mega"],
 	},
 	shinyswampertmega: {
-		num: 260,
+		num: 9999260,
 		name: "Shiny Swampert-Mega",
 		baseSpecies: "Shiny Swampert",
 		forme: "Mega",
@@ -25287,7 +25287,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		requiredItem: "Swampertite",
 	},
 	shinypoochyena: {
-		num: 261,
+		num: 9999261,
 		name: "Shiny Poochyena",
 		types: ["Dark"],
 		baseStats: { hp: 35, atk: 55, def: 35, spa: 30, spd: 30, spe: 35 },
@@ -25299,7 +25299,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field"],
 	},
 	shinymightyena: {
-		num: 262,
+		num: 9999262,
 		name: "Shiny Mightyena",
 		types: ["Dark"],
 		baseStats: { hp: 70, atk: 90, def: 70, spa: 60, spd: 60, spe: 70 },
@@ -25312,7 +25312,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field"],
 	},
 	shinyzigzagoon: {
-		num: 263,
+		num: 9999263,
 		name: "Shiny Zigzagoon",
 		types: ["Normal"],
 		baseStats: { hp: 38, atk: 30, def: 41, spa: 30, spd: 41, spe: 60 },
@@ -25326,7 +25326,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Zigzagoon", "Shiny Zigzagoon-Galar"],
 	},
 	shinyzigzagoongalar: {
-		num: 263,
+		num: 9999263,
 		name: "Shiny Zigzagoon-Galar",
 		baseSpecies: "Shiny Zigzagoon",
 		forme: "Galar",
@@ -25340,7 +25340,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field"],
 	},
 	shinylinoone: {
-		num: 264,
+		num: 9999264,
 		name: "Shiny Linoone",
 		types: ["Normal"],
 		baseStats: { hp: 78, atk: 70, def: 61, spa: 50, spd: 61, spe: 100 },
@@ -25355,7 +25355,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Linoone", "Shiny Linoone-Galar"],
 	},
 	shinylinoonegalar: {
-		num: 264,
+		num: 9999264,
 		name: "Shiny Linoone-Galar",
 		baseSpecies: "Shiny Linoone",
 		forme: "Galar",
@@ -25371,7 +25371,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field"],
 	},
 	shinywurmple: {
-		num: 265,
+		num: 9999265,
 		name: "Shiny Wurmple",
 		types: ["Bug"],
 		baseStats: { hp: 45, atk: 45, def: 35, spa: 20, spd: 30, spe: 20 },
@@ -25383,7 +25383,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Bug"],
 	},
 	shinysilcoon: {
-		num: 266,
+		num: 9999266,
 		name: "Shiny Silcoon",
 		types: ["Bug"],
 		baseStats: { hp: 50, atk: 35, def: 55, spa: 25, spd: 25, spe: 15 },
@@ -25397,7 +25397,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Bug"],
 	},
 	shinybeautifly: {
-		num: 267,
+		num: 9999267,
 		name: "Shiny Beautifly",
 		types: ["Bug", "Flying"],
 		baseStats: { hp: 60, atk: 70, def: 50, spa: 100, spd: 50, spe: 65 },
@@ -25410,7 +25410,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Bug"],
 	},
 	shinycascoon: {
-		num: 268,
+		num: 9999268,
 		name: "Shiny Cascoon",
 		types: ["Bug"],
 		baseStats: { hp: 50, atk: 35, def: 55, spa: 25, spd: 25, spe: 15 },
@@ -25424,7 +25424,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Bug"],
 	},
 	shinydustox: {
-		num: 269,
+		num: 9999269,
 		name: "Shiny Dustox",
 		types: ["Bug", "Poison"],
 		baseStats: { hp: 60, atk: 50, def: 70, spa: 50, spd: 90, spe: 65 },
@@ -25437,7 +25437,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Bug"],
 	},
 	shinylotad: {
-		num: 270,
+		num: 9999270,
 		name: "Shiny Lotad",
 		types: ["Water", "Grass"],
 		baseStats: { hp: 40, atk: 30, def: 30, spa: 40, spd: 50, spe: 30 },
@@ -25449,7 +25449,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Water 1", "Grass"],
 	},
 	shinylombre: {
-		num: 271,
+		num: 9999271,
 		name: "Shiny Lombre",
 		types: ["Water", "Grass"],
 		baseStats: { hp: 60, atk: 50, def: 50, spa: 60, spd: 70, spe: 50 },
@@ -25463,7 +25463,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Water 1", "Grass"],
 	},
 	shinyludicolo: {
-		num: 272,
+		num: 9999272,
 		name: "Shiny Ludicolo",
 		types: ["Water", "Grass"],
 		baseStats: { hp: 80, atk: 70, def: 70, spa: 90, spd: 100, spe: 70 },
@@ -25477,7 +25477,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Water 1", "Grass"],
 	},
 	shinyseedot: {
-		num: 273,
+		num: 9999273,
 		name: "Shiny Seedot",
 		types: ["Grass"],
 		baseStats: { hp: 40, atk: 40, def: 50, spa: 30, spd: 30, spe: 30 },
@@ -25489,7 +25489,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field", "Grass"],
 	},
 	shinynuzleaf: {
-		num: 274,
+		num: 9999274,
 		name: "Shiny Nuzleaf",
 		types: ["Grass", "Dark"],
 		baseStats: { hp: 70, atk: 70, def: 40, spa: 60, spd: 40, spe: 60 },
@@ -25503,7 +25503,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field", "Grass"],
 	},
 	shinyshiftry: {
-		num: 275,
+		num: 9999275,
 		name: "Shiny Shiftry",
 		types: ["Grass", "Dark"],
 		baseStats: { hp: 90, atk: 100, def: 60, spa: 90, spd: 60, spe: 80 },
@@ -25517,7 +25517,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field", "Grass"],
 	},
 	shinytaillow: {
-		num: 276,
+		num: 9999276,
 		name: "Shiny Taillow",
 		types: ["Normal", "Flying"],
 		baseStats: { hp: 40, atk: 55, def: 30, spa: 30, spd: 30, spe: 85 },
@@ -25529,7 +25529,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Flying"],
 	},
 	shinyswellow: {
-		num: 277,
+		num: 9999277,
 		name: "Shiny Swellow",
 		types: ["Normal", "Flying"],
 		baseStats: { hp: 60, atk: 85, def: 60, spa: 75, spd: 50, spe: 125 },
@@ -25542,7 +25542,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Flying"],
 	},
 	shinywingull: {
-		num: 278,
+		num: 9999278,
 		name: "Shiny Wingull",
 		types: ["Water", "Flying"],
 		baseStats: { hp: 40, atk: 30, def: 30, spa: 55, spd: 30, spe: 85 },
@@ -25554,7 +25554,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Water 1", "Flying"],
 	},
 	shinypelipper: {
-		num: 279,
+		num: 9999279,
 		name: "Shiny Pelipper",
 		types: ["Water", "Flying"],
 		baseStats: { hp: 60, atk: 50, def: 100, spa: 95, spd: 70, spe: 65 },
@@ -25567,7 +25567,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Water 1", "Flying"],
 	},
 	shinyralts: {
-		num: 280,
+		num: 9999280,
 		name: "Shiny Ralts",
 		types: ["Psychic", "Fairy"],
 		baseStats: { hp: 28, atk: 25, def: 25, spa: 45, spd: 35, spe: 40 },
@@ -25579,7 +25579,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Human-Like", "Amorphous"],
 	},
 	shinykirlia: {
-		num: 281,
+		num: 9999281,
 		name: "Shiny Kirlia",
 		types: ["Psychic", "Fairy"],
 		baseStats: { hp: 38, atk: 35, def: 35, spa: 65, spd: 55, spe: 50 },
@@ -25593,7 +25593,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Human-Like", "Amorphous"],
 	},
 	shinygardevoir: {
-		num: 282,
+		num: 9999282,
 		name: "Shiny Gardevoir",
 		types: ["Psychic", "Fairy"],
 		baseStats: { hp: 68, atk: 65, def: 65, spa: 125, spd: 115, spe: 80 },
@@ -25608,7 +25608,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Gardevoir", "Shiny Gardevoir-Mega"],
 	},
 	shinygardevoirmega: {
-		num: 282,
+		num: 9999282,
 		name: "Shiny Gardevoir-Mega",
 		baseSpecies: "Shiny Gardevoir",
 		forme: "Mega",
@@ -25622,7 +25622,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		requiredItem: "Gardevoirite",
 	},
 	shinysurskit: {
-		num: 283,
+		num: 9999283,
 		name: "Shiny Surskit",
 		types: ["Bug", "Water"],
 		baseStats: { hp: 40, atk: 30, def: 32, spa: 50, spd: 52, spe: 65 },
@@ -25634,7 +25634,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Water 1", "Bug"],
 	},
 	shinymasquerain: {
-		num: 284,
+		num: 9999284,
 		name: "Shiny Masquerain",
 		types: ["Bug", "Flying"],
 		baseStats: { hp: 70, atk: 60, def: 62, spa: 100, spd: 82, spe: 80 },
@@ -25647,7 +25647,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Water 1", "Bug"],
 	},
 	shinyshroomish: {
-		num: 285,
+		num: 9999285,
 		name: "Shiny Shroomish",
 		types: ["Grass"],
 		baseStats: { hp: 60, atk: 40, def: 60, spa: 40, spd: 60, spe: 35 },
@@ -25659,7 +25659,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Fairy", "Grass"],
 	},
 	shinybreloom: {
-		num: 286,
+		num: 9999286,
 		name: "Shiny Breloom",
 		types: ["Grass", "Fighting"],
 		baseStats: { hp: 60, atk: 130, def: 80, spa: 60, spd: 60, spe: 70 },
@@ -25672,7 +25672,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Fairy", "Grass"],
 	},
 	shinyslakoth: {
-		num: 287,
+		num: 9999287,
 		name: "Shiny Slakoth",
 		types: ["Normal"],
 		baseStats: { hp: 60, atk: 60, def: 60, spa: 35, spd: 35, spe: 30 },
@@ -25684,7 +25684,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field"],
 	},
 	shinyvigoroth: {
-		num: 288,
+		num: 9999288,
 		name: "Shiny Vigoroth",
 		types: ["Normal"],
 		baseStats: { hp: 80, atk: 80, def: 80, spa: 55, spd: 55, spe: 90 },
@@ -25698,7 +25698,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field"],
 	},
 	shinyslaking: {
-		num: 289,
+		num: 9999289,
 		name: "Shiny Slaking",
 		types: ["Normal"],
 		baseStats: { hp: 150, atk: 160, def: 100, spa: 95, spd: 65, spe: 100 },
@@ -25711,7 +25711,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field"],
 	},
 	shinynincada: {
-		num: 290,
+		num: 9999290,
 		name: "Shiny Nincada",
 		types: ["Bug", "Ground"],
 		baseStats: { hp: 31, atk: 45, def: 90, spa: 30, spd: 30, spe: 40 },
@@ -25723,7 +25723,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Bug"],
 	},
 	shinyninjask: {
-		num: 291,
+		num: 9999291,
 		name: "Shiny Ninjask",
 		types: ["Bug", "Flying"],
 		baseStats: { hp: 61, atk: 90, def: 45, spa: 50, spd: 50, spe: 160 },
@@ -25736,7 +25736,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Bug"],
 	},
 	shinyshedinja: {
-		num: 292,
+		num: 9999292,
 		name: "Shiny Shedinja",
 		types: ["Bug", "Ghost"],
 		gender: "F",
@@ -25751,7 +25751,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Mineral"],
 	},
 	shinywhismur: {
-		num: 293,
+		num: 9999293,
 		name: "Shiny Whismur",
 		types: ["Normal"],
 		baseStats: { hp: 64, atk: 51, def: 23, spa: 51, spd: 23, spe: 28 },
@@ -25763,7 +25763,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Monster", "Field"],
 	},
 	shinyloudred: {
-		num: 294,
+		num: 9999294,
 		name: "Shiny Loudred",
 		types: ["Normal"],
 		baseStats: { hp: 84, atk: 71, def: 43, spa: 71, spd: 43, spe: 48 },
@@ -25777,7 +25777,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Monster", "Field"],
 	},
 	shinyexploud: {
-		num: 295,
+		num: 9999295,
 		name: "Shiny Exploud",
 		types: ["Normal"],
 		baseStats: { hp: 104, atk: 91, def: 63, spa: 91, spd: 73, spe: 68 },
@@ -25790,7 +25790,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Monster", "Field"],
 	},
 	shinymakuhita: {
-		num: 296,
+		num: 9999296,
 		name: "Shiny Makuhita",
 		types: ["Fighting"],
 		gender: "F",
@@ -25803,7 +25803,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Human-Like"],
 	},
 	shinyhariyama: {
-		num: 297,
+		num: 9999297,
 		name: "Shiny Hariyama",
 		types: ["Fighting"],
 		gender: "F",
@@ -25817,7 +25817,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Human-Like"],
 	},
 	shinyazurill: {
-		num: 298,
+		num: 9999298,
 		name: "Shiny Azurill",
 		types: ["Normal", "Fairy"],
 		gender: "F",
@@ -25831,7 +25831,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		canHatch: true,
 	},
 	shinynosepass: {
-		num: 299,
+		num: 9999299,
 		name: "Shiny Nosepass",
 		types: ["Rock"],
 		baseStats: { hp: 30, atk: 45, def: 135, spa: 45, spd: 90, spe: 30 },
@@ -25843,7 +25843,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Mineral"],
 	},
 	shinyskitty: {
-		num: 300,
+		num: 9999300,
 		name: "Shiny Skitty",
 		types: ["Normal"],
 		gender: "F",
@@ -25856,7 +25856,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field", "Fairy"],
 	},
 	shinydelcatty: {
-		num: 301,
+		num: 9999301,
 		name: "Shiny Delcatty",
 		types: ["Normal"],
 		gender: "F",
@@ -25871,7 +25871,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field", "Fairy"],
 	},
 	shinysableye: {
-		num: 302,
+		num: 9999302,
 		name: "Shiny Sableye",
 		types: ["Dark", "Ghost"],
 		baseStats: { hp: 50, atk: 75, def: 75, spa: 65, spd: 65, spe: 50 },
@@ -25884,7 +25884,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Sableye", "Shiny Sableye-Mega"],
 	},
 	shinysableyemega: {
-		num: 302,
+		num: 9999302,
 		name: "Shiny Sableye-Mega",
 		baseSpecies: "Shiny Sableye",
 		forme: "Mega",
@@ -25898,7 +25898,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		requiredItem: "Sablenite",
 	},
 	shinymawile: {
-		num: 303,
+		num: 9999303,
 		name: "Shiny Mawile",
 		types: ["Steel", "Fairy"],
 		baseStats: { hp: 50, atk: 85, def: 85, spa: 55, spd: 55, spe: 50 },
@@ -25911,7 +25911,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Mawile", "Shiny Mawile-Mega"],
 	},
 	shinymawilemega: {
-		num: 303,
+		num: 9999303,
 		name: "Shiny Mawile-Mega",
 		baseSpecies: "Shiny Mawile",
 		forme: "Mega",
@@ -25925,7 +25925,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		requiredItem: "Mawilite",
 	},
 	shinyaron: {
-		num: 304,
+		num: 9999304,
 		name: "Shiny Aron",
 		types: ["Steel", "Rock"],
 		baseStats: { hp: 50, atk: 70, def: 100, spa: 40, spd: 40, spe: 30 },
@@ -25937,7 +25937,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Monster"],
 	},
 	shinylairon: {
-		num: 305,
+		num: 9999305,
 		name: "Shiny Lairon",
 		types: ["Steel", "Rock"],
 		baseStats: { hp: 60, atk: 90, def: 140, spa: 50, spd: 50, spe: 40 },
@@ -25951,7 +25951,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Monster"],
 	},
 	shinyaggron: {
-		num: 306,
+		num: 9999306,
 		name: "Shiny Aggron",
 		types: ["Steel", "Rock"],
 		baseStats: { hp: 70, atk: 110, def: 180, spa: 60, spd: 60, spe: 50 },
@@ -25966,7 +25966,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Aggron", "Shiny Aggron-Mega"],
 	},
 	shinyaggronmega: {
-		num: 306,
+		num: 9999306,
 		name: "Shiny Aggron-Mega",
 		baseSpecies: "Shiny Aggron",
 		forme: "Mega",
@@ -25980,7 +25980,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		requiredItem: "Aggronite",
 	},
 	shinymeditite: {
-		num: 307,
+		num: 9999307,
 		name: "Shiny Meditite",
 		types: ["Fighting", "Psychic"],
 		baseStats: { hp: 30, atk: 40, def: 55, spa: 40, spd: 55, spe: 60 },
@@ -25992,7 +25992,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Human-Like"],
 	},
 	shinymedicham: {
-		num: 308,
+		num: 9999308,
 		name: "Shiny Medicham",
 		types: ["Fighting", "Psychic"],
 		baseStats: { hp: 60, atk: 60, def: 75, spa: 60, spd: 75, spe: 80 },
@@ -26007,7 +26007,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Medicham", "Shiny Medicham-Mega"],
 	},
 	shinymedichammega: {
-		num: 308,
+		num: 9999308,
 		name: "Shiny Medicham-Mega",
 		baseSpecies: "Shiny Medicham",
 		forme: "Mega",
@@ -26021,7 +26021,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		requiredItem: "Medichamite",
 	},
 	shinyelectrike: {
-		num: 309,
+		num: 9999309,
 		name: "Shiny Electrike",
 		types: ["Electric"],
 		baseStats: { hp: 40, atk: 45, def: 40, spa: 65, spd: 40, spe: 65 },
@@ -26033,7 +26033,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field"],
 	},
 	shinymanectric: {
-		num: 310,
+		num: 9999310,
 		name: "Shiny Manectric",
 		types: ["Electric"],
 		baseStats: { hp: 70, atk: 75, def: 60, spa: 105, spd: 60, spe: 105 },
@@ -26048,7 +26048,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Manectric", "Shiny Manectric-Mega"],
 	},
 	shinymanectricmega: {
-		num: 310,
+		num: 9999310,
 		name: "Shiny Manectric-Mega",
 		baseSpecies: "Shiny Manectric",
 		forme: "Mega",
@@ -26062,7 +26062,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		requiredItem: "Manectite",
 	},
 	shinyplusle: {
-		num: 311,
+		num: 9999311,
 		name: "Shiny Plusle",
 		types: ["Electric"],
 		baseStats: { hp: 60, atk: 50, def: 40, spa: 85, spd: 75, spe: 95 },
@@ -26073,7 +26073,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Fairy"],
 	},
 	shinyminun: {
-		num: 312,
+		num: 9999312,
 		name: "Shiny Minun",
 		types: ["Electric"],
 		baseStats: { hp: 60, atk: 40, def: 50, spa: 75, spd: 85, spe: 95 },
@@ -26084,7 +26084,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Fairy"],
 	},
 	shinyvolbeat: {
-		num: 313,
+		num: 9999313,
 		name: "Shiny Volbeat",
 		types: ["Bug"],
 		gender: "F",
@@ -26097,7 +26097,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		mother: 'illumise',
 	},
 	shinyillumise: {
-		num: 314,
+		num: 9999314,
 		name: "Shiny Illumise",
 		types: ["Bug"],
 		gender: "F",
@@ -26109,7 +26109,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Bug", "Human-Like"],
 	},
 	shinyroselia: {
-		num: 315,
+		num: 9999315,
 		name: "Shiny Roselia",
 		types: ["Grass", "Poison"],
 		baseStats: { hp: 50, atk: 60, def: 45, spa: 100, spd: 80, spe: 65 },
@@ -26125,7 +26125,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		canHatch: true,
 	},
 	shinygulpin: {
-		num: 316,
+		num: 9999316,
 		name: "Shiny Gulpin",
 		types: ["Poison"],
 		baseStats: { hp: 70, atk: 43, def: 53, spa: 43, spd: 53, spe: 40 },
@@ -26137,7 +26137,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Amorphous"],
 	},
 	shinyswalot: {
-		num: 317,
+		num: 9999317,
 		name: "Shiny Swalot",
 		types: ["Poison"],
 		baseStats: { hp: 100, atk: 73, def: 83, spa: 73, spd: 83, spe: 55 },
@@ -26150,7 +26150,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Amorphous"],
 	},
 	shinycarvanha: {
-		num: 318,
+		num: 9999318,
 		name: "Shiny Carvanha",
 		types: ["Water", "Dark"],
 		baseStats: { hp: 45, atk: 90, def: 20, spa: 65, spd: 20, spe: 65 },
@@ -26162,7 +26162,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Water 2"],
 	},
 	shinysharpedo: {
-		num: 319,
+		num: 9999319,
 		name: "Shiny Sharpedo",
 		types: ["Water", "Dark"],
 		baseStats: { hp: 70, atk: 120, def: 40, spa: 95, spd: 40, spe: 95 },
@@ -26177,7 +26177,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Sharpedo", "Shiny Sharpedo-Mega"],
 	},
 	shinysharpedomega: {
-		num: 319,
+		num: 9999319,
 		name: "Shiny Sharpedo-Mega",
 		baseSpecies: "Shiny Sharpedo",
 		forme: "Mega",
@@ -26191,7 +26191,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		requiredItem: "Sharpedonite",
 	},
 	shinywailmer: {
-		num: 320,
+		num: 9999320,
 		name: "Shiny Wailmer",
 		types: ["Water"],
 		baseStats: { hp: 130, atk: 70, def: 35, spa: 70, spd: 35, spe: 60 },
@@ -26203,7 +26203,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field", "Water 2"],
 	},
 	shinywailord: {
-		num: 321,
+		num: 9999321,
 		name: "Shiny Wailord",
 		types: ["Water"],
 		baseStats: { hp: 170, atk: 90, def: 45, spa: 90, spd: 45, spe: 60 },
@@ -26216,7 +26216,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field", "Water 2"],
 	},
 	shinynumel: {
-		num: 322,
+		num: 9999322,
 		name: "Shiny Numel",
 		types: ["Fire", "Ground"],
 		baseStats: { hp: 60, atk: 60, def: 40, spa: 65, spd: 45, spe: 35 },
@@ -26228,7 +26228,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field"],
 	},
 	shinycamerupt: {
-		num: 323,
+		num: 9999323,
 		name: "Shiny Camerupt",
 		types: ["Fire", "Ground"],
 		baseStats: { hp: 70, atk: 100, def: 70, spa: 105, spd: 75, spe: 40 },
@@ -26243,7 +26243,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Camerupt", "Shiny Camerupt-Mega"],
 	},
 	shinycameruptmega: {
-		num: 323,
+		num: 9999323,
 		name: "Shiny Camerupt-Mega",
 		baseSpecies: "Shiny Camerupt",
 		forme: "Mega",
@@ -26257,7 +26257,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		requiredItem: "Cameruptite",
 	},
 	shinytorkoal: {
-		num: 324,
+		num: 9999324,
 		name: "Shiny Torkoal",
 		types: ["Fire"],
 		baseStats: { hp: 70, atk: 85, def: 140, spa: 85, spd: 70, spe: 20 },
@@ -26268,7 +26268,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field"],
 	},
 	shinyspoink: {
-		num: 325,
+		num: 9999325,
 		name: "Shiny Spoink",
 		types: ["Psychic"],
 		baseStats: { hp: 60, atk: 25, def: 35, spa: 70, spd: 80, spe: 60 },
@@ -26280,7 +26280,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field"],
 	},
 	shinygrumpig: {
-		num: 326,
+		num: 9999326,
 		name: "Shiny Grumpig",
 		types: ["Psychic"],
 		baseStats: { hp: 80, atk: 45, def: 65, spa: 90, spd: 110, spe: 80 },
@@ -26293,7 +26293,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field"],
 	},
 	shinyspinda: {
-		num: 327,
+		num: 9999327,
 		name: "Shiny Spinda",
 		types: ["Normal"],
 		baseStats: { hp: 60, atk: 60, def: 60, spa: 60, spd: 60, spe: 60 },
@@ -26304,7 +26304,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field", "Human-Like"],
 	},
 	shinytrapinch: {
-		num: 328,
+		num: 9999328,
 		name: "Shiny Trapinch",
 		types: ["Ground"],
 		baseStats: { hp: 45, atk: 100, def: 45, spa: 45, spd: 45, spe: 10 },
@@ -26316,7 +26316,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Bug", "Dragon"],
 	},
 	shinyvibrava: {
-		num: 329,
+		num: 9999329,
 		name: "Shiny Vibrava",
 		types: ["Ground", "Dragon"],
 		baseStats: { hp: 50, atk: 70, def: 50, spa: 50, spd: 50, spe: 70 },
@@ -26330,7 +26330,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Bug", "Dragon"],
 	},
 	shinyflygon: {
-		num: 330,
+		num: 9999330,
 		name: "Shiny Flygon",
 		types: ["Ground", "Dragon"],
 		baseStats: { hp: 80, atk: 100, def: 80, spa: 80, spd: 80, spe: 100 },
@@ -26343,7 +26343,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Bug", "Dragon"],
 	},
 	shinycacnea: {
-		num: 331,
+		num: 9999331,
 		name: "Shiny Cacnea",
 		types: ["Grass"],
 		baseStats: { hp: 50, atk: 85, def: 40, spa: 85, spd: 40, spe: 35 },
@@ -26355,7 +26355,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Grass", "Human-Like"],
 	},
 	shinycacturne: {
-		num: 332,
+		num: 9999332,
 		name: "Shiny Cacturne",
 		types: ["Grass", "Dark"],
 		baseStats: { hp: 70, atk: 115, def: 60, spa: 115, spd: 60, spe: 55 },
@@ -26368,7 +26368,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Grass", "Human-Like"],
 	},
 	shinyswablu: {
-		num: 333,
+		num: 9999333,
 		name: "Shiny Swablu",
 		types: ["Normal", "Flying"],
 		baseStats: { hp: 45, atk: 40, def: 60, spa: 40, spd: 75, spe: 50 },
@@ -26380,7 +26380,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Flying", "Dragon"],
 	},
 	shinyaltaria: {
-		num: 334,
+		num: 9999334,
 		name: "Shiny Altaria",
 		types: ["Dragon", "Flying"],
 		baseStats: { hp: 75, atk: 70, def: 90, spa: 70, spd: 105, spe: 80 },
@@ -26395,7 +26395,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Altaria", "Shiny Altaria-Mega"],
 	},
 	shinyaltariamega: {
-		num: 334,
+		num: 9999334,
 		name: "Shiny Altaria-Mega",
 		baseSpecies: "Shiny Altaria",
 		forme: "Mega",
@@ -26409,7 +26409,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		requiredItem: "Altarianite",
 	},
 	shinyzangoose: {
-		num: 335,
+		num: 9999335,
 		name: "Shiny Zangoose",
 		types: ["Normal"],
 		baseStats: { hp: 73, atk: 115, def: 60, spa: 60, spd: 60, spe: 90 },
@@ -26420,7 +26420,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field"],
 	},
 	shinyseviper: {
-		num: 336,
+		num: 9999336,
 		name: "Shiny Seviper",
 		types: ["Poison"],
 		baseStats: { hp: 73, atk: 100, def: 60, spa: 100, spd: 60, spe: 65 },
@@ -26431,7 +26431,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field", "Dragon"],
 	},
 	shinylunatone: {
-		num: 337,
+		num: 9999337,
 		name: "Shiny Lunatone",
 		types: ["Rock", "Psychic"],
 		gender: "F",
@@ -26443,7 +26443,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Mineral"],
 	},
 	shinysolrock: {
-		num: 338,
+		num: 9999338,
 		name: "Shiny Solrock",
 		types: ["Rock", "Psychic"],
 		gender: "F",
@@ -26455,7 +26455,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Mineral"],
 	},
 	shinybarboach: {
-		num: 339,
+		num: 9999339,
 		name: "Shiny Barboach",
 		types: ["Water", "Ground"],
 		baseStats: { hp: 50, atk: 48, def: 43, spa: 46, spd: 41, spe: 60 },
@@ -26467,7 +26467,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Water 2"],
 	},
 	shinywhiscash: {
-		num: 340,
+		num: 9999340,
 		name: "Shiny Whiscash",
 		types: ["Water", "Ground"],
 		baseStats: { hp: 110, atk: 78, def: 73, spa: 76, spd: 71, spe: 60 },
@@ -26480,7 +26480,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Water 2"],
 	},
 	shinycorphish: {
-		num: 341,
+		num: 9999341,
 		name: "Shiny Corphish",
 		types: ["Water"],
 		baseStats: { hp: 43, atk: 80, def: 65, spa: 50, spd: 35, spe: 35 },
@@ -26492,7 +26492,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Water 1", "Water 3"],
 	},
 	shinycrawdaunt: {
-		num: 342,
+		num: 9999342,
 		name: "Shiny Crawdaunt",
 		types: ["Water", "Dark"],
 		baseStats: { hp: 63, atk: 120, def: 85, spa: 90, spd: 55, spe: 55 },
@@ -26505,7 +26505,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Water 1", "Water 3"],
 	},
 	shinybaltoy: {
-		num: 343,
+		num: 9999343,
 		name: "Shiny Baltoy",
 		types: ["Ground", "Psychic"],
 		gender: "F",
@@ -26518,7 +26518,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Mineral"],
 	},
 	shinyclaydol: {
-		num: 344,
+		num: 9999344,
 		name: "Shiny Claydol",
 		types: ["Ground", "Psychic"],
 		gender: "F",
@@ -26532,7 +26532,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Mineral"],
 	},
 	shinylileep: {
-		num: 345,
+		num: 9999345,
 		name: "Shiny Lileep",
 		types: ["Rock", "Grass"],
 		gender: "F",
@@ -26545,7 +26545,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Water 3"],
 	},
 	shinycradily: {
-		num: 346,
+		num: 9999346,
 		name: "Shiny Cradily",
 		types: ["Rock", "Grass"],
 		gender: "F",
@@ -26559,7 +26559,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Water 3"],
 	},
 	shinyanorith: {
-		num: 347,
+		num: 9999347,
 		name: "Shiny Anorith",
 		types: ["Rock", "Bug"],
 		gender: "F",
@@ -26572,7 +26572,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Water 3"],
 	},
 	shinyarmaldo: {
-		num: 348,
+		num: 9999348,
 		name: "Shiny Armaldo",
 		types: ["Rock", "Bug"],
 		gender: "F",
@@ -26586,7 +26586,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Water 3"],
 	},
 	shinyfeebas: {
-		num: 349,
+		num: 9999349,
 		name: "Shiny Feebas",
 		types: ["Water"],
 		baseStats: { hp: 20, atk: 15, def: 20, spa: 10, spd: 55, spe: 80 },
@@ -26598,7 +26598,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Water 1", "Dragon"],
 	},
 	shinymilotic: {
-		num: 350,
+		num: 9999350,
 		name: "Shiny Milotic",
 		types: ["Water"],
 		baseStats: { hp: 95, atk: 60, def: 79, spa: 100, spd: 125, spe: 81 },
@@ -26612,7 +26612,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Water 1", "Dragon"],
 	},
 	shinycastform: {
-		num: 351,
+		num: 9999351,
 		name: "Shiny Castform",
 		types: ["Normal"],
 		baseStats: { hp: 70, atk: 70, def: 70, spa: 70, spd: 70, spe: 70 },
@@ -26625,7 +26625,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Castform", "Shiny Castform-Sunny", "Shiny Castform-Rainy", "Shiny Castform-Snowy"],
 	},
 	shinycastformsunny: {
-		num: 351,
+		num: 9999351,
 		name: "Shiny Castform-Sunny",
 		baseSpecies: "Shiny Castform",
 		forme: "Sunny",
@@ -26640,7 +26640,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		battleOnly: "Shiny Castform",
 	},
 	shinycastformrainy: {
-		num: 351,
+		num: 9999351,
 		name: "Shiny Castform-Rainy",
 		baseSpecies: "Shiny Castform",
 		forme: "Rainy",
@@ -26655,7 +26655,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		battleOnly: "Shiny Castform",
 	},
 	shinycastformsnowy: {
-		num: 351,
+		num: 9999351,
 		name: "Shiny Castform-Snowy",
 		baseSpecies: "Shiny Castform",
 		forme: "Snowy",
@@ -26670,7 +26670,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		battleOnly: "Shiny Castform",
 	},
 	shinykecleon: {
-		num: 352,
+		num: 9999352,
 		name: "Shiny Kecleon",
 		types: ["Normal"],
 		baseStats: { hp: 60, atk: 90, def: 70, spa: 60, spd: 120, spe: 40 },
@@ -26681,7 +26681,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field"],
 	},
 	shinyshuppet: {
-		num: 353,
+		num: 9999353,
 		name: "Shiny Shuppet",
 		types: ["Ghost"],
 		baseStats: { hp: 44, atk: 75, def: 35, spa: 63, spd: 33, spe: 45 },
@@ -26693,7 +26693,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Amorphous"],
 	},
 	shinybanette: {
-		num: 354,
+		num: 9999354,
 		name: "Shiny Banette",
 		types: ["Ghost"],
 		baseStats: { hp: 64, atk: 115, def: 65, spa: 83, spd: 63, spe: 65 },
@@ -26708,7 +26708,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Banette", "Shiny Banette-Mega"],
 	},
 	shinybanettemega: {
-		num: 354,
+		num: 9999354,
 		name: "Shiny Banette-Mega",
 		baseSpecies: "Shiny Banette",
 		forme: "Mega",
@@ -26722,7 +26722,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		requiredItem: "Banettite",
 	},
 	shinyduskull: {
-		num: 355,
+		num: 9999355,
 		name: "Shiny Duskull",
 		types: ["Ghost"],
 		baseStats: { hp: 20, atk: 40, def: 90, spa: 30, spd: 90, spe: 25 },
@@ -26734,7 +26734,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Amorphous"],
 	},
 	shinydusclops: {
-		num: 356,
+		num: 9999356,
 		name: "Shiny Dusclops",
 		types: ["Ghost"],
 		baseStats: { hp: 40, atk: 70, def: 130, spa: 60, spd: 130, spe: 25 },
@@ -26748,7 +26748,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Amorphous"],
 	},
 	shinytropius: {
-		num: 357,
+		num: 9999357,
 		name: "Shiny Tropius",
 		types: ["Grass", "Flying"],
 		baseStats: { hp: 99, atk: 68, def: 83, spa: 72, spd: 87, spe: 51 },
@@ -26759,7 +26759,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Monster", "Grass"],
 	},
 	shinychimecho: {
-		num: 358,
+		num: 9999358,
 		name: "Shiny Chimecho",
 		types: ["Psychic"],
 		baseStats: { hp: 75, atk: 50, def: 80, spa: 95, spd: 90, spe: 65 },
@@ -26776,7 +26776,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Chimecho", "Shiny Chimecho-Mega"],
 	},
 	shinychimechomega: {
-		num: 358,
+		num: 9999358,
 		name: "Shiny Chimecho-Mega",
 		baseSpecies: "Shiny Chimecho",
 		forme: "Mega",
@@ -26791,7 +26791,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		gen: 9,
 	},
 	shinyabsol: {
-		num: 359,
+		num: 9999359,
 		name: "Shiny Absol",
 		types: ["Dark"],
 		baseStats: { hp: 65, atk: 130, def: 60, spa: 75, spd: 60, spe: 75 },
@@ -26804,7 +26804,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Absol", "Shiny Absol-Mega", "Shiny Absol-Mega-Z"],
 	},
 	shinyabsolmega: {
-		num: 359,
+		num: 9999359,
 		name: "Shiny Absol-Mega",
 		baseSpecies: "Shiny Absol",
 		forme: "Mega",
@@ -26818,7 +26818,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		requiredItem: "Absolite",
 	},
 	shinyabsolmegaz: {
-		num: 359,
+		num: 9999359,
 		name: "Shiny Absol-Mega-Z",
 		baseSpecies: "Shiny Absol",
 		forme: "Mega-Z",
@@ -26833,7 +26833,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		gen: 9,
 	},
 	shinywynaut: {
-		num: 360,
+		num: 9999360,
 		name: "Shiny Wynaut",
 		types: ["Psychic"],
 		baseStats: { hp: 95, atk: 23, def: 48, spa: 23, spd: 48, spe: 23 },
@@ -26846,7 +26846,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		canHatch: true,
 	},
 	shinysnorunt: {
-		num: 361,
+		num: 9999361,
 		name: "Shiny Snorunt",
 		types: ["Ice"],
 		baseStats: { hp: 50, atk: 50, def: 50, spa: 50, spd: 50, spe: 50 },
@@ -26858,7 +26858,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Fairy", "Mineral"],
 	},
 	shinyglalie: {
-		num: 362,
+		num: 9999362,
 		name: "Shiny Glalie",
 		types: ["Ice"],
 		baseStats: { hp: 80, atk: 80, def: 80, spa: 80, spd: 80, spe: 80 },
@@ -26873,7 +26873,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Glalie", "Shiny Glalie-Mega"],
 	},
 	shinyglaliemega: {
-		num: 362,
+		num: 9999362,
 		name: "Shiny Glalie-Mega",
 		baseSpecies: "Shiny Glalie",
 		forme: "Mega",
@@ -26887,7 +26887,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		requiredItem: "Glalitite",
 	},
 	shinyspheal: {
-		num: 363,
+		num: 9999363,
 		name: "Shiny Spheal",
 		types: ["Ice", "Water"],
 		baseStats: { hp: 70, atk: 40, def: 50, spa: 55, spd: 50, spe: 25 },
@@ -26899,7 +26899,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Water 1", "Field"],
 	},
 	shinysealeo: {
-		num: 364,
+		num: 9999364,
 		name: "Shiny Sealeo",
 		types: ["Ice", "Water"],
 		baseStats: { hp: 90, atk: 60, def: 70, spa: 75, spd: 70, spe: 45 },
@@ -26913,7 +26913,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Water 1", "Field"],
 	},
 	shinywalrein: {
-		num: 365,
+		num: 9999365,
 		name: "Shiny Walrein",
 		types: ["Ice", "Water"],
 		baseStats: { hp: 110, atk: 80, def: 90, spa: 95, spd: 90, spe: 65 },
@@ -26926,7 +26926,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Water 1", "Field"],
 	},
 	shinyclamperl: {
-		num: 366,
+		num: 9999366,
 		name: "Shiny Clamperl",
 		types: ["Water"],
 		baseStats: { hp: 35, atk: 64, def: 85, spa: 74, spd: 55, spe: 32 },
@@ -26938,7 +26938,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Water 1"],
 	},
 	shinyhuntail: {
-		num: 367,
+		num: 9999367,
 		name: "Shiny Huntail",
 		types: ["Water"],
 		baseStats: { hp: 55, atk: 104, def: 105, spa: 94, spd: 75, spe: 52 },
@@ -26952,7 +26952,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Water 1"],
 	},
 	shinygorebyss: {
-		num: 368,
+		num: 9999368,
 		name: "Shiny Gorebyss",
 		types: ["Water"],
 		baseStats: { hp: 55, atk: 84, def: 105, spa: 114, spd: 75, spe: 52 },
@@ -26966,7 +26966,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Water 1"],
 	},
 	shinyrelicanth: {
-		num: 369,
+		num: 9999369,
 		name: "Shiny Relicanth",
 		types: ["Water", "Rock"],
 		gender: "F",
@@ -26978,7 +26978,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Water 1", "Water 2"],
 	},
 	shinyluvdisc: {
-		num: 370,
+		num: 9999370,
 		name: "Shiny Luvdisc",
 		types: ["Water"],
 		gender: "F",
@@ -26990,7 +26990,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Water 2"],
 	},
 	shinybagon: {
-		num: 371,
+		num: 9999371,
 		name: "Shiny Bagon",
 		types: ["Dragon"],
 		baseStats: { hp: 45, atk: 75, def: 60, spa: 40, spd: 30, spe: 50 },
@@ -27002,7 +27002,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Dragon"],
 	},
 	shinyshelgon: {
-		num: 372,
+		num: 9999372,
 		name: "Shiny Shelgon",
 		types: ["Dragon"],
 		baseStats: { hp: 65, atk: 95, def: 100, spa: 60, spd: 50, spe: 50 },
@@ -27016,7 +27016,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Dragon"],
 	},
 	shinysalamence: {
-		num: 373,
+		num: 9999373,
 		name: "Shiny Salamence",
 		types: ["Dragon", "Flying"],
 		baseStats: { hp: 95, atk: 135, def: 80, spa: 110, spd: 80, spe: 100 },
@@ -27031,7 +27031,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Salamence", "Shiny Salamence-Mega"],
 	},
 	shinysalamencemega: {
-		num: 373,
+		num: 9999373,
 		name: "Shiny Salamence-Mega",
 		baseSpecies: "Shiny Salamence",
 		forme: "Mega",
@@ -27045,7 +27045,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		requiredItem: "Salamencite",
 	},
 	shinybeldum: {
-		num: 374,
+		num: 9999374,
 		name: "Shiny Beldum",
 		types: ["Steel", "Psychic"],
 		gender: "F",
@@ -27058,7 +27058,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Mineral"],
 	},
 	shinymetang: {
-		num: 375,
+		num: 9999375,
 		name: "Shiny Metang",
 		types: ["Steel", "Psychic"],
 		gender: "F",
@@ -27073,7 +27073,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Mineral"],
 	},
 	shinymetagross: {
-		num: 376,
+		num: 9999376,
 		name: "Shiny Metagross",
 		types: ["Steel", "Psychic"],
 		gender: "F",
@@ -27089,7 +27089,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Metagross", "Shiny Metagross-Mega"],
 	},
 	shinymetagrossmega: {
-		num: 376,
+		num: 9999376,
 		name: "Shiny Metagross-Mega",
 		baseSpecies: "Shiny Metagross",
 		forme: "Mega",
@@ -27104,7 +27104,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		requiredItem: "Metagrossite",
 	},
 	shinyregirock: {
-		num: 377,
+		num: 9999377,
 		name: "Shiny Regirock",
 		types: ["Rock"],
 		gender: "F",
@@ -27117,7 +27117,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Undiscovered"],
 	},
 	shinyregice: {
-		num: 378,
+		num: 9999378,
 		name: "Shiny Regice",
 		types: ["Ice"],
 		gender: "F",
@@ -27130,7 +27130,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Undiscovered"],
 	},
 	shinyregisteel: {
-		num: 379,
+		num: 9999379,
 		name: "Shiny Registeel",
 		types: ["Steel"],
 		gender: "F",
@@ -27143,7 +27143,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Undiscovered"],
 	},
 	shinylatias: {
-		num: 380,
+		num: 9999380,
 		name: "Shiny Latias",
 		types: ["Dragon", "Psychic"],
 		gender: "F",
@@ -27158,7 +27158,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Latias", "Shiny Latias-Mega"],
 	},
 	shinylatiasmega: {
-		num: 380,
+		num: 9999380,
 		name: "Shiny Latias-Mega",
 		baseSpecies: "Shiny Latias",
 		forme: "Mega",
@@ -27173,7 +27173,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		requiredItem: "Latiasite",
 	},
 	shinylatios: {
-		num: 381,
+		num: 9999381,
 		name: "Shiny Latios",
 		types: ["Dragon", "Psychic"],
 		gender: "F",
@@ -27188,7 +27188,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Latios", "Shiny Latios-Mega"],
 	},
 	shinylatiosmega: {
-		num: 381,
+		num: 9999381,
 		name: "Shiny Latios-Mega",
 		baseSpecies: "Shiny Latios",
 		forme: "Mega",
@@ -27203,7 +27203,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		requiredItem: "Latiosite",
 	},
 	shinykyogre: {
-		num: 382,
+		num: 9999382,
 		name: "Shiny Kyogre",
 		types: ["Water"],
 		gender: "F",
@@ -27218,7 +27218,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Kyogre", "Shiny Kyogre-Primal"],
 	},
 	shinykyogreprimal: {
-		num: 382,
+		num: 9999382,
 		name: "Shiny Kyogre-Primal",
 		baseSpecies: "Shiny Kyogre",
 		forme: "Primal",
@@ -27233,7 +27233,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		requiredItem: "Blue Orb",
 	},
 	shinygroudon: {
-		num: 383,
+		num: 9999383,
 		name: "Shiny Groudon",
 		types: ["Ground"],
 		gender: "F",
@@ -27248,7 +27248,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Groudon", "Shiny Groudon-Primal"],
 	},
 	shinygroudonprimal: {
-		num: 383,
+		num: 9999383,
 		name: "Shiny Groudon-Primal",
 		baseSpecies: "Shiny Groudon",
 		forme: "Primal",
@@ -27263,7 +27263,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		requiredItem: "Red Orb",
 	},
 	shinyrayquaza: {
-		num: 384,
+		num: 9999384,
 		name: "Shiny Rayquaza",
 		types: ["Dragon", "Flying"],
 		gender: "F",
@@ -27278,7 +27278,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Rayquaza", "Shiny Rayquaza-Mega"],
 	},
 	shinyrayquazamega: {
-		num: 384,
+		num: 9999384,
 		name: "Shiny Rayquaza-Mega",
 		baseSpecies: "Shiny Rayquaza",
 		forme: "Mega",
@@ -27293,7 +27293,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		requiredMove: "Dragon Ascent",
 	},
 	shinyjirachi: {
-		num: 385,
+		num: 9999385,
 		name: "Shiny Jirachi",
 		types: ["Steel", "Psychic"],
 		gender: "F",
@@ -27306,7 +27306,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Undiscovered"],
 	},
 	shinydeoxys: {
-		num: 386,
+		num: 9999386,
 		name: "Shiny Deoxys",
 		baseForme: "Normal",
 		types: ["Psychic"],
@@ -27322,7 +27322,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Deoxys", "Shiny Deoxys-Attack", "Shiny Deoxys-Defense", "Shiny Deoxys-Speed"],
 	},
 	shinydeoxysattack: {
-		num: 386,
+		num: 9999386,
 		name: "Shiny Deoxys-Attack",
 		baseSpecies: "Shiny Deoxys",
 		forme: "Attack",
@@ -27337,7 +27337,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		changesFrom: "Shiny Deoxys",
 	},
 	shinydeoxysdefense: {
-		num: 386,
+		num: 9999386,
 		name: "Shiny Deoxys-Defense",
 		baseSpecies: "Shiny Deoxys",
 		forme: "Defense",
@@ -27352,7 +27352,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		changesFrom: "Shiny Deoxys",
 	},
 	shinydeoxysspeed: {
-		num: 386,
+		num: 9999386,
 		name: "Shiny Deoxys-Speed",
 		baseSpecies: "Shiny Deoxys",
 		forme: "Speed",
@@ -27367,7 +27367,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		changesFrom: "Shiny Deoxys",
 	},
 	shinyturtwig: {
-		num: 387,
+		num: 9999387,
 		name: "Shiny Turtwig",
 		types: ["Grass"],
 		gender: "F",
@@ -27380,7 +27380,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Monster", "Grass"],
 	},
 	shinygrotle: {
-		num: 388,
+		num: 9999388,
 		name: "Shiny Grotle",
 		types: ["Grass"],
 		gender: "F",
@@ -27395,7 +27395,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Monster", "Grass"],
 	},
 	shinytorterra: {
-		num: 389,
+		num: 9999389,
 		name: "Shiny Torterra",
 		types: ["Grass", "Ground"],
 		gender: "F",
@@ -27409,7 +27409,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Monster", "Grass"],
 	},
 	shinychimchar: {
-		num: 390,
+		num: 9999390,
 		name: "Shiny Chimchar",
 		types: ["Fire"],
 		gender: "F",
@@ -27422,7 +27422,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field", "Human-Like"],
 	},
 	shinymonferno: {
-		num: 391,
+		num: 9999391,
 		name: "Shiny Monferno",
 		types: ["Fire", "Fighting"],
 		gender: "F",
@@ -27437,7 +27437,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field", "Human-Like"],
 	},
 	shinyinfernape: {
-		num: 392,
+		num: 9999392,
 		name: "Shiny Infernape",
 		types: ["Fire", "Fighting"],
 		gender: "F",
@@ -27451,7 +27451,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field", "Human-Like"],
 	},
 	shinypiplup: {
-		num: 393,
+		num: 9999393,
 		name: "Shiny Piplup",
 		types: ["Water"],
 		gender: "F",
@@ -27464,7 +27464,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Water 1", "Field"],
 	},
 	shinyprinplup: {
-		num: 394,
+		num: 9999394,
 		name: "Shiny Prinplup",
 		types: ["Water"],
 		gender: "F",
@@ -27479,7 +27479,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Water 1", "Field"],
 	},
 	shinyempoleon: {
-		num: 395,
+		num: 9999395,
 		name: "Shiny Empoleon",
 		types: ["Water", "Steel"],
 		gender: "F",
@@ -27493,7 +27493,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Water 1", "Field"],
 	},
 	shinystarly: {
-		num: 396,
+		num: 9999396,
 		name: "Shiny Starly",
 		types: ["Normal", "Flying"],
 		baseStats: { hp: 40, atk: 55, def: 30, spa: 30, spd: 30, spe: 60 },
@@ -27505,7 +27505,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Flying"],
 	},
 	shinystaravia: {
-		num: 397,
+		num: 9999397,
 		name: "Shiny Staravia",
 		types: ["Normal", "Flying"],
 		baseStats: { hp: 55, atk: 75, def: 50, spa: 40, spd: 40, spe: 80 },
@@ -27519,7 +27519,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Flying"],
 	},
 	shinystaraptor: {
-		num: 398,
+		num: 9999398,
 		name: "Shiny Staraptor",
 		types: ["Normal", "Flying"],
 		baseStats: { hp: 85, atk: 120, def: 70, spa: 50, spd: 60, spe: 100 },
@@ -27534,7 +27534,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Staraptor", "Shiny Staraptor-Mega"],
 	},
 	shinystaraptormega: {
-		num: 398,
+		num: 9999398,
 		name: "Shiny Staraptor-Mega",
 		baseSpecies: "Shiny Staraptor",
 		forme: "Mega",
@@ -27549,7 +27549,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		gen: 9,
 	},
 	shinybidoof: {
-		num: 399,
+		num: 9999399,
 		name: "Shiny Bidoof",
 		types: ["Normal"],
 		baseStats: { hp: 59, atk: 45, def: 40, spa: 35, spd: 40, spe: 31 },
@@ -27561,7 +27561,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Water 1", "Field"],
 	},
 	shinybibarel: {
-		num: 400,
+		num: 9999400,
 		name: "Shiny Bibarel",
 		types: ["Normal", "Water"],
 		baseStats: { hp: 79, atk: 85, def: 60, spa: 55, spd: 60, spe: 71 },
@@ -27574,7 +27574,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Water 1", "Field"],
 	},
 	shinykricketot: {
-		num: 401,
+		num: 9999401,
 		name: "Shiny Kricketot",
 		types: ["Bug"],
 		baseStats: { hp: 37, atk: 25, def: 41, spa: 25, spd: 41, spe: 25 },
@@ -27586,7 +27586,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Bug"],
 	},
 	shinykricketune: {
-		num: 402,
+		num: 9999402,
 		name: "Shiny Kricketune",
 		types: ["Bug"],
 		baseStats: { hp: 77, atk: 85, def: 51, spa: 55, spd: 51, spe: 65 },
@@ -27599,7 +27599,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Bug"],
 	},
 	shinyshinx: {
-		num: 403,
+		num: 9999403,
 		name: "Shiny Shinx",
 		types: ["Electric"],
 		baseStats: { hp: 45, atk: 65, def: 34, spa: 40, spd: 34, spe: 45 },
@@ -27611,7 +27611,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field"],
 	},
 	shinyluxio: {
-		num: 404,
+		num: 9999404,
 		name: "Shiny Luxio",
 		types: ["Electric"],
 		baseStats: { hp: 60, atk: 85, def: 49, spa: 60, spd: 49, spe: 60 },
@@ -27625,7 +27625,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field"],
 	},
 	shinyluxray: {
-		num: 405,
+		num: 9999405,
 		name: "Shiny Luxray",
 		types: ["Electric"],
 		baseStats: { hp: 80, atk: 120, def: 79, spa: 95, spd: 79, spe: 70 },
@@ -27638,7 +27638,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field"],
 	},
 	shinybudew: {
-		num: 406,
+		num: 9999406,
 		name: "Shiny Budew",
 		types: ["Grass", "Poison"],
 		baseStats: { hp: 40, atk: 30, def: 35, spa: 50, spd: 70, spe: 55 },
@@ -27651,7 +27651,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		canHatch: true,
 	},
 	shinyroserade: {
-		num: 407,
+		num: 9999407,
 		name: "Shiny Roserade",
 		types: ["Grass", "Poison"],
 		baseStats: { hp: 60, atk: 70, def: 65, spa: 125, spd: 105, spe: 90 },
@@ -27665,7 +27665,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Fairy", "Grass"],
 	},
 	shinycranidos: {
-		num: 408,
+		num: 9999408,
 		name: "Shiny Cranidos",
 		types: ["Rock"],
 		gender: "F",
@@ -27678,7 +27678,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Monster"],
 	},
 	shinyrampardos: {
-		num: 409,
+		num: 9999409,
 		name: "Shiny Rampardos",
 		types: ["Rock"],
 		gender: "F",
@@ -27692,7 +27692,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Monster"],
 	},
 	shinyshieldon: {
-		num: 410,
+		num: 9999410,
 		name: "Shiny Shieldon",
 		types: ["Rock", "Steel"],
 		gender: "F",
@@ -27705,7 +27705,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Monster"],
 	},
 	shinybastiodon: {
-		num: 411,
+		num: 9999411,
 		name: "Shiny Bastiodon",
 		types: ["Rock", "Steel"],
 		gender: "F",
@@ -27719,7 +27719,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Monster"],
 	},
 	shinyburmy: {
-		num: 412,
+		num: 9999412,
 		name: "Shiny Burmy",
 		baseForme: "Plant",
 		types: ["Bug"],
@@ -27734,7 +27734,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Burmy", "Shiny Burmy-Sandy", "Shiny Burmy-Trash"],
 	},
 	shinywormadam: {
-		num: 413,
+		num: 9999413,
 		name: "Shiny Wormadam",
 		baseForme: "Plant",
 		types: ["Bug", "Grass"],
@@ -27751,7 +27751,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Wormadam", "Shiny Wormadam-Sandy", "Shiny Wormadam-Trash"],
 	},
 	shinywormadamsandy: {
-		num: 413,
+		num: 9999413,
 		name: "Shiny Wormadam-Sandy",
 		baseSpecies: "Shiny Wormadam",
 		forme: "Sandy",
@@ -27767,7 +27767,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Bug"],
 	},
 	shinywormadamtrash: {
-		num: 413,
+		num: 9999413,
 		name: "Shiny Wormadam-Trash",
 		baseSpecies: "Shiny Wormadam",
 		forme: "Trash",
@@ -27783,7 +27783,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Bug"],
 	},
 	shinymothim: {
-		num: 414,
+		num: 9999414,
 		name: "Shiny Mothim",
 		types: ["Bug", "Flying"],
 		gender: "F",
@@ -27797,7 +27797,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Bug"],
 	},
 	shinycombee: {
-		num: 415,
+		num: 9999415,
 		name: "Shiny Combee",
 		types: ["Bug", "Flying"],
 		gender: "F",
@@ -27810,7 +27810,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Bug"],
 	},
 	shinyvespiquen: {
-		num: 416,
+		num: 9999416,
 		name: "Shiny Vespiquen",
 		types: ["Bug", "Flying"],
 		gender: "F",
@@ -27824,7 +27824,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Bug"],
 	},
 	shinypachirisu: {
-		num: 417,
+		num: 9999417,
 		name: "Shiny Pachirisu",
 		types: ["Electric"],
 		baseStats: { hp: 60, atk: 45, def: 70, spa: 45, spd: 90, spe: 95 },
@@ -27835,7 +27835,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field", "Fairy"],
 	},
 	shinybuizel: {
-		num: 418,
+		num: 9999418,
 		name: "Shiny Buizel",
 		types: ["Water"],
 		baseStats: { hp: 55, atk: 65, def: 35, spa: 60, spd: 30, spe: 85 },
@@ -27847,7 +27847,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Water 1", "Field"],
 	},
 	shinyfloatzel: {
-		num: 419,
+		num: 9999419,
 		name: "Shiny Floatzel",
 		types: ["Water"],
 		baseStats: { hp: 85, atk: 105, def: 55, spa: 85, spd: 50, spe: 115 },
@@ -27860,7 +27860,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Water 1", "Field"],
 	},
 	shinycherubi: {
-		num: 420,
+		num: 9999420,
 		name: "Shiny Cherubi",
 		types: ["Grass"],
 		baseStats: { hp: 45, atk: 35, def: 45, spa: 62, spd: 53, spe: 35 },
@@ -27872,7 +27872,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Fairy", "Grass"],
 	},
 	shinycherrim: {
-		num: 421,
+		num: 9999421,
 		name: "Shiny Cherrim",
 		baseForme: "Overcast",
 		types: ["Grass"],
@@ -27888,7 +27888,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Cherrim", "Shiny Cherrim-Sunshine"],
 	},
 	shinycherrimsunshine: {
-		num: 421,
+		num: 9999421,
 		name: "Shiny Cherrim-Sunshine",
 		baseSpecies: "Shiny Cherrim",
 		forme: "Sunshine",
@@ -27903,7 +27903,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		battleOnly: "Shiny Cherrim",
 	},
 	shinyshellos: {
-		num: 422,
+		num: 9999422,
 		name: "Shiny Shellos",
 		baseForme: "West",
 		types: ["Water"],
@@ -27918,7 +27918,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Shellos", "Shiny Shellos-East"],
 	},
 	shinygastrodon: {
-		num: 423,
+		num: 9999423,
 		name: "Shiny Gastrodon",
 		baseForme: "West",
 		types: ["Water", "Ground"],
@@ -27934,7 +27934,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Gastrodon", "Shiny Gastrodon-East"],
 	},
 	shinyambipom: {
-		num: 424,
+		num: 9999424,
 		name: "Shiny Ambipom",
 		types: ["Normal"],
 		baseStats: { hp: 75, atk: 100, def: 66, spa: 60, spd: 66, spe: 115 },
@@ -27948,7 +27948,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field"],
 	},
 	shinydrifloon: {
-		num: 425,
+		num: 9999425,
 		name: "Shiny Drifloon",
 		types: ["Ghost", "Flying"],
 		baseStats: { hp: 90, atk: 50, def: 34, spa: 60, spd: 44, spe: 70 },
@@ -27960,7 +27960,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Amorphous"],
 	},
 	shinydrifblim: {
-		num: 426,
+		num: 9999426,
 		name: "Shiny Drifblim",
 		types: ["Ghost", "Flying"],
 		baseStats: { hp: 150, atk: 80, def: 44, spa: 90, spd: 54, spe: 80 },
@@ -27973,7 +27973,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Amorphous"],
 	},
 	shinybuneary: {
-		num: 427,
+		num: 9999427,
 		name: "Shiny Buneary",
 		types: ["Normal"],
 		baseStats: { hp: 55, atk: 66, def: 44, spa: 44, spd: 56, spe: 85 },
@@ -27985,7 +27985,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field", "Human-Like"],
 	},
 	shinylopunny: {
-		num: 428,
+		num: 9999428,
 		name: "Shiny Lopunny",
 		types: ["Normal"],
 		baseStats: { hp: 65, atk: 76, def: 84, spa: 54, spd: 96, spe: 105 },
@@ -28000,7 +28000,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Lopunny", "Shiny Lopunny-Mega"],
 	},
 	shinylopunnymega: {
-		num: 428,
+		num: 9999428,
 		name: "Shiny Lopunny-Mega",
 		baseSpecies: "Shiny Lopunny",
 		forme: "Mega",
@@ -28014,7 +28014,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		requiredItem: "Lopunnite",
 	},
 	shinymismagius: {
-		num: 429,
+		num: 9999429,
 		name: "Shiny Mismagius",
 		types: ["Ghost"],
 		baseStats: { hp: 60, atk: 60, def: 60, spa: 105, spd: 105, spe: 105 },
@@ -28028,7 +28028,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Amorphous"],
 	},
 	shinyhonchkrow: {
-		num: 430,
+		num: 9999430,
 		name: "Shiny Honchkrow",
 		types: ["Dark", "Flying"],
 		baseStats: { hp: 100, atk: 125, def: 52, spa: 105, spd: 52, spe: 71 },
@@ -28042,7 +28042,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Flying"],
 	},
 	shinyglameow: {
-		num: 431,
+		num: 9999431,
 		name: "Shiny Glameow",
 		types: ["Normal"],
 		gender: "F",
@@ -28055,7 +28055,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field"],
 	},
 	shinypurugly: {
-		num: 432,
+		num: 9999432,
 		name: "Shiny Purugly",
 		types: ["Normal"],
 		gender: "F",
@@ -28069,7 +28069,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field"],
 	},
 	shinychingling: {
-		num: 433,
+		num: 9999433,
 		name: "Shiny Chingling",
 		types: ["Psychic"],
 		baseStats: { hp: 45, atk: 30, def: 50, spa: 65, spd: 50, spe: 45 },
@@ -28082,7 +28082,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		canHatch: true,
 	},
 	shinystunky: {
-		num: 434,
+		num: 9999434,
 		name: "Shiny Stunky",
 		types: ["Poison", "Dark"],
 		baseStats: { hp: 63, atk: 63, def: 47, spa: 41, spd: 41, spe: 74 },
@@ -28094,7 +28094,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field"],
 	},
 	shinyskuntank: {
-		num: 435,
+		num: 9999435,
 		name: "Shiny Skuntank",
 		types: ["Poison", "Dark"],
 		baseStats: { hp: 103, atk: 93, def: 67, spa: 71, spd: 61, spe: 84 },
@@ -28107,7 +28107,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field"],
 	},
 	shinybronzor: {
-		num: 436,
+		num: 9999436,
 		name: "Shiny Bronzor",
 		types: ["Steel", "Psychic"],
 		gender: "F",
@@ -28120,7 +28120,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Mineral"],
 	},
 	shinybronzong: {
-		num: 437,
+		num: 9999437,
 		name: "Shiny Bronzong",
 		types: ["Steel", "Psychic"],
 		gender: "F",
@@ -28134,7 +28134,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Mineral"],
 	},
 	shinybonsly: {
-		num: 438,
+		num: 9999438,
 		name: "Shiny Bonsly",
 		types: ["Rock"],
 		baseStats: { hp: 50, atk: 80, def: 95, spa: 10, spd: 45, spe: 10 },
@@ -28147,7 +28147,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		canHatch: true,
 	},
 	shinymimejr: {
-		num: 439,
+		num: 9999439,
 		name: "Shiny Mime Jr.",
 		types: ["Psychic", "Fairy"],
 		baseStats: { hp: 20, atk: 25, def: 45, spa: 70, spd: 90, spe: 60 },
@@ -28160,7 +28160,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		canHatch: true,
 	},
 	shinyhappiny: {
-		num: 440,
+		num: 9999440,
 		name: "Shiny Happiny",
 		types: ["Normal"],
 		gender: "F",
@@ -28174,7 +28174,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		canHatch: true,
 	},
 	shinychatot: {
-		num: 441,
+		num: 9999441,
 		name: "Shiny Chatot",
 		types: ["Normal", "Flying"],
 		baseStats: { hp: 76, atk: 65, def: 45, spa: 92, spd: 42, spe: 91 },
@@ -28185,7 +28185,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Flying"],
 	},
 	shinyspiritomb: {
-		num: 442,
+		num: 9999442,
 		name: "Shiny Spiritomb",
 		types: ["Ghost", "Dark"],
 		baseStats: { hp: 50, atk: 92, def: 108, spa: 92, spd: 108, spe: 35 },
@@ -28196,7 +28196,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Amorphous"],
 	},
 	shinygible: {
-		num: 443,
+		num: 9999443,
 		name: "Shiny Gible",
 		types: ["Dragon", "Ground"],
 		baseStats: { hp: 58, atk: 70, def: 45, spa: 40, spd: 45, spe: 42 },
@@ -28208,7 +28208,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Monster", "Dragon"],
 	},
 	shinygabite: {
-		num: 444,
+		num: 9999444,
 		name: "Shiny Gabite",
 		types: ["Dragon", "Ground"],
 		baseStats: { hp: 68, atk: 90, def: 65, spa: 50, spd: 55, spe: 82 },
@@ -28222,7 +28222,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Monster", "Dragon"],
 	},
 	shinygarchomp: {
-		num: 445,
+		num: 9999445,
 		name: "Shiny Garchomp",
 		types: ["Dragon", "Ground"],
 		baseStats: { hp: 108, atk: 130, def: 95, spa: 80, spd: 85, spe: 102 },
@@ -28237,7 +28237,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Garchomp", "Shiny Garchomp-Mega", "Shiny Garchomp-Mega-Z"],
 	},
 	shinygarchompmega: {
-		num: 445,
+		num: 9999445,
 		name: "Shiny Garchomp-Mega",
 		baseSpecies: "Shiny Garchomp",
 		forme: "Mega",
@@ -28251,7 +28251,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		requiredItem: "Garchompite",
 	},
 	shinygarchompmegaz: {
-		num: 445,
+		num: 9999445,
 		name: "Shiny Garchomp-Mega-Z",
 		baseSpecies: "Shiny Garchomp",
 		forme: "Mega-Z",
@@ -28266,7 +28266,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		gen: 9,
 	},
 	shinymunchlax: {
-		num: 446,
+		num: 9999446,
 		name: "Shiny Munchlax",
 		types: ["Normal"],
 		gender: "F",
@@ -28280,7 +28280,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		canHatch: true,
 	},
 	shinyriolu: {
-		num: 447,
+		num: 9999447,
 		name: "Shiny Riolu",
 		types: ["Fighting"],
 		gender: "F",
@@ -28294,7 +28294,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		canHatch: true,
 	},
 	shinylucario: {
-		num: 448,
+		num: 9999448,
 		name: "Shiny Lucario",
 		types: ["Fighting", "Steel"],
 		gender: "F",
@@ -28311,7 +28311,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Lucario", "Shiny Lucario-Mega", "Shiny Lucario-Mega-Z"],
 	},
 	shinylucariomega: {
-		num: 448,
+		num: 9999448,
 		name: "Shiny Lucario-Mega",
 		baseSpecies: "Shiny Lucario",
 		forme: "Mega",
@@ -28326,7 +28326,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		requiredItem: "Lucarionite",
 	},
 	shinylucariomegaz: {
-		num: 448,
+		num: 9999448,
 		name: "Shiny Lucario-Mega-Z",
 		baseSpecies: "Shiny Lucario",
 		forme: "Mega-Z",
@@ -28342,7 +28342,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		gen: 9,
 	},
 	shinyhippopotas: {
-		num: 449,
+		num: 9999449,
 		name: "Shiny Hippopotas",
 		types: ["Ground"],
 		baseStats: { hp: 68, atk: 72, def: 78, spa: 38, spd: 42, spe: 32 },
@@ -28354,7 +28354,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field"],
 	},
 	shinyhippowdon: {
-		num: 450,
+		num: 9999450,
 		name: "Shiny Hippowdon",
 		types: ["Ground"],
 		baseStats: { hp: 108, atk: 112, def: 118, spa: 68, spd: 72, spe: 47 },
@@ -28367,7 +28367,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field"],
 	},
 	shinyskorupi: {
-		num: 451,
+		num: 9999451,
 		name: "Shiny Skorupi",
 		types: ["Poison", "Bug"],
 		baseStats: { hp: 40, atk: 50, def: 90, spa: 30, spd: 55, spe: 65 },
@@ -28379,7 +28379,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Bug", "Water 3"],
 	},
 	shinydrapion: {
-		num: 452,
+		num: 9999452,
 		name: "Shiny Drapion",
 		types: ["Poison", "Dark"],
 		baseStats: { hp: 70, atk: 90, def: 110, spa: 60, spd: 75, spe: 95 },
@@ -28392,7 +28392,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Bug", "Water 3"],
 	},
 	shinycroagunk: {
-		num: 453,
+		num: 9999453,
 		name: "Shiny Croagunk",
 		types: ["Poison", "Fighting"],
 		baseStats: { hp: 48, atk: 61, def: 40, spa: 61, spd: 40, spe: 50 },
@@ -28404,7 +28404,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Human-Like"],
 	},
 	shinytoxicroak: {
-		num: 454,
+		num: 9999454,
 		name: "Shiny Toxicroak",
 		types: ["Poison", "Fighting"],
 		baseStats: { hp: 83, atk: 106, def: 65, spa: 86, spd: 65, spe: 85 },
@@ -28417,7 +28417,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Human-Like"],
 	},
 	shinycarnivine: {
-		num: 455,
+		num: 9999455,
 		name: "Shiny Carnivine",
 		types: ["Grass"],
 		baseStats: { hp: 74, atk: 100, def: 72, spa: 90, spd: 72, spe: 46 },
@@ -28428,7 +28428,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Grass"],
 	},
 	shinyfinneon: {
-		num: 456,
+		num: 9999456,
 		name: "Shiny Finneon",
 		types: ["Water"],
 		baseStats: { hp: 49, atk: 49, def: 56, spa: 49, spd: 61, spe: 66 },
@@ -28440,7 +28440,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Water 2"],
 	},
 	shinylumineon: {
-		num: 457,
+		num: 9999457,
 		name: "Shiny Lumineon",
 		types: ["Water"],
 		baseStats: { hp: 69, atk: 69, def: 76, spa: 69, spd: 86, spe: 91 },
@@ -28453,7 +28453,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Water 2"],
 	},
 	shinymantyke: {
-		num: 458,
+		num: 9999458,
 		name: "Shiny Mantyke",
 		types: ["Water", "Flying"],
 		baseStats: { hp: 45, atk: 20, def: 50, spa: 60, spd: 120, spe: 50 },
@@ -28466,7 +28466,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		canHatch: true,
 	},
 	shinysnover: {
-		num: 459,
+		num: 9999459,
 		name: "Shiny Snover",
 		types: ["Grass", "Ice"],
 		baseStats: { hp: 60, atk: 62, def: 50, spa: 62, spd: 60, spe: 40 },
@@ -28478,7 +28478,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Monster", "Grass"],
 	},
 	shinyabomasnow: {
-		num: 460,
+		num: 9999460,
 		name: "Shiny Abomasnow",
 		types: ["Grass", "Ice"],
 		baseStats: { hp: 90, atk: 92, def: 75, spa: 92, spd: 85, spe: 60 },
@@ -28493,7 +28493,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Abomasnow", "Shiny Abomasnow-Mega"],
 	},
 	shinyabomasnowmega: {
-		num: 460,
+		num: 9999460,
 		name: "Shiny Abomasnow-Mega",
 		baseSpecies: "Shiny Abomasnow",
 		forme: "Mega",
@@ -28507,7 +28507,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		requiredItem: "Abomasite",
 	},
 	shinyweavile: {
-		num: 461,
+		num: 9999461,
 		name: "Shiny Weavile",
 		types: ["Dark", "Ice"],
 		baseStats: { hp: 70, atk: 120, def: 65, spa: 45, spd: 85, spe: 125 },
@@ -28522,7 +28522,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field"],
 	},
 	shinymagnezone: {
-		num: 462,
+		num: 9999462,
 		name: "Shiny Magnezone",
 		types: ["Electric", "Steel"],
 		gender: "F",
@@ -28537,7 +28537,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Mineral"],
 	},
 	shinylickilicky: {
-		num: 463,
+		num: 9999463,
 		name: "Shiny Lickilicky",
 		types: ["Normal"],
 		baseStats: { hp: 110, atk: 85, def: 95, spa: 80, spd: 95, spe: 50 },
@@ -28551,7 +28551,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Monster"],
 	},
 	shinyrhyperior: {
-		num: 464,
+		num: 9999464,
 		name: "Shiny Rhyperior",
 		types: ["Ground", "Rock"],
 		baseStats: { hp: 115, atk: 140, def: 130, spa: 55, spd: 55, spe: 40 },
@@ -28565,7 +28565,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Monster", "Field"],
 	},
 	shinytangrowth: {
-		num: 465,
+		num: 9999465,
 		name: "Shiny Tangrowth",
 		types: ["Grass"],
 		baseStats: { hp: 100, atk: 100, def: 125, spa: 110, spd: 50, spe: 50 },
@@ -28579,7 +28579,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Grass"],
 	},
 	shinyelectivire: {
-		num: 466,
+		num: 9999466,
 		name: "Shiny Electivire",
 		types: ["Electric"],
 		gender: "F",
@@ -28594,7 +28594,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Human-Like"],
 	},
 	shinymagmortar: {
-		num: 467,
+		num: 9999467,
 		name: "Shiny Magmortar",
 		types: ["Fire"],
 		gender: "F",
@@ -28609,7 +28609,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Human-Like"],
 	},
 	shinytogekiss: {
-		num: 468,
+		num: 9999468,
 		name: "Shiny Togekiss",
 		types: ["Fairy", "Flying"],
 		gender: "F",
@@ -28624,7 +28624,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Flying", "Fairy"],
 	},
 	shinyyanmega: {
-		num: 469,
+		num: 9999469,
 		name: "Shiny Yanmega",
 		types: ["Bug", "Flying"],
 		baseStats: { hp: 86, atk: 76, def: 86, spa: 116, spd: 56, spe: 95 },
@@ -28638,7 +28638,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Bug"],
 	},
 	shinyleafeon: {
-		num: 470,
+		num: 9999470,
 		name: "Shiny Leafeon",
 		types: ["Grass"],
 		gender: "F",
@@ -28653,7 +28653,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field"],
 	},
 	shinyglaceon: {
-		num: 471,
+		num: 9999471,
 		name: "Shiny Glaceon",
 		types: ["Ice"],
 		gender: "F",
@@ -28668,7 +28668,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field"],
 	},
 	shinygliscor: {
-		num: 472,
+		num: 9999472,
 		name: "Shiny Gliscor",
 		types: ["Ground", "Flying"],
 		baseStats: { hp: 75, atk: 95, def: 125, spa: 45, spd: 75, spe: 95 },
@@ -28683,7 +28683,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Bug"],
 	},
 	shinymamoswine: {
-		num: 473,
+		num: 9999473,
 		name: "Shiny Mamoswine",
 		types: ["Ice", "Ground"],
 		baseStats: { hp: 110, atk: 130, def: 80, spa: 70, spd: 60, spe: 80 },
@@ -28697,7 +28697,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field"],
 	},
 	shinyporygonz: {
-		num: 474,
+		num: 9999474,
 		name: "Shiny Porygon-Z",
 		types: ["Normal"],
 		gender: "F",
@@ -28712,7 +28712,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Mineral"],
 	},
 	shinygallade: {
-		num: 475,
+		num: 9999475,
 		name: "Shiny Gallade",
 		types: ["Psychic", "Fighting"],
 		gender: "F",
@@ -28729,7 +28729,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Gallade", "Shiny Gallade-Mega"],
 	},
 	shinygallademega: {
-		num: 475,
+		num: 9999475,
 		name: "Shiny Gallade-Mega",
 		baseSpecies: "Shiny Gallade",
 		forme: "Mega",
@@ -28744,7 +28744,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		requiredItem: "Galladite",
 	},
 	shinyprobopass: {
-		num: 476,
+		num: 9999476,
 		name: "Shiny Probopass",
 		types: ["Rock", "Steel"],
 		baseStats: { hp: 60, atk: 55, def: 145, spa: 75, spd: 150, spe: 40 },
@@ -28758,7 +28758,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Mineral"],
 	},
 	shinydusknoir: {
-		num: 477,
+		num: 9999477,
 		name: "Shiny Dusknoir",
 		types: ["Ghost"],
 		baseStats: { hp: 45, atk: 100, def: 135, spa: 65, spd: 135, spe: 45 },
@@ -28772,7 +28772,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Amorphous"],
 	},
 	shinyfroslass: {
-		num: 478,
+		num: 9999478,
 		name: "Shiny Froslass",
 		types: ["Ice", "Ghost"],
 		gender: "F",
@@ -28789,7 +28789,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Froslass", "Shiny Froslass-Mega"],
 	},
 	shinyfroslassmega: {
-		num: 478,
+		num: 9999478,
 		name: "Shiny Froslass-Mega",
 		baseSpecies: "Shiny Froslass",
 		forme: "Mega",
@@ -28805,7 +28805,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		gen: 9,
 	},
 	shinyrotom: {
-		num: 479,
+		num: 9999479,
 		name: "Shiny Rotom",
 		types: ["Electric", "Ghost"],
 		gender: "F",
@@ -28819,7 +28819,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Rotom", "Shiny Rotom-Heat", "Shiny Rotom-Wash", "Shiny Rotom-Frost", "Shiny Rotom-Fan", "Shiny Rotom-Mow"],
 	},
 	shinyrotomheat: {
-		num: 479,
+		num: 9999479,
 		name: "Shiny Rotom-Heat",
 		baseSpecies: "Shiny Rotom",
 		forme: "Heat",
@@ -28834,7 +28834,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		changesFrom: "Shiny Rotom",
 	},
 	shinyrotomwash: {
-		num: 479,
+		num: 9999479,
 		name: "Shiny Rotom-Wash",
 		baseSpecies: "Shiny Rotom",
 		forme: "Wash",
@@ -28849,7 +28849,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		changesFrom: "Shiny Rotom",
 	},
 	shinyrotomfrost: {
-		num: 479,
+		num: 9999479,
 		name: "Shiny Rotom-Frost",
 		baseSpecies: "Shiny Rotom",
 		forme: "Frost",
@@ -28864,7 +28864,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		changesFrom: "Shiny Rotom",
 	},
 	shinyrotomfan: {
-		num: 479,
+		num: 9999479,
 		name: "Shiny Rotom-Fan",
 		baseSpecies: "Shiny Rotom",
 		forme: "Fan",
@@ -28879,7 +28879,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		changesFrom: "Shiny Rotom",
 	},
 	shinyrotommow: {
-		num: 479,
+		num: 9999479,
 		name: "Shiny Rotom-Mow",
 		baseSpecies: "Shiny Rotom",
 		forme: "Mow",
@@ -28894,7 +28894,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		changesFrom: "Shiny Rotom",
 	},
 	shinyuxie: {
-		num: 480,
+		num: 9999480,
 		name: "Shiny Uxie",
 		types: ["Psychic"],
 		gender: "F",
@@ -28907,7 +28907,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Undiscovered"],
 	},
 	shinymesprit: {
-		num: 481,
+		num: 9999481,
 		name: "Shiny Mesprit",
 		types: ["Psychic"],
 		gender: "F",
@@ -28920,7 +28920,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Undiscovered"],
 	},
 	shinyazelf: {
-		num: 482,
+		num: 9999482,
 		name: "Shiny Azelf",
 		types: ["Psychic"],
 		gender: "F",
@@ -28933,7 +28933,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Undiscovered"],
 	},
 	shinydialga: {
-		num: 483,
+		num: 9999483,
 		name: "Shiny Dialga",
 		types: ["Steel", "Dragon"],
 		gender: "F",
@@ -28948,7 +28948,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Dialga", "Shiny Dialga-Origin"],
 	},
 	shinydialgaorigin: {
-		num: 483,
+		num: 9999483,
 		name: "Shiny Dialga-Origin",
 		baseSpecies: "Shiny Dialga",
 		forme: "Origin",
@@ -28965,7 +28965,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		gen: 8,
 	},
 	shinypalkia: {
-		num: 484,
+		num: 9999484,
 		name: "Shiny Palkia",
 		types: ["Water", "Dragon"],
 		gender: "F",
@@ -28980,7 +28980,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Palkia", "Shiny Palkia-Origin"],
 	},
 	shinypalkiaorigin: {
-		num: 484,
+		num: 9999484,
 		name: "Shiny Palkia-Origin",
 		baseSpecies: "Shiny Palkia",
 		forme: "Origin",
@@ -28997,7 +28997,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		gen: 8,
 	},
 	shinyheatran: {
-		num: 485,
+		num: 9999485,
 		name: "Shiny Heatran",
 		types: ["Fire", "Steel"],
 		baseStats: { hp: 91, atk: 90, def: 106, spa: 130, spd: 106, spe: 77 },
@@ -29011,7 +29011,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Heatran", "Shiny Heatran-Mega"],
 	},
 	shinyheatranmega: {
-		num: 485,
+		num: 9999485,
 		name: "Shiny Heatran-Mega",
 		baseSpecies: "Shiny Heatran",
 		forme: "Mega",
@@ -29027,7 +29027,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		gen: 9,
 	},
 	shinyregigigas: {
-		num: 486,
+		num: 9999486,
 		name: "Shiny Regigigas",
 		types: ["Normal"],
 		gender: "F",
@@ -29040,7 +29040,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Undiscovered"],
 	},
 	shinygiratina: {
-		num: 487,
+		num: 9999487,
 		name: "Shiny Giratina",
 		baseForme: "Altered",
 		types: ["Ghost", "Dragon"],
@@ -29056,7 +29056,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Giratina", "Shiny Giratina-Origin"],
 	},
 	shinygiratinaorigin: {
-		num: 487,
+		num: 9999487,
 		name: "Shiny Giratina-Origin",
 		baseSpecies: "Shiny Giratina",
 		forme: "Origin",
@@ -29072,7 +29072,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		changesFrom: "Shiny Giratina",
 	},
 	shinycresselia: {
-		num: 488,
+		num: 9999488,
 		name: "Shiny Cresselia",
 		types: ["Psychic"],
 		gender: "F",
@@ -29085,7 +29085,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Undiscovered"],
 	},
 	shinyphione: {
-		num: 489,
+		num: 9999489,
 		name: "Shiny Phione",
 		types: ["Water"],
 		gender: "F",
@@ -29098,7 +29098,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Water 1", "Fairy"],
 	},
 	shinymanaphy: {
-		num: 490,
+		num: 9999490,
 		name: "Shiny Manaphy",
 		types: ["Water"],
 		gender: "F",
@@ -29111,7 +29111,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Water 1", "Fairy"],
 	},
 	shinydarkrai: {
-		num: 491,
+		num: 9999491,
 		name: "Shiny Darkrai",
 		types: ["Dark"],
 		gender: "F",
@@ -29126,7 +29126,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Darkrai", "Shiny Darkrai-Mega"],
 	},
 	shinydarkraimega: {
-		num: 491,
+		num: 9999491,
 		name: "Shiny Darkrai-Mega",
 		baseSpecies: "Shiny Darkrai",
 		forme: "Mega",
@@ -29143,7 +29143,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		gen: 9,
 	},
 	shinyshaymin: {
-		num: 492,
+		num: 9999492,
 		name: "Shiny Shaymin",
 		baseForme: "Land",
 		types: ["Grass"],
@@ -29159,7 +29159,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Shaymin", "Shiny Shaymin-Sky"],
 	},
 	shinyshayminsky: {
-		num: 492,
+		num: 9999492,
 		name: "Shiny Shaymin-Sky",
 		baseSpecies: "Shiny Shaymin",
 		forme: "Sky",
@@ -29174,7 +29174,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		changesFrom: "Shiny Shaymin",
 	},
 	shinyarceus: {
-		num: 493,
+		num: 9999493,
 		name: "Shiny Arceus",
 		baseForme: "Normal",
 		types: ["Normal"],
@@ -29193,7 +29193,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		],
 	},
 	shinyarceusbug: {
-		num: 493,
+		num: 9999493,
 		name: "Shiny Arceus-Bug",
 		baseSpecies: "Shiny Arceus",
 		forme: "Bug",
@@ -29209,7 +29209,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		changesFrom: "Shiny Arceus",
 	},
 	shinyarceusdark: {
-		num: 493,
+		num: 9999493,
 		name: "Shiny Arceus-Dark",
 		baseSpecies: "Shiny Arceus",
 		forme: "Dark",
@@ -29225,7 +29225,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		changesFrom: "Shiny Arceus",
 	},
 	shinyarceusdragon: {
-		num: 493,
+		num: 9999493,
 		name: "Shiny Arceus-Dragon",
 		baseSpecies: "Shiny Arceus",
 		forme: "Dragon",
@@ -29241,7 +29241,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		changesFrom: "Shiny Arceus",
 	},
 	shinyarceuselectric: {
-		num: 493,
+		num: 9999493,
 		name: "Shiny Arceus-Electric",
 		baseSpecies: "Shiny Arceus",
 		forme: "Electric",
@@ -29257,7 +29257,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		changesFrom: "Shiny Arceus",
 	},
 	shinyarceusfairy: {
-		num: 493,
+		num: 9999493,
 		name: "Shiny Arceus-Fairy",
 		baseSpecies: "Shiny Arceus",
 		forme: "Fairy",
@@ -29274,7 +29274,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		gen: 6,
 	},
 	shinyarceusfighting: {
-		num: 493,
+		num: 9999493,
 		name: "Shiny Arceus-Fighting",
 		baseSpecies: "Shiny Arceus",
 		forme: "Fighting",
@@ -29290,7 +29290,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		changesFrom: "Shiny Arceus",
 	},
 	shinyarceusfire: {
-		num: 493,
+		num: 9999493,
 		name: "Shiny Arceus-Fire",
 		baseSpecies: "Shiny Arceus",
 		forme: "Fire",
@@ -29306,7 +29306,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		changesFrom: "Shiny Arceus",
 	},
 	shinyarceusflying: {
-		num: 493,
+		num: 9999493,
 		name: "Shiny Arceus-Flying",
 		baseSpecies: "Shiny Arceus",
 		forme: "Flying",
@@ -29322,7 +29322,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		changesFrom: "Shiny Arceus",
 	},
 	shinyarceusghost: {
-		num: 493,
+		num: 9999493,
 		name: "Shiny Arceus-Ghost",
 		baseSpecies: "Shiny Arceus",
 		forme: "Ghost",
@@ -29338,7 +29338,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		changesFrom: "Shiny Arceus",
 	},
 	shinyarceusgrass: {
-		num: 493,
+		num: 9999493,
 		name: "Shiny Arceus-Grass",
 		baseSpecies: "Shiny Arceus",
 		forme: "Grass",
@@ -29354,7 +29354,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		changesFrom: "Shiny Arceus",
 	},
 	shinyarceusground: {
-		num: 493,
+		num: 9999493,
 		name: "Shiny Arceus-Ground",
 		baseSpecies: "Shiny Arceus",
 		forme: "Ground",
@@ -29370,7 +29370,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		changesFrom: "Shiny Arceus",
 	},
 	shinyarceusice: {
-		num: 493,
+		num: 9999493,
 		name: "Shiny Arceus-Ice",
 		baseSpecies: "Shiny Arceus",
 		forme: "Ice",
@@ -29386,7 +29386,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		changesFrom: "Shiny Arceus",
 	},
 	shinyarceuspoison: {
-		num: 493,
+		num: 9999493,
 		name: "Shiny Arceus-Poison",
 		baseSpecies: "Shiny Arceus",
 		forme: "Poison",
@@ -29402,7 +29402,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		changesFrom: "Shiny Arceus",
 	},
 	shinyarceuspsychic: {
-		num: 493,
+		num: 9999493,
 		name: "Shiny Arceus-Psychic",
 		baseSpecies: "Shiny Arceus",
 		forme: "Psychic",
@@ -29418,7 +29418,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		changesFrom: "Shiny Arceus",
 	},
 	shinyarceusrock: {
-		num: 493,
+		num: 9999493,
 		name: "Shiny Arceus-Rock",
 		baseSpecies: "Shiny Arceus",
 		forme: "Rock",
@@ -29434,7 +29434,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		changesFrom: "Shiny Arceus",
 	},
 	shinyarceussteel: {
-		num: 493,
+		num: 9999493,
 		name: "Shiny Arceus-Steel",
 		baseSpecies: "Shiny Arceus",
 		forme: "Steel",
@@ -29450,7 +29450,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		changesFrom: "Shiny Arceus",
 	},
 	shinyarceuswater: {
-		num: 493,
+		num: 9999493,
 		name: "Shiny Arceus-Water",
 		baseSpecies: "Shiny Arceus",
 		forme: "Water",
@@ -29466,7 +29466,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		changesFrom: "Shiny Arceus",
 	},
 	shinyvictini: {
-		num: 494,
+		num: 9999494,
 		name: "Shiny Victini",
 		types: ["Psychic", "Fire"],
 		gender: "F",
@@ -29479,7 +29479,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Undiscovered"],
 	},
 	shinysnivy: {
-		num: 495,
+		num: 9999495,
 		name: "Shiny Snivy",
 		types: ["Grass"],
 		gender: "F",
@@ -29492,7 +29492,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field", "Grass"],
 	},
 	shinyservine: {
-		num: 496,
+		num: 9999496,
 		name: "Shiny Servine",
 		types: ["Grass"],
 		gender: "F",
@@ -29507,7 +29507,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field", "Grass"],
 	},
 	shinyserperior: {
-		num: 497,
+		num: 9999497,
 		name: "Shiny Serperior",
 		types: ["Grass"],
 		gender: "F",
@@ -29521,7 +29521,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field", "Grass"],
 	},
 	shinytepig: {
-		num: 498,
+		num: 9999498,
 		name: "Shiny Tepig",
 		types: ["Fire"],
 		gender: "F",
@@ -29534,7 +29534,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field"],
 	},
 	shinypignite: {
-		num: 499,
+		num: 9999499,
 		name: "Shiny Pignite",
 		types: ["Fire", "Fighting"],
 		gender: "F",
@@ -29549,7 +29549,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field"],
 	},
 	shinyemboar: {
-		num: 500,
+		num: 9999500,
 		name: "Shiny Emboar",
 		types: ["Fire", "Fighting"],
 		gender: "F",
@@ -29565,7 +29565,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Emboar", "Shiny Emboar-Mega"],
 	},
 	shinyemboarmega: {
-		num: 500,
+		num: 9999500,
 		name: "Shiny Emboar-Mega",
 		baseSpecies: "Shiny Emboar",
 		forme: "Mega",
@@ -29581,7 +29581,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		gen: 9,
 	},
 	shinyoshawott: {
-		num: 501,
+		num: 9999501,
 		name: "Shiny Oshawott",
 		types: ["Water"],
 		gender: "F",
@@ -29594,7 +29594,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field"],
 	},
 	shinydewott: {
-		num: 502,
+		num: 9999502,
 		name: "Shiny Dewott",
 		types: ["Water"],
 		gender: "F",
@@ -29609,7 +29609,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field"],
 	},
 	shinysamurott: {
-		num: 503,
+		num: 9999503,
 		name: "Shiny Samurott",
 		types: ["Water"],
 		gender: "F",
@@ -29625,7 +29625,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Samurott", "Shiny Samurott-Hisui"],
 	},
 	shinysamurotthisui: {
-		num: 503,
+		num: 9999503,
 		name: "Shiny Samurott-Hisui",
 		baseSpecies: "Shiny Samurott",
 		forme: "Hisui",
@@ -29641,7 +29641,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field"],
 	},
 	shinypatrat: {
-		num: 504,
+		num: 9999504,
 		name: "Shiny Patrat",
 		types: ["Normal"],
 		baseStats: { hp: 45, atk: 55, def: 39, spa: 35, spd: 39, spe: 42 },
@@ -29653,7 +29653,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field"],
 	},
 	shinywatchog: {
-		num: 505,
+		num: 9999505,
 		name: "Shiny Watchog",
 		types: ["Normal"],
 		baseStats: { hp: 60, atk: 85, def: 69, spa: 60, spd: 69, spe: 77 },
@@ -29666,7 +29666,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field"],
 	},
 	shinylillipup: {
-		num: 506,
+		num: 9999506,
 		name: "Shiny Lillipup",
 		types: ["Normal"],
 		baseStats: { hp: 45, atk: 60, def: 45, spa: 25, spd: 45, spe: 55 },
@@ -29678,7 +29678,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field"],
 	},
 	shinyherdier: {
-		num: 507,
+		num: 9999507,
 		name: "Shiny Herdier",
 		types: ["Normal"],
 		baseStats: { hp: 65, atk: 80, def: 65, spa: 35, spd: 65, spe: 60 },
@@ -29692,7 +29692,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field"],
 	},
 	shinystoutland: {
-		num: 508,
+		num: 9999508,
 		name: "Shiny Stoutland",
 		types: ["Normal"],
 		baseStats: { hp: 85, atk: 110, def: 90, spa: 45, spd: 90, spe: 80 },
@@ -29705,7 +29705,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field"],
 	},
 	shinypurrloin: {
-		num: 509,
+		num: 9999509,
 		name: "Shiny Purrloin",
 		types: ["Dark"],
 		baseStats: { hp: 41, atk: 50, def: 37, spa: 50, spd: 37, spe: 66 },
@@ -29717,7 +29717,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field"],
 	},
 	shinyliepard: {
-		num: 510,
+		num: 9999510,
 		name: "Shiny Liepard",
 		types: ["Dark"],
 		baseStats: { hp: 64, atk: 88, def: 50, spa: 88, spd: 50, spe: 106 },
@@ -29730,7 +29730,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field"],
 	},
 	shinypansage: {
-		num: 511,
+		num: 9999511,
 		name: "Shiny Pansage",
 		types: ["Grass"],
 		gender: "F",
@@ -29743,7 +29743,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field"],
 	},
 	shinysimisage: {
-		num: 512,
+		num: 9999512,
 		name: "Shiny Simisage",
 		types: ["Grass"],
 		gender: "F",
@@ -29758,7 +29758,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field"],
 	},
 	shinypansear: {
-		num: 513,
+		num: 9999513,
 		name: "Shiny Pansear",
 		types: ["Fire"],
 		gender: "F",
@@ -29771,7 +29771,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field"],
 	},
 	shinysimisear: {
-		num: 514,
+		num: 9999514,
 		name: "Shiny Simisear",
 		types: ["Fire"],
 		gender: "F",
@@ -29786,7 +29786,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field"],
 	},
 	shinypanpour: {
-		num: 515,
+		num: 9999515,
 		name: "Shiny Panpour",
 		types: ["Water"],
 		gender: "F",
@@ -29799,7 +29799,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field"],
 	},
 	shinysimipour: {
-		num: 516,
+		num: 9999516,
 		name: "Shiny Simipour",
 		types: ["Water"],
 		gender: "F",
@@ -29814,7 +29814,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field"],
 	},
 	shinymunna: {
-		num: 517,
+		num: 9999517,
 		name: "Shiny Munna",
 		types: ["Psychic"],
 		baseStats: { hp: 76, atk: 25, def: 45, spa: 67, spd: 55, spe: 24 },
@@ -29826,7 +29826,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field"],
 	},
 	shinymusharna: {
-		num: 518,
+		num: 9999518,
 		name: "Shiny Musharna",
 		types: ["Psychic"],
 		baseStats: { hp: 116, atk: 55, def: 85, spa: 107, spd: 95, spe: 29 },
@@ -29840,7 +29840,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field"],
 	},
 	shinypidove: {
-		num: 519,
+		num: 9999519,
 		name: "Shiny Pidove",
 		types: ["Normal", "Flying"],
 		baseStats: { hp: 50, atk: 55, def: 50, spa: 36, spd: 30, spe: 43 },
@@ -29852,7 +29852,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Flying"],
 	},
 	shinytranquill: {
-		num: 520,
+		num: 9999520,
 		name: "Shiny Tranquill",
 		types: ["Normal", "Flying"],
 		baseStats: { hp: 62, atk: 77, def: 62, spa: 50, spd: 42, spe: 65 },
@@ -29866,7 +29866,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Flying"],
 	},
 	shinyunfezant: {
-		num: 521,
+		num: 9999521,
 		name: "Shiny Unfezant",
 		types: ["Normal", "Flying"],
 		baseStats: { hp: 80, atk: 115, def: 80, spa: 65, spd: 55, spe: 93 },
@@ -29879,7 +29879,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Flying"],
 	},
 	shinyblitzle: {
-		num: 522,
+		num: 9999522,
 		name: "Shiny Blitzle",
 		types: ["Electric"],
 		baseStats: { hp: 45, atk: 60, def: 32, spa: 50, spd: 32, spe: 76 },
@@ -29891,7 +29891,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field"],
 	},
 	shinyzebstrika: {
-		num: 523,
+		num: 9999523,
 		name: "Shiny Zebstrika",
 		types: ["Electric"],
 		baseStats: { hp: 75, atk: 100, def: 63, spa: 80, spd: 63, spe: 116 },
@@ -29904,7 +29904,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field"],
 	},
 	shinyroggenrola: {
-		num: 524,
+		num: 9999524,
 		name: "Shiny Roggenrola",
 		types: ["Rock"],
 		baseStats: { hp: 55, atk: 75, def: 85, spa: 25, spd: 25, spe: 15 },
@@ -29916,7 +29916,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Mineral"],
 	},
 	shinyboldore: {
-		num: 525,
+		num: 9999525,
 		name: "Shiny Boldore",
 		types: ["Rock"],
 		baseStats: { hp: 70, atk: 105, def: 105, spa: 50, spd: 40, spe: 20 },
@@ -29930,7 +29930,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Mineral"],
 	},
 	shinygigalith: {
-		num: 526,
+		num: 9999526,
 		name: "Shiny Gigalith",
 		types: ["Rock"],
 		baseStats: { hp: 85, atk: 135, def: 130, spa: 60, spd: 80, spe: 25 },
@@ -29943,7 +29943,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Mineral"],
 	},
 	shinywoobat: {
-		num: 527,
+		num: 9999527,
 		name: "Shiny Woobat",
 		types: ["Psychic", "Flying"],
 		baseStats: { hp: 65, atk: 45, def: 43, spa: 55, spd: 43, spe: 72 },
@@ -29955,7 +29955,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Flying", "Field"],
 	},
 	shinyswoobat: {
-		num: 528,
+		num: 9999528,
 		name: "Shiny Swoobat",
 		types: ["Psychic", "Flying"],
 		baseStats: { hp: 67, atk: 57, def: 55, spa: 77, spd: 55, spe: 114 },
@@ -29968,7 +29968,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Flying", "Field"],
 	},
 	shinydrilbur: {
-		num: 529,
+		num: 9999529,
 		name: "Shiny Drilbur",
 		types: ["Ground"],
 		baseStats: { hp: 60, atk: 85, def: 40, spa: 30, spd: 45, spe: 68 },
@@ -29980,7 +29980,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field"],
 	},
 	shinyexcadrill: {
-		num: 530,
+		num: 9999530,
 		name: "Shiny Excadrill",
 		types: ["Ground", "Steel"],
 		baseStats: { hp: 110, atk: 135, def: 60, spa: 50, spd: 65, spe: 88 },
@@ -29995,7 +29995,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Excadrill", "Shiny Excadrill-Mega"],
 	},
 	shinyexcadrillmega: {
-		num: 530,
+		num: 9999530,
 		name: "Shiny Excadrill-Mega",
 		baseSpecies: "Shiny Excadrill",
 		forme: "Mega",
@@ -30010,7 +30010,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		gen: 9,
 	},
 	shinyaudino: {
-		num: 531,
+		num: 9999531,
 		name: "Shiny Audino",
 		types: ["Normal"],
 		baseStats: { hp: 103, atk: 60, def: 86, spa: 60, spd: 86, spe: 50 },
@@ -30023,7 +30023,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Audino", "Shiny Audino-Mega"],
 	},
 	shinyaudinomega: {
-		num: 531,
+		num: 9999531,
 		name: "Shiny Audino-Mega",
 		baseSpecies: "Shiny Audino",
 		forme: "Mega",
@@ -30037,7 +30037,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		requiredItem: "Audinite",
 	},
 	shinytimburr: {
-		num: 532,
+		num: 9999532,
 		name: "Shiny Timburr",
 		types: ["Fighting"],
 		gender: "F",
@@ -30050,7 +30050,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Human-Like"],
 	},
 	shinygurdurr: {
-		num: 533,
+		num: 9999533,
 		name: "Shiny Gurdurr",
 		types: ["Fighting"],
 		gender: "F",
@@ -30065,7 +30065,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Human-Like"],
 	},
 	shinyconkeldurr: {
-		num: 534,
+		num: 9999534,
 		name: "Shiny Conkeldurr",
 		types: ["Fighting"],
 		gender: "F",
@@ -30079,7 +30079,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Human-Like"],
 	},
 	shinytympole: {
-		num: 535,
+		num: 9999535,
 		name: "Shiny Tympole",
 		types: ["Water"],
 		baseStats: { hp: 50, atk: 50, def: 40, spa: 50, spd: 40, spe: 64 },
@@ -30091,7 +30091,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Water 1"],
 	},
 	shinypalpitoad: {
-		num: 536,
+		num: 9999536,
 		name: "Shiny Palpitoad",
 		types: ["Water", "Ground"],
 		baseStats: { hp: 75, atk: 65, def: 55, spa: 65, spd: 55, spe: 69 },
@@ -30105,7 +30105,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Water 1"],
 	},
 	shinyseismitoad: {
-		num: 537,
+		num: 9999537,
 		name: "Shiny Seismitoad",
 		types: ["Water", "Ground"],
 		baseStats: { hp: 105, atk: 95, def: 75, spa: 85, spd: 75, spe: 74 },
@@ -30118,7 +30118,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Water 1"],
 	},
 	shinythroh: {
-		num: 538,
+		num: 9999538,
 		name: "Shiny Throh",
 		types: ["Fighting"],
 		gender: "F",
@@ -30130,7 +30130,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Human-Like"],
 	},
 	shinysawk: {
-		num: 539,
+		num: 9999539,
 		name: "Shiny Sawk",
 		types: ["Fighting"],
 		gender: "F",
@@ -30142,7 +30142,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Human-Like"],
 	},
 	shinysewaddle: {
-		num: 540,
+		num: 9999540,
 		name: "Shiny Sewaddle",
 		types: ["Bug", "Grass"],
 		baseStats: { hp: 45, atk: 53, def: 70, spa: 40, spd: 60, spe: 42 },
@@ -30154,7 +30154,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Bug"],
 	},
 	shinyswadloon: {
-		num: 541,
+		num: 9999541,
 		name: "Shiny Swadloon",
 		types: ["Bug", "Grass"],
 		baseStats: { hp: 55, atk: 63, def: 90, spa: 50, spd: 80, spe: 42 },
@@ -30168,7 +30168,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Bug"],
 	},
 	shinyleavanny: {
-		num: 542,
+		num: 9999542,
 		name: "Shiny Leavanny",
 		types: ["Bug", "Grass"],
 		baseStats: { hp: 75, atk: 103, def: 80, spa: 70, spd: 80, spe: 92 },
@@ -30181,7 +30181,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Bug"],
 	},
 	shinyvenipede: {
-		num: 543,
+		num: 9999543,
 		name: "Shiny Venipede",
 		types: ["Bug", "Poison"],
 		baseStats: { hp: 30, atk: 45, def: 59, spa: 30, spd: 39, spe: 57 },
@@ -30193,7 +30193,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Bug"],
 	},
 	shinywhirlipede: {
-		num: 544,
+		num: 9999544,
 		name: "Shiny Whirlipede",
 		types: ["Bug", "Poison"],
 		baseStats: { hp: 40, atk: 55, def: 99, spa: 40, spd: 79, spe: 47 },
@@ -30207,7 +30207,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Bug"],
 	},
 	shinyscolipede: {
-		num: 545,
+		num: 9999545,
 		name: "Shiny Scolipede",
 		types: ["Bug", "Poison"],
 		baseStats: { hp: 60, atk: 100, def: 89, spa: 55, spd: 69, spe: 112 },
@@ -30222,7 +30222,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Scolipede", "Shiny Scolipede-Mega"],
 	},
 	shinyscolipedemega: {
-		num: 545,
+		num: 9999545,
 		name: "Shiny Scolipede-Mega",
 		baseSpecies: "Shiny Scolipede",
 		forme: "Mega",
@@ -30237,7 +30237,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		gen: 9,
 	},
 	shinycottonee: {
-		num: 546,
+		num: 9999546,
 		name: "Shiny Cottonee",
 		types: ["Grass", "Fairy"],
 		baseStats: { hp: 40, atk: 27, def: 60, spa: 37, spd: 50, spe: 66 },
@@ -30249,7 +30249,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Fairy", "Grass"],
 	},
 	shinywhimsicott: {
-		num: 547,
+		num: 9999547,
 		name: "Shiny Whimsicott",
 		types: ["Grass", "Fairy"],
 		baseStats: { hp: 60, atk: 67, def: 85, spa: 77, spd: 75, spe: 116 },
@@ -30263,7 +30263,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Fairy", "Grass"],
 	},
 	shinypetilil: {
-		num: 548,
+		num: 9999548,
 		name: "Shiny Petilil",
 		types: ["Grass"],
 		gender: "F",
@@ -30276,7 +30276,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Grass"],
 	},
 	shinylilligant: {
-		num: 549,
+		num: 9999549,
 		name: "Shiny Lilligant",
 		types: ["Grass"],
 		gender: "F",
@@ -30293,7 +30293,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Lilligant", "Shiny Lilligant-Hisui"],
 	},
 	shinylilliganthisui: {
-		num: 549,
+		num: 9999549,
 		name: "Shiny Lilligant-Hisui",
 		baseSpecies: "Shiny Lilligant",
 		forme: "Hisui",
@@ -30310,7 +30310,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Grass"],
 	},
 	shinybasculin: {
-		num: 550,
+		num: 9999550,
 		name: "Shiny Basculin",
 		baseForme: "Red-Striped",
 		types: ["Water"],
@@ -30324,7 +30324,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Basculin", "Shiny Basculin-Blue-Striped", "Shiny Basculin-White-Striped"],
 	},
 	shinybasculinbluestriped: {
-		num: 550,
+		num: 9999550,
 		name: "Shiny Basculin-Blue-Striped",
 		baseSpecies: "Shiny Basculin",
 		forme: "Blue-Striped",
@@ -30337,7 +30337,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Water 2"],
 	},
 	shinybasculinwhitestriped: {
-		num: 550,
+		num: 9999550,
 		name: "Shiny Basculin-White-Striped",
 		baseSpecies: "Shiny Basculin",
 		forme: "White-Striped",
@@ -30352,7 +30352,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		gen: 8,
 	},
 	shinysandile: {
-		num: 551,
+		num: 9999551,
 		name: "Shiny Sandile",
 		types: ["Ground", "Dark"],
 		baseStats: { hp: 50, atk: 72, def: 35, spa: 35, spd: 35, spe: 65 },
@@ -30364,7 +30364,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field"],
 	},
 	shinykrokorok: {
-		num: 552,
+		num: 9999552,
 		name: "Shiny Krokorok",
 		types: ["Ground", "Dark"],
 		baseStats: { hp: 60, atk: 82, def: 45, spa: 45, spd: 45, spe: 74 },
@@ -30378,7 +30378,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field"],
 	},
 	shinykrookodile: {
-		num: 553,
+		num: 9999553,
 		name: "Shiny Krookodile",
 		types: ["Ground", "Dark"],
 		baseStats: { hp: 95, atk: 117, def: 80, spa: 65, spd: 70, spe: 92 },
@@ -30391,7 +30391,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field"],
 	},
 	shinydarumaka: {
-		num: 554,
+		num: 9999554,
 		name: "Shiny Darumaka",
 		types: ["Fire"],
 		baseStats: { hp: 70, atk: 90, def: 45, spa: 15, spd: 45, spe: 50 },
@@ -30405,7 +30405,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Darumaka", "Shiny Darumaka-Galar"],
 	},
 	shinydarumakagalar: {
-		num: 554,
+		num: 9999554,
 		name: "Shiny Darumaka-Galar",
 		baseSpecies: "Shiny Darumaka",
 		forme: "Galar",
@@ -30419,7 +30419,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field"],
 	},
 	shinydarmanitan: {
-		num: 555,
+		num: 9999555,
 		name: "Shiny Darmanitan",
 		baseForme: "Standard",
 		types: ["Fire"],
@@ -30435,7 +30435,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Darmanitan", "Shiny Darmanitan-Zen", "Shiny Darmanitan-Galar", "Shiny Darmanitan-Galar-Zen"],
 	},
 	shinydarmanitanzen: {
-		num: 555,
+		num: 9999555,
 		name: "Shiny Darmanitan-Zen",
 		baseSpecies: "Shiny Darmanitan",
 		forme: "Zen",
@@ -30450,7 +30450,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		battleOnly: "Shiny Darmanitan",
 	},
 	shinydarmanitangalar: {
-		num: 555,
+		num: 9999555,
 		name: "Shiny Darmanitan-Galar",
 		baseSpecies: "Shiny Darmanitan",
 		forme: "Galar",
@@ -30466,7 +30466,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field"],
 	},
 	shinydarmanitangalarzen: {
-		num: 555,
+		num: 9999555,
 		name: "Shiny Darmanitan-Galar-Zen",
 		baseSpecies: "Shiny Darmanitan",
 		forme: "Galar-Zen",
@@ -30481,7 +30481,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		battleOnly: "Shiny Darmanitan-Galar",
 	},
 	shinymaractus: {
-		num: 556,
+		num: 9999556,
 		name: "Shiny Maractus",
 		types: ["Grass"],
 		baseStats: { hp: 75, atk: 86, def: 67, spa: 106, spd: 67, spe: 60 },
@@ -30492,7 +30492,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Grass"],
 	},
 	shinydwebble: {
-		num: 557,
+		num: 9999557,
 		name: "Shiny Dwebble",
 		types: ["Bug", "Rock"],
 		baseStats: { hp: 50, atk: 65, def: 85, spa: 35, spd: 35, spe: 55 },
@@ -30504,7 +30504,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Bug", "Mineral"],
 	},
 	shinycrustle: {
-		num: 558,
+		num: 9999558,
 		name: "Shiny Crustle",
 		types: ["Bug", "Rock"],
 		baseStats: { hp: 70, atk: 105, def: 125, spa: 65, spd: 75, spe: 45 },
@@ -30517,7 +30517,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Bug", "Mineral"],
 	},
 	shinyscraggy: {
-		num: 559,
+		num: 9999559,
 		name: "Shiny Scraggy",
 		types: ["Dark", "Fighting"],
 		baseStats: { hp: 50, atk: 75, def: 70, spa: 35, spd: 70, spe: 48 },
@@ -30529,7 +30529,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field", "Dragon"],
 	},
 	shinyscrafty: {
-		num: 560,
+		num: 9999560,
 		name: "Shiny Scrafty",
 		types: ["Dark", "Fighting"],
 		baseStats: { hp: 65, atk: 90, def: 115, spa: 45, spd: 115, spe: 58 },
@@ -30544,7 +30544,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Scrafty", "Shiny Scrafty-Mega"],
 	},
 	shinyscraftymega: {
-		num: 560,
+		num: 9999560,
 		name: "Shiny Scrafty-Mega",
 		baseSpecies: "Shiny Scrafty",
 		forme: "Mega",
@@ -30559,7 +30559,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		gen: 9,
 	},
 	shinysigilyph: {
-		num: 561,
+		num: 9999561,
 		name: "Shiny Sigilyph",
 		types: ["Psychic", "Flying"],
 		baseStats: { hp: 72, atk: 58, def: 80, spa: 103, spd: 80, spe: 97 },
@@ -30570,7 +30570,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Flying"],
 	},
 	shinyyamask: {
-		num: 562,
+		num: 9999562,
 		name: "Shiny Yamask",
 		types: ["Ghost"],
 		baseStats: { hp: 38, atk: 30, def: 85, spa: 55, spd: 65, spe: 30 },
@@ -30584,7 +30584,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Yamask", "Shiny Yamask-Galar"],
 	},
 	shinyyamaskgalar: {
-		num: 562,
+		num: 9999562,
 		name: "Shiny Yamask-Galar",
 		baseSpecies: "Shiny Yamask",
 		forme: "Galar",
@@ -30598,7 +30598,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Mineral", "Amorphous"],
 	},
 	shinycofagrigus: {
-		num: 563,
+		num: 9999563,
 		name: "Shiny Cofagrigus",
 		types: ["Ghost"],
 		baseStats: { hp: 58, atk: 50, def: 145, spa: 95, spd: 105, spe: 30 },
@@ -30611,7 +30611,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Mineral", "Amorphous"],
 	},
 	shinytirtouga: {
-		num: 564,
+		num: 9999564,
 		name: "Shiny Tirtouga",
 		types: ["Water", "Rock"],
 		gender: "F",
@@ -30624,7 +30624,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Water 1", "Water 3"],
 	},
 	shinycarracosta: {
-		num: 565,
+		num: 9999565,
 		name: "Shiny Carracosta",
 		types: ["Water", "Rock"],
 		gender: "F",
@@ -30638,7 +30638,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Water 1", "Water 3"],
 	},
 	shinyarchen: {
-		num: 566,
+		num: 9999566,
 		name: "Shiny Archen",
 		types: ["Rock", "Flying"],
 		gender: "F",
@@ -30651,7 +30651,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Flying", "Water 3"],
 	},
 	shinyarcheops: {
-		num: 567,
+		num: 9999567,
 		name: "Shiny Archeops",
 		types: ["Rock", "Flying"],
 		gender: "F",
@@ -30665,7 +30665,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Flying", "Water 3"],
 	},
 	shinytrubbish: {
-		num: 568,
+		num: 9999568,
 		name: "Shiny Trubbish",
 		types: ["Poison"],
 		baseStats: { hp: 50, atk: 50, def: 62, spa: 40, spd: 62, spe: 65 },
@@ -30677,7 +30677,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Mineral"],
 	},
 	shinygarbodor: {
-		num: 569,
+		num: 9999569,
 		name: "Shiny Garbodor",
 		types: ["Poison"],
 		baseStats: { hp: 80, atk: 95, def: 82, spa: 60, spd: 82, spe: 75 },
@@ -30691,7 +30691,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		canGigantamax: "G-Max Malodor",
 	},
 	shinygarbodorgmax: {
-		num: 569,
+		num: 9999569,
 		name: "Shiny Garbodor-Gmax",
 		baseSpecies: "Shiny Garbodor",
 		forme: "Gmax",
@@ -30705,7 +30705,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		changesFrom: "Shiny Garbodor",
 	},
 	shinyzorua: {
-		num: 570,
+		num: 9999570,
 		name: "Shiny Zorua",
 		types: ["Dark"],
 		gender: "F",
@@ -30720,7 +30720,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Zorua", "Shiny Zorua-Hisui"],
 	},
 	shinyzoruahisui: {
-		num: 570,
+		num: 9999570,
 		name: "Shiny Zorua-Hisui",
 		baseSpecies: "Shiny Zorua",
 		forme: "Hisui",
@@ -30735,7 +30735,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field"],
 	},
 	shinyzoroark: {
-		num: 571,
+		num: 9999571,
 		name: "Shiny Zoroark",
 		types: ["Dark"],
 		gender: "F",
@@ -30751,7 +30751,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Zoroark", "Shiny Zoroark-Hisui"],
 	},
 	shinyzoroarkhisui: {
-		num: 571,
+		num: 9999571,
 		name: "Shiny Zoroark-Hisui",
 		baseSpecies: "Shiny Zoroark",
 		forme: "Hisui",
@@ -30767,7 +30767,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field"],
 	},
 	shinyminccino: {
-		num: 572,
+		num: 9999572,
 		name: "Shiny Minccino",
 		types: ["Normal"],
 		gender: "F",
@@ -30780,7 +30780,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field"],
 	},
 	shinycinccino: {
-		num: 573,
+		num: 9999573,
 		name: "Shiny Cinccino",
 		types: ["Normal"],
 		gender: "F",
@@ -30795,7 +30795,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field"],
 	},
 	shinygothita: {
-		num: 574,
+		num: 9999574,
 		name: "Shiny Gothita",
 		types: ["Psychic"],
 		gender: "F",
@@ -30808,7 +30808,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Human-Like"],
 	},
 	shinygothorita: {
-		num: 575,
+		num: 9999575,
 		name: "Shiny Gothorita",
 		types: ["Psychic"],
 		gender: "F",
@@ -30823,7 +30823,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Human-Like"],
 	},
 	shinygothitelle: {
-		num: 576,
+		num: 9999576,
 		name: "Shiny Gothitelle",
 		types: ["Psychic"],
 		gender: "F",
@@ -30837,7 +30837,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Human-Like"],
 	},
 	shinysolosis: {
-		num: 577,
+		num: 9999577,
 		name: "Shiny Solosis",
 		types: ["Psychic"],
 		baseStats: { hp: 45, atk: 30, def: 40, spa: 105, spd: 50, spe: 20 },
@@ -30849,7 +30849,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Amorphous"],
 	},
 	shinyduosion: {
-		num: 578,
+		num: 9999578,
 		name: "Shiny Duosion",
 		types: ["Psychic"],
 		baseStats: { hp: 65, atk: 40, def: 50, spa: 125, spd: 60, spe: 30 },
@@ -30863,7 +30863,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Amorphous"],
 	},
 	shinyreuniclus: {
-		num: 579,
+		num: 9999579,
 		name: "Shiny Reuniclus",
 		types: ["Psychic"],
 		baseStats: { hp: 110, atk: 65, def: 75, spa: 125, spd: 85, spe: 30 },
@@ -30876,7 +30876,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Amorphous"],
 	},
 	shinyducklett: {
-		num: 580,
+		num: 9999580,
 		name: "Shiny Ducklett",
 		types: ["Water", "Flying"],
 		baseStats: { hp: 62, atk: 44, def: 50, spa: 44, spd: 50, spe: 55 },
@@ -30888,7 +30888,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Water 1", "Flying"],
 	},
 	shinyswanna: {
-		num: 581,
+		num: 9999581,
 		name: "Shiny Swanna",
 		types: ["Water", "Flying"],
 		baseStats: { hp: 75, atk: 87, def: 63, spa: 87, spd: 63, spe: 98 },
@@ -30901,7 +30901,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Water 1", "Flying"],
 	},
 	shinyvanillite: {
-		num: 582,
+		num: 9999582,
 		name: "Shiny Vanillite",
 		types: ["Ice"],
 		baseStats: { hp: 36, atk: 50, def: 50, spa: 65, spd: 60, spe: 44 },
@@ -30913,7 +30913,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Mineral"],
 	},
 	shinyvanillish: {
-		num: 583,
+		num: 9999583,
 		name: "Shiny Vanillish",
 		types: ["Ice"],
 		baseStats: { hp: 51, atk: 65, def: 65, spa: 80, spd: 75, spe: 59 },
@@ -30927,7 +30927,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Mineral"],
 	},
 	shinyvanilluxe: {
-		num: 584,
+		num: 9999584,
 		name: "Shiny Vanilluxe",
 		types: ["Ice"],
 		baseStats: { hp: 71, atk: 95, def: 85, spa: 110, spd: 95, spe: 79 },
@@ -30940,7 +30940,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Mineral"],
 	},
 	shinydeerling: {
-		num: 585,
+		num: 9999585,
 		name: "Shiny Deerling",
 		baseForme: "Spring",
 		types: ["Normal", "Grass"],
@@ -30955,7 +30955,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Deerling", "Shiny Deerling-Summer", "Shiny Deerling-Autumn", "Shiny Deerling-Winter"],
 	},
 	shinysawsbuck: {
-		num: 586,
+		num: 9999586,
 		name: "Shiny Sawsbuck",
 		baseForme: "Spring",
 		types: ["Normal", "Grass"],
@@ -30971,7 +30971,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Sawsbuck", "Shiny Sawsbuck-Summer", "Shiny Sawsbuck-Autumn", "Shiny Sawsbuck-Winter"],
 	},
 	shinyemolga: {
-		num: 587,
+		num: 9999587,
 		name: "Shiny Emolga",
 		types: ["Electric", "Flying"],
 		baseStats: { hp: 55, atk: 75, def: 60, spa: 75, spd: 60, spe: 103 },
@@ -30982,7 +30982,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field"],
 	},
 	shinykarrablast: {
-		num: 588,
+		num: 9999588,
 		name: "Shiny Karrablast",
 		types: ["Bug"],
 		baseStats: { hp: 50, atk: 75, def: 45, spa: 40, spd: 45, spe: 60 },
@@ -30994,7 +30994,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Bug"],
 	},
 	shinyescavalier: {
-		num: 589,
+		num: 9999589,
 		name: "Shiny Escavalier",
 		types: ["Bug", "Steel"],
 		baseStats: { hp: 70, atk: 135, def: 105, spa: 60, spd: 105, spe: 20 },
@@ -31008,7 +31008,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Bug"],
 	},
 	shinyfoongus: {
-		num: 590,
+		num: 9999590,
 		name: "Shiny Foongus",
 		types: ["Grass", "Poison"],
 		baseStats: { hp: 69, atk: 55, def: 45, spa: 55, spd: 55, spe: 15 },
@@ -31020,7 +31020,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Grass"],
 	},
 	shinyamoonguss: {
-		num: 591,
+		num: 9999591,
 		name: "Shiny Amoonguss",
 		types: ["Grass", "Poison"],
 		baseStats: { hp: 114, atk: 85, def: 70, spa: 85, spd: 80, spe: 30 },
@@ -31033,7 +31033,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Grass"],
 	},
 	shinyfrillish: {
-		num: 592,
+		num: 9999592,
 		name: "Shiny Frillish",
 		types: ["Water", "Ghost"],
 		baseStats: { hp: 55, atk: 40, def: 50, spa: 65, spd: 85, spe: 40 },
@@ -31045,7 +31045,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Amorphous"],
 	},
 	shinyjellicent: {
-		num: 593,
+		num: 9999593,
 		name: "Shiny Jellicent",
 		types: ["Water", "Ghost"],
 		baseStats: { hp: 100, atk: 60, def: 70, spa: 85, spd: 105, spe: 60 },
@@ -31058,7 +31058,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Amorphous"],
 	},
 	shinyalomomola: {
-		num: 594,
+		num: 9999594,
 		name: "Shiny Alomomola",
 		types: ["Water"],
 		baseStats: { hp: 165, atk: 75, def: 80, spa: 40, spd: 45, spe: 65 },
@@ -31069,7 +31069,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Water 1", "Water 2"],
 	},
 	shinyjoltik: {
-		num: 595,
+		num: 9999595,
 		name: "Shiny Joltik",
 		types: ["Bug", "Electric"],
 		baseStats: { hp: 50, atk: 47, def: 50, spa: 57, spd: 50, spe: 65 },
@@ -31081,7 +31081,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Bug"],
 	},
 	shinygalvantula: {
-		num: 596,
+		num: 9999596,
 		name: "Shiny Galvantula",
 		types: ["Bug", "Electric"],
 		baseStats: { hp: 70, atk: 77, def: 60, spa: 97, spd: 60, spe: 108 },
@@ -31094,7 +31094,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Bug"],
 	},
 	shinyferroseed: {
-		num: 597,
+		num: 9999597,
 		name: "Shiny Ferroseed",
 		types: ["Grass", "Steel"],
 		baseStats: { hp: 44, atk: 50, def: 91, spa: 24, spd: 86, spe: 10 },
@@ -31106,7 +31106,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Grass", "Mineral"],
 	},
 	shinyferrothorn: {
-		num: 598,
+		num: 9999598,
 		name: "Shiny Ferrothorn",
 		types: ["Grass", "Steel"],
 		baseStats: { hp: 74, atk: 94, def: 131, spa: 54, spd: 116, spe: 20 },
@@ -31119,7 +31119,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Grass", "Mineral"],
 	},
 	shinyklink: {
-		num: 599,
+		num: 9999599,
 		name: "Shiny Klink",
 		types: ["Steel"],
 		gender: "F",
@@ -31132,7 +31132,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Mineral"],
 	},
 	shinyklang: {
-		num: 600,
+		num: 9999600,
 		name: "Shiny Klang",
 		types: ["Steel"],
 		gender: "F",
@@ -31147,7 +31147,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Mineral"],
 	},
 	shinyklinklang: {
-		num: 601,
+		num: 9999601,
 		name: "Shiny Klinklang",
 		types: ["Steel"],
 		gender: "F",
@@ -31161,7 +31161,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Mineral"],
 	},
 	shinytynamo: {
-		num: 602,
+		num: 9999602,
 		name: "Shiny Tynamo",
 		types: ["Electric"],
 		baseStats: { hp: 35, atk: 55, def: 40, spa: 45, spd: 40, spe: 60 },
@@ -31173,7 +31173,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Amorphous"],
 	},
 	shinyeelektrik: {
-		num: 603,
+		num: 9999603,
 		name: "Shiny Eelektrik",
 		types: ["Electric"],
 		baseStats: { hp: 65, atk: 85, def: 70, spa: 75, spd: 70, spe: 40 },
@@ -31187,7 +31187,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Amorphous"],
 	},
 	shinyeelektross: {
-		num: 604,
+		num: 9999604,
 		name: "Shiny Eelektross",
 		types: ["Electric"],
 		baseStats: { hp: 85, atk: 115, def: 80, spa: 105, spd: 80, spe: 50 },
@@ -31203,7 +31203,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Eelektross", "Shiny Eelektross-Mega"],
 	},
 	shinyeelektrossmega: {
-		num: 604,
+		num: 9999604,
 		name: "Shiny Eelektross-Mega",
 		baseSpecies: "Shiny Eelektross",
 		forme: "Mega",
@@ -31218,7 +31218,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		gen: 9,
 	},
 	shinyelgyem: {
-		num: 605,
+		num: 9999605,
 		name: "Shiny Elgyem",
 		types: ["Psychic"],
 		baseStats: { hp: 55, atk: 55, def: 55, spa: 85, spd: 55, spe: 30 },
@@ -31230,7 +31230,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Human-Like"],
 	},
 	shinybeheeyem: {
-		num: 606,
+		num: 9999606,
 		name: "Shiny Beheeyem",
 		types: ["Psychic"],
 		baseStats: { hp: 75, atk: 75, def: 75, spa: 125, spd: 95, spe: 40 },
@@ -31243,7 +31243,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Human-Like"],
 	},
 	shinylitwick: {
-		num: 607,
+		num: 9999607,
 		name: "Shiny Litwick",
 		types: ["Ghost", "Fire"],
 		baseStats: { hp: 50, atk: 30, def: 55, spa: 65, spd: 55, spe: 20 },
@@ -31255,7 +31255,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Amorphous"],
 	},
 	shinylampent: {
-		num: 608,
+		num: 9999608,
 		name: "Shiny Lampent",
 		types: ["Ghost", "Fire"],
 		baseStats: { hp: 60, atk: 40, def: 60, spa: 95, spd: 60, spe: 55 },
@@ -31269,7 +31269,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Amorphous"],
 	},
 	shinychandelure: {
-		num: 609,
+		num: 9999609,
 		name: "Shiny Chandelure",
 		types: ["Ghost", "Fire"],
 		baseStats: { hp: 60, atk: 55, def: 90, spa: 145, spd: 90, spe: 80 },
@@ -31285,7 +31285,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Chandelure", "Shiny Chandelure-Mega"],
 	},
 	shinychandeluremega: {
-		num: 609,
+		num: 9999609,
 		name: "Shiny Chandelure-Mega",
 		baseSpecies: "Shiny Chandelure",
 		forme: "Mega",
@@ -31300,7 +31300,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		gen: 9,
 	},
 	shinyaxew: {
-		num: 610,
+		num: 9999610,
 		name: "Shiny Axew",
 		types: ["Dragon"],
 		baseStats: { hp: 46, atk: 87, def: 60, spa: 30, spd: 40, spe: 57 },
@@ -31312,7 +31312,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Monster", "Dragon"],
 	},
 	shinyfraxure: {
-		num: 611,
+		num: 9999611,
 		name: "Shiny Fraxure",
 		types: ["Dragon"],
 		baseStats: { hp: 66, atk: 117, def: 70, spa: 40, spd: 50, spe: 67 },
@@ -31326,7 +31326,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Monster", "Dragon"],
 	},
 	shinyhaxorus: {
-		num: 612,
+		num: 9999612,
 		name: "Shiny Haxorus",
 		types: ["Dragon"],
 		baseStats: { hp: 76, atk: 147, def: 90, spa: 60, spd: 70, spe: 97 },
@@ -31339,7 +31339,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Monster", "Dragon"],
 	},
 	shinycubchoo: {
-		num: 613,
+		num: 9999613,
 		name: "Shiny Cubchoo",
 		types: ["Ice"],
 		baseStats: { hp: 55, atk: 70, def: 40, spa: 60, spd: 40, spe: 40 },
@@ -31351,7 +31351,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field"],
 	},
 	shinybeartic: {
-		num: 614,
+		num: 9999614,
 		name: "Shiny Beartic",
 		types: ["Ice"],
 		baseStats: { hp: 95, atk: 130, def: 80, spa: 70, spd: 80, spe: 50 },
@@ -31364,7 +31364,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field"],
 	},
 	shinycryogonal: {
-		num: 615,
+		num: 9999615,
 		name: "Shiny Cryogonal",
 		types: ["Ice"],
 		gender: "F",
@@ -31376,7 +31376,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Mineral"],
 	},
 	shinyshelmet: {
-		num: 616,
+		num: 9999616,
 		name: "Shiny Shelmet",
 		types: ["Bug"],
 		baseStats: { hp: 50, atk: 40, def: 85, spa: 40, spd: 65, spe: 25 },
@@ -31388,7 +31388,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Bug"],
 	},
 	shinyaccelgor: {
-		num: 617,
+		num: 9999617,
 		name: "Shiny Accelgor",
 		types: ["Bug"],
 		baseStats: { hp: 80, atk: 70, def: 40, spa: 100, spd: 60, spe: 145 },
@@ -31402,7 +31402,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Bug"],
 	},
 	shinystunfisk: {
-		num: 618,
+		num: 9999618,
 		name: "Shiny Stunfisk",
 		types: ["Ground", "Electric"],
 		baseStats: { hp: 109, atk: 66, def: 84, spa: 81, spd: 99, spe: 32 },
@@ -31415,7 +31415,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Stunfisk", "Shiny Stunfisk-Galar"],
 	},
 	shinystunfiskgalar: {
-		num: 618,
+		num: 9999618,
 		name: "Shiny Stunfisk-Galar",
 		baseSpecies: "Shiny Stunfisk",
 		forme: "Galar",
@@ -31428,7 +31428,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Water 1", "Amorphous"],
 	},
 	shinymienfoo: {
-		num: 619,
+		num: 9999619,
 		name: "Shiny Mienfoo",
 		types: ["Fighting"],
 		baseStats: { hp: 45, atk: 85, def: 50, spa: 55, spd: 50, spe: 65 },
@@ -31440,7 +31440,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field", "Human-Like"],
 	},
 	shinymienshao: {
-		num: 620,
+		num: 9999620,
 		name: "Shiny Mienshao",
 		types: ["Fighting"],
 		baseStats: { hp: 65, atk: 125, def: 60, spa: 95, spd: 60, spe: 105 },
@@ -31453,7 +31453,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field", "Human-Like"],
 	},
 	shinydruddigon: {
-		num: 621,
+		num: 9999621,
 		name: "Shiny Druddigon",
 		types: ["Dragon"],
 		baseStats: { hp: 77, atk: 120, def: 90, spa: 60, spd: 90, spe: 48 },
@@ -31464,7 +31464,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Monster", "Dragon"],
 	},
 	shinygolett: {
-		num: 622,
+		num: 9999622,
 		name: "Shiny Golett",
 		types: ["Ground", "Ghost"],
 		gender: "F",
@@ -31477,7 +31477,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Mineral"],
 	},
 	shinygolurk: {
-		num: 623,
+		num: 9999623,
 		name: "Shiny Golurk",
 		types: ["Ground", "Ghost"],
 		gender: "F",
@@ -31493,7 +31493,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Golurk", "Shiny Golurk-Mega"],
 	},
 	shinygolurkmega: {
-		num: 623,
+		num: 9999623,
 		name: "Shiny Golurk-Mega",
 		baseSpecies: "Shiny Golurk",
 		forme: "Mega",
@@ -31509,7 +31509,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		gen: 9,
 	},
 	shinypawniard: {
-		num: 624,
+		num: 9999624,
 		name: "Shiny Pawniard",
 		types: ["Dark", "Steel"],
 		baseStats: { hp: 45, atk: 85, def: 70, spa: 40, spd: 40, spe: 60 },
@@ -31521,7 +31521,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Human-Like"],
 	},
 	shinybisharp: {
-		num: 625,
+		num: 9999625,
 		name: "Shiny Bisharp",
 		types: ["Dark", "Steel"],
 		baseStats: { hp: 65, atk: 125, def: 100, spa: 60, spd: 70, spe: 70 },
@@ -31535,7 +31535,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Human-Like"],
 	},
 	shinybouffalant: {
-		num: 626,
+		num: 9999626,
 		name: "Shiny Bouffalant",
 		types: ["Normal"],
 		baseStats: { hp: 95, atk: 110, def: 95, spa: 40, spd: 95, spe: 55 },
@@ -31546,7 +31546,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field"],
 	},
 	shinyrufflet: {
-		num: 627,
+		num: 9999627,
 		name: "Shiny Rufflet",
 		types: ["Normal", "Flying"],
 		gender: "F",
@@ -31559,7 +31559,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Flying"],
 	},
 	shinybraviary: {
-		num: 628,
+		num: 9999628,
 		name: "Shiny Braviary",
 		types: ["Normal", "Flying"],
 		gender: "F",
@@ -31575,7 +31575,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Braviary", "Shiny Braviary-Hisui"],
 	},
 	shinybraviaryhisui: {
-		num: 628,
+		num: 9999628,
 		name: "Shiny Braviary-Hisui",
 		baseSpecies: "Shiny Braviary",
 		forme: "Hisui",
@@ -31591,7 +31591,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Flying"],
 	},
 	shinyvullaby: {
-		num: 629,
+		num: 9999629,
 		name: "Shiny Vullaby",
 		types: ["Dark", "Flying"],
 		gender: "F",
@@ -31604,7 +31604,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Flying"],
 	},
 	shinymandibuzz: {
-		num: 630,
+		num: 9999630,
 		name: "Shiny Mandibuzz",
 		types: ["Dark", "Flying"],
 		gender: "F",
@@ -31618,7 +31618,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Flying"],
 	},
 	shinyheatmor: {
-		num: 631,
+		num: 9999631,
 		name: "Shiny Heatmor",
 		types: ["Fire"],
 		baseStats: { hp: 85, atk: 97, def: 66, spa: 105, spd: 66, spe: 65 },
@@ -31629,7 +31629,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field"],
 	},
 	shinydurant: {
-		num: 632,
+		num: 9999632,
 		name: "Shiny Durant",
 		types: ["Bug", "Steel"],
 		baseStats: { hp: 58, atk: 109, def: 112, spa: 48, spd: 48, spe: 109 },
@@ -31640,7 +31640,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Bug"],
 	},
 	shinydeino: {
-		num: 633,
+		num: 9999633,
 		name: "Shiny Deino",
 		types: ["Dark", "Dragon"],
 		baseStats: { hp: 52, atk: 65, def: 50, spa: 45, spd: 50, spe: 38 },
@@ -31652,7 +31652,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Dragon"],
 	},
 	shinyzweilous: {
-		num: 634,
+		num: 9999634,
 		name: "Shiny Zweilous",
 		types: ["Dark", "Dragon"],
 		baseStats: { hp: 72, atk: 85, def: 70, spa: 65, spd: 70, spe: 58 },
@@ -31666,7 +31666,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Dragon"],
 	},
 	shinyhydreigon: {
-		num: 635,
+		num: 9999635,
 		name: "Shiny Hydreigon",
 		types: ["Dark", "Dragon"],
 		baseStats: { hp: 92, atk: 105, def: 90, spa: 125, spd: 90, spe: 98 },
@@ -31679,7 +31679,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Dragon"],
 	},
 	shinylarvesta: {
-		num: 636,
+		num: 9999636,
 		name: "Shiny Larvesta",
 		types: ["Bug", "Fire"],
 		baseStats: { hp: 55, atk: 85, def: 55, spa: 50, spd: 55, spe: 60 },
@@ -31691,7 +31691,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Bug"],
 	},
 	shinyvolcarona: {
-		num: 637,
+		num: 9999637,
 		name: "Shiny Volcarona",
 		types: ["Bug", "Fire"],
 		baseStats: { hp: 85, atk: 60, def: 65, spa: 135, spd: 105, spe: 100 },
@@ -31704,7 +31704,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Bug"],
 	},
 	shinycobalion: {
-		num: 638,
+		num: 9999638,
 		name: "Shiny Cobalion",
 		types: ["Steel", "Fighting"],
 		gender: "F",
@@ -31717,7 +31717,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Undiscovered"],
 	},
 	shinyterrakion: {
-		num: 639,
+		num: 9999639,
 		name: "Shiny Terrakion",
 		types: ["Rock", "Fighting"],
 		gender: "F",
@@ -31730,7 +31730,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Undiscovered"],
 	},
 	shinyvirizion: {
-		num: 640,
+		num: 9999640,
 		name: "Shiny Virizion",
 		types: ["Grass", "Fighting"],
 		gender: "F",
@@ -31743,7 +31743,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Undiscovered"],
 	},
 	shinytornadus: {
-		num: 641,
+		num: 9999641,
 		name: "Shiny Tornadus",
 		baseForme: "Incarnate",
 		types: ["Flying"],
@@ -31759,7 +31759,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Tornadus", "Shiny Tornadus-Therian"],
 	},
 	shinytornadustherian: {
-		num: 641,
+		num: 9999641,
 		name: "Shiny Tornadus-Therian",
 		baseSpecies: "Shiny Tornadus",
 		forme: "Therian",
@@ -31774,7 +31774,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		changesFrom: "Shiny Tornadus",
 	},
 	shinythundurus: {
-		num: 642,
+		num: 9999642,
 		name: "Shiny Thundurus",
 		baseForme: "Incarnate",
 		types: ["Electric", "Flying"],
@@ -31790,7 +31790,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Thundurus", "Shiny Thundurus-Therian"],
 	},
 	shinythundurustherian: {
-		num: 642,
+		num: 9999642,
 		name: "Shiny Thundurus-Therian",
 		baseSpecies: "Shiny Thundurus",
 		forme: "Therian",
@@ -31805,7 +31805,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		changesFrom: "Shiny Thundurus",
 	},
 	shinyreshiram: {
-		num: 643,
+		num: 9999643,
 		name: "Shiny Reshiram",
 		types: ["Dragon", "Fire"],
 		gender: "F",
@@ -31818,7 +31818,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Undiscovered"],
 	},
 	shinyzekrom: {
-		num: 644,
+		num: 9999644,
 		name: "Shiny Zekrom",
 		types: ["Dragon", "Electric"],
 		gender: "F",
@@ -31831,7 +31831,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Undiscovered"],
 	},
 	shinylandorus: {
-		num: 645,
+		num: 9999645,
 		name: "Shiny Landorus",
 		baseForme: "Incarnate",
 		types: ["Ground", "Flying"],
@@ -31847,7 +31847,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Landorus", "Shiny Landorus-Therian"],
 	},
 	shinylandorustherian: {
-		num: 645,
+		num: 9999645,
 		name: "Shiny Landorus-Therian",
 		baseSpecies: "Shiny Landorus",
 		forme: "Therian",
@@ -31862,7 +31862,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		changesFrom: "Shiny Landorus",
 	},
 	shinykyurem: {
-		num: 646,
+		num: 9999646,
 		name: "Shiny Kyurem",
 		types: ["Dragon", "Ice"],
 		gender: "F",
@@ -31877,7 +31877,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Kyurem", "Shiny Kyurem-White", "Shiny Kyurem-Black"],
 	},
 	shinykyuremblack: {
-		num: 646,
+		num: 9999646,
 		name: "Shiny Kyurem-Black",
 		baseSpecies: "Shiny Kyurem",
 		forme: "Black",
@@ -31892,7 +31892,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		changesFrom: "Shiny Kyurem",
 	},
 	shinykyuremwhite: {
-		num: 646,
+		num: 9999646,
 		name: "Shiny Kyurem-White",
 		baseSpecies: "Shiny Kyurem",
 		forme: "White",
@@ -31907,7 +31907,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		changesFrom: "Shiny Kyurem",
 	},
 	shinykeldeo: {
-		num: 647,
+		num: 9999647,
 		name: "Shiny Keldeo",
 		baseForme: "Ordinary",
 		types: ["Water", "Fighting"],
@@ -31923,7 +31923,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Keldeo", "Shiny Keldeo-Resolute"],
 	},
 	shinykeldeoresolute: {
-		num: 647,
+		num: 9999647,
 		name: "Shiny Keldeo-Resolute",
 		baseSpecies: "Shiny Keldeo",
 		forme: "Resolute",
@@ -31939,7 +31939,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		changesFrom: "Shiny Keldeo",
 	},
 	shinymeloetta: {
-		num: 648,
+		num: 9999648,
 		name: "Shiny Meloetta",
 		baseForme: "Aria",
 		types: ["Normal", "Psychic"],
@@ -31955,7 +31955,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Meloetta", "Shiny Meloetta-Pirouette"],
 	},
 	shinymeloettapirouette: {
-		num: 648,
+		num: 9999648,
 		name: "Shiny Meloetta-Pirouette",
 		baseSpecies: "Shiny Meloetta",
 		forme: "Pirouette",
@@ -31971,7 +31971,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		battleOnly: "Shiny Meloetta",
 	},
 	shinygenesect: {
-		num: 649,
+		num: 9999649,
 		name: "Shiny Genesect",
 		types: ["Bug", "Steel"],
 		gender: "F",
@@ -31986,7 +31986,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Genesect", "Shiny Genesect-Douse", "Shiny Genesect-Shock", "Shiny Genesect-Burn", "Shiny Genesect-Chill"],
 	},
 	shinygenesectdouse: {
-		num: 649,
+		num: 9999649,
 		name: "Shiny Genesect-Douse",
 		baseSpecies: "Shiny Genesect",
 		forme: "Douse",
@@ -32002,7 +32002,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		changesFrom: "Shiny Genesect",
 	},
 	shinygenesectshock: {
-		num: 649,
+		num: 9999649,
 		name: "Shiny Genesect-Shock",
 		baseSpecies: "Shiny Genesect",
 		forme: "Shock",
@@ -32018,7 +32018,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		changesFrom: "Shiny Genesect",
 	},
 	shinygenesectburn: {
-		num: 649,
+		num: 9999649,
 		name: "Shiny Genesect-Burn",
 		baseSpecies: "Shiny Genesect",
 		forme: "Burn",
@@ -32034,7 +32034,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		changesFrom: "Shiny Genesect",
 	},
 	shinygenesectchill: {
-		num: 649,
+		num: 9999649,
 		name: "Shiny Genesect-Chill",
 		baseSpecies: "Shiny Genesect",
 		forme: "Chill",
@@ -32050,7 +32050,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		changesFrom: "Shiny Genesect",
 	},
 	shinychespin: {
-		num: 650,
+		num: 9999650,
 		name: "Shiny Chespin",
 		types: ["Grass"],
 		gender: "F",
@@ -32063,7 +32063,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field"],
 	},
 	shinyquilladin: {
-		num: 651,
+		num: 9999651,
 		name: "Shiny Quilladin",
 		types: ["Grass"],
 		gender: "F",
@@ -32078,7 +32078,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field"],
 	},
 	shinychesnaught: {
-		num: 652,
+		num: 9999652,
 		name: "Shiny Chesnaught",
 		types: ["Grass", "Fighting"],
 		gender: "F",
@@ -32094,7 +32094,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Chesnaught", "Shiny Chesnaught-Mega"],
 	},
 	shinychesnaughtmega: {
-		num: 652,
+		num: 9999652,
 		name: "Shiny Chesnaught-Mega",
 		baseSpecies: "Shiny Chesnaught",
 		forme: "Mega",
@@ -32110,7 +32110,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		gen: 9,
 	},
 	shinyfennekin: {
-		num: 653,
+		num: 9999653,
 		name: "Shiny Fennekin",
 		types: ["Fire"],
 		gender: "F",
@@ -32123,7 +32123,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field"],
 	},
 	shinybraixen: {
-		num: 654,
+		num: 9999654,
 		name: "Shiny Braixen",
 		types: ["Fire"],
 		gender: "F",
@@ -32138,7 +32138,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field"],
 	},
 	shinydelphox: {
-		num: 655,
+		num: 9999655,
 		name: "Shiny Delphox",
 		types: ["Fire", "Psychic"],
 		gender: "F",
@@ -32154,7 +32154,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Delphox", "Shiny Delphox-Mega"],
 	},
 	shinydelphoxmega: {
-		num: 655,
+		num: 9999655,
 		name: "Shiny Delphox-Mega",
 		baseSpecies: "Shiny Delphox",
 		forme: "Mega",
@@ -32170,7 +32170,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		gen: 9,
 	},
 	shinyfroakie: {
-		num: 656,
+		num: 9999656,
 		name: "Shiny Froakie",
 		types: ["Water"],
 		gender: "F",
@@ -32183,7 +32183,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Water 1"],
 	},
 	shinyfrogadier: {
-		num: 657,
+		num: 9999657,
 		name: "Shiny Frogadier",
 		types: ["Water"],
 		gender: "F",
@@ -32198,7 +32198,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Water 1"],
 	},
 	shinygreninja: {
-		num: 658,
+		num: 9999658,
 		name: "Shiny Greninja",
 		types: ["Water", "Dark"],
 		gender: "F",
@@ -32214,7 +32214,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Greninja", "Shiny Greninja-Bond", "Shiny Greninja-Ash", "Shiny Greninja-Mega"],
 	},
 	shinygreninjabond: {
-		num: 658,
+		num: 9999658,
 		name: "Shiny Greninja-Bond",
 		baseSpecies: "Shiny Greninja",
 		forme: "Bond",
@@ -32229,7 +32229,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		gen: 7,
 	},
 	shinygreninjaash: {
-		num: 658,
+		num: 9999658,
 		name: "Shiny Greninja-Ash",
 		baseSpecies: "Shiny Greninja",
 		forme: "Ash",
@@ -32246,7 +32246,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		gen: 7,
 	},
 	shinygreninjamega: {
-		num: 658,
+		num: 9999658,
 		name: "Shiny Greninja-Mega",
 		baseSpecies: "Shiny Greninja",
 		forme: "Mega",
@@ -32262,7 +32262,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		gen: 9,
 	},
 	shinybunnelby: {
-		num: 659,
+		num: 9999659,
 		name: "Shiny Bunnelby",
 		types: ["Normal"],
 		baseStats: { hp: 38, atk: 36, def: 38, spa: 32, spd: 36, spe: 57 },
@@ -32274,7 +32274,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field"],
 	},
 	shinydiggersby: {
-		num: 660,
+		num: 9999660,
 		name: "Shiny Diggersby",
 		types: ["Normal", "Ground"],
 		baseStats: { hp: 85, atk: 56, def: 77, spa: 50, spd: 77, spe: 78 },
@@ -32287,7 +32287,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field"],
 	},
 	shinyfletchling: {
-		num: 661,
+		num: 9999661,
 		name: "Shiny Fletchling",
 		types: ["Normal", "Flying"],
 		baseStats: { hp: 45, atk: 50, def: 43, spa: 40, spd: 38, spe: 62 },
@@ -32299,7 +32299,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Flying"],
 	},
 	shinyfletchinder: {
-		num: 662,
+		num: 9999662,
 		name: "Shiny Fletchinder",
 		types: ["Fire", "Flying"],
 		baseStats: { hp: 62, atk: 73, def: 55, spa: 56, spd: 52, spe: 84 },
@@ -32313,7 +32313,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Flying"],
 	},
 	shinytalonflame: {
-		num: 663,
+		num: 9999663,
 		name: "Shiny Talonflame",
 		types: ["Fire", "Flying"],
 		baseStats: { hp: 78, atk: 81, def: 71, spa: 74, spd: 69, spe: 126 },
@@ -32326,7 +32326,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Flying"],
 	},
 	shinyscatterbug: {
-		num: 664,
+		num: 9999664,
 		name: "Shiny Scatterbug",
 		types: ["Bug"],
 		baseStats: { hp: 38, atk: 35, def: 40, spa: 27, spd: 25, spe: 35 },
@@ -32339,7 +32339,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		// TODO: Scatterbug technically has the same number of formes as Vivillon
 	},
 	shinyspewpa: {
-		num: 665,
+		num: 9999665,
 		name: "Shiny Spewpa",
 		types: ["Bug"],
 		baseStats: { hp: 45, atk: 22, def: 60, spa: 27, spd: 30, spe: 29 },
@@ -32354,7 +32354,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		// TODO: Spewpa technically has the same number of formes as Vivillon
 	},
 	shinyvivillon: {
-		num: 666,
+		num: 9999666,
 		name: "Shiny Vivillon",
 		baseForme: "Meadow", // TODO: actual base forme is Icy Snow, not Meadow
 		types: ["Bug", "Flying"],
@@ -32392,7 +32392,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		],
 	},
 	shinyvivillonfancy: {
-		num: 666,
+		num: 9999666,
 		name: "Shiny Vivillon-Fancy",
 		baseSpecies: "Shiny Vivillon",
 		forme: "Fancy",
@@ -32407,7 +32407,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Bug"],
 	},
 	shinyvivillonpokeball: {
-		num: 666,
+		num: 9999666,
 		name: "Shiny Vivillon-Pokeball",
 		baseSpecies: "Shiny Vivillon",
 		forme: "Pokeball",
@@ -32420,7 +32420,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Bug"],
 	},
 	shinylitleo: {
-		num: 667,
+		num: 9999667,
 		name: "Shiny Litleo",
 		types: ["Fire", "Normal"],
 		gender: "F",
@@ -32433,7 +32433,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field"],
 	},
 	shinypyroar: {
-		num: 668,
+		num: 9999668,
 		name: "Shiny Pyroar",
 		types: ["Fire", "Normal"],
 		gender: "F",
@@ -32449,7 +32449,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Pyroar", "Shiny Pyroar-Mega"],
 	},
 	shinypyroarmega: {
-		num: 668,
+		num: 9999668,
 		name: "Shiny Pyroar-Mega",
 		baseSpecies: "Shiny Pyroar",
 		forme: "Mega",
@@ -32465,7 +32465,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		gen: 9,
 	},
 	shinyflabebe: {
-		num: 669,
+		num: 9999669,
 		name: "Shiny Flabe\u0301be\u0301",
 		baseForme: "Red",
 		types: ["Fairy"],
@@ -32481,7 +32481,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Flabe\u0301be\u0301", "Shiny Flabe\u0301be\u0301-Yellow", "Shiny Flabe\u0301be\u0301-Orange", "Shiny Flabe\u0301be\u0301-Blue", "Shiny Flabe\u0301be\u0301-White"],
 	},
 	shinyfloette: {
-		num: 670,
+		num: 9999670,
 		name: "Shiny Floette",
 		baseForme: "Red",
 		types: ["Fairy"],
@@ -32500,7 +32500,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Floette", "Shiny Floette-Yellow", "Shiny Floette-Orange", "Shiny Floette-Blue", "Shiny Floette-White", "Shiny Floette-Eternal", "Shiny Floette-Mega"],
 	},
 	shinyfloetteeternal: {
-		num: 670,
+		num: 9999670,
 		name: "Shiny Floette-Eternal",
 		baseSpecies: "Shiny Floette",
 		forme: "Eternal",
@@ -32514,7 +32514,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Undiscovered"],
 	},
 	shinyfloettemega: {
-		num: 670,
+		num: 9999670,
 		name: "Shiny Floette-Mega",
 		baseSpecies: "Shiny Floette",
 		forme: "Mega",
@@ -32531,7 +32531,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		gen: 9,
 	},
 	shinyflorges: {
-		num: 671,
+		num: 9999671,
 		name: "Shiny Florges",
 		baseForme: "Red",
 		types: ["Fairy"],
@@ -32549,7 +32549,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Florges", "Shiny Florges-Yellow", "Shiny Florges-Orange", "Shiny Florges-Blue", "Shiny Florges-White"],
 	},
 	shinyskiddo: {
-		num: 672,
+		num: 9999672,
 		name: "Shiny Skiddo",
 		types: ["Grass"],
 		baseStats: { hp: 66, atk: 65, def: 48, spa: 62, spd: 57, spe: 52 },
@@ -32561,7 +32561,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field"],
 	},
 	shinygogoat: {
-		num: 673,
+		num: 9999673,
 		name: "Shiny Gogoat",
 		types: ["Grass"],
 		baseStats: { hp: 123, atk: 100, def: 62, spa: 97, spd: 81, spe: 68 },
@@ -32574,7 +32574,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field"],
 	},
 	shinypancham: {
-		num: 674,
+		num: 9999674,
 		name: "Shiny Pancham",
 		types: ["Fighting"],
 		baseStats: { hp: 67, atk: 82, def: 62, spa: 46, spd: 48, spe: 43 },
@@ -32586,7 +32586,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field", "Human-Like"],
 	},
 	shinypangoro: {
-		num: 675,
+		num: 9999675,
 		name: "Shiny Pangoro",
 		types: ["Fighting", "Dark"],
 		baseStats: { hp: 95, atk: 124, def: 78, spa: 69, spd: 71, spe: 58 },
@@ -32600,7 +32600,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field", "Human-Like"],
 	},
 	shinyfurfrou: {
-		num: 676,
+		num: 9999676,
 		name: "Shiny Furfrou",
 		baseForme: "Natural",
 		types: ["Normal"],
@@ -32625,7 +32625,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		],
 	},
 	shinyespurr: {
-		num: 677,
+		num: 9999677,
 		name: "Shiny Espurr",
 		types: ["Psychic"],
 		baseStats: { hp: 62, atk: 48, def: 54, spa: 63, spd: 60, spe: 68 },
@@ -32637,7 +32637,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field"],
 	},
 	shinymeowstic: {
-		num: 678,
+		num: 9999678,
 		name: "Shiny Meowstic",
 		baseForme: "M",
 		types: ["Psychic"],
@@ -32654,7 +32654,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Meowstic", "Shiny Meowstic-F", "Shiny Meowstic-M-Mega", "Shiny Meowstic-F-Mega"],
 	},
 	shinymeowsticf: {
-		num: 678,
+		num: 9999678,
 		name: "Shiny Meowstic-F",
 		baseSpecies: "Shiny Meowstic",
 		forme: "F",
@@ -32670,7 +32670,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field"],
 	},
 	shinymeowsticmmega: {
-		num: 678,
+		num: 9999678,
 		name: "Shiny Meowstic-M-Mega",
 		baseSpecies: "Shiny Meowstic",
 		forme: "M-Mega",
@@ -32687,7 +32687,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		gen: 9,
 	},
 	shinymeowsticfmega: {
-		num: 678,
+		num: 9999678,
 		name: "Shiny Meowstic-F-Mega",
 		baseSpecies: "Shiny Meowstic",
 		forme: "F-Mega",
@@ -32704,7 +32704,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		gen: 9,
 	},
 	shinyhonedge: {
-		num: 679,
+		num: 9999679,
 		name: "Shiny Honedge",
 		types: ["Steel", "Ghost"],
 		baseStats: { hp: 45, atk: 80, def: 100, spa: 35, spd: 37, spe: 28 },
@@ -32716,7 +32716,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Mineral"],
 	},
 	shinydoublade: {
-		num: 680,
+		num: 9999680,
 		name: "Shiny Doublade",
 		types: ["Steel", "Ghost"],
 		baseStats: { hp: 59, atk: 110, def: 150, spa: 45, spd: 49, spe: 35 },
@@ -32730,7 +32730,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Mineral"],
 	},
 	shinyaegislash: {
-		num: 681,
+		num: 9999681,
 		name: "Shiny Aegislash",
 		baseForme: "Shield",
 		types: ["Steel", "Ghost"],
@@ -32747,7 +32747,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Aegislash", "Shiny Aegislash-Blade"],
 	},
 	shinyaegislashblade: {
-		num: 681,
+		num: 9999681,
 		name: "Shiny Aegislash-Blade",
 		baseSpecies: "Shiny Aegislash",
 		forme: "Blade",
@@ -32762,7 +32762,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		battleOnly: "Shiny Aegislash",
 	},
 	shinyspritzee: {
-		num: 682,
+		num: 9999682,
 		name: "Shiny Spritzee",
 		types: ["Fairy"],
 		baseStats: { hp: 78, atk: 52, def: 60, spa: 63, spd: 65, spe: 23 },
@@ -32774,7 +32774,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Fairy"],
 	},
 	shinyaromatisse: {
-		num: 683,
+		num: 9999683,
 		name: "Shiny Aromatisse",
 		types: ["Fairy"],
 		baseStats: { hp: 101, atk: 72, def: 72, spa: 99, spd: 89, spe: 29 },
@@ -32788,7 +32788,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Fairy"],
 	},
 	shinyswirlix: {
-		num: 684,
+		num: 9999684,
 		name: "Shiny Swirlix",
 		types: ["Fairy"],
 		baseStats: { hp: 62, atk: 48, def: 66, spa: 59, spd: 57, spe: 49 },
@@ -32800,7 +32800,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Fairy"],
 	},
 	shinyslurpuff: {
-		num: 685,
+		num: 9999685,
 		name: "Shiny Slurpuff",
 		types: ["Fairy"],
 		baseStats: { hp: 82, atk: 80, def: 86, spa: 85, spd: 75, spe: 72 },
@@ -32814,7 +32814,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Fairy"],
 	},
 	shinyinkay: {
-		num: 686,
+		num: 9999686,
 		name: "Shiny Inkay",
 		types: ["Dark", "Psychic"],
 		baseStats: { hp: 53, atk: 54, def: 53, spa: 37, spd: 46, spe: 45 },
@@ -32826,7 +32826,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Water 1", "Water 2"],
 	},
 	shinymalamar: {
-		num: 687,
+		num: 9999687,
 		name: "Shiny Malamar",
 		types: ["Dark", "Psychic"],
 		baseStats: { hp: 86, atk: 92, def: 88, spa: 68, spd: 75, spe: 73 },
@@ -32842,7 +32842,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Malamar", "Shiny Malamar-Mega"],
 	},
 	shinymalamarmega: {
-		num: 687,
+		num: 9999687,
 		name: "Shiny Malamar-Mega",
 		baseSpecies: "Shiny Malamar",
 		forme: "Mega",
@@ -32857,7 +32857,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		gen: 9,
 	},
 	shinybinacle: {
-		num: 688,
+		num: 9999688,
 		name: "Shiny Binacle",
 		types: ["Rock", "Water"],
 		baseStats: { hp: 42, atk: 52, def: 67, spa: 39, spd: 56, spe: 50 },
@@ -32869,7 +32869,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Water 3"],
 	},
 	shinybarbaracle: {
-		num: 689,
+		num: 9999689,
 		name: "Shiny Barbaracle",
 		types: ["Rock", "Water"],
 		baseStats: { hp: 72, atk: 105, def: 115, spa: 54, spd: 86, spe: 68 },
@@ -32884,7 +32884,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Barbaracle", "Shiny Barbaracle-Mega"],
 	},
 	shinybarbaraclemega: {
-		num: 689,
+		num: 9999689,
 		name: "Shiny Barbaracle-Mega",
 		baseSpecies: "Shiny Barbaracle",
 		forme: "Mega",
@@ -32899,7 +32899,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		gen: 9,
 	},
 	shinyskrelp: {
-		num: 690,
+		num: 9999690,
 		name: "Shiny Skrelp",
 		types: ["Poison", "Water"],
 		baseStats: { hp: 50, atk: 60, def: 60, spa: 60, spd: 60, spe: 30 },
@@ -32911,7 +32911,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Water 1", "Dragon"],
 	},
 	shinydragalge: {
-		num: 691,
+		num: 9999691,
 		name: "Shiny Dragalge",
 		types: ["Poison", "Dragon"],
 		baseStats: { hp: 65, atk: 75, def: 90, spa: 97, spd: 123, spe: 44 },
@@ -32926,7 +32926,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Dragalge", "Shiny Dragalge-Mega"],
 	},
 	shinydragalgemega: {
-		num: 691,
+		num: 9999691,
 		name: "Shiny Dragalge-Mega",
 		baseSpecies: "Shiny Dragalge",
 		forme: "Mega",
@@ -32941,7 +32941,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		gen: 9,
 	},
 	shinyclauncher: {
-		num: 692,
+		num: 9999692,
 		name: "Shiny Clauncher",
 		types: ["Water"],
 		baseStats: { hp: 50, atk: 53, def: 62, spa: 58, spd: 63, spe: 44 },
@@ -32953,7 +32953,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Water 1", "Water 3"],
 	},
 	shinyclawitzer: {
-		num: 693,
+		num: 9999693,
 		name: "Shiny Clawitzer",
 		types: ["Water"],
 		baseStats: { hp: 71, atk: 73, def: 88, spa: 120, spd: 89, spe: 59 },
@@ -32966,7 +32966,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Water 1", "Water 3"],
 	},
 	shinyhelioptile: {
-		num: 694,
+		num: 9999694,
 		name: "Shiny Helioptile",
 		types: ["Electric", "Normal"],
 		baseStats: { hp: 44, atk: 38, def: 33, spa: 61, spd: 43, spe: 70 },
@@ -32978,7 +32978,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Monster", "Dragon"],
 	},
 	shinyheliolisk: {
-		num: 695,
+		num: 9999695,
 		name: "Shiny Heliolisk",
 		types: ["Electric", "Normal"],
 		baseStats: { hp: 62, atk: 55, def: 52, spa: 109, spd: 94, spe: 109 },
@@ -32992,7 +32992,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Monster", "Dragon"],
 	},
 	shinytyrunt: {
-		num: 696,
+		num: 9999696,
 		name: "Shiny Tyrunt",
 		types: ["Rock", "Dragon"],
 		gender: "F",
@@ -33005,7 +33005,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Monster", "Dragon"],
 	},
 	shinytyrantrum: {
-		num: 697,
+		num: 9999697,
 		name: "Shiny Tyrantrum",
 		types: ["Rock", "Dragon"],
 		gender: "F",
@@ -33020,7 +33020,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Monster", "Dragon"],
 	},
 	shinyamaura: {
-		num: 698,
+		num: 9999698,
 		name: "Shiny Amaura",
 		types: ["Rock", "Ice"],
 		gender: "F",
@@ -33033,7 +33033,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Monster"],
 	},
 	shinyaurorus: {
-		num: 699,
+		num: 9999699,
 		name: "Shiny Aurorus",
 		types: ["Rock", "Ice"],
 		gender: "F",
@@ -33048,7 +33048,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Monster"],
 	},
 	shinysylveon: {
-		num: 700,
+		num: 9999700,
 		name: "Shiny Sylveon",
 		types: ["Fairy"],
 		gender: "F",
@@ -33063,7 +33063,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field"],
 	},
 	shinyhawlucha: {
-		num: 701,
+		num: 9999701,
 		name: "Shiny Hawlucha",
 		types: ["Fighting", "Flying"],
 		baseStats: { hp: 78, atk: 92, def: 75, spa: 74, spd: 63, spe: 118 },
@@ -33076,7 +33076,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Hawlucha", "Shiny Hawlucha-Mega"],
 	},
 	shinyhawluchamega: {
-		num: 701,
+		num: 9999701,
 		name: "Shiny Hawlucha-Mega",
 		baseSpecies: "Shiny Hawlucha",
 		forme: "Mega",
@@ -33091,7 +33091,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		gen: 9,
 	},
 	shinydedenne: {
-		num: 702,
+		num: 9999702,
 		name: "Shiny Dedenne",
 		types: ["Electric", "Fairy"],
 		baseStats: { hp: 67, atk: 58, def: 57, spa: 81, spd: 67, spe: 101 },
@@ -33102,7 +33102,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field", "Fairy"],
 	},
 	shinycarbink: {
-		num: 703,
+		num: 9999703,
 		name: "Shiny Carbink",
 		types: ["Rock", "Fairy"],
 		gender: "F",
@@ -33114,7 +33114,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Fairy", "Mineral"],
 	},
 	shinygoomy: {
-		num: 704,
+		num: 9999704,
 		name: "Shiny Goomy",
 		types: ["Dragon"],
 		baseStats: { hp: 45, atk: 50, def: 35, spa: 55, spd: 75, spe: 40 },
@@ -33126,7 +33126,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Dragon"],
 	},
 	shinysliggoo: {
-		num: 705,
+		num: 9999705,
 		name: "Shiny Sliggoo",
 		types: ["Dragon"],
 		baseStats: { hp: 68, atk: 75, def: 53, spa: 83, spd: 113, spe: 60 },
@@ -33142,7 +33142,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Sliggoo", "Shiny Sliggoo-Hisui"],
 	},
 	shinysliggoohisui: {
-		num: 705,
+		num: 9999705,
 		name: "Shiny Sliggoo-Hisui",
 		baseSpecies: "Shiny Sliggoo",
 		forme: "Hisui",
@@ -33158,7 +33158,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Dragon"],
 	},
 	shinygoodra: {
-		num: 706,
+		num: 9999706,
 		name: "Shiny Goodra",
 		types: ["Dragon"],
 		baseStats: { hp: 90, atk: 100, def: 70, spa: 110, spd: 150, spe: 80 },
@@ -33174,7 +33174,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Goodra", "Shiny Goodra-Hisui"],
 	},
 	shinygoodrahisui: {
-		num: 706,
+		num: 9999706,
 		name: "Shiny Goodra-Hisui",
 		baseSpecies: "Shiny Goodra",
 		forme: "Hisui",
@@ -33190,7 +33190,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Dragon"],
 	},
 	shinyklefki: {
-		num: 707,
+		num: 9999707,
 		name: "Shiny Klefki",
 		types: ["Steel", "Fairy"],
 		baseStats: { hp: 57, atk: 80, def: 91, spa: 80, spd: 87, spe: 75 },
@@ -33201,7 +33201,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Mineral"],
 	},
 	shinyphantump: {
-		num: 708,
+		num: 9999708,
 		name: "Shiny Phantump",
 		types: ["Ghost", "Grass"],
 		baseStats: { hp: 43, atk: 70, def: 48, spa: 50, spd: 60, spe: 38 },
@@ -33213,7 +33213,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Grass", "Amorphous"],
 	},
 	shinytrevenant: {
-		num: 709,
+		num: 9999709,
 		name: "Shiny Trevenant",
 		types: ["Ghost", "Grass"],
 		baseStats: { hp: 85, atk: 110, def: 76, spa: 65, spd: 82, spe: 56 },
@@ -33226,7 +33226,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Grass", "Amorphous"],
 	},
 	shinypumpkaboo: {
-		num: 710,
+		num: 9999710,
 		name: "Shiny Pumpkaboo",
 		baseForme: "Average",
 		types: ["Ghost", "Grass"],
@@ -33241,7 +33241,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Pumpkaboo", "Shiny Pumpkaboo-Small", "Shiny Pumpkaboo-Large", "Shiny Pumpkaboo-Super"],
 	},
 	shinypumpkaboosmall: {
-		num: 710,
+		num: 9999710,
 		name: "Shiny Pumpkaboo-Small",
 		baseSpecies: "Shiny Pumpkaboo",
 		forme: "Small",
@@ -33255,7 +33255,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Amorphous"],
 	},
 	shinypumpkaboolarge: {
-		num: 710,
+		num: 9999710,
 		name: "Shiny Pumpkaboo-Large",
 		baseSpecies: "Shiny Pumpkaboo",
 		forme: "Large",
@@ -33269,7 +33269,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Amorphous"],
 	},
 	shinypumpkaboosuper: {
-		num: 710,
+		num: 9999710,
 		name: "Shiny Pumpkaboo-Super",
 		baseSpecies: "Shiny Pumpkaboo",
 		forme: "Super",
@@ -33283,7 +33283,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Amorphous"],
 	},
 	shinygourgeist: {
-		num: 711,
+		num: 9999711,
 		name: "Shiny Gourgeist",
 		baseForme: "Average",
 		types: ["Ghost", "Grass"],
@@ -33299,7 +33299,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Gourgeist", "Shiny Gourgeist-Small", "Shiny Gourgeist-Large", "Shiny Gourgeist-Super"],
 	},
 	shinygourgeistsmall: {
-		num: 711,
+		num: 9999711,
 		name: "Shiny Gourgeist-Small",
 		baseSpecies: "Shiny Gourgeist",
 		forme: "Small",
@@ -33314,7 +33314,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Amorphous"],
 	},
 	shinygourgeistlarge: {
-		num: 711,
+		num: 9999711,
 		name: "Shiny Gourgeist-Large",
 		baseSpecies: "Shiny Gourgeist",
 		forme: "Large",
@@ -33329,7 +33329,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Amorphous"],
 	},
 	shinygourgeistsuper: {
-		num: 711,
+		num: 9999711,
 		name: "Shiny Gourgeist-Super",
 		baseSpecies: "Shiny Gourgeist",
 		forme: "Super",
@@ -33344,7 +33344,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Amorphous"],
 	},
 	shinybergmite: {
-		num: 712,
+		num: 9999712,
 		name: "Shiny Bergmite",
 		types: ["Ice"],
 		baseStats: { hp: 55, atk: 69, def: 85, spa: 32, spd: 35, spe: 28 },
@@ -33356,7 +33356,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Monster", "Mineral"],
 	},
 	shinyavalugg: {
-		num: 713,
+		num: 9999713,
 		name: "Shiny Avalugg",
 		types: ["Ice"],
 		baseStats: { hp: 95, atk: 117, def: 184, spa: 44, spd: 46, spe: 28 },
@@ -33371,7 +33371,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Avalugg", "Shiny Avalugg-Hisui"],
 	},
 	shinyavalugghisui: {
-		num: 713,
+		num: 9999713,
 		name: "Shiny Avalugg-Hisui",
 		baseSpecies: "Shiny Avalugg",
 		forme: "Hisui",
@@ -33386,7 +33386,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Monster", "Mineral"],
 	},
 	shinynoibat: {
-		num: 714,
+		num: 9999714,
 		name: "Shiny Noibat",
 		types: ["Flying", "Dragon"],
 		baseStats: { hp: 40, atk: 30, def: 35, spa: 45, spd: 40, spe: 55 },
@@ -33398,7 +33398,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Flying", "Dragon"],
 	},
 	shinynoivern: {
-		num: 715,
+		num: 9999715,
 		name: "Shiny Noivern",
 		types: ["Flying", "Dragon"],
 		baseStats: { hp: 85, atk: 70, def: 80, spa: 97, spd: 80, spe: 123 },
@@ -33411,7 +33411,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Flying", "Dragon"],
 	},
 	shinyxerneas: {
-		num: 716,
+		num: 9999716,
 		name: "Shiny Xerneas",
 		baseForme: "Active", // Neutral is technically the base, but it can't be used in battle
 		types: ["Fairy"],
@@ -33427,7 +33427,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Xerneas-Neutral", "Shiny Xerneas"],
 	},
 	shinyxerneasneutral: {
-		num: 716,
+		num: 9999716,
 		name: "Shiny Xerneas-Neutral",
 		baseSpecies: "Shiny Xerneas",
 		forme: "Neutral",
@@ -33441,7 +33441,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Undiscovered"],
 	},
 	shinyyveltal: {
-		num: 717,
+		num: 9999717,
 		name: "Shiny Yveltal",
 		types: ["Fairy", "Flying"],
 		gender: "F",
@@ -33456,7 +33456,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Yveltal", "Shiny Yveltal-Artificial by Mewtwo"],
 	},
 	shinyyveltalartificialbymewtwo: {
-		num: 717,
+		num: 9999717,
 		name: "Shiny Yveltal-Artificial by Mewtwo",
 		baseSpecies: "Shiny Yveltal",
 		forme: "Artificial Creation by Mewtwo made to mock existing version",
@@ -33471,7 +33471,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Undiscovered"],
 	},
 	shinyzygarde: {
-		num: 718,
+		num: 9999718,
 		name: "Shiny Zygarde",
 		baseForme: "50%",
 		types: ["Dragon", "Ground"],
@@ -33488,7 +33488,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Zygarde", "Shiny Zygarde-10%", "Shiny Zygarde-10%", "Shiny Zygarde", "Shiny Zygarde-Complete", "Shiny Zygarde-Mega"],
 	},
 	shinyzygarde10: {
-		num: 718,
+		num: 9999718,
 		name: "Shiny Zygarde-10%",
 		baseSpecies: "Shiny Zygarde",
 		forme: "10%",
@@ -33504,7 +33504,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		gen: 7,
 	},
 	shinyzygardecomplete: {
-		num: 718,
+		num: 9999718,
 		name: "Shiny Zygarde-Complete",
 		baseSpecies: "Shiny Zygarde",
 		forme: "Complete",
@@ -33521,7 +33521,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		gen: 7,
 	},
 	shinyzygardemega: {
-		num: 718,
+		num: 9999718,
 		name: "Shiny Zygarde-Mega",
 		baseSpecies: "Shiny Zygarde",
 		forme: "Mega",
@@ -33538,7 +33538,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		gen: 9,
 	},
 	shinydiancie: {
-		num: 719,
+		num: 9999719,
 		name: "Shiny Diancie",
 		types: ["Rock", "Fairy"],
 		gender: "F",
@@ -33553,7 +33553,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Diancie", "Shiny Diancie-Mega"],
 	},
 	shinydianciemega: {
-		num: 719,
+		num: 9999719,
 		name: "Shiny Diancie-Mega",
 		baseSpecies: "Shiny Diancie",
 		forme: "Mega",
@@ -33568,7 +33568,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		requiredItem: "Diancite",
 	},
 	shinyhoopa: {
-		num: 720,
+		num: 9999720,
 		name: "Shiny Hoopa",
 		baseForme: "Confined",
 		types: ["Psychic", "Ghost"],
@@ -33584,7 +33584,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Hoopa", "Shiny Hoopa-Unbound"],
 	},
 	shinyhoopaunbound: {
-		num: 720,
+		num: 9999720,
 		name: "Shiny Hoopa-Unbound",
 		baseSpecies: "Shiny Hoopa",
 		forme: "Unbound",
@@ -33599,7 +33599,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		changesFrom: "Shiny Hoopa",
 	},
 	shinyvolcanion: {
-		num: 721,
+		num: 9999721,
 		name: "Shiny Volcanion",
 		types: ["Fire", "Water"],
 		gender: "F",
@@ -33612,7 +33612,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Undiscovered"],
 	},
 	shinyrowlet: {
-		num: 722,
+		num: 9999722,
 		name: "Shiny Rowlet",
 		types: ["Grass", "Flying"],
 		gender: "F",
@@ -33625,7 +33625,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Flying"],
 	},
 	shinydartrix: {
-		num: 723,
+		num: 9999723,
 		name: "Shiny Dartrix",
 		types: ["Grass", "Flying"],
 		gender: "F",
@@ -33640,7 +33640,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Flying"],
 	},
 	shinydecidueye: {
-		num: 724,
+		num: 9999724,
 		name: "Shiny Decidueye",
 		types: ["Grass", "Ghost"],
 		gender: "F",
@@ -33656,7 +33656,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Decidueye", "Shiny Decidueye-Hisui"],
 	},
 	shinydecidueyehisui: {
-		num: 724,
+		num: 9999724,
 		name: "Shiny Decidueye-Hisui",
 		baseSpecies: "Shiny Decidueye",
 		forme: "Hisui",
@@ -33672,7 +33672,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Flying"],
 	},
 	shinylitten: {
-		num: 725,
+		num: 9999725,
 		name: "Shiny Litten",
 		types: ["Fire"],
 		gender: "F",
@@ -33685,7 +33685,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field"],
 	},
 	shinytorracat: {
-		num: 726,
+		num: 9999726,
 		name: "Shiny Torracat",
 		types: ["Fire"],
 		gender: "F",
@@ -33700,7 +33700,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field"],
 	},
 	shinyincineroar: {
-		num: 727,
+		num: 9999727,
 		name: "Shiny Incineroar",
 		types: ["Fire", "Dark"],
 		gender: "F",
@@ -33714,7 +33714,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field"],
 	},
 	shinypopplio: {
-		num: 728,
+		num: 9999728,
 		name: "Shiny Popplio",
 		types: ["Water"],
 		gender: "F",
@@ -33727,7 +33727,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Water 1", "Field"],
 	},
 	shinybrionne: {
-		num: 729,
+		num: 9999729,
 		name: "Shiny Brionne",
 		types: ["Water"],
 		gender: "F",
@@ -33742,7 +33742,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Water 1", "Field"],
 	},
 	shinyprimarina: {
-		num: 730,
+		num: 9999730,
 		name: "Shiny Primarina",
 		types: ["Water", "Fairy"],
 		gender: "F",
@@ -33756,7 +33756,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Water 1", "Field"],
 	},
 	shinypikipek: {
-		num: 731,
+		num: 9999731,
 		name: "Shiny Pikipek",
 		types: ["Normal", "Flying"],
 		baseStats: { hp: 35, atk: 75, def: 30, spa: 30, spd: 30, spe: 65 },
@@ -33768,7 +33768,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Flying"],
 	},
 	shinytrumbeak: {
-		num: 732,
+		num: 9999732,
 		name: "Shiny Trumbeak",
 		types: ["Normal", "Flying"],
 		baseStats: { hp: 55, atk: 85, def: 50, spa: 40, spd: 50, spe: 75 },
@@ -33782,7 +33782,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Flying"],
 	},
 	shinytoucannon: {
-		num: 733,
+		num: 9999733,
 		name: "Shiny Toucannon",
 		types: ["Normal", "Flying"],
 		baseStats: { hp: 80, atk: 120, def: 75, spa: 75, spd: 75, spe: 60 },
@@ -33795,7 +33795,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Flying"],
 	},
 	shinyyungoos: {
-		num: 734,
+		num: 9999734,
 		name: "Shiny Yungoos",
 		types: ["Normal"],
 		baseStats: { hp: 48, atk: 70, def: 30, spa: 30, spd: 30, spe: 45 },
@@ -33807,7 +33807,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field"],
 	},
 	shinygumshoos: {
-		num: 735,
+		num: 9999735,
 		name: "Shiny Gumshoos",
 		types: ["Normal"],
 		baseStats: { hp: 88, atk: 110, def: 60, spa: 55, spd: 60, spe: 45 },
@@ -33823,7 +33823,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Gumshoos", "Shiny Gumshoos-Totem"],
 	},
 	shinygumshoostotem: {
-		num: 735,
+		num: 9999735,
 		name: "Shiny Gumshoos-Totem",
 		baseSpecies: "Shiny Gumshoos",
 		forme: "Totem",
@@ -33836,7 +33836,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field"],
 	},
 	shinygrubbin: {
-		num: 736,
+		num: 9999736,
 		name: "Shiny Grubbin",
 		types: ["Bug"],
 		baseStats: { hp: 47, atk: 62, def: 45, spa: 55, spd: 45, spe: 46 },
@@ -33848,7 +33848,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Bug"],
 	},
 	shinycharjabug: {
-		num: 737,
+		num: 9999737,
 		name: "Shiny Charjabug",
 		types: ["Bug", "Electric"],
 		baseStats: { hp: 57, atk: 82, def: 95, spa: 55, spd: 75, spe: 36 },
@@ -33862,7 +33862,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Bug"],
 	},
 	shinyvikavolt: {
-		num: 738,
+		num: 9999738,
 		name: "Shiny Vikavolt",
 		types: ["Bug", "Electric"],
 		baseStats: { hp: 77, atk: 70, def: 90, spa: 145, spd: 75, spe: 43 },
@@ -33878,7 +33878,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Vikavolt", "Shiny Vikavolt-Totem"],
 	},
 	shinyvikavolttotem: {
-		num: 738,
+		num: 9999738,
 		name: "Shiny Vikavolt-Totem",
 		baseSpecies: "Shiny Vikavolt",
 		forme: "Totem",
@@ -33891,7 +33891,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Bug"],
 	},
 	shinycrabrawler: {
-		num: 739,
+		num: 9999739,
 		name: "Shiny Crabrawler",
 		types: ["Fighting"],
 		baseStats: { hp: 47, atk: 82, def: 57, spa: 42, spd: 47, spe: 63 },
@@ -33903,7 +33903,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Water 3"],
 	},
 	shinycrabominable: {
-		num: 740,
+		num: 9999740,
 		name: "Shiny Crabominable",
 		types: ["Fighting", "Ice"],
 		baseStats: { hp: 97, atk: 132, def: 77, spa: 62, spd: 67, spe: 43 },
@@ -33919,7 +33919,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Crabominable", "Shiny Crabominable-Mega"],
 	},
 	shinycrabominablemega: {
-		num: 740,
+		num: 9999740,
 		name: "Shiny Crabominable-Mega",
 		baseSpecies: "Shiny Crabominable",
 		forme: "Mega",
@@ -33934,7 +33934,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		gen: 9,
 	},
 	shinyoricorio: {
-		num: 741,
+		num: 9999741,
 		name: "Shiny Oricorio",
 		baseForme: "Baile",
 		types: ["Fire", "Flying"],
@@ -33949,7 +33949,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Oricorio", "Shiny Oricorio-Pom-Pom", "Shiny Oricorio-Pa'u", "Shiny Oricorio-Sensu"],
 	},
 	shinyoricoriopompom: {
-		num: 741,
+		num: 9999741,
 		name: "Shiny Oricorio-Pom-Pom",
 		baseSpecies: "Shiny Oricorio",
 		forme: "Pom-Pom",
@@ -33964,7 +33964,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		changesFrom: "Shiny Oricorio",
 	},
 	shinyoricoriopau: {
-		num: 741,
+		num: 9999741,
 		name: "Shiny Oricorio-Pa'u",
 		baseSpecies: "Shiny Oricorio",
 		forme: "Pa'u",
@@ -33979,7 +33979,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		changesFrom: "Shiny Oricorio",
 	},
 	shinyoricoriosensu: {
-		num: 741,
+		num: 9999741,
 		name: "Shiny Oricorio-Sensu",
 		baseSpecies: "Shiny Oricorio",
 		forme: "Sensu",
@@ -33994,7 +33994,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		changesFrom: "Shiny Oricorio",
 	},
 	shinycutiefly: {
-		num: 742,
+		num: 9999742,
 		name: "Shiny Cutiefly",
 		types: ["Bug", "Fairy"],
 		baseStats: { hp: 40, atk: 45, def: 40, spa: 55, spd: 40, spe: 84 },
@@ -34006,7 +34006,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Bug", "Fairy"],
 	},
 	shinyribombee: {
-		num: 743,
+		num: 9999743,
 		name: "Shiny Ribombee",
 		types: ["Bug", "Fairy"],
 		baseStats: { hp: 60, atk: 55, def: 60, spa: 95, spd: 70, spe: 124 },
@@ -34021,7 +34021,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Ribombee", "Shiny Ribombee-Totem"],
 	},
 	shinyribombeetotem: {
-		num: 743,
+		num: 9999743,
 		name: "Shiny Ribombee-Totem",
 		baseSpecies: "Shiny Ribombee",
 		forme: "Totem",
@@ -34034,7 +34034,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Bug", "Fairy"],
 	},
 	shinyrockruff: {
-		num: 744,
+		num: 9999744,
 		name: "Shiny Rockruff",
 		baseForme: "Midday",
 		types: ["Rock"],
@@ -34049,7 +34049,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Rockruff", "Shiny Rockruff-Dusk"],
 	},
 	shinyrockruffdusk: {
-		num: 744,
+		num: 9999744,
 		name: "Shiny Rockruff-Dusk",
 		baseSpecies: "Shiny Rockruff",
 		forme: "Dusk",
@@ -34063,7 +34063,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field"],
 	},
 	shinylycanroc: {
-		num: 745,
+		num: 9999745,
 		name: "Shiny Lycanroc",
 		baseForme: "Midday",
 		types: ["Rock"],
@@ -34080,7 +34080,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Lycanroc", "Shiny Lycanroc-Midnight", "Shiny Lycanroc-Dusk"],
 	},
 	shinylycanrocmidnight: {
-		num: 745,
+		num: 9999745,
 		name: "Shiny Lycanroc-Midnight",
 		baseSpecies: "Shiny Lycanroc",
 		forme: "Midnight",
@@ -34096,7 +34096,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field"],
 	},
 	shinylycanrocdusk: {
-		num: 745,
+		num: 9999745,
 		name: "Shiny Lycanroc-Dusk",
 		baseSpecies: "Shiny Lycanroc",
 		forme: "Dusk",
@@ -34112,7 +34112,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field"],
 	},
 	shinywishiwashi: {
-		num: 746,
+		num: 9999746,
 		name: "Shiny Wishiwashi",
 		baseForme: "Solo",
 		types: ["Water"],
@@ -34126,7 +34126,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Wishiwashi", "Shiny Wishiwashi-School"],
 	},
 	shinywishiwashischool: {
-		num: 746,
+		num: 9999746,
 		name: "Shiny Wishiwashi-School",
 		baseSpecies: "Shiny Wishiwashi",
 		forme: "School",
@@ -34141,7 +34141,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		battleOnly: "Shiny Wishiwashi",
 	},
 	shinymareanie: {
-		num: 747,
+		num: 9999747,
 		name: "Shiny Mareanie",
 		types: ["Poison", "Water"],
 		baseStats: { hp: 50, atk: 53, def: 62, spa: 43, spd: 52, spe: 45 },
@@ -34153,7 +34153,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Water 1"],
 	},
 	shinytoxapex: {
-		num: 748,
+		num: 9999748,
 		name: "Shiny Toxapex",
 		types: ["Poison", "Water"],
 		baseStats: { hp: 50, atk: 63, def: 152, spa: 53, spd: 142, spe: 35 },
@@ -34166,7 +34166,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Water 1"],
 	},
 	shinymudbray: {
-		num: 749,
+		num: 9999749,
 		name: "Shiny Mudbray",
 		types: ["Ground"],
 		baseStats: { hp: 70, atk: 100, def: 70, spa: 45, spd: 55, spe: 45 },
@@ -34178,7 +34178,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field"],
 	},
 	shinymudsdale: {
-		num: 750,
+		num: 9999750,
 		name: "Shiny Mudsdale",
 		types: ["Ground"],
 		baseStats: { hp: 100, atk: 125, def: 100, spa: 55, spd: 85, spe: 35 },
@@ -34191,7 +34191,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field"],
 	},
 	shinydewpider: {
-		num: 751,
+		num: 9999751,
 		name: "Shiny Dewpider",
 		types: ["Water", "Bug"],
 		baseStats: { hp: 38, atk: 40, def: 52, spa: 40, spd: 72, spe: 27 },
@@ -34203,7 +34203,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Water 1", "Bug"],
 	},
 	shinyaraquanid: {
-		num: 752,
+		num: 9999752,
 		name: "Shiny Araquanid",
 		types: ["Water", "Bug"],
 		baseStats: { hp: 68, atk: 70, def: 92, spa: 50, spd: 132, spe: 42 },
@@ -34218,7 +34218,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Araquanid", "Shiny Araquanid-Totem"],
 	},
 	shinyaraquanidtotem: {
-		num: 752,
+		num: 9999752,
 		name: "Shiny Araquanid-Totem",
 		baseSpecies: "Shiny Araquanid",
 		forme: "Totem",
@@ -34231,7 +34231,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Water 1", "Bug"],
 	},
 	shinyfomantis: {
-		num: 753,
+		num: 9999753,
 		name: "Shiny Fomantis",
 		types: ["Grass"],
 		baseStats: { hp: 40, atk: 55, def: 35, spa: 50, spd: 35, spe: 35 },
@@ -34243,7 +34243,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Grass"],
 	},
 	shinylurantis: {
-		num: 754,
+		num: 9999754,
 		name: "Shiny Lurantis",
 		types: ["Grass"],
 		baseStats: { hp: 70, atk: 105, def: 90, spa: 80, spd: 90, spe: 45 },
@@ -34259,7 +34259,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Lurantis", "Shiny Lurantis-Totem"],
 	},
 	shinylurantistotem: {
-		num: 754,
+		num: 9999754,
 		name: "Shiny Lurantis-Totem",
 		baseSpecies: "Shiny Lurantis",
 		forme: "Totem",
@@ -34272,7 +34272,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Grass"],
 	},
 	shinymorelull: {
-		num: 755,
+		num: 9999755,
 		name: "Shiny Morelull",
 		types: ["Grass", "Fairy"],
 		baseStats: { hp: 40, atk: 35, def: 55, spa: 65, spd: 75, spe: 15 },
@@ -34284,7 +34284,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Grass"],
 	},
 	shinyshiinotic: {
-		num: 756,
+		num: 9999756,
 		name: "Shiny Shiinotic",
 		types: ["Grass", "Fairy"],
 		baseStats: { hp: 60, atk: 45, def: 80, spa: 90, spd: 100, spe: 30 },
@@ -34297,7 +34297,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Grass"],
 	},
 	shinysalandit: {
-		num: 757,
+		num: 9999757,
 		name: "Shiny Salandit",
 		types: ["Poison", "Fire"],
 		gender: "F",
@@ -34310,7 +34310,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Monster", "Dragon"],
 	},
 	shinysalazzle: {
-		num: 758,
+		num: 9999758,
 		name: "Shiny Salazzle",
 		types: ["Poison", "Fire"],
 		gender: "F",
@@ -34326,7 +34326,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Salazzle", "Shiny Salazzle-Totem"],
 	},
 	shinysalazzletotem: {
-		num: 758,
+		num: 9999758,
 		name: "Shiny Salazzle-Totem",
 		baseSpecies: "Shiny Salazzle",
 		forme: "Totem",
@@ -34340,7 +34340,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Monster", "Dragon"],
 	},
 	shinystufful: {
-		num: 759,
+		num: 9999759,
 		name: "Shiny Stufful",
 		types: ["Normal", "Fighting"],
 		baseStats: { hp: 70, atk: 75, def: 50, spa: 45, spd: 50, spe: 50 },
@@ -34352,7 +34352,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field"],
 	},
 	shinybewear: {
-		num: 760,
+		num: 9999760,
 		name: "Shiny Bewear",
 		types: ["Normal", "Fighting"],
 		baseStats: { hp: 120, atk: 125, def: 80, spa: 55, spd: 60, spe: 60 },
@@ -34365,7 +34365,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field"],
 	},
 	shinybounsweet: {
-		num: 761,
+		num: 9999761,
 		name: "Shiny Bounsweet",
 		types: ["Grass"],
 		gender: "F",
@@ -34378,7 +34378,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Grass"],
 	},
 	shinysteenee: {
-		num: 762,
+		num: 9999762,
 		name: "Shiny Steenee",
 		types: ["Grass"],
 		gender: "F",
@@ -34393,7 +34393,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Grass"],
 	},
 	shinytsareena: {
-		num: 763,
+		num: 9999763,
 		name: "Shiny Tsareena",
 		types: ["Grass"],
 		gender: "F",
@@ -34408,7 +34408,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Grass"],
 	},
 	shinycomfey: {
-		num: 764,
+		num: 9999764,
 		name: "Shiny Comfey",
 		types: ["Fairy"],
 		gender: "F",
@@ -34420,7 +34420,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Grass"],
 	},
 	shinyoranguru: {
-		num: 765,
+		num: 9999765,
 		name: "Shiny Oranguru",
 		types: ["Normal", "Psychic"],
 		baseStats: { hp: 90, atk: 60, def: 80, spa: 90, spd: 110, spe: 60 },
@@ -34431,7 +34431,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field"],
 	},
 	shinypassimian: {
-		num: 766,
+		num: 9999766,
 		name: "Shiny Passimian",
 		types: ["Fighting"],
 		baseStats: { hp: 100, atk: 120, def: 90, spa: 40, spd: 60, spe: 80 },
@@ -34442,7 +34442,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field"],
 	},
 	shinywimpod: {
-		num: 767,
+		num: 9999767,
 		name: "Shiny Wimpod",
 		types: ["Bug", "Water"],
 		baseStats: { hp: 25, atk: 35, def: 40, spa: 20, spd: 30, spe: 80 },
@@ -34454,7 +34454,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Bug", "Water 3"],
 	},
 	shinygolisopod: {
-		num: 768,
+		num: 9999768,
 		name: "Shiny Golisopod",
 		types: ["Bug", "Water"],
 		baseStats: { hp: 75, atk: 125, def: 140, spa: 60, spd: 90, spe: 40 },
@@ -34469,7 +34469,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Golisopod", "Shiny Golisopod-Mega"],
 	},
 	shinygolisopodmega: {
-		num: 768,
+		num: 9999768,
 		name: "Shiny Golisopod-Mega",
 		baseSpecies: "Shiny Golisopod",
 		forme: "Mega",
@@ -34484,7 +34484,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		gen: 9,
 	},
 	shinysandygast: {
-		num: 769,
+		num: 9999769,
 		name: "Shiny Sandygast",
 		types: ["Ghost", "Ground"],
 		baseStats: { hp: 55, atk: 55, def: 80, spa: 70, spd: 45, spe: 15 },
@@ -34496,7 +34496,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Amorphous"],
 	},
 	shinypalossand: {
-		num: 770,
+		num: 9999770,
 		name: "Shiny Palossand",
 		types: ["Ghost", "Ground"],
 		baseStats: { hp: 85, atk: 75, def: 110, spa: 100, spd: 75, spe: 35 },
@@ -34509,7 +34509,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Amorphous"],
 	},
 	shinypyukumuku: {
-		num: 771,
+		num: 9999771,
 		name: "Shiny Pyukumuku",
 		types: ["Water"],
 		baseStats: { hp: 55, atk: 60, def: 130, spa: 30, spd: 130, spe: 5 },
@@ -34520,7 +34520,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Water 1"],
 	},
 	shinytypenull: {
-		num: 772,
+		num: 9999772,
 		name: "Shiny Type: Null",
 		types: ["Normal"],
 		gender: "F",
@@ -34534,7 +34534,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Undiscovered"],
 	},
 	shinysilvally: {
-		num: 773,
+		num: 9999773,
 		name: "Shiny Silvally",
 		baseForme: "Normal",
 		types: ["Normal"],
@@ -34555,7 +34555,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		],
 	},
 	shinysilvallybug: {
-		num: 773,
+		num: 9999773,
 		name: "Shiny Silvally-Bug",
 		baseSpecies: "Shiny Silvally",
 		forme: "Bug",
@@ -34571,7 +34571,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		changesFrom: "Shiny Silvally",
 	},
 	shinysilvallydark: {
-		num: 773,
+		num: 9999773,
 		name: "Shiny Silvally-Dark",
 		baseSpecies: "Shiny Silvally",
 		forme: "Dark",
@@ -34587,7 +34587,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		changesFrom: "Shiny Silvally",
 	},
 	shinysilvallydragon: {
-		num: 773,
+		num: 9999773,
 		name: "Shiny Silvally-Dragon",
 		baseSpecies: "Shiny Silvally",
 		forme: "Dragon",
@@ -34603,7 +34603,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		changesFrom: "Shiny Silvally",
 	},
 	shinysilvallyelectric: {
-		num: 773,
+		num: 9999773,
 		name: "Shiny Silvally-Electric",
 		baseSpecies: "Shiny Silvally",
 		forme: "Electric",
@@ -34619,7 +34619,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		changesFrom: "Shiny Silvally",
 	},
 	shinysilvallyfairy: {
-		num: 773,
+		num: 9999773,
 		name: "Shiny Silvally-Fairy",
 		baseSpecies: "Shiny Silvally",
 		forme: "Fairy",
@@ -34635,7 +34635,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		changesFrom: "Shiny Silvally",
 	},
 	shinysilvallyfighting: {
-		num: 773,
+		num: 9999773,
 		name: "Shiny Silvally-Fighting",
 		baseSpecies: "Shiny Silvally",
 		forme: "Fighting",
@@ -34651,7 +34651,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		changesFrom: "Shiny Silvally",
 	},
 	shinysilvallyfire: {
-		num: 773,
+		num: 9999773,
 		name: "Shiny Silvally-Fire",
 		baseSpecies: "Shiny Silvally",
 		forme: "Fire",
@@ -34667,7 +34667,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		changesFrom: "Shiny Silvally",
 	},
 	shinysilvallyflying: {
-		num: 773,
+		num: 9999773,
 		name: "Shiny Silvally-Flying",
 		baseSpecies: "Shiny Silvally",
 		forme: "Flying",
@@ -34683,7 +34683,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		changesFrom: "Shiny Silvally",
 	},
 	shinysilvallyghost: {
-		num: 773,
+		num: 9999773,
 		name: "Shiny Silvally-Ghost",
 		baseSpecies: "Shiny Silvally",
 		forme: "Ghost",
@@ -34699,7 +34699,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		changesFrom: "Shiny Silvally",
 	},
 	shinysilvallygrass: {
-		num: 773,
+		num: 9999773,
 		name: "Shiny Silvally-Grass",
 		baseSpecies: "Shiny Silvally",
 		forme: "Grass",
@@ -34715,7 +34715,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		changesFrom: "Shiny Silvally",
 	},
 	shinysilvallyground: {
-		num: 773,
+		num: 9999773,
 		name: "Shiny Silvally-Ground",
 		baseSpecies: "Shiny Silvally",
 		forme: "Ground",
@@ -34731,7 +34731,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		changesFrom: "Shiny Silvally",
 	},
 	shinysilvallyice: {
-		num: 773,
+		num: 9999773,
 		name: "Shiny Silvally-Ice",
 		baseSpecies: "Shiny Silvally",
 		forme: "Ice",
@@ -34747,7 +34747,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		changesFrom: "Shiny Silvally",
 	},
 	shinysilvallypoison: {
-		num: 773,
+		num: 9999773,
 		name: "Shiny Silvally-Poison",
 		baseSpecies: "Shiny Silvally",
 		forme: "Poison",
@@ -34763,7 +34763,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		changesFrom: "Shiny Silvally",
 	},
 	shinysilvallypsychic: {
-		num: 773,
+		num: 9999773,
 		name: "Shiny Silvally-Psychic",
 		baseSpecies: "Shiny Silvally",
 		forme: "Psychic",
@@ -34779,7 +34779,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		changesFrom: "Shiny Silvally",
 	},
 	shinysilvallyrock: {
-		num: 773,
+		num: 9999773,
 		name: "Shiny Silvally-Rock",
 		baseSpecies: "Shiny Silvally",
 		forme: "Rock",
@@ -34795,7 +34795,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		changesFrom: "Shiny Silvally",
 	},
 	shinysilvallysteel: {
-		num: 773,
+		num: 9999773,
 		name: "Shiny Silvally-Steel",
 		baseSpecies: "Shiny Silvally",
 		forme: "Steel",
@@ -34811,7 +34811,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		changesFrom: "Shiny Silvally",
 	},
 	shinysilvallywater: {
-		num: 773,
+		num: 9999773,
 		name: "Shiny Silvally-Water",
 		baseSpecies: "Shiny Silvally",
 		forme: "Water",
@@ -34827,7 +34827,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		changesFrom: "Shiny Silvally",
 	},
 	shinyminior: {
-		num: 774,
+		num: 9999774,
 		name: "Shiny Minior",
 		baseForme: "Red",
 		types: ["Rock", "Flying"],
@@ -34847,7 +34847,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		],
 	},
 	shinyminiormeteor: {
-		num: 774,
+		num: 9999774,
 		name: "Shiny Minior-Meteor",
 		baseSpecies: "Shiny Minior",
 		forme: "Meteor",
@@ -34863,7 +34863,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		battleOnly: "Shiny Minior",
 	},
 	shinykomala: {
-		num: 775,
+		num: 9999775,
 		name: "Shiny Komala",
 		types: ["Normal"],
 		baseStats: { hp: 65, atk: 115, def: 65, spa: 75, spd: 95, spe: 65 },
@@ -34874,7 +34874,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field"],
 	},
 	shinyturtonator: {
-		num: 776,
+		num: 9999776,
 		name: "Shiny Turtonator",
 		types: ["Fire", "Dragon"],
 		baseStats: { hp: 60, atk: 78, def: 135, spa: 91, spd: 85, spe: 36 },
@@ -34885,7 +34885,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Monster", "Dragon"],
 	},
 	shinytogedemaru: {
-		num: 777,
+		num: 9999777,
 		name: "Shiny Togedemaru",
 		types: ["Electric", "Steel"],
 		baseStats: { hp: 65, atk: 98, def: 63, spa: 40, spd: 73, spe: 96 },
@@ -34898,7 +34898,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Togedemaru", "Shiny Togedemaru-Totem"],
 	},
 	shinytogedemarutotem: {
-		num: 777,
+		num: 9999777,
 		name: "Shiny Togedemaru-Totem",
 		baseSpecies: "Shiny Togedemaru",
 		forme: "Totem",
@@ -34911,7 +34911,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field", "Fairy"],
 	},
 	shinymimikyu: {
-		num: 778,
+		num: 9999778,
 		name: "Shiny Mimikyu",
 		baseForme: "Disguised",
 		types: ["Ghost", "Fairy"],
@@ -34925,7 +34925,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Mimikyu", "Shiny Mimikyu-Busted", "Shiny Mimikyu-Totem", "Shiny Mimikyu-Busted-Totem"],
 	},
 	shinymimikyubusted: {
-		num: 778,
+		num: 9999778,
 		name: "Shiny Mimikyu-Busted",
 		baseSpecies: "Shiny Mimikyu",
 		forme: "Busted",
@@ -34940,7 +34940,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		battleOnly: "Shiny Mimikyu",
 	},
 	shinymimikyutotem: {
-		num: 778,
+		num: 9999778,
 		name: "Shiny Mimikyu-Totem",
 		baseSpecies: "Shiny Mimikyu",
 		forme: "Totem",
@@ -34953,7 +34953,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Amorphous"],
 	},
 	shinymimikyubustedtotem: {
-		num: 778,
+		num: 9999778,
 		name: "Shiny Mimikyu-Busted-Totem",
 		baseSpecies: "Shiny Mimikyu",
 		forme: "Busted-Totem",
@@ -34968,7 +34968,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		battleOnly: "Shiny Mimikyu-Totem",
 	},
 	shinybruxish: {
-		num: 779,
+		num: 9999779,
 		name: "Shiny Bruxish",
 		types: ["Water", "Psychic"],
 		baseStats: { hp: 68, atk: 105, def: 70, spa: 70, spd: 70, spe: 92 },
@@ -34979,7 +34979,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Water 2"],
 	},
 	shinydrampa: {
-		num: 780,
+		num: 9999780,
 		name: "Shiny Drampa",
 		types: ["Normal", "Dragon"],
 		baseStats: { hp: 78, atk: 60, def: 85, spa: 135, spd: 91, spe: 36 },
@@ -34992,7 +34992,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Drampa", "Shiny Drampa-Mega"],
 	},
 	shinydrampamega: {
-		num: 780,
+		num: 9999780,
 		name: "Shiny Drampa-Mega",
 		baseSpecies: "Shiny Drampa",
 		forme: "Mega",
@@ -35007,7 +35007,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		gen: 9,
 	},
 	shinydhelmise: {
-		num: 781,
+		num: 9999781,
 		name: "Shiny Dhelmise",
 		types: ["Ghost", "Grass"],
 		gender: "F",
@@ -35019,7 +35019,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Mineral"],
 	},
 	shinyjangmoo: {
-		num: 782,
+		num: 9999782,
 		name: "Shiny Jangmo-o",
 		types: ["Dragon"],
 		baseStats: { hp: 45, atk: 55, def: 65, spa: 45, spd: 45, spe: 45 },
@@ -35031,7 +35031,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Dragon"],
 	},
 	shinyhakamoo: {
-		num: 783,
+		num: 9999783,
 		name: "Shiny Hakamo-o",
 		types: ["Dragon", "Fighting"],
 		baseStats: { hp: 55, atk: 75, def: 90, spa: 65, spd: 70, spe: 65 },
@@ -35045,7 +35045,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Dragon"],
 	},
 	shinykommoo: {
-		num: 784,
+		num: 9999784,
 		name: "Shiny Kommo-o",
 		types: ["Dragon", "Fighting"],
 		baseStats: { hp: 75, atk: 110, def: 125, spa: 100, spd: 105, spe: 85 },
@@ -35060,7 +35060,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Kommo-o", "Shiny Kommo-o-Totem"],
 	},
 	shinykommoototem: {
-		num: 784,
+		num: 9999784,
 		name: "Shiny Kommo-o-Totem",
 		baseSpecies: "Shiny Kommo-o",
 		forme: "Totem",
@@ -35073,7 +35073,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Dragon"],
 	},
 	shinytapukoko: {
-		num: 785,
+		num: 9999785,
 		name: "Shiny Tapu Koko",
 		types: ["Electric", "Fairy"],
 		gender: "F",
@@ -35086,7 +35086,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Undiscovered"],
 	},
 	shinytapulele: {
-		num: 786,
+		num: 9999786,
 		name: "Shiny Tapu Lele",
 		types: ["Psychic", "Fairy"],
 		gender: "F",
@@ -35099,7 +35099,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Undiscovered"],
 	},
 	shinytapubulu: {
-		num: 787,
+		num: 9999787,
 		name: "Shiny Tapu Bulu",
 		types: ["Grass", "Fairy"],
 		gender: "F",
@@ -35112,7 +35112,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Undiscovered"],
 	},
 	shinytapufini: {
-		num: 788,
+		num: 9999788,
 		name: "Shiny Tapu Fini",
 		types: ["Water", "Fairy"],
 		gender: "F",
@@ -35125,7 +35125,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Undiscovered"],
 	},
 	shinycosmog: {
-		num: 789,
+		num: 9999789,
 		name: "Shiny Cosmog",
 		types: ["Psychic"],
 		gender: "F",
@@ -35139,7 +35139,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Undiscovered"],
 	},
 	shinycosmoem: {
-		num: 790,
+		num: 9999790,
 		name: "Shiny Cosmoem",
 		types: ["Psychic"],
 		gender: "F",
@@ -35155,7 +35155,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Undiscovered"],
 	},
 	shinysolgaleo: {
-		num: 791,
+		num: 9999791,
 		name: "Shiny Solgaleo",
 		types: ["Psychic", "Steel"],
 		gender: "F",
@@ -35170,7 +35170,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Undiscovered"],
 	},
 	shinylunala: {
-		num: 792,
+		num: 9999792,
 		name: "Shiny Lunala",
 		types: ["Psychic", "Ghost"],
 		gender: "F",
@@ -35185,7 +35185,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Undiscovered"],
 	},
 	shinynihilego: {
-		num: 793,
+		num: 9999793,
 		name: "Shiny Nihilego",
 		types: ["Rock", "Poison"],
 		gender: "F",
@@ -35198,7 +35198,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Undiscovered"],
 	},
 	shinybuzzwole: {
-		num: 794,
+		num: 9999794,
 		name: "Shiny Buzzwole",
 		types: ["Bug", "Fighting"],
 		gender: "F",
@@ -35211,7 +35211,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Undiscovered"],
 	},
 	shinypheromosa: {
-		num: 795,
+		num: 9999795,
 		name: "Shiny Pheromosa",
 		types: ["Bug", "Fighting"],
 		gender: "F",
@@ -35224,7 +35224,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Undiscovered"],
 	},
 	shinyxurkitree: {
-		num: 796,
+		num: 9999796,
 		name: "Shiny Xurkitree",
 		types: ["Electric"],
 		gender: "F",
@@ -35237,7 +35237,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Undiscovered"],
 	},
 	shinycelesteela: {
-		num: 797,
+		num: 9999797,
 		name: "Shiny Celesteela",
 		types: ["Steel", "Flying"],
 		gender: "F",
@@ -35250,7 +35250,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Undiscovered"],
 	},
 	shinykartana: {
-		num: 798,
+		num: 9999798,
 		name: "Shiny Kartana",
 		types: ["Grass", "Steel"],
 		gender: "F",
@@ -35263,7 +35263,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Undiscovered"],
 	},
 	shinyguzzlord: {
-		num: 799,
+		num: 9999799,
 		name: "Shiny Guzzlord",
 		types: ["Dark", "Dragon"],
 		gender: "F",
@@ -35276,7 +35276,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Undiscovered"],
 	},
 	shinynecrozma: {
-		num: 800,
+		num: 9999800,
 		name: "Shiny Necrozma",
 		types: ["Psychic"],
 		gender: "F",
@@ -35291,7 +35291,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Necrozma", "Shiny Necrozma-Dusk-Mane", "Shiny Necrozma-Dawn-Wings", "Shiny Necrozma-Ultra"],
 	},
 	shinynecrozmaduskmane: {
-		num: 800,
+		num: 9999800,
 		name: "Shiny Necrozma-Dusk-Mane",
 		baseSpecies: "Shiny Necrozma",
 		forme: "Dusk-Mane",
@@ -35306,7 +35306,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		changesFrom: "Shiny Necrozma",
 	},
 	shinynecrozmadawnwings: {
-		num: 800,
+		num: 9999800,
 		name: "Shiny Necrozma-Dawn-Wings",
 		baseSpecies: "Shiny Necrozma",
 		forme: "Dawn-Wings",
@@ -35321,7 +35321,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		changesFrom: "Shiny Necrozma",
 	},
 	shinynecrozmaultra: {
-		num: 800,
+		num: 9999800,
 		name: "Shiny Necrozma-Ultra",
 		baseSpecies: "Shiny Necrozma",
 		forme: "Ultra",
@@ -35337,7 +35337,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		battleOnly: ["Necrozma-Dawn-Wings", "Necrozma-Dusk-Mane"],
 	},
 	shinymagearna: {
-		num: 801,
+		num: 9999801,
 		name: "Shiny Magearna",
 		types: ["Steel", "Fairy"],
 		gender: "F",
@@ -35352,7 +35352,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Magearna", "Shiny Magearna-Original", "Shiny Magearna-Mega", "Shiny Magearna-Original-Mega"],
 	},
 	shinymagearnaoriginal: {
-		num: 801,
+		num: 9999801,
 		name: "Shiny Magearna-Original",
 		baseSpecies: "Shiny Magearna",
 		forme: "Original",
@@ -35366,7 +35366,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Undiscovered"],
 	},
 	shinymagearnamega: {
-		num: 801,
+		num: 9999801,
 		name: "Shiny Magearna-Mega",
 		baseSpecies: "Shiny Magearna",
 		forme: "Mega",
@@ -35382,7 +35382,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		gen: 9,
 	},
 	shinymagearnaoriginalmega: {
-		num: 801,
+		num: 9999801,
 		name: "Shiny Magearna-Original-Mega",
 		baseSpecies: "Shiny Magearna",
 		forme: "Original-Mega",
@@ -35399,7 +35399,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		gen: 9,
 	},
 	shinymarshadow: {
-		num: 802,
+		num: 9999802,
 		name: "Shiny Marshadow",
 		types: ["Fighting", "Ghost"],
 		gender: "F",
@@ -35412,7 +35412,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Undiscovered"],
 	},
 	shinypoipole: {
-		num: 803,
+		num: 9999803,
 		name: "Shiny Poipole",
 		types: ["Poison"],
 		gender: "F",
@@ -35426,7 +35426,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Undiscovered"],
 	},
 	shinynaganadel: {
-		num: 804,
+		num: 9999804,
 		name: "Shiny Naganadel",
 		types: ["Poison", "Dragon"],
 		gender: "F",
@@ -35442,7 +35442,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Undiscovered"],
 	},
 	shinystakataka: {
-		num: 805,
+		num: 9999805,
 		name: "Shiny Stakataka",
 		types: ["Rock", "Steel"],
 		gender: "F",
@@ -35455,7 +35455,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Undiscovered"],
 	},
 	shinyblacephalon: {
-		num: 806,
+		num: 9999806,
 		name: "Shiny Blacephalon",
 		types: ["Fire", "Ghost"],
 		gender: "F",
@@ -35468,7 +35468,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Undiscovered"],
 	},
 	shinyzeraora: {
-		num: 807,
+		num: 9999807,
 		name: "Shiny Zeraora",
 		types: ["Electric"],
 		gender: "F",
@@ -35483,7 +35483,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Zeraora", "Shiny Zeraora-Mega"],
 	},
 	shinyzeraoramega: {
-		num: 807,
+		num: 9999807,
 		name: "Shiny Zeraora-Mega",
 		baseSpecies: "Shiny Zeraora",
 		forme: "Mega",
@@ -35500,7 +35500,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		gen: 9,
 	},
 	shinymeltan: {
-		num: 808,
+		num: 9999808,
 		name: "Shiny Meltan",
 		types: ["Steel"],
 		gender: "F",
@@ -35513,7 +35513,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Undiscovered"],
 	},
 	shinymelmetal: {
-		num: 809,
+		num: 9999809,
 		name: "Shiny Melmetal",
 		types: ["Steel"],
 		gender: "F",
@@ -35527,7 +35527,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		canGigantamax: "G-Max Meltdown",
 	},
 	shinymelmetalgmax: {
-		num: 809,
+		num: 9999809,
 		name: "Shiny Melmetal-Gmax",
 		baseSpecies: "Shiny Melmetal",
 		forme: "Gmax",
@@ -35542,7 +35542,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		changesFrom: "Shiny Melmetal",
 	},
 	ishinygrookey: {
-		num: 810,
+		num: 9999810,
 		name: "Shiny Grookey",
 		types: ["Grass"],
 		gender: "F",
@@ -35555,7 +35555,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field", "Grass"],
 	},
 	shinythwackey: {
-		num: 811,
+		num: 9999811,
 		name: "Shiny Thwackey",
 		types: ["Grass"],
 		gender: "F",
@@ -35570,7 +35570,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field", "Grass"],
 	},
 	shinyrillaboom: {
-		num: 812,
+		num: 9999812,
 		name: "Shiny Rillaboom",
 		types: ["Grass"],
 		gender: "F",
@@ -35585,7 +35585,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		canGigantamax: "G-Max Drum Solo",
 	},
 	shinyrillaboomgmax: {
-		num: 812,
+		num: 9999812,
 		name: "Shiny Rillaboom-Gmax",
 		baseSpecies: "Shiny Rillaboom",
 		forme: "Gmax",
@@ -35600,7 +35600,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		changesFrom: "Shiny Rillaboom",
 	},
 	shinyscorbunny: {
-		num: 813,
+		num: 9999813,
 		name: "Shiny Scorbunny",
 		types: ["Fire"],
 		gender: "F",
@@ -35613,7 +35613,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field", "Human-Like"],
 	},
 	shinyraboot: {
-		num: 814,
+		num: 9999814,
 		name: "Shiny Raboot",
 		types: ["Fire"],
 		gender: "F",
@@ -35628,7 +35628,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field", "Human-Like"],
 	},
 	shinycinderace: {
-		num: 815,
+		num: 9999815,
 		name: "Shiny Cinderace",
 		types: ["Fire"],
 		gender: "F",
@@ -35643,7 +35643,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		canGigantamax: "G-Max Fireball",
 	},
 	shinycinderacegmax: {
-		num: 815,
+		num: 9999815,
 		name: "Shiny Cinderace-Gmax",
 		baseSpecies: "Shiny Cinderace",
 		forme: "Gmax",
@@ -35658,7 +35658,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		changesFrom: "Shiny Cinderace",
 	},
 	shinysobble: {
-		num: 816,
+		num: 9999816,
 		name: "Shiny Sobble",
 		types: ["Water"],
 		gender: "F",
@@ -35671,7 +35671,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Water 1", "Field"],
 	},
 	shinydrizzile: {
-		num: 817,
+		num: 9999817,
 		name: "Shiny Drizzile",
 		types: ["Water"],
 		gender: "F",
@@ -35686,7 +35686,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Water 1", "Field"],
 	},
 	shinyinteleon: {
-		num: 818,
+		num: 9999818,
 		name: "Shiny Inteleon",
 		types: ["Water"],
 		gender: "F",
@@ -35701,7 +35701,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		canGigantamax: "G-Max Hydrosnipe",
 	},
 	shinyinteleongmax: {
-		num: 818,
+		num: 9999818,
 		name: "Shiny Inteleon-Gmax",
 		baseSpecies: "Shiny Inteleon",
 		forme: "Gmax",
@@ -35716,7 +35716,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		changesFrom: "Shiny Inteleon",
 	},
 	shinyskwovet: {
-		num: 819,
+		num: 9999819,
 		name: "Shiny Skwovet",
 		types: ["Normal"],
 		baseStats: { hp: 70, atk: 55, def: 55, spa: 35, spd: 35, spe: 25 },
@@ -35728,7 +35728,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field"],
 	},
 	shinygreedent: {
-		num: 820,
+		num: 9999820,
 		name: "Shiny Greedent",
 		types: ["Normal"],
 		baseStats: { hp: 120, atk: 95, def: 95, spa: 55, spd: 75, spe: 20 },
@@ -35741,7 +35741,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field"],
 	},
 	shinyrookidee: {
-		num: 821,
+		num: 9999821,
 		name: "Shiny Rookidee",
 		types: ["Flying"],
 		baseStats: { hp: 38, atk: 47, def: 35, spa: 33, spd: 35, spe: 57 },
@@ -35753,7 +35753,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Flying"],
 	},
 	shinycorvisquire: {
-		num: 822,
+		num: 9999822,
 		name: "Shiny Corvisquire",
 		types: ["Flying"],
 		baseStats: { hp: 68, atk: 67, def: 55, spa: 43, spd: 55, spe: 77 },
@@ -35767,7 +35767,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Flying"],
 	},
 	shinycorviknight: {
-		num: 823,
+		num: 9999823,
 		name: "Shiny Corviknight",
 		types: ["Flying", "Steel"],
 		baseStats: { hp: 98, atk: 87, def: 105, spa: 53, spd: 85, spe: 67 },
@@ -35781,7 +35781,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		canGigantamax: "G-Max Wind Rage",
 	},
 	shinycorviknightgmax: {
-		num: 823,
+		num: 9999823,
 		name: "Shiny Corviknight-Gmax",
 		baseSpecies: "Shiny Corviknight",
 		forme: "Gmax",
@@ -35795,7 +35795,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		changesFrom: "Shiny Corviknight",
 	},
 	shinyblipbug: {
-		num: 824,
+		num: 9999824,
 		name: "Shiny Blipbug",
 		types: ["Bug"],
 		baseStats: { hp: 25, atk: 20, def: 20, spa: 25, spd: 45, spe: 45 },
@@ -35807,7 +35807,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Bug"],
 	},
 	shinydottler: {
-		num: 825,
+		num: 9999825,
 		name: "Shiny Dottler",
 		types: ["Bug", "Psychic"],
 		baseStats: { hp: 50, atk: 35, def: 80, spa: 50, spd: 90, spe: 30 },
@@ -35821,7 +35821,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Bug"],
 	},
 	shinyorbeetle: {
-		num: 826,
+		num: 9999826,
 		name: "Shiny Orbeetle",
 		types: ["Bug", "Psychic"],
 		baseStats: { hp: 60, atk: 45, def: 110, spa: 80, spd: 120, spe: 90 },
@@ -35835,7 +35835,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		canGigantamax: "G-Max Gravitas",
 	},
 	shinyorbeetlegmax: {
-		num: 826,
+		num: 9999826,
 		name: "Shiny Orbeetle-Gmax",
 		baseSpecies: "Shiny Orbeetle",
 		forme: "Gmax",
@@ -35849,7 +35849,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		changesFrom: "Shiny Orbeetle",
 	},
 	shinynickit: {
-		num: 827,
+		num: 9999827,
 		name: "Shiny Nickit",
 		types: ["Dark"],
 		baseStats: { hp: 40, atk: 28, def: 28, spa: 47, spd: 52, spe: 50 },
@@ -35861,7 +35861,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field"],
 	},
 	shinythievul: {
-		num: 828,
+		num: 9999828,
 		name: "Shiny Thievul",
 		types: ["Dark"],
 		baseStats: { hp: 70, atk: 58, def: 58, spa: 87, spd: 92, spe: 90 },
@@ -35874,7 +35874,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field"],
 	},
 	shinygossifleur: {
-		num: 829,
+		num: 9999829,
 		name: "Shiny Gossifleur",
 		types: ["Grass"],
 		baseStats: { hp: 40, atk: 40, def: 60, spa: 40, spd: 60, spe: 10 },
@@ -35886,7 +35886,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Grass"],
 	},
 	shinyeldegoss: {
-		num: 830,
+		num: 9999830,
 		name: "Shiny Eldegoss",
 		types: ["Grass"],
 		baseStats: { hp: 60, atk: 50, def: 90, spa: 80, spd: 120, spe: 60 },
@@ -35899,7 +35899,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Grass"],
 	},
 	shinywooloo: {
-		num: 831,
+		num: 9999831,
 		name: "Shiny Wooloo",
 		types: ["Normal"],
 		baseStats: { hp: 42, atk: 40, def: 55, spa: 40, spd: 45, spe: 48 },
@@ -35911,7 +35911,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field"],
 	},
 	shinydubwool: {
-		num: 832,
+		num: 9999832,
 		name: "Shiny Dubwool",
 		types: ["Normal"],
 		baseStats: { hp: 72, atk: 80, def: 100, spa: 60, spd: 90, spe: 88 },
@@ -35924,7 +35924,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field"],
 	},
 	shinychewtle: {
-		num: 833,
+		num: 9999833,
 		name: "Shiny Chewtle",
 		types: ["Water"],
 		baseStats: { hp: 50, atk: 64, def: 50, spa: 38, spd: 38, spe: 44 },
@@ -35936,7 +35936,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Monster", "Water 1"],
 	},
 	shinydrednaw: {
-		num: 834,
+		num: 9999834,
 		name: "Shiny Drednaw",
 		types: ["Water", "Rock"],
 		baseStats: { hp: 90, atk: 115, def: 90, spa: 48, spd: 68, spe: 74 },
@@ -35950,7 +35950,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		canGigantamax: "G-Max Stonesurge",
 	},
 	shinydrednawgmax: {
-		num: 834,
+		num: 9999834,
 		name: "Shiny Drednaw-Gmax",
 		baseSpecies: "Shiny Drednaw",
 		forme: "Gmax",
@@ -35964,7 +35964,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		changesFrom: "Shiny Drednaw",
 	},
 	shinyyamper: {
-		num: 835,
+		num: 9999835,
 		name: "Shiny Yamper",
 		types: ["Electric"],
 		baseStats: { hp: 59, atk: 45, def: 50, spa: 40, spd: 50, spe: 26 },
@@ -35976,7 +35976,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field"],
 	},
 	shinyboltund: {
-		num: 836,
+		num: 9999836,
 		name: "Shiny Boltund",
 		types: ["Electric"],
 		baseStats: { hp: 69, atk: 90, def: 60, spa: 90, spd: 60, spe: 121 },
@@ -35989,7 +35989,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field"],
 	},
 	shinyrolycoly: {
-		num: 837,
+		num: 9999837,
 		name: "Shiny Rolycoly",
 		types: ["Rock"],
 		baseStats: { hp: 30, atk: 40, def: 50, spa: 40, spd: 50, spe: 30 },
@@ -36001,7 +36001,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Mineral"],
 	},
 	shinycarkol: {
-		num: 838,
+		num: 9999838,
 		name: "Shiny Carkol",
 		types: ["Rock", "Fire"],
 		baseStats: { hp: 80, atk: 60, def: 90, spa: 60, spd: 70, spe: 50 },
@@ -36015,7 +36015,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Mineral"],
 	},
 	shinycoalossal: {
-		num: 839,
+		num: 9999839,
 		name: "Shiny Coalossal",
 		types: ["Rock", "Fire"],
 		baseStats: { hp: 110, atk: 80, def: 120, spa: 80, spd: 90, spe: 30 },
@@ -36029,7 +36029,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		canGigantamax: "G-Max Volcalith",
 	},
 	shinycoalossalgmax: {
-		num: 839,
+		num: 9999839,
 		name: "Shiny Coalossal-Gmax",
 		baseSpecies: "Shiny Coalossal",
 		forme: "Gmax",
@@ -36043,7 +36043,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		changesFrom: "Shiny Coalossal",
 	},
 	shinyapplin: {
-		num: 840,
+		num: 9999840,
 		name: "Shiny Applin",
 		types: ["Grass", "Dragon"],
 		baseStats: { hp: 40, atk: 40, def: 80, spa: 40, spd: 40, spe: 20 },
@@ -36055,7 +36055,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Grass", "Dragon"],
 	},
 	shinyflapple: {
-		num: 841,
+		num: 9999841,
 		name: "Shiny Flapple",
 		types: ["Grass", "Dragon"],
 		baseStats: { hp: 70, atk: 110, def: 80, spa: 95, spd: 60, spe: 70 },
@@ -36070,7 +36070,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		canGigantamax: "G-Max Tartness",
 	},
 	shinyflapplegmax: {
-		num: 841,
+		num: 9999841,
 		name: "Shiny Flapple-Gmax",
 		baseSpecies: "Shiny Flapple",
 		forme: "Gmax",
@@ -36084,7 +36084,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		changesFrom: "Shiny Flapple",
 	},
 	shinyappletun: {
-		num: 842,
+		num: 9999842,
 		name: "Shiny Appletun",
 		types: ["Grass", "Dragon"],
 		baseStats: { hp: 110, atk: 85, def: 80, spa: 100, spd: 80, spe: 30 },
@@ -36099,7 +36099,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		canGigantamax: "G-Max Sweetness",
 	},
 	shinyappletungmax: {
-		num: 842,
+		num: 9999842,
 		name: "Shiny Appletun-Gmax",
 		baseSpecies: "Shiny Appletun",
 		forme: "Gmax",
@@ -36113,7 +36113,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		changesFrom: "Shiny Appletun",
 	},
 	shinysilicobra: {
-		num: 843,
+		num: 9999843,
 		name: "Shiny Silicobra",
 		types: ["Ground"],
 		baseStats: { hp: 52, atk: 57, def: 75, spa: 35, spd: 50, spe: 46 },
@@ -36125,7 +36125,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field", "Dragon"],
 	},
 	shinysandaconda: {
-		num: 844,
+		num: 9999844,
 		name: "Shiny Sandaconda",
 		types: ["Ground"],
 		baseStats: { hp: 72, atk: 107, def: 125, spa: 65, spd: 70, spe: 71 },
@@ -36139,7 +36139,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		canGigantamax: "G-Max Sandblast",
 	},
 	shinysandacondagmax: {
-		num: 844,
+		num: 9999844,
 		name: "Shiny Sandaconda-Gmax",
 		baseSpecies: "Shiny Sandaconda",
 		forme: "Gmax",
@@ -36153,7 +36153,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		changesFrom: "Shiny Sandaconda",
 	},
 	shinycramorant: {
-		num: 845,
+		num: 9999845,
 		name: "Shiny Cramorant",
 		types: ["Flying", "Water"],
 		baseStats: { hp: 70, atk: 85, def: 55, spa: 85, spd: 95, spe: 85 },
@@ -36166,7 +36166,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Cramorant", "Shiny Cramorant-Gulping", "Shiny Cramorant-Gorging"],
 	},
 	shinycramorantgulping: {
-		num: 845,
+		num: 9999845,
 		name: "Shiny Cramorant-Gulping",
 		baseSpecies: "Shiny Cramorant",
 		forme: "Gulping",
@@ -36181,7 +36181,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		battleOnly: "Shiny Cramorant",
 	},
 	shinycramorantgorging: {
-		num: 845,
+		num: 9999845,
 		name: "Shiny Cramorant-Gorging",
 		baseSpecies: "Shiny Cramorant",
 		forme: "Gorging",
@@ -36196,7 +36196,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		battleOnly: "Shiny Cramorant",
 	},
 	shinyarrokuda: {
-		num: 846,
+		num: 9999846,
 		name: "Shiny Arrokuda",
 		types: ["Water"],
 		baseStats: { hp: 41, atk: 63, def: 40, spa: 40, spd: 30, spe: 66 },
@@ -36208,7 +36208,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Water 2"],
 	},
 	shinybarraskewda: {
-		num: 847,
+		num: 9999847,
 		name: "Shiny Barraskewda",
 		types: ["Water"],
 		baseStats: { hp: 61, atk: 123, def: 60, spa: 60, spd: 50, spe: 136 },
@@ -36221,7 +36221,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Water 2"],
 	},
 	shinytoxel: {
-		num: 848,
+		num: 9999848,
 		name: "Shiny Toxel",
 		types: ["Electric", "Poison"],
 		baseStats: { hp: 40, atk: 38, def: 35, spa: 54, spd: 35, spe: 40 },
@@ -36234,7 +36234,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		canHatch: true,
 	},
 	shinytoxtricity: {
-		num: 849,
+		num: 9999849,
 		name: "Shiny Toxtricity",
 		baseForme: "Amped",
 		types: ["Electric", "Poison"],
@@ -36251,7 +36251,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		canGigantamax: "G-Max Stun Shock",
 	},
 	shinytoxtricitylowkey: {
-		num: 849,
+		num: 9999849,
 		name: "Shiny Toxtricity-Low-Key",
 		baseSpecies: "Shiny Toxtricity",
 		forme: "Low-Key",
@@ -36267,7 +36267,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		canGigantamax: "G-Max Stun Shock",
 	},
 	shinytoxtricitygmax: {
-		num: 849,
+		num: 9999849,
 		name: "Shiny Toxtricity-Gmax",
 		baseSpecies: "Shiny Toxtricity",
 		forme: "Gmax",
@@ -36281,7 +36281,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		changesFrom: "Shiny Toxtricity",
 	},
 	shinytoxtricitylowkeygmax: {
-		num: 849,
+		num: 9999849,
 		name: "Shiny Toxtricity-Low-Key-Gmax",
 		baseSpecies: "Shiny Toxtricity",
 		forme: "Low-Key-Gmax",
@@ -36296,7 +36296,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		changesFrom: "Shiny Toxtricity-Low-Key",
 	},
 	shinysizzlipede: {
-		num: 850,
+		num: 9999850,
 		name: "Shiny Sizzlipede",
 		types: ["Fire", "Bug"],
 		baseStats: { hp: 50, atk: 65, def: 45, spa: 50, spd: 50, spe: 45 },
@@ -36308,7 +36308,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Bug"],
 	},
 	shinycentiskorch: {
-		num: 851,
+		num: 9999851,
 		name: "Shiny Centiskorch",
 		types: ["Fire", "Bug"],
 		baseStats: { hp: 100, atk: 115, def: 65, spa: 90, spd: 90, spe: 65 },
@@ -36322,7 +36322,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		canGigantamax: "G-Max Centiferno",
 	},
 	shinycentiskorchgmax: {
-		num: 851,
+		num: 9999851,
 		name: "Shiny Centiskorch-Gmax",
 		baseSpecies: "Shiny Centiskorch",
 		forme: "Gmax",
@@ -36336,7 +36336,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		changesFrom: "Shiny Centiskorch",
 	},
 	shinyclobbopus: {
-		num: 852,
+		num: 9999852,
 		name: "Shiny Clobbopus",
 		types: ["Fighting"],
 		baseStats: { hp: 50, atk: 68, def: 60, spa: 50, spd: 50, spe: 32 },
@@ -36348,7 +36348,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Water 1", "Human-Like"],
 	},
 	shinygrapploct: {
-		num: 853,
+		num: 9999853,
 		name: "Shiny Grapploct",
 		types: ["Fighting"],
 		baseStats: { hp: 80, atk: 118, def: 90, spa: 70, spd: 80, spe: 42 },
@@ -36362,7 +36362,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Water 1", "Human-Like"],
 	},
 	shinysinistea: {
-		num: 854,
+		num: 9999854,
 		name: "Shiny Sinistea",
 		baseForme: "Phony",
 		types: ["Ghost"],
@@ -36378,7 +36378,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Sinistea", "Shiny Sinistea-Antique"],
 	},
 	shinysinisteaantique: {
-		num: 854,
+		num: 9999854,
 		name: "Shiny Sinistea-Antique",
 		baseSpecies: "Shiny Sinistea",
 		forme: "Antique",
@@ -36393,7 +36393,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Undiscovered"],
 	},
 	shinypolteageist: {
-		num: 855,
+		num: 9999855,
 		name: "Shiny Polteageist",
 		baseForme: "Phony",
 		types: ["Ghost"],
@@ -36411,7 +36411,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Polteageist", "Shiny Polteageist-Antique"],
 	},
 	shinypolteageistantique: {
-		num: 855,
+		num: 9999855,
 		name: "Shiny Polteageist-Antique",
 		baseSpecies: "Shiny Polteageist",
 		forme: "Antique",
@@ -36428,7 +36428,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Undiscovered"],
 	},
 	shinyhatenna: {
-		num: 856,
+		num: 9999856,
 		name: "Shiny Hatenna",
 		types: ["Psychic"],
 		gender: "F",
@@ -36441,7 +36441,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Fairy"],
 	},
 	shinyhattrem: {
-		num: 857,
+		num: 9999857,
 		name: "Shiny Hattrem",
 		types: ["Psychic"],
 		gender: "F",
@@ -36456,7 +36456,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Fairy"],
 	},
 	shinyhatterene: {
-		num: 858,
+		num: 9999858,
 		name: "Shiny Hatterene",
 		types: ["Psychic", "Fairy"],
 		gender: "F",
@@ -36471,7 +36471,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		canGigantamax: "G-Max Smite",
 	},
 	shinyhatterenegmax: {
-		num: 858,
+		num: 9999858,
 		name: "Shiny Hatterene-Gmax",
 		baseSpecies: "Shiny Hatterene",
 		forme: "Gmax",
@@ -36486,7 +36486,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		changesFrom: "Shiny Hatterene",
 	},
 	shinyimpidimp: {
-		num: 859,
+		num: 9999859,
 		name: "Shiny Impidimp",
 		types: ["Dark", "Fairy"],
 		gender: "F",
@@ -36499,7 +36499,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Fairy", "Human-Like"],
 	},
 	shinymorgrem: {
-		num: 860,
+		num: 9999860,
 		name: "Shiny Morgrem",
 		types: ["Dark", "Fairy"],
 		gender: "F",
@@ -36514,7 +36514,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Fairy", "Human-Like"],
 	},
 	shinygrimmsnarl: {
-		num: 861,
+		num: 9999861,
 		name: "Shiny Grimmsnarl",
 		types: ["Dark", "Fairy"],
 		gender: "F",
@@ -36529,7 +36529,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		canGigantamax: "G-Max Snooze",
 	},
 	shinygrimmsnarlgmax: {
-		num: 861,
+		num: 9999861,
 		name: "Shiny Grimmsnarl-Gmax",
 		baseSpecies: "Shiny Grimmsnarl",
 		forme: "Gmax",
@@ -36544,7 +36544,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		changesFrom: "Shiny Grimmsnarl",
 	},
 	shinyobstagoon: {
-		num: 862,
+		num: 9999862,
 		name: "Shiny Obstagoon",
 		types: ["Dark", "Normal"],
 		baseStats: { hp: 93, atk: 90, def: 101, spa: 60, spd: 81, spe: 95 },
@@ -36558,7 +36558,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field"],
 	},
 	shinyperrserker: {
-		num: 863,
+		num: 9999863,
 		name: "Shiny Perrserker",
 		types: ["Steel"],
 		baseStats: { hp: 70, atk: 110, def: 100, spa: 50, spd: 60, spe: 50 },
@@ -36571,7 +36571,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field"],
 	},
 	shinycursola: {
-		num: 864,
+		num: 9999864,
 		name: "Shiny Cursola",
 		types: ["Ghost"],
 		gender: "F",
@@ -36585,7 +36585,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Water 1", "Water 3"],
 	},
 	shinysirfetchd: {
-		num: 865,
+		num: 9999865,
 		name: "Shiny Sirfetch\u2019d",
 		types: ["Fighting"],
 		baseStats: { hp: 62, atk: 135, def: 95, spa: 68, spd: 82, spe: 65 },
@@ -36599,7 +36599,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Flying", "Field"],
 	},
 	shinymrrime: {
-		num: 866,
+		num: 9999866,
 		name: "Shiny Mr. Rime",
 		types: ["Ice", "Psychic"],
 		baseStats: { hp: 80, atk: 85, def: 75, spa: 110, spd: 100, spe: 70 },
@@ -36612,7 +36612,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Human-Like"],
 	},
 	shinyrunerigus: {
-		num: 867,
+		num: 9999867,
 		name: "Shiny Runerigus",
 		types: ["Ground", "Ghost"],
 		baseStats: { hp: 58, atk: 95, def: 145, spa: 50, spd: 105, spe: 30 },
@@ -36626,7 +36626,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Mineral", "Amorphous"],
 	},
 	shinymilcery: {
-		num: 868,
+		num: 9999868,
 		name: "Shiny Milcery",
 		types: ["Fairy"],
 		gender: "F",
@@ -36639,7 +36639,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Fairy", "Amorphous"],
 	},
 	shinyalcremie: {
-		num: 869,
+		num: 9999869,
 		name: "Shiny Alcremie",
 		baseForme: "Vanilla-Cream",
 		types: ["Fairy"],
@@ -36658,7 +36658,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		canGigantamax: "G-Max Finale",
 	},
 	shinyalcremiegmax: {
-		num: 869,
+		num: 9999869,
 		name: "Shiny Alcremie-Gmax",
 		baseSpecies: "Shiny Alcremie",
 		forme: "Gmax",
@@ -36673,7 +36673,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		changesFrom: "Shiny Alcremie",
 	},
 	shinyfalinks: {
-		num: 870,
+		num: 9999870,
 		name: "Shiny Falinks",
 		types: ["Fighting"],
 		gender: "F",
@@ -36687,7 +36687,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Falinks", "Shiny Falinks-Mega"],
 	},
 	shinyfalinksmega: {
-		num: 870,
+		num: 9999870,
 		name: "Shiny Falinks-Mega",
 		baseSpecies: "Shiny Falinks",
 		forme: "Mega",
@@ -36703,7 +36703,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		gen: 9,
 	},
 	shinypincurchin: {
-		num: 871,
+		num: 9999871,
 		name: "Shiny Pincurchin",
 		types: ["Electric"],
 		baseStats: { hp: 48, atk: 101, def: 95, spa: 91, spd: 85, spe: 15 },
@@ -36714,7 +36714,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Water 1", "Amorphous"],
 	},
 	shinysnom: {
-		num: 872,
+		num: 9999872,
 		name: "Shiny Snom",
 		types: ["Ice", "Bug"],
 		baseStats: { hp: 30, atk: 25, def: 35, spa: 45, spd: 30, spe: 20 },
@@ -36726,7 +36726,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Bug"],
 	},
 	shinyfrosmoth: {
-		num: 873,
+		num: 9999873,
 		name: "Shiny Frosmoth",
 		types: ["Ice", "Bug"],
 		baseStats: { hp: 70, atk: 65, def: 60, spa: 125, spd: 90, spe: 65 },
@@ -36740,7 +36740,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Bug"],
 	},
 	shinystonjourner: {
-		num: 874,
+		num: 9999874,
 		name: "Shiny Stonjourner",
 		types: ["Rock"],
 		baseStats: { hp: 100, atk: 125, def: 135, spa: 20, spd: 20, spe: 70 },
@@ -36751,7 +36751,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Mineral"],
 	},
 	shinyeiscue: {
-		num: 875,
+		num: 9999875,
 		name: "Shiny Eiscue",
 		baseForme: "Ice",
 		types: ["Ice"],
@@ -36765,7 +36765,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Eiscue", "Shiny Eiscue-Noice"],
 	},
 	shinyeiscuenoice: {
-		num: 875,
+		num: 9999875,
 		name: "Shiny Eiscue-Noice",
 		baseSpecies: "Shiny Eiscue",
 		forme: "Noice",
@@ -36780,7 +36780,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		battleOnly: "Shiny Eiscue",
 	},
 	shinyindeedee: {
-		num: 876,
+		num: 9999876,
 		name: "Shiny Indeedee",
 		baseForme: "M",
 		types: ["Psychic", "Normal"],
@@ -36796,7 +36796,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		mother: 'indeedeef',
 	},
 	shinyindeedeef: {
-		num: 876,
+		num: 9999876,
 		name: "Shiny Indeedee-F",
 		baseSpecies: "Shiny Indeedee",
 		forme: "F",
@@ -36810,7 +36810,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Fairy"],
 	},
 	shinymorpeko: {
-		num: 877,
+		num: 9999877,
 		name: "Shiny Morpeko",
 		baseForme: "Full-Belly",
 		types: ["Electric", "Dark"],
@@ -36824,7 +36824,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Morpeko", "Shiny Morpeko-Hangry"],
 	},
 	shinymorpekohangry: {
-		num: 877,
+		num: 9999877,
 		name: "Shiny Morpeko-Hangry",
 		baseSpecies: "Shiny Morpeko",
 		forme: "Hangry",
@@ -36839,7 +36839,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		battleOnly: "Shiny Morpeko",
 	},
 	shinycufant: {
-		num: 878,
+		num: 9999878,
 		name: "Shiny Cufant",
 		types: ["Steel"],
 		baseStats: { hp: 72, atk: 80, def: 49, spa: 40, spd: 49, spe: 40 },
@@ -36851,7 +36851,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field", "Mineral"],
 	},
 	shinycopperajah: {
-		num: 879,
+		num: 9999879,
 		name: "Shiny Copperajah",
 		types: ["Steel"],
 		baseStats: { hp: 122, atk: 130, def: 69, spa: 80, spd: 69, spe: 30 },
@@ -36865,7 +36865,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		canGigantamax: "G-Max Steelsurge",
 	},
 	shinycopperajahgmax: {
-		num: 879,
+		num: 9999879,
 		name: "Shiny Copperajah-Gmax",
 		baseSpecies: "Shiny Copperajah",
 		forme: "Gmax",
@@ -36879,7 +36879,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		changesFrom: "Shiny Copperajah",
 	},
 	shinydracozolt: {
-		num: 880,
+		num: 9999880,
 		name: "Shiny Dracozolt",
 		types: ["Electric", "Dragon"],
 		gender: "F",
@@ -36891,7 +36891,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Undiscovered"],
 	},
 	shinyarctozolt: {
-		num: 881,
+		num: 9999881,
 		name: "Shiny Arctozolt",
 		types: ["Electric", "Ice"],
 		gender: "F",
@@ -36903,7 +36903,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Undiscovered"],
 	},
 	shinydracovish: {
-		num: 882,
+		num: 9999882,
 		name: "Shiny Dracovish",
 		types: ["Water", "Dragon"],
 		gender: "F",
@@ -36915,7 +36915,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Undiscovered"],
 	},
 	shinyarctovish: {
-		num: 883,
+		num: 9999883,
 		name: "Shiny Arctovish",
 		types: ["Water", "Ice"],
 		gender: "F",
@@ -36927,7 +36927,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Undiscovered"],
 	},
 	shinyduraludon: {
-		num: 884,
+		num: 9999884,
 		name: "Shiny Duraludon",
 		types: ["Steel", "Dragon"],
 		baseStats: { hp: 70, atk: 95, def: 115, spa: 120, spd: 50, spe: 85 },
@@ -36940,7 +36940,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		canGigantamax: "G-Max Depletion",
 	},
 	shinyduraludongmax: {
-		num: 884,
+		num: 9999884,
 		name: "Shiny Duraludon-Gmax",
 		baseSpecies: "Shiny Duraludon",
 		forme: "Gmax",
@@ -36954,7 +36954,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		changesFrom: "Shiny Duraludon",
 	},
 	shinydreepy: {
-		num: 885,
+		num: 9999885,
 		name: "Shiny Dreepy",
 		types: ["Dragon", "Ghost"],
 		baseStats: { hp: 28, atk: 60, def: 30, spa: 40, spd: 30, spe: 82 },
@@ -36966,7 +36966,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Amorphous", "Dragon"],
 	},
 	shinydrakloak: {
-		num: 886,
+		num: 9999886,
 		name: "Shiny Drakloak",
 		types: ["Dragon", "Ghost"],
 		baseStats: { hp: 68, atk: 80, def: 50, spa: 60, spd: 50, spe: 102 },
@@ -36980,7 +36980,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Amorphous", "Dragon"],
 	},
 	shinydragapult: {
-		num: 887,
+		num: 9999887,
 		name: "Shiny Dragapult",
 		types: ["Dragon", "Ghost"],
 		baseStats: { hp: 88, atk: 120, def: 75, spa: 100, spd: 75, spe: 142 },
@@ -36993,7 +36993,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Amorphous", "Dragon"],
 	},
 	shinyzacian: {
-		num: 888,
+		num: 9999888,
 		name: "Shiny Zacian",
 		baseForme: "Hero",
 		types: ["Fairy"],
@@ -37010,7 +37010,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		cannotDynamax: true,
 	},
 	shinyzaciancrowned: {
-		num: 888,
+		num: 9999888,
 		name: "Shiny Zacian-Crowned",
 		baseSpecies: "Shiny Zacian",
 		forme: "Crowned",
@@ -37027,7 +37027,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		cannotDynamax: true,
 	},
 	shinyzamazenta: {
-		num: 889,
+		num: 9999889,
 		name: "Shiny Zamazenta",
 		baseForme: "Hero",
 		types: ["Fighting"],
@@ -37044,7 +37044,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		cannotDynamax: true,
 	},
 	shinyzamazentacrowned: {
-		num: 889,
+		num: 9999889,
 		name: "Shiny Zamazenta-Crowned",
 		baseSpecies: "Shiny Zamazenta",
 		forme: "Crowned",
@@ -37061,7 +37061,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		cannotDynamax: true,
 	},
 	shinyeternatus: {
-		num: 890,
+		num: 9999890,
 		name: "Shiny Eternatus",
 		types: ["Poison", "Dragon"],
 		gender: "F",
@@ -37077,7 +37077,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		cannotDynamax: true,
 	},
 	shinyeternatuseternamax: {
-		num: 890,
+		num: 9999890,
 		name: "Shiny Eternatus-Eternamax",
 		baseSpecies: "Shiny Eternatus",
 		forme: "Eternamax",
@@ -37092,7 +37092,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		cannotDynamax: true,
 	},
 	shinykubfu: {
-		num: 891,
+		num: 9999891,
 		name: "Shiny Kubfu",
 		types: ["Fighting"],
 		gender: "F",
@@ -37106,7 +37106,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Undiscovered"],
 	},
 	shinyurshifu: {
-		num: 892,
+		num: 9999892,
 		name: "Shiny Urshifu",
 		baseForme: "Single-Strike",
 		types: ["Fighting", "Dark"],
@@ -37126,7 +37126,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		canGigantamax: "G-Max One Blow",
 	},
 	shinyurshifurapidstrike: {
-		num: 892,
+		num: 9999892,
 		name: "Shiny Urshifu-Rapid-Strike",
 		baseSpecies: "Shiny Urshifu",
 		forme: "Rapid-Strike",
@@ -37144,7 +37144,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		canGigantamax: "G-Max Rapid Flow",
 	},
 	shinyurshifugmax: {
-		num: 892,
+		num: 9999892,
 		name: "Shiny Urshifu-Gmax",
 		baseSpecies: "Shiny Urshifu",
 		forme: "Gmax",
@@ -37159,7 +37159,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		changesFrom: "Shiny Urshifu",
 	},
 	shinyurshifurapidstrikegmax: {
-		num: 892,
+		num: 9999892,
 		name: "Shiny Urshifu-Rapid-Strike-Gmax",
 		baseSpecies: "Shiny Urshifu",
 		forme: "Rapid-Strike-Gmax",
@@ -37175,7 +37175,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		changesFrom: "Shiny Urshifu-Rapid-Strike",
 	},
 	shinyzarude: {
-		num: 893,
+		num: 9999893,
 		name: "Shiny Zarude",
 		types: ["Dark", "Grass"],
 		gender: "F",
@@ -37190,7 +37190,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Zarude", "Shiny Zarude-Dada"],
 	},
 	shinyzarudedada: {
-		num: 893,
+		num: 9999893,
 		name: "Shiny Zarude-Dada",
 		baseSpecies: "Shiny Zarude",
 		forme: "Dada",
@@ -37204,7 +37204,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Undiscovered"],
 	},
 	shinyregieleki: {
-		num: 894,
+		num: 9999894,
 		name: "Shiny Regieleki",
 		types: ["Electric"],
 		gender: "F",
@@ -37217,7 +37217,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Undiscovered"],
 	},
 	shinyregidrago: {
-		num: 895,
+		num: 9999895,
 		name: "Shiny Regidrago",
 		types: ["Dragon"],
 		gender: "F",
@@ -37230,7 +37230,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Undiscovered"],
 	},
 	shinyglastrier: {
-		num: 896,
+		num: 9999896,
 		name: "Shiny Glastrier",
 		types: ["Ice"],
 		gender: "F",
@@ -37243,7 +37243,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Undiscovered"],
 	},
 	shinyspectrier: {
-		num: 897,
+		num: 9999897,
 		name: "Shiny Spectrier",
 		types: ["Ghost"],
 		gender: "F",
@@ -37256,7 +37256,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Undiscovered"],
 	},
 	shinycalyrex: {
-		num: 898,
+		num: 9999898,
 		name: "Shiny Calyrex",
 		types: ["Psychic", "Grass"],
 		gender: "F",
@@ -37271,7 +37271,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Calyrex", "Shiny Calyrex-Ice", "Shiny Calyrex-Shadow"],
 	},
 	shinycalyrexice: {
-		num: 898,
+		num: 9999898,
 		name: "Shiny Calyrex-Ice",
 		baseSpecies: "Shiny Calyrex",
 		forme: "Ice",
@@ -37286,7 +37286,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		changesFrom: "Shiny Calyrex",
 	},
 	shinycalyrexshadow: {
-		num: 898,
+		num: 9999898,
 		name: "Shiny Calyrex-Shadow",
 		baseSpecies: "Shiny Calyrex",
 		forme: "Shadow",
@@ -37301,7 +37301,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		changesFrom: "Shiny Calyrex",
 	},
 	shinywyrdeer: {
-		num: 899,
+		num: 9999899,
 		name: "Shiny Wyrdeer",
 		types: ["Normal", "Psychic"],
 		baseStats: { hp: 103, atk: 105, def: 72, spa: 105, spd: 75, spe: 65 },
@@ -37315,7 +37315,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field"],
 	},
 	shinykleavor: {
-		num: 900,
+		num: 9999900,
 		name: "Shiny Kleavor",
 		types: ["Bug", "Rock"],
 		baseStats: { hp: 70, atk: 135, def: 95, spa: 45, spd: 70, spe: 85 },
@@ -37329,7 +37329,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Bug"],
 	},
 	shinyursaluna: {
-		num: 901,
+		num: 9999901,
 		name: "Shiny Ursaluna",
 		types: ["Ground", "Normal"],
 		baseStats: { hp: 130, atk: 140, def: 105, spa: 45, spd: 80, spe: 50 },
@@ -37345,7 +37345,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Ursaluna", "Shiny Ursaluna-Bloodmoon"],
 	},
 	shinyursalunabloodmoon: {
-		num: 901,
+		num: 9999901,
 		name: "Shiny Ursaluna-Bloodmoon",
 		baseSpecies: "Shiny Ursaluna",
 		forme: "Bloodmoon",
@@ -37360,7 +37360,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		gen: 9,
 	},
 	shinybasculegion: {
-		num: 902,
+		num: 9999902,
 		name: "Shiny Basculegion",
 		baseForme: "M",
 		types: ["Water", "Ghost"],
@@ -37378,7 +37378,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Basculegion", "Shiny Basculegion-F"],
 	},
 	shinybasculegionf: {
-		num: 902,
+		num: 9999902,
 		name: "Shiny Basculegion-F",
 		baseSpecies: "Shiny Basculegion",
 		forme: "F",
@@ -37395,7 +37395,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Water 2"],
 	},
 	shinysneasler: {
-		num: 903,
+		num: 9999903,
 		name: "Shiny Sneasler",
 		types: ["Fighting", "Poison"],
 		baseStats: { hp: 80, atk: 130, def: 60, spa: 40, spd: 80, spe: 120 },
@@ -37410,7 +37410,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field"],
 	},
 	shinyoverqwil: {
-		num: 904,
+		num: 9999904,
 		name: "Shiny Overqwil",
 		types: ["Dark", "Poison"],
 		baseStats: { hp: 85, atk: 115, def: 95, spa: 65, spd: 65, spe: 85 },
@@ -37424,7 +37424,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Water 2"],
 	},
 	shinyenamorus: {
-		num: 905,
+		num: 9999905,
 		name: "Shiny Enamorus",
 		baseForme: "Incarnate",
 		types: ["Fairy", "Flying"],
@@ -37440,7 +37440,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Enamorus", "Shiny Enamorus-Therian"],
 	},
 	shinyenamorustherian: {
-		num: 905,
+		num: 9999905,
 		name: "Shiny Enamorus-Therian",
 		baseSpecies: "Shiny Enamorus",
 		forme: "Therian",
@@ -37455,7 +37455,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		changesFrom: "Shiny Enamorus",
 	},
 	shinysprigatito: {
-		num: 906,
+		num: 9999906,
 		name: "Shiny Sprigatito",
 		types: ["Grass"],
 		gender: "F",
@@ -37468,7 +37468,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field", "Grass"],
 	},
 	shinyfloragato: {
-		num: 907,
+		num: 9999907,
 		name: "Shiny Floragato",
 		types: ["Grass"],
 		gender: "F",
@@ -37483,7 +37483,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field", "Grass"],
 	},
 	shinymeowscarada: {
-		num: 908,
+		num: 9999908,
 		name: "Shiny Meowscarada",
 		types: ["Grass", "Dark"],
 		gender: "F",
@@ -37497,7 +37497,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field", "Grass"],
 	},
 	shinyfuecoco: {
-		num: 909,
+		num: 9999909,
 		name: "Shiny Fuecoco",
 		types: ["Fire"],
 		gender: "F",
@@ -37510,7 +37510,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field"],
 	},
 	shinycrocalor: {
-		num: 910,
+		num: 9999910,
 		name: "Shiny Crocalor",
 		types: ["Fire"],
 		gender: "F",
@@ -37525,7 +37525,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field"],
 	},
 	shinyskeledirge: {
-		num: 911,
+		num: 9999911,
 		name: "Shiny Skeledirge",
 		types: ["Fire", "Ghost"],
 		gender: "F",
@@ -37539,7 +37539,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field"],
 	},
 	shinyquaxly: {
-		num: 912,
+		num: 9999912,
 		name: "Shiny Quaxly",
 		types: ["Water"],
 		gender: "F",
@@ -37552,7 +37552,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Flying", "Water 1"],
 	},
 	shinyquaxwell: {
-		num: 913,
+		num: 9999913,
 		name: "Shiny Quaxwell",
 		types: ["Water"],
 		gender: "F",
@@ -37567,7 +37567,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Flying", "Water 1"],
 	},
 	shinyquaquaval: {
-		num: 914,
+		num: 9999914,
 		name: "Shiny Quaquaval",
 		types: ["Water", "Fighting"],
 		gender: "F",
@@ -37581,7 +37581,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Flying", "Water 1"],
 	},
 	shinylechonk: {
-		num: 915,
+		num: 9999915,
 		name: "Shiny Lechonk",
 		types: ["Normal"],
 		baseStats: { hp: 54, atk: 45, def: 40, spa: 35, spd: 45, spe: 35 },
@@ -37593,7 +37593,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field"],
 	},
 	shinyoinkologne: {
-		num: 916,
+		num: 9999916,
 		name: "Shiny Oinkologne",
 		baseForme: "M",
 		types: ["Normal"],
@@ -37610,7 +37610,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field"],
 	},
 	shinyoinkolognef: {
-		num: 916,
+		num: 9999916,
 		name: "Shiny Oinkologne-F",
 		baseSpecies: "Shiny Oinkologne",
 		forme: "F",
@@ -37626,7 +37626,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field"],
 	},
 	shinytarountula: {
-		num: 917,
+		num: 9999917,
 		name: "Shiny Tarountula",
 		types: ["Bug"],
 		baseStats: { hp: 35, atk: 41, def: 45, spa: 29, spd: 40, spe: 20 },
@@ -37638,7 +37638,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Bug"],
 	},
 	shinyspidops: {
-		num: 918,
+		num: 9999918,
 		name: "Shiny Spidops",
 		types: ["Bug"],
 		baseStats: { hp: 60, atk: 79, def: 92, spa: 52, spd: 86, spe: 35 },
@@ -37651,7 +37651,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Bug"],
 	},
 	shinynymble: {
-		num: 919,
+		num: 9999919,
 		name: "Shiny Nymble",
 		types: ["Bug"],
 		baseStats: { hp: 33, atk: 46, def: 40, spa: 21, spd: 25, spe: 45 },
@@ -37663,7 +37663,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Bug"],
 	},
 	shinylokix: {
-		num: 920,
+		num: 9999920,
 		name: "Shiny Lokix",
 		types: ["Bug", "Dark"],
 		baseStats: { hp: 71, atk: 102, def: 78, spa: 52, spd: 55, spe: 92 },
@@ -37676,7 +37676,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Bug"],
 	},
 	shinypawmi: {
-		num: 921,
+		num: 9999921,
 		name: "Shiny Pawmi",
 		types: ["Electric"],
 		baseStats: { hp: 45, atk: 50, def: 20, spa: 40, spd: 25, spe: 60 },
@@ -37688,7 +37688,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field"],
 	},
 	shinypawmo: {
-		num: 922,
+		num: 9999922,
 		name: "Shiny Pawmo",
 		types: ["Electric", "Fighting"],
 		baseStats: { hp: 60, atk: 75, def: 40, spa: 50, spd: 40, spe: 85 },
@@ -37702,7 +37702,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field"],
 	},
 	shinypawmot: {
-		num: 923,
+		num: 9999923,
 		name: "Shiny Pawmot",
 		types: ["Electric", "Fighting"],
 		baseStats: { hp: 70, atk: 115, def: 70, spa: 70, spd: 60, spe: 105 },
@@ -37716,7 +37716,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field"],
 	},
 	shinytandemaus: {
-		num: 924,
+		num: 9999924,
 		name: "Shiny Tandemaus",
 		types: ["Normal"],
 		gender: "F",
@@ -37729,7 +37729,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field", "Fairy"],
 	},
 	shinymaushold: {
-		num: 925,
+		num: 9999925,
 		name: "Shiny Maushold",
 		baseForme: "Three",
 		types: ["Normal"],
@@ -37746,7 +37746,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field", "Fairy"],
 	},
 	shinymausholdfour: {
-		num: 925,
+		num: 9999925,
 		name: "Shiny Maushold-Four",
 		baseSpecies: "Shiny Maushold",
 		forme: "Four",
@@ -37762,7 +37762,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field", "Fairy"],
 	},
 	shinyfidough: {
-		num: 926,
+		num: 9999926,
 		name: "Shiny Fidough",
 		types: ["Fairy"],
 		baseStats: { hp: 37, atk: 55, def: 70, spa: 30, spd: 55, spe: 65 },
@@ -37774,7 +37774,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field", "Mineral"],
 	},
 	shinydachsbun: {
-		num: 927,
+		num: 9999927,
 		name: "Shiny Dachsbun",
 		types: ["Fairy"],
 		baseStats: { hp: 57, atk: 80, def: 115, spa: 50, spd: 80, spe: 95 },
@@ -37787,7 +37787,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field", "Mineral"],
 	},
 	shinysmoliv: {
-		num: 928,
+		num: 9999928,
 		name: "Shiny Smoliv",
 		types: ["Grass", "Normal"],
 		baseStats: { hp: 41, atk: 35, def: 45, spa: 58, spd: 51, spe: 30 },
@@ -37799,7 +37799,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Grass"],
 	},
 	shinydolliv: {
-		num: 929,
+		num: 9999929,
 		name: "Shiny Dolliv",
 		types: ["Grass", "Normal"],
 		baseStats: { hp: 52, atk: 53, def: 60, spa: 78, spd: 78, spe: 33 },
@@ -37813,7 +37813,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Grass"],
 	},
 	shinyarboliva: {
-		num: 930,
+		num: 9999930,
 		name: "Shiny Arboliva",
 		types: ["Grass", "Normal"],
 		baseStats: { hp: 78, atk: 69, def: 90, spa: 125, spd: 109, spe: 39 },
@@ -37826,7 +37826,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Grass"],
 	},
 	shinysquawkabilly: {
-		num: 931,
+		num: 9999931,
 		name: "Shiny Squawkabilly",
 		baseForme: "Green",
 		types: ["Normal", "Flying"],
@@ -37840,7 +37840,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Flying"],
 	},
 	shinysquawkabillyblue: {
-		num: 931,
+		num: 9999931,
 		name: "Shiny Squawkabilly-Blue",
 		baseSpecies: "Shiny Squawkabilly",
 		forme: "Blue",
@@ -37853,7 +37853,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Flying"],
 	},
 	shinysquawkabillyyellow: {
-		num: 931,
+		num: 9999931,
 		name: "Shiny Squawkabilly-Yellow",
 		baseSpecies: "Shiny Squawkabilly",
 		forme: "Yellow",
@@ -37866,7 +37866,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Flying"],
 	},
 	shinysquawkabillywhite: {
-		num: 931,
+		num: 9999931,
 		name: "Shiny Squawkabilly-White",
 		baseSpecies: "Shiny Squawkabilly",
 		forme: "White",
@@ -37879,7 +37879,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Flying"],
 	},
 	shinynacli: {
-		num: 932,
+		num: 9999932,
 		name: "Shiny Nacli",
 		types: ["Rock"],
 		baseStats: { hp: 55, atk: 55, def: 75, spa: 35, spd: 35, spe: 25 },
@@ -37891,7 +37891,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Mineral"],
 	},
 	shinynaclstack: {
-		num: 933,
+		num: 9999933,
 		name: "Shiny Naclstack",
 		types: ["Rock"],
 		baseStats: { hp: 60, atk: 60, def: 100, spa: 35, spd: 65, spe: 35 },
@@ -37905,7 +37905,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Mineral"],
 	},
 	shinygarganacl: {
-		num: 934,
+		num: 9999934,
 		name: "Shiny Garganacl",
 		types: ["Rock"],
 		baseStats: { hp: 100, atk: 100, def: 130, spa: 45, spd: 90, spe: 35 },
@@ -37918,7 +37918,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Mineral"],
 	},
 	shinycharcadet: {
-		num: 935,
+		num: 9999935,
 		name: "Shiny Charcadet",
 		types: ["Fire"],
 		baseStats: { hp: 40, atk: 50, def: 40, spa: 50, spd: 40, spe: 35 },
@@ -37930,7 +37930,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Human-Like"],
 	},
 	shinyarmarouge: {
-		num: 936,
+		num: 9999936,
 		name: "Shiny Armarouge",
 		types: ["Fire", "Psychic"],
 		baseStats: { hp: 85, atk: 60, def: 100, spa: 125, spd: 80, spe: 75 },
@@ -37944,7 +37944,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Human-Like"],
 	},
 	shinyceruledge: {
-		num: 937,
+		num: 9999937,
 		name: "Shiny Ceruledge",
 		types: ["Fire", "Ghost"],
 		baseStats: { hp: 75, atk: 125, def: 80, spa: 60, spd: 100, spe: 85 },
@@ -37958,7 +37958,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Human-Like"],
 	},
 	shinytadbulb: {
-		num: 938,
+		num: 9999938,
 		name: "Shiny Tadbulb",
 		types: ["Electric"],
 		baseStats: { hp: 61, atk: 31, def: 41, spa: 59, spd: 35, spe: 45 },
@@ -37970,7 +37970,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Water 1"],
 	},
 	shinybellibolt: {
-		num: 939,
+		num: 9999939,
 		name: "Shiny Bellibolt",
 		types: ["Electric"],
 		baseStats: { hp: 109, atk: 64, def: 91, spa: 103, spd: 83, spe: 45 },
@@ -37984,7 +37984,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Water 1"],
 	},
 	shinywattrel: {
-		num: 940,
+		num: 9999940,
 		name: "Shiny Wattrel",
 		types: ["Electric", "Flying"],
 		baseStats: { hp: 40, atk: 40, def: 35, spa: 55, spd: 40, spe: 70 },
@@ -37996,7 +37996,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Water 1", "Flying"],
 	},
 	shinykilowattrel: {
-		num: 941,
+		num: 9999941,
 		name: "Shiny Kilowattrel",
 		types: ["Electric", "Flying"],
 		baseStats: { hp: 70, atk: 70, def: 60, spa: 105, spd: 60, spe: 125 },
@@ -38009,7 +38009,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Water 1", "Flying"],
 	},
 	shinymaschiff: {
-		num: 942,
+		num: 9999942,
 		name: "Shiny Maschiff",
 		types: ["Dark"],
 		baseStats: { hp: 60, atk: 78, def: 60, spa: 40, spd: 51, spe: 51 },
@@ -38021,7 +38021,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field"],
 	},
 	shinymabosstiff: {
-		num: 943,
+		num: 9999943,
 		name: "Shiny Mabosstiff",
 		types: ["Dark"],
 		baseStats: { hp: 80, atk: 120, def: 90, spa: 60, spd: 70, spe: 85 },
@@ -38034,7 +38034,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field"],
 	},
 	shinyshroodle: {
-		num: 944,
+		num: 9999944,
 		name: "Shiny Shroodle",
 		types: ["Poison", "Normal"],
 		baseStats: { hp: 40, atk: 65, def: 35, spa: 40, spd: 35, spe: 75 },
@@ -38046,7 +38046,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field"],
 	},
 	shinygrafaiai: {
-		num: 945,
+		num: 9999945,
 		name: "Shiny Grafaiai",
 		types: ["Poison", "Normal"],
 		baseStats: { hp: 63, atk: 95, def: 65, spa: 80, spd: 72, spe: 110 },
@@ -38059,7 +38059,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field"],
 	},
 	shinybramblin: {
-		num: 946,
+		num: 9999946,
 		name: "Shiny Bramblin",
 		types: ["Grass", "Ghost"],
 		baseStats: { hp: 40, atk: 65, def: 30, spa: 45, spd: 35, spe: 60 },
@@ -38071,7 +38071,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Grass"],
 	},
 	shinybrambleghast: {
-		num: 947,
+		num: 9999947,
 		name: "Shiny Brambleghast",
 		types: ["Grass", "Ghost"],
 		baseStats: { hp: 55, atk: 115, def: 70, spa: 80, spd: 70, spe: 90 },
@@ -38085,7 +38085,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Grass"],
 	},
 	shinytoedscool: {
-		num: 948,
+		num: 9999948,
 		name: "Shiny Toedscool",
 		types: ["Ground", "Grass"],
 		baseStats: { hp: 40, atk: 40, def: 35, spa: 50, spd: 100, spe: 70 },
@@ -38097,7 +38097,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field"],
 	},
 	shinytoedscruel: {
-		num: 949,
+		num: 9999949,
 		name: "Shiny Toedscruel",
 		types: ["Ground", "Grass"],
 		baseStats: { hp: 80, atk: 70, def: 65, spa: 80, spd: 120, spe: 100 },
@@ -38110,7 +38110,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field"],
 	},
 	shinyklawf: {
-		num: 950,
+		num: 9999950,
 		name: "Shiny Klawf",
 		types: ["Rock"],
 		baseStats: { hp: 70, atk: 100, def: 115, spa: 35, spd: 55, spe: 75 },
@@ -38121,7 +38121,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Water 3"],
 	},
 	shinycapsakid: {
-		num: 951,
+		num: 9999951,
 		name: "Shiny Capsakid",
 		types: ["Grass"],
 		baseStats: { hp: 50, atk: 62, def: 40, spa: 62, spd: 40, spe: 50 },
@@ -38133,7 +38133,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Grass"],
 	},
 	shinyscovillain: {
-		num: 952,
+		num: 9999952,
 		name: "Shiny Scovillain",
 		types: ["Grass", "Fire"],
 		baseStats: { hp: 65, atk: 108, def: 65, spa: 108, spd: 65, spe: 75 },
@@ -38149,7 +38149,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Scovillain", "Shiny Scovillain-Mega"],
 	},
 	shinyscovillainmega: {
-		num: 952,
+		num: 9999952,
 		name: "Shiny Scovillain-Mega",
 		baseSpecies: "Shiny Scovillain",
 		forme: "Mega",
@@ -38163,7 +38163,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		requiredItem: "Scovillainite",
 	},
 	shinyrellor: {
-		num: 953,
+		num: 9999953,
 		name: "Shiny Rellor",
 		types: ["Bug"],
 		baseStats: { hp: 41, atk: 50, def: 60, spa: 31, spd: 58, spe: 30 },
@@ -38175,7 +38175,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Bug"],
 	},
 	shinyrabsca: {
-		num: 954,
+		num: 9999954,
 		name: "Shiny Rabsca",
 		types: ["Bug", "Psychic"],
 		baseStats: { hp: 75, atk: 50, def: 85, spa: 115, spd: 100, spe: 45 },
@@ -38189,7 +38189,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Bug"],
 	},
 	shinyflittle: {
-		num: 955,
+		num: 9999955,
 		name: "Shiny Flittle",
 		types: ["Psychic"],
 		baseStats: { hp: 30, atk: 35, def: 30, spa: 55, spd: 30, spe: 75 },
@@ -38201,7 +38201,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Flying"],
 	},
 	shinyespathra: {
-		num: 956,
+		num: 9999956,
 		name: "Shiny Espathra",
 		types: ["Psychic"],
 		baseStats: { hp: 95, atk: 60, def: 60, spa: 101, spd: 60, spe: 105 },
@@ -38214,7 +38214,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Flying"],
 	},
 	shinytinkatink: {
-		num: 957,
+		num: 9999957,
 		name: "Shiny Tinkatink",
 		types: ["Fairy", "Steel"],
 		gender: "F",
@@ -38227,7 +38227,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Fairy"],
 	},
 	shinytinkatuff: {
-		num: 958,
+		num: 9999958,
 		name: "Shiny Tinkatuff",
 		types: ["Fairy", "Steel"],
 		gender: "F",
@@ -38242,7 +38242,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Fairy"],
 	},
 	shinytinkaton: {
-		num: 959,
+		num: 9999959,
 		name: "Shiny Tinkaton",
 		types: ["Fairy", "Steel"],
 		gender: "F",
@@ -38256,7 +38256,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Fairy"],
 	},
 	shinywiglett: {
-		num: 960,
+		num: 9999960,
 		name: "Shiny Wiglett",
 		types: ["Water"],
 		baseStats: { hp: 10, atk: 55, def: 25, spa: 35, spd: 25, spe: 95 },
@@ -38268,7 +38268,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Water 3"],
 	},
 	shinywugtrio: {
-		num: 961,
+		num: 9999961,
 		name: "Shiny Wugtrio",
 		types: ["Water"],
 		baseStats: { hp: 35, atk: 100, def: 50, spa: 50, spd: 70, spe: 120 },
@@ -38281,7 +38281,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Water 3"],
 	},
 	shinybombirdier: {
-		num: 962,
+		num: 9999962,
 		name: "Shiny Bombirdier",
 		types: ["Flying", "Dark"],
 		baseStats: { hp: 70, atk: 103, def: 85, spa: 60, spd: 85, spe: 82 },
@@ -38292,7 +38292,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Flying"],
 	},
 	shinyfinizen: {
-		num: 963,
+		num: 9999963,
 		name: "Shiny Finizen",
 		types: ["Water"],
 		baseStats: { hp: 70, atk: 45, def: 40, spa: 45, spd: 40, spe: 75 },
@@ -38304,7 +38304,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field", "Water 2"],
 	},
 	shinypalafin: {
-		num: 964,
+		num: 9999964,
 		name: "Shiny Palafin",
 		baseForme: "Zero",
 		types: ["Water"],
@@ -38320,7 +38320,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field", "Water 2"],
 	},
 	shinypalafinhero: {
-		num: 964,
+		num: 9999964,
 		name: "Shiny Palafin-Hero",
 		baseSpecies: "Shiny Palafin",
 		forme: "Hero",
@@ -38335,7 +38335,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		battleOnly: "Shiny Palafin",
 	},
 	shinyvaroom: {
-		num: 965,
+		num: 9999965,
 		name: "Shiny Varoom",
 		types: ["Steel", "Poison"],
 		baseStats: { hp: 45, atk: 70, def: 63, spa: 30, spd: 45, spe: 47 },
@@ -38347,7 +38347,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Mineral"],
 	},
 	shinyrevavroom: {
-		num: 966,
+		num: 9999966,
 		name: "Shiny Revavroom",
 		types: ["Steel", "Poison"],
 		baseStats: { hp: 80, atk: 119, def: 90, spa: 54, spd: 67, spe: 90 },
@@ -38360,7 +38360,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Mineral"],
 	},
 	shinycyclizar: {
-		num: 967,
+		num: 9999967,
 		name: "Shiny Cyclizar",
 		types: ["Dragon", "Normal"],
 		baseStats: { hp: 70, atk: 95, def: 65, spa: 85, spd: 65, spe: 121 },
@@ -38371,7 +38371,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field"],
 	},
 	shinyorthworm: {
-		num: 968,
+		num: 9999968,
 		name: "Shiny Orthworm",
 		types: ["Steel"],
 		baseStats: { hp: 70, atk: 85, def: 145, spa: 60, spd: 55, spe: 65 },
@@ -38382,7 +38382,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field"],
 	},
 	shinyglimmet: {
-		num: 969,
+		num: 9999969,
 		name: "Shiny Glimmet",
 		types: ["Rock", "Poison"],
 		baseStats: { hp: 48, atk: 35, def: 42, spa: 105, spd: 60, spe: 60 },
@@ -38394,7 +38394,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Mineral"],
 	},
 	shinyglimmora: {
-		num: 970,
+		num: 9999970,
 		name: "Shiny Glimmora",
 		types: ["Rock", "Poison"],
 		baseStats: { hp: 83, atk: 55, def: 90, spa: 130, spd: 81, spe: 86 },
@@ -38409,7 +38409,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Glimmora", "Shiny Glimmora-Mega"],
 	},
 	shinyglimmoramega: {
-		num: 970,
+		num: 9999970,
 		name: "Shiny Glimmora-Mega",
 		baseSpecies: "Shiny Glimmora",
 		forme: "Mega",
@@ -38423,7 +38423,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		requiredItem: "Glimmoranite",
 	},
 	shinygreavard: {
-		num: 971,
+		num: 9999971,
 		name: "Shiny Greavard",
 		types: ["Ghost"],
 		baseStats: { hp: 50, atk: 61, def: 60, spa: 30, spd: 55, spe: 34 },
@@ -38435,7 +38435,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field"],
 	},
 	shinyhoundstone: {
-		num: 972,
+		num: 9999972,
 		name: "Shiny Houndstone",
 		types: ["Ghost"],
 		baseStats: { hp: 72, atk: 101, def: 100, spa: 50, spd: 97, spe: 68 },
@@ -38449,7 +38449,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field"],
 	},
 	shinyflamigo: {
-		num: 973,
+		num: 9999973,
 		name: "Shiny Flamigo",
 		types: ["Flying", "Fighting"],
 		baseStats: { hp: 82, atk: 115, def: 74, spa: 75, spd: 64, spe: 90 },
@@ -38460,7 +38460,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Flying"],
 	},
 	shinycetoddle: {
-		num: 974,
+		num: 9999974,
 		name: "Shiny Cetoddle",
 		types: ["Ice"],
 		baseStats: { hp: 108, atk: 68, def: 45, spa: 30, spd: 40, spe: 43 },
@@ -38472,7 +38472,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field"],
 	},
 	shinycetitan: {
-		num: 975,
+		num: 9999975,
 		name: "Shiny Cetitan",
 		types: ["Ice"],
 		baseStats: { hp: 170, atk: 113, def: 65, spa: 45, spd: 55, spe: 73 },
@@ -38486,7 +38486,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field"],
 	},
 	shinyveluza: {
-		num: 976,
+		num: 9999976,
 		name: "Shiny Veluza",
 		types: ["Water", "Psychic"],
 		baseStats: { hp: 90, atk: 102, def: 73, spa: 78, spd: 65, spe: 70 },
@@ -38497,7 +38497,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Water 2"],
 	},
 	shinydondozo: {
-		num: 977,
+		num: 9999977,
 		name: "Shiny Dondozo",
 		types: ["Water"],
 		baseStats: { hp: 150, atk: 100, def: 115, spa: 65, spd: 65, spe: 35 },
@@ -38508,7 +38508,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Water 2"],
 	},
 	shinytatsugiri: {
-		num: 978,
+		num: 9999978,
 		name: "Shiny Tatsugiri",
 		baseForme: "Curly",
 		types: ["Dragon", "Water"],
@@ -38522,7 +38522,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Tatsugiri", "Shiny Tatsugiri-Droopy", "Shiny Tatsugiri-Stretchy", "Shiny Tatsugiri-Curly-Mega", "Shiny Tatsugiri-Droopy-Mega", "Shiny Tatsugiri-Stretchy-Mega"],
 	},
 	shinytatsugiridroopy: {
-		num: 978,
+		num: 9999978,
 		name: "Shiny Tatsugiri-Droopy",
 		baseSpecies: "Shiny Tatsugiri",
 		forme: "Droopy",
@@ -38535,7 +38535,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Water 2"],
 	},
 	shinytatsugiristretchy: {
-		num: 978,
+		num: 9999978,
 		name: "Shiny Tatsugiri-Stretchy",
 		baseSpecies: "Shiny Tatsugiri",
 		forme: "Stretchy",
@@ -38548,7 +38548,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Water 2"],
 	},
 	shinytatsugiricurlymega: {
-		num: 978,
+		num: 9999978,
 		name: "Shiny Tatsugiri-Curly-Mega",
 		baseSpecies: "Shiny Tatsugiri",
 		forme: "Curly-Mega",
@@ -38563,7 +38563,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		battleOnly: "Shiny Tatsugiri",
 	},
 	shinytatsugiridroopymega: {
-		num: 978,
+		num: 9999978,
 		name: "Shiny Tatsugiri-Droopy-Mega",
 		baseSpecies: "Shiny Tatsugiri",
 		forme: "Droopy-Mega",
@@ -38578,7 +38578,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		battleOnly: "Shiny Tatsugiri-Droopy",
 	},
 	shinytatsugiristretchymega: {
-		num: 978,
+		num: 9999978,
 		name: "Shiny Tatsugiri-Stretchy-Mega",
 		baseSpecies: "Shiny Tatsugiri",
 		forme: "Stretchy-Mega",
@@ -38593,7 +38593,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		battleOnly: "Shiny Tatsugiri-Stretchy",
 	},
 	shinyannihilape: {
-		num: 979,
+		num: 9999979,
 		name: "Shiny Annihilape",
 		types: ["Fighting", "Ghost"],
 		baseStats: { hp: 110, atk: 115, def: 80, spa: 50, spd: 90, spe: 90 },
@@ -38607,7 +38607,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field"],
 	},
 	shinyclodsire: {
-		num: 980,
+		num: 9999980,
 		name: "Shiny Clodsire",
 		types: ["Poison", "Ground"],
 		baseStats: { hp: 130, atk: 75, def: 60, spa: 45, spd: 100, spe: 20 },
@@ -38620,7 +38620,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Water 1", "Field"],
 	},
 	shinyfarigiraf: {
-		num: 981,
+		num: 9999981,
 		name: "Shiny Farigiraf",
 		types: ["Normal", "Psychic"],
 		baseStats: { hp: 120, atk: 90, def: 70, spa: 110, spd: 70, spe: 60 },
@@ -38634,7 +38634,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field"],
 	},
 	shinydudunsparce: {
-		num: 982,
+		num: 9999982,
 		name: "Shiny Dudunsparce",
 		baseForme: "Two-Segment",
 		types: ["Normal"],
@@ -38651,7 +38651,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field"],
 	},
 	shinydudunsparcethreesegment: {
-		num: 982,
+		num: 9999982,
 		name: "Shiny Dudunsparce-Three-Segment",
 		baseSpecies: "Shiny Dudunsparce",
 		forme: "Three-Segment",
@@ -38667,7 +38667,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field"],
 	},
 	shinykingambit: {
-		num: 983,
+		num: 9999983,
 		name: "Shiny Kingambit",
 		types: ["Dark", "Steel"],
 		baseStats: { hp: 100, atk: 135, def: 120, spa: 60, spd: 85, spe: 50 },
@@ -38681,7 +38681,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Human-Like"],
 	},
 	shinygreattusk: {
-		num: 984,
+		num: 9999984,
 		name: "Shiny Great Tusk",
 		types: ["Ground", "Fighting"],
 		gender: "F",
@@ -38694,7 +38694,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Undiscovered"],
 	},
 	shinyscreamtail: {
-		num: 985,
+		num: 9999985,
 		name: "Shiny Scream Tail",
 		types: ["Fairy", "Psychic"],
 		gender: "F",
@@ -38707,7 +38707,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Undiscovered"],
 	},
 	shinybrutebonnet: {
-		num: 986,
+		num: 9999986,
 		name: "Shiny Brute Bonnet",
 		types: ["Grass", "Dark"],
 		gender: "F",
@@ -38720,7 +38720,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Undiscovered"],
 	},
 	shinyfluttermane: {
-		num: 987,
+		num: 9999987,
 		name: "Shiny Flutter Mane",
 		types: ["Ghost", "Fairy"],
 		gender: "F",
@@ -38733,7 +38733,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Undiscovered"],
 	},
 	shinyslitherwing: {
-		num: 988,
+		num: 9999988,
 		name: "Shiny Slither Wing",
 		types: ["Bug", "Fighting"],
 		gender: "F",
@@ -38746,7 +38746,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Undiscovered"],
 	},
 	shinysandyshocks: {
-		num: 989,
+		num: 9999989,
 		name: "Shiny Sandy Shocks",
 		types: ["Electric", "Ground"],
 		gender: "F",
@@ -38759,7 +38759,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Undiscovered"],
 	},
 	shinyirontreads: {
-		num: 990,
+		num: 9999990,
 		name: "Shiny Iron Treads",
 		types: ["Ground", "Steel"],
 		gender: "F",
@@ -38772,7 +38772,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Undiscovered"],
 	},
 	shinyironbundle: {
-		num: 991,
+		num: 9999991,
 		name: "Shiny Iron Bundle",
 		types: ["Ice", "Water"],
 		gender: "F",
@@ -38785,7 +38785,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Undiscovered"],
 	},
 	shinyironhands: {
-		num: 992,
+		num: 9999992,
 		name: "Shiny Iron Hands",
 		types: ["Fighting", "Electric"],
 		gender: "F",
@@ -38798,7 +38798,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Undiscovered"],
 	},
 	shinyironjugulis: {
-		num: 993,
+		num: 9999993,
 		name: "Shiny Iron Jugulis",
 		types: ["Dark", "Flying"],
 		gender: "F",
@@ -38811,7 +38811,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Undiscovered"],
 	},
 	shinyironmoth: {
-		num: 994,
+		num: 9999994,
 		name: "Shiny Iron Moth",
 		types: ["Fire", "Poison"],
 		gender: "F",
@@ -38824,7 +38824,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Undiscovered"],
 	},
 	shinyironthorns: {
-		num: 995,
+		num: 9999995,
 		name: "Shiny Iron Thorns",
 		types: ["Rock", "Electric"],
 		gender: "F",
@@ -38837,7 +38837,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Undiscovered"],
 	},
 	shinyfrigibax: {
-		num: 996,
+		num: 9999996,
 		name: "Shiny Frigibax",
 		types: ["Dragon", "Ice"],
 		baseStats: { hp: 65, atk: 75, def: 45, spa: 35, spd: 45, spe: 55 },
@@ -38849,7 +38849,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Dragon", "Mineral"],
 	},
 	shinyarctibax: {
-		num: 997,
+		num: 9999997,
 		name: "Shiny Arctibax",
 		types: ["Dragon", "Ice"],
 		baseStats: { hp: 90, atk: 95, def: 66, spa: 45, spd: 65, spe: 62 },
@@ -38863,7 +38863,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Dragon", "Mineral"],
 	},
 	shinybaxcalibur: {
-		num: 998,
+		num: 9999998,
 		name: "Shiny Baxcalibur",
 		types: ["Dragon", "Ice"],
 		baseStats: { hp: 115, atk: 145, def: 92, spa: 75, spd: 86, spe: 87 },
@@ -38878,7 +38878,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Baxcalibur", "Shiny Baxcalibur-Mega"],
 	},
 	shinybaxcaliburmega: {
-		num: 998,
+		num: 9999998,
 		name: "Shiny Baxcalibur-Mega",
 		baseSpecies: "Shiny Baxcalibur",
 		forme: "Mega",
@@ -38892,7 +38892,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		requiredItem: "Baxcalibrite",
 	},
 	shinygimmighoul: {
-		num: 999,
+		num: 9999999,
 		name: "Shiny Gimmighoul",
 		baseForme: "Chest",
 		types: ["Ghost"],
@@ -38908,7 +38908,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Undiscovered"],
 	},
 	shinygimmighoulroaming: {
-		num: 999,
+		num: 9999999,
 		name: "Shiny Gimmighoul-Roaming",
 		baseSpecies: "Shiny Gimmighoul",
 		forme: "Roaming",
@@ -38923,7 +38923,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Undiscovered"],
 	},
 	shinygholdengo: {
-		num: 1000,
+		num: 99991000,
 		name: "Shiny Gholdengo",
 		types: ["Steel", "Ghost"],
 		gender: "F",
@@ -38938,7 +38938,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Undiscovered"],
 	},
 	shinywochien: {
-		num: 1001,
+		num: 99991001,
 		name: "Shiny Wo-Chien",
 		types: ["Dark", "Grass"],
 		gender: "F",
@@ -38951,7 +38951,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Undiscovered"],
 	},
 	shinychienpao: {
-		num: 1002,
+		num: 99991002,
 		name: "Shiny Chien-Pao",
 		types: ["Dark", "Ice"],
 		gender: "F",
@@ -38964,7 +38964,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Undiscovered"],
 	},
 	shinytinglu: {
-		num: 1003,
+		num: 99991003,
 		name: "Shiny Ting-Lu",
 		types: ["Dark", "Ground"],
 		gender: "F",
@@ -38977,7 +38977,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Undiscovered"],
 	},
 	shinychiyu: {
-		num: 1004,
+		num: 99991004,
 		name: "Shiny Chi-Yu",
 		types: ["Dark", "Fire"],
 		gender: "F",
@@ -38990,7 +38990,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Undiscovered"],
 	},
 	shinyroaringmoon: {
-		num: 1005,
+		num: 99991005,
 		name: "Shiny Roaring Moon",
 		types: ["Dragon", "Dark"],
 		gender: "F",
@@ -39003,7 +39003,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Undiscovered"],
 	},
 	shinyironvaliant: {
-		num: 1006,
+		num: 99991006,
 		name: "Shiny Iron Valiant",
 		types: ["Fairy", "Fighting"],
 		gender: "F",
@@ -39016,7 +39016,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Undiscovered"],
 	},
 	shinykoraidon: {
-		num: 1007,
+		num: 99991007,
 		name: "Shiny Koraidon",
 		types: ["Fighting", "Dragon"],
 		gender: "F",
@@ -39029,7 +39029,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Undiscovered"],
 	},
 	shinymiraidon: {
-		num: 1008,
+		num: 99991008,
 		name: "Shiny Miraidon",
 		types: ["Electric", "Dragon"],
 		gender: "F",
@@ -39042,7 +39042,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Undiscovered"],
 	},
 	shinywalkingwake: {
-		num: 1009,
+		num: 99991009,
 		name: "Shiny Walking Wake",
 		types: ["Water", "Dragon"],
 		gender: "F",
@@ -39055,7 +39055,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Undiscovered"],
 	},
 	shinyironleaves: {
-		num: 1010,
+		num: 99991010,
 		name: "Shiny Iron Leaves",
 		types: ["Grass", "Psychic"],
 		gender: "F",
@@ -39068,7 +39068,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Undiscovered"],
 	},
 	shinydipplin: {
-		num: 1011,
+		num: 99991011,
 		name: "Shiny Dipplin",
 		types: ["Grass", "Dragon"],
 		baseStats: { hp: 80, atk: 80, def: 110, spa: 95, spd: 80, spe: 40 },
@@ -39083,7 +39083,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Grass", "Dragon"],
 	},
 	shinypoltchageist: {
-		num: 1012,
+		num: 99991012,
 		name: "Shiny Poltchageist",
 		baseForme: "Counterfeit",
 		types: ["Grass", "Ghost"],
@@ -39099,7 +39099,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Poltchageist", "Shiny Poltchageist-Artisan"],
 	},
 	shinypoltchageistartisan: {
-		num: 1012,
+		num: 99991012,
 		name: "Shiny Poltchageist-Artisan",
 		baseSpecies: "Shiny Poltchageist",
 		forme: "Artisan",
@@ -39114,7 +39114,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Undiscovered"],
 	},
 	shinysinistcha: {
-		num: 1013,
+		num: 99991013,
 		name: "Shiny Sinistcha",
 		baseForme: "Unremarkable",
 		types: ["Grass", "Ghost"],
@@ -39132,7 +39132,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Shiny Sinistcha", "Shiny Sinistcha-Masterpiece"],
 	},
 	shinysinistchamasterpiece: {
-		num: 1013,
+		num: 99991013,
 		name: "Shiny Sinistcha-Masterpiece",
 		baseSpecies: "Shiny Sinistcha",
 		forme: "Masterpiece",
@@ -39149,7 +39149,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Undiscovered"],
 	},
 	shinyokidogi: {
-		num: 1014,
+		num: 99991014,
 		name: "Shiny Okidogi",
 		types: ["Poison", "Fighting"],
 		gender: "F",
@@ -39162,7 +39162,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Undiscovered"],
 	},
 	shinymunkidori: {
-		num: 1015,
+		num: 99991015,
 		name: "Shiny Munkidori",
 		types: ["Poison", "Psychic"],
 		gender: "F",
@@ -39175,7 +39175,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Undiscovered"],
 	},
 	shinyfezandipiti: {
-		num: 1016,
+		num: 99991016,
 		name: "Shiny Fezandipiti",
 		types: ["Poison", "Fairy"],
 		gender: "F",
@@ -39188,7 +39188,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Undiscovered"],
 	},
 	shinyogerpon: {
-		num: 1017,
+		num: 99991017,
 		name: "Shiny Ogerpon",
 		baseForme: "Teal",
 		types: ["Grass"],
@@ -39205,7 +39205,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		requiredTeraType: "Grass",
 	},
 	shinyogerponwellspring: {
-		num: 1017,
+		num: 99991017,
 		name: "Shiny Ogerpon-Wellspring",
 		baseSpecies: "Shiny Ogerpon",
 		forme: "Wellspring",
@@ -39222,7 +39222,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		requiredTeraType: "Water",
 	},
 	shinyogerponhearthflame: {
-		num: 1017,
+		num: 99991017,
 		name: "Shiny Ogerpon-Hearthflame",
 		baseSpecies: "Shiny Ogerpon",
 		forme: "Hearthflame",
@@ -39239,7 +39239,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		requiredTeraType: "Fire",
 	},
 	shinyogerponcornerstone: {
-		num: 1017,
+		num: 99991017,
 		name: "Shiny Ogerpon-Cornerstone",
 		baseSpecies: "Shiny Ogerpon",
 		forme: "Cornerstone",
@@ -39256,7 +39256,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		requiredTeraType: "Rock",
 	},
 	shinyogerpontealtera: {
-		num: 1017,
+		num: 99991017,
 		name: "Shiny Ogerpon-Teal-Tera",
 		baseSpecies: "Shiny Ogerpon",
 		forme: "Teal-Tera",
@@ -39272,7 +39272,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		requiredTeraType: "Grass",
 	},
 	shinyogerponwellspringtera: {
-		num: 1017,
+		num: 99991017,
 		name: "Shiny Ogerpon-Wellspring-Tera",
 		baseSpecies: "Shiny Ogerpon",
 		forme: "Wellspring-Tera",
@@ -39289,7 +39289,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		requiredTeraType: "Water",
 	},
 	shinyogerponhearthflametera: {
-		num: 1017,
+		num: 99991017,
 		name: "Shiny Ogerpon-Hearthflame-Tera",
 		baseSpecies: "Shiny Ogerpon",
 		forme: "Hearthflame-Tera",
@@ -39306,7 +39306,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		requiredTeraType: "Fire",
 	},
 	shinyogerponcornerstonetera: {
-		num: 1017,
+		num: 99991017,
 		name: "Shiny Ogerpon-Cornerstone-Tera",
 		baseSpecies: "Shiny Ogerpon",
 		forme: "Cornerstone-Tera",
@@ -39323,7 +39323,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		requiredTeraType: "Rock",
 	},
 	shinyarchaludon: {
-		num: 1018,
+		num: 99991018,
 		name: "Shiny Archaludon",
 		types: ["Steel", "Dragon"],
 		baseStats: { hp: 90, atk: 105, def: 130, spa: 125, spd: 65, spe: 85 },
@@ -39337,7 +39337,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Mineral", "Dragon"],
 	},
 	shinyhydrapple: {
-		num: 1019,
+		num: 99991019,
 		name: "Shiny Hydrapple",
 		types: ["Grass", "Dragon"],
 		baseStats: { hp: 106, atk: 80, def: 110, spa: 120, spd: 80, spe: 44 },
@@ -39351,7 +39351,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Grass", "Dragon"],
 	},
 	shinygougingfire: {
-		num: 1020,
+		num: 99991020,
 		name: "Shiny Gouging Fire",
 		types: ["Fire", "Dragon"],
 		gender: "F",
@@ -39363,7 +39363,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Undiscovered"],
 	},
 	shinyragingbolt: {
-		num: 1021,
+		num: 99991021,
 		name: "Shiny Raging Bolt",
 		types: ["Electric", "Dragon"],
 		gender: "F",
@@ -39375,7 +39375,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Undiscovered"],
 	},
 	shinyironboulder: {
-		num: 1022,
+		num: 99991022,
 		name: "Shiny Iron Boulder",
 		types: ["Rock", "Psychic"],
 		gender: "F",
@@ -39387,7 +39387,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Undiscovered"],
 	},
 	shinyironcrown: {
-		num: 1023,
+		num: 99991023,
 		name: "Shiny Iron Crown",
 		types: ["Steel", "Psychic"],
 		gender: "F",
@@ -39399,7 +39399,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Undiscovered"],
 	},
 	shinyterapagos: {
-		num: 1024,
+		num: 99991024,
 		name: "Shiny Terapagos",
 		types: ["Normal"],
 		baseStats: { hp: 90, atk: 65, def: 85, spa: 65, spd: 85, spe: 60 },
@@ -39414,7 +39414,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		requiredTeraType: "Stellar",
 	},
 	shinyterapagosterastal: {
-		num: 1024,
+		num: 99991024,
 		name: "Shiny Terapagos-Terastal",
 		baseSpecies: "Shiny Terapagos",
 		forme: "Terastal",
@@ -39429,7 +39429,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		requiredTeraType: "Stellar",
 	},
 	shinyterapagosstellar: {
-		num: 1024,
+		num: 99991024,
 		name: "Shiny Terapagos-Stellar",
 		baseSpecies: "Shiny Terapagos",
 		forme: "Stellar",
@@ -39444,7 +39444,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		requiredTeraType: "Stellar",
 	},
 	shinypecharunt: {
-		num: 1025,
+		num: 99991025,
 		name: "Shiny Pecharunt",
 		types: ["Poison", "Ghost"],
 		gender: "F",
