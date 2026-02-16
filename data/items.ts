@@ -8495,7 +8495,7 @@ export const Items: import('../sim/dex-items').ItemDataTable = {
 			return !item.megaStone?.[source.baseSpecies.baseSpecies];
 		},
 		num: 2577,
-		gen: 9,
+		gen: 7,
 	},
 	greninjite: {
 		name: "Greninjite",
@@ -8507,7 +8507,7 @@ export const Items: import('../sim/dex-items').ItemDataTable = {
 			return !item.megaStone?.[source.baseSpecies.baseSpecies];
 		},
 		num: 2577,
-		gen: 9,
+		gen: 7,
 	},
 	hawluchanite: {
 		name: "Hawluchanite",
@@ -8740,6 +8740,6 @@ export const Items: import('../sim/dex-items').ItemDataTable = {
 			return !item.megaStone?.[source.baseSpecies.baseSpecies];
 		},
 		num: 2584,
-		gen: 9,
+		gen: 7,
 	},
 };
