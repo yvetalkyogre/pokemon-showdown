@@ -13073,7 +13073,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		forme: "Mega",
 		types: ["Dragon", "Ground"],
 		gender: "M",
-		baseStats: { hp: 100, atk: 121, def: 121, spa: 194, spd: 115, spe: 120 },
+		baseStats: { hp: 100, atk: 125, def: 121, spa: 194, spd: 115, spe: 120 },
 		abilities: { 0: "Berserk" },
 		heightm: 7.7,
 		weightkg: 400,
