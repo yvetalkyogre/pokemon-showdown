@@ -8223,11 +8223,12 @@ export const Items: import('../sim/dex-items').ItemDataTable = {
 	greninjiteii: {
 		name: "Greninjite II",
 		spritenum: 560,
-		megaStone: { "Greninja": "Greninja-Mega II", "Greninja-Ash": "Greninja-Mega II" },
-		itemUser: ["Greninja", "Greninja-Ash"],
+		megaStone: "Greninja-Mega II",
+		megaEvolves: "Greninja",
+		itemUser: ["Greninja"],
 		onTakeItem(item, source) {
-			// TODO: Figure out if this works on Greninja-Bond
-			return !item.megaStone?.[source.baseSpecies.baseSpecies];
+			if (item.megaEvolves === source.baseSpecies.baseSpecies) return false;
+			return true;
 		},
 		num: 2577,
 		gen: 7,
@@ -8235,11 +8236,12 @@ export const Items: import('../sim/dex-items').ItemDataTable = {
 	greninjite: {
 		name: "Greninjite",
 		spritenum: 560,
-		megaStone: { "Greninja": "Greninja-Mega I", "Greninja-Ash": "Greninja-Ash-Mega I" },
-		itemUser: ["Greninja", "Greninja-Ash"],
+		megaStone: "Greninja-Mega I",
+		megaEvolves: "Greninja",
+		itemUser: ["Greninja"],
 		onTakeItem(item, source) {
-			// TODO: Figure out if this works on Greninja-Bond
-			return !item.megaStone?.[source.baseSpecies.baseSpecies];
+			if (item.megaEvolves === source.baseSpecies.baseSpecies) return false;
+			return true;
 		},
 		num: 2577,
 		gen: 7,
@@ -8247,10 +8249,12 @@ export const Items: import('../sim/dex-items').ItemDataTable = {
 	zygardite: {
 		name: "Zygardite",
 		spritenum: 568,
-		megaStone: { "Zygarde": "Zygarde-Mega" },
+		megaStone: "Zygarde-Mega",
+		megaEvolves: "Zygarde",
 		itemUser: ["Zygarde"],
 		onTakeItem(item, source) {
-			return !item.megaStone?.[source.baseSpecies.baseSpecies];
+			if (item.megaEvolves === source.baseSpecies.baseSpecies) return false;
+			return true;
 		},
 		num: 2584,
 		gen: 7,
